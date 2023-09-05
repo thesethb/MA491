@@ -1,0 +1,1151 @@
+,Transcript,Topic,Sentiment,Program,Date,avg_sentiment
+0,4,Brad Smith,"[1, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,0.6666666666666666
+1,4,Microsoft,"[0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,0.3333333333333333
+2,4,the Supreme Court,"[1, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,0.5
+3,4,Brad,"[1, 0, 0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,0.3333333333333333
+4,4,Congress,"[0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,0.3333333333333333
+5,17,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 4 2020 Thursday,0.0
+6,17,the New York Times,"[0, 0, 0, -1, 1, -1, -1, -1, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 4 2020 Thursday,-0.45454545454545453
+7,17,George Floyd,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 4 2020 Thursday,0.07142857142857142
+8,17,FBI,"[-1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 4 2020 Thursday,-0.875
+9,17,New York,"[-1, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 4 2020 Thursday,-0.47058823529411764
+10,19,George Floyd,"[0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 9 2020 Tuesday,-0.1
+11,19,Dana,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 9 2020 Tuesday,0.0
+12,19,Houston,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 9 2020 Tuesday,0.0
+13,19,Minneapolis,"[-1, -1, -1, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,June 9 2020 Tuesday,-0.5
+14,19,Juan,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 9 2020 Tuesday,0.0
+15,42,Biden,"[0, 0, 0, 0, 1, 0, -1, -1, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, 0, 0]",Fox News Network THE FIVE,June 8 2020 Monday,-0.35
+16,42,Juan,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network THE FIVE,June 8 2020 Monday,0.0
+17,42,Jesse,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,June 8 2020 Monday,-0.09090909090909091
+18,42,Trump,"[0, 0, 0, -1, -1]",Fox News Network THE FIVE,June 8 2020 Monday,-0.4
+19,42,Greg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE FIVE,June 8 2020 Monday,0.07142857142857142
+20,62,Trump,"[0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 3 2020 Wednesday,-0.11764705882352941
+21,62,the White House,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 3 2020 Wednesday,-0.1
+22,62,U.S.,"[-1, -1, 0, 0, 0, 1, -1, 0, 0, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 3 2020 Wednesday,-0.1
+23,62,Esper,"[0, 0, 0, 0, 0, -1, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 3 2020 Wednesday,-0.2
+24,62,Bret,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 3 2020 Wednesday,0.07692307692307693
+25,63,Trump,"[-1, -1, -1, 0, -1, 0, -1, 1, 0, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network MEDIA BUZZ,June 28 2020 Sunday,-0.6470588235294118
+26,63,Mollie,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network MEDIA BUZZ,June 28 2020 Sunday,-0.1
+27,63,NASCAR,"[0, 0, -1, -1, 0, 0, 0]",Fox News Network MEDIA BUZZ,June 28 2020 Sunday,-0.2857142857142857
+28,63,Coronavirus,"[-1, -1, -1, 0, 0, -1, 0]",Fox News Network MEDIA BUZZ,June 28 2020 Sunday,-0.5714285714285714
+29,63,Jessica,"[0, 0, 0, 0, 0, 0]",Fox News Network MEDIA BUZZ,June 28 2020 Sunday,0.0
+30,73,Trump,"[-1, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 29 2020 Monday,-0.35714285714285715
+31,73,Martha,"[0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 29 2020 Monday,0.0
+32,73,New York,"[-1, 0, 0, 0, -1, -1, -1, -1, -1, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 29 2020 Monday,-0.4166666666666667
+33,73,ICU,"[0, 0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 29 2020 Monday,-0.2222222222222222
+34,73,Texas,"[0, -1, -1, 0, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 29 2020 Monday,-0.42857142857142855
+35,82,NASCAR,"[-1, -1, 0, -1, 0, -1, 0, -1, 0, 1, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 24 2020 Wednesday,-0.2727272727272727
+36,82,DiAngelo,"[0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 24 2020 Wednesday,-0.21052631578947367
+37,82,America,"[0, -1, 0, -1, -1, -1, 0, 0, -1, 0, 1, -1, -1, 1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 24 2020 Wednesday,-0.35294117647058826
+38,82,Robin DiAngelo,"[0, 0, 1, 0, -1, 1, -1, 0, 1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 24 2020 Wednesday,0.1
+39,82,Bubba Wallace,"[0, 0, 0, 0, 0, -1, 1, 1, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 24 2020 Wednesday,0.2222222222222222
+40,84,Minneapolis,"[-1, 0, 0, -1, -1, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 5 2020 Friday,-0.5555555555555556
+41,84,Black Lives Matter,"[-1, 0, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 5 2020 Friday,-0.8
+42,84,America,"[-1, 1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 5 2020 Friday,-0.4
+43,84,Tim Wise,"[-1, -1, -1, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 5 2020 Friday,-0.3333333333333333
+44,84,New York,"[0, 0, -1, -1, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 5 2020 Friday,-0.375
+45,88,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 18 2020 Thursday,0.0
+46,88,Seattle,"[0, -1, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 18 2020 Thursday,-0.38461538461538464
+47,88,Taser,"[0, -1, 0, -1, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 18 2020 Thursday,-0.42857142857142855
+48,88,Atlanta,"[-1, 0, -1, 0, 0, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 18 2020 Thursday,-0.5555555555555556
+49,88,America,"[0, 1, -1, -1, 1, 1, 1, -1, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 18 2020 Thursday,-0.08333333333333333
+50,94,Biden,"[0, 0, -1, 0, -1, 0, -1, 0, 1, 0, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 30 2020 Tuesday,-0.4666666666666667
+51,94,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,June 30 2020 Tuesday,-0.07692307692307693
+52,94,America,"[-1, -1, -1, 1, -1, 0, 1, 0, 1, -1, -1, 0, 0, 1, -1]",Fox News Network INGRAHAM ANGLE,June 30 2020 Tuesday,-0.2
+53,94,COVID,"[-1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 30 2020 Tuesday,-0.16666666666666666
+54,94,Texas,"[0, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,June 30 2020 Tuesday,-0.4166666666666667
+55,98,Tucker,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 8 2020 Monday,0.18181818181818182
+56,98,Democrats,"[-1, -1, 0, -1, -1, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 8 2020 Monday,-0.6666666666666666
+57,98,Intelligence,"[0, 1, 0, 0, 0, 0, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 8 2020 Monday,-0.1111111111111111
+58,98,the United States,"[1, 0, -1, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 8 2020 Monday,-0.2857142857142857
+59,98,Republicans,"[0, 0, -1, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 8 2020 Monday,-0.2857142857142857
+60,101,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 29 2020 Monday,0.0
+61,101,Trump,"[-1, 1, 0, -1, -1, 0, -1, 1, 1, 0, 1, -1, -1, 0, 0, -1, 1]",Fox News Network INGRAHAM ANGLE,June 29 2020 Monday,-0.11764705882352941
+62,101,Charlie,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 29 2020 Monday,0.07692307692307693
+63,101,Roberts,"[-1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,June 29 2020 Monday,-0.8333333333333334
+64,101,America,"[1, 0, -1, -1, 0, -1, 1, 1, 0, 0, 0, 1, -1, -1, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,June 29 2020 Monday,-0.058823529411764705
+65,114,America,[],Fox News Network TUCKER CARLSON TONIGHT,June 22 2020 Monday,
+66,114,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 22 2020 Monday,0.0
+67,114,Americans,"[1, 0, -1, 1, 0, -1, -1, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 22 2020 Monday,0.0
+68,114,Teddy Roosevelt,[],Fox News Network TUCKER CARLSON TONIGHT,June 22 2020 Monday,
+69,114,CNN,"[-1, -1, 0, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 22 2020 Monday,-0.75
+70,118,Trump,"[0, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, 1, 1]",Fox News Network THE FIVE,June 15 2020 Monday,-0.35294117647058826
+71,118,Juan,"[0, 1, 0, -1, -1, 0, -1, -1, -1, 0, -1]",Fox News Network THE FIVE,June 15 2020 Monday,-0.45454545454545453
+72,118,Jesse,"[0, 0, 0, -1, 0, 0, 0]",Fox News Network THE FIVE,June 15 2020 Monday,-0.14285714285714285
+73,118,Seattle,"[-1, -1, -1, -1, 0, 0]",Fox News Network THE FIVE,June 15 2020 Monday,-0.6666666666666666
+74,118,Dana,"[0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 15 2020 Monday,0.0
+75,120,Trump,"[0, 0, -1, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, 0, 0, 1, -1]",Fox News Network THE FIVE,June 29 2020 Monday,-0.29411764705882354
+76,120,Dan,"[1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 29 2020 Monday,0.1111111111111111
+77,120,New York,"[-1, 1, 0, -1, 0, -1, 0, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, 1]",Fox News Network THE FIVE,June 29 2020 Monday,-0.42105263157894735
+78,120,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 29 2020 Monday,0.0
+79,120,Dana,"[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE FIVE,June 29 2020 Monday,0.16666666666666666
+80,123,Shannon,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 9 2020 Tuesday,0.1
+81,123,Democrats,"[-1, -1, -1, -1, -1, -1, -1, 1, 0, -1, -1, -1, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 9 2020 Tuesday,-0.6875
+82,123,NFL,"[0, -1, -1, -1, -1, 1, -1, -1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 9 2020 Tuesday,-0.5454545454545454
+83,123,NYPD,"[-1, -1, -1, -1, 0, 0, 0, -1, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,June 9 2020 Tuesday,-0.6363636363636364
+84,123,New York City,"[-1, -1, 0, 0, 1, 0]",Fox News Network FOX NEWS @ NIGHT,June 9 2020 Tuesday,-0.16666666666666666
+85,138,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 15 2020 Monday,0.05555555555555555
+86,138,Seattle,"[-1, 0, -1, 0, 0, -1, -1, 0, -1, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 15 2020 Monday,-0.6153846153846154
+87,138,U.S.,"[0, -1, 0, 0, 0, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 15 2020 Monday,-0.375
+88,138,Germany,"[-1, -1, -1, -1, 0, -1, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 15 2020 Monday,-0.6
+89,138,Trump,"[-1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 15 2020 Monday,-0.16666666666666666
+90,139,Brooks,[],Fox News Network FOX HANNITY,June 15 2020 Monday,
+91,139,Taser,[],Fox News Network FOX HANNITY,June 15 2020 Monday,
+92,139,George Floyd,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 15 2020 Monday,0.0
+93,139,Atlanta,[],Fox News Network FOX HANNITY,June 15 2020 Monday,
+94,139,Sean,"[1, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 1]",Fox News Network FOX HANNITY,June 15 2020 Monday,0.15384615384615385
+95,195,Trump,"[-1, -1, -1, 0, 0, -1, 0, 0, 1, 0, -1, 0, 0, 0, 1, 0, -1, 1, 1]",Fox News Network INGRAHAM ANGLE,June 16 2020 Tuesday,-0.10526315789473684
+96,195,Google,"[0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,June 16 2020 Tuesday,-0.125
+97,195,Biden,"[0, -1, 0, 0, 0, -1, -1, -1, -1, -1, 0, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,June 16 2020 Tuesday,-0.5714285714285714
+98,195,Black Lives Matter,"[0, -1, -1, 1, 0, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,June 16 2020 Tuesday,-0.3333333333333333
+99,195,NBC News,"[0, 0, 0, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,June 16 2020 Tuesday,-0.3333333333333333
+100,199,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 26 2020 Friday,0.047619047619047616
+101,199,Texas,"[-1, 0, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 26 2020 Friday,-0.6
+102,199,Florida,"[0, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 26 2020 Friday,-0.7272727272727273
+103,199,D.C.,"[-1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 26 2020 Friday,-0.25
+104,199,Arizona,"[0, -1, 0, -1, -1, -1, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 26 2020 Friday,-0.5
+105,200,Trump,"[0, 0, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 29 2020 Monday,-0.23529411764705882
+106,200,Florida,"[-1, 0, -1, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 29 2020 Monday,-0.375
+107,200,New York,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 29 2020 Monday,-0.9166666666666666
+108,200,Neil,"[0, 0, 0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 29 2020 Monday,0.16666666666666666
+109,200,the Supreme Court,"[0, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 29 2020 Monday,-0.14285714285714285
+110,219,Biden,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, -1, 1, -1]",Fox News Network INGRAHAM ANGLE,June 23 2020 Tuesday,-0.6666666666666666
+111,219,Trump,"[-1, 1, -1, -1, -1, -1, 1, 1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 23 2020 Tuesday,-0.4
+112,219,the United States,[],Fox News Network INGRAHAM ANGLE,June 23 2020 Tuesday,
+113,219,Laura,"[0, 0, 0, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,June 23 2020 Tuesday,0.0
+114,219,D.C.,"[-1, 0, 0, 0, 1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,June 23 2020 Tuesday,-0.25
+115,263,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 3 2020 Wednesday,0.0
+116,263,George Floyd,"[-1, -1, 0, -1, -1, 1, 1, -1, -1, -1, -1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 3 2020 Wednesday,-0.5714285714285714
+117,263,Floyd,[],Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 3 2020 Wednesday,
+118,263,Minnesota,"[0, 0, 0, 0, -1, 0, -1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 3 2020 Wednesday,-0.4
+119,263,Minneapolis,"[-1, 0, -1, -1, -1, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 3 2020 Wednesday,-0.625
+120,283,Minneapolis,"[-1, 0, -1, -1, -1, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 9 2020 Tuesday,-0.75
+121,283,New York,"[0, -1, 0, 0, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 9 2020 Tuesday,-0.375
+122,283,Derek Chauvin,"[0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 9 2020 Tuesday,-0.3333333333333333
+123,283,Martha,"[0, 0, 0, 0, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 9 2020 Tuesday,0.14285714285714285
+124,283,Joe Biden,"[0, 1, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 9 2020 Tuesday,0.0
+125,290,Trump,"[0, -1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 25 2020 Thursday,-0.3888888888888889
+126,290,Biden,"[0, 0, 0, -1, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 25 2020 Thursday,-0.1
+127,290,Democrats,"[-1, -1, -1, 0, 0, -1, -1, 0, 0, -1, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 25 2020 Thursday,-0.5
+128,290,Joe Biden,"[1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0, 1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 25 2020 Thursday,0.0
+129,290,Democrat,"[0, 0, -1, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, 1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 25 2020 Thursday,-0.3684210526315789
+130,296,Laura,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 12 2020 Friday,0.05
+131,296,American,"[1, 0, -1, 0, -1, 0, -1, 1, 0, -1, -1, 0, 0, 1, 1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,June 12 2020 Friday,-0.1111111111111111
+132,296,Second Wave of COVID- 19,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 12 2020 Friday,-0.058823529411764705
+133,296,Americans,"[1, -1, 1, -1, 1, 0, 0, 0, 1, 1]",Fox News Network INGRAHAM ANGLE,June 12 2020 Friday,0.3
+134,296,COVID,"[0, 0, -1, 0, -1, 0, 0, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,June 12 2020 Friday,-0.2727272727272727
+135,300,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 1 2020 Monday,-0.15
+136,300,Trump,"[-1, -1, 0, 0, 0, 1, -1, 0, 0, 0, 1, 1, -1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,June 1 2020 Monday,-0.1875
+137,300,America,"[1, -1, -1, 0, -1, 0, 0, -1, -1, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,June 1 2020 Monday,-0.3333333333333333
+138,300,New York,"[-1, -1, 0, 0, -1, -1, 1, -1, 0, 0, -1, -1, -1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,June 1 2020 Monday,-0.5625
+139,300,ANTIFA,[],Fox News Network INGRAHAM ANGLE,June 1 2020 Monday,
+140,301,Joe,"[0, -1, -1, 1, -1, -1, -1, 0, 0, 0, -1, 0, -1, -1, -1, -1, 0, 0, -1]",Fox News Network FOX HANNITY,June 23 2020 Tuesday,-0.5263157894736842
+141,301,Sean,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, -1, 0, 0, 0, -1, -1, -1]",Fox News Network FOX HANNITY,June 23 2020 Tuesday,-0.05
+142,301,Joe Biden,"[0, -1, 0, 0, -1, 0, -1, 0, 1, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX HANNITY,June 23 2020 Tuesday,-0.3684210526315789
+143,301,Trump,"[-1, 1, 1, 0, 1, 1, -1, 0, 1, 0, 0, 1, -1, 0, -1, 1, -1, 0, 1]",Fox News Network FOX HANNITY,June 23 2020 Tuesday,0.15789473684210525
+144,301,Atlanta,"[0, 0, 0, 0, -1, -1, 0, 0, -1, 0, 0]",Fox News Network FOX HANNITY,June 23 2020 Tuesday,-0.2727272727272727
+145,304,Biden,"[-1, 0, -1, 0, -1, -1, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, -1]",Fox News Network FOX HANNITY,June 30 2020 Tuesday,-0.4
+146,304,Sean,"[0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]",Fox News Network FOX HANNITY,June 30 2020 Tuesday,0.10526315789473684
+147,304,Carnage Plague American Cities,[],Fox News Network FOX HANNITY,June 30 2020 Tuesday,
+148,304,House,[],Fox News Network FOX HANNITY,June 30 2020 Tuesday,
+149,304,Joe Biden,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX HANNITY,June 30 2020 Tuesday,-0.75
+150,306,CHAZ,"[0, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 11 2020 Thursday,-0.25
+151,306,Seattle,"[0, 0, 0, -1, 0, 0, 0, -1, 0, 0, -1, -1, -1, 1, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 11 2020 Thursday,-0.3157894736842105
+152,306,COVID,"[-1, -1, -1, -1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 11 2020 Thursday,-0.75
+153,306,Tucker,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 11 2020 Thursday,0.0
+154,306,America,"[-1, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 11 2020 Thursday,-0.6666666666666666
+155,323,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 2 2020 Tuesday,0.0
+156,323,America,"[1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 2 2020 Tuesday,-0.7272727272727273
+157,323,New York,"[0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 2 2020 Tuesday,-0.4166666666666667
+158,323,Seattle,"[-1, -1, 0, -1, 0, 0, -1, -1, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 2 2020 Tuesday,-0.5454545454545454
+159,323,Biden,"[-1, 0, -1, -1, 0, -1, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 2 2020 Tuesday,-0.5555555555555556
+160,327,the Democratic Party,"[-1, 0, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,June 28 2020 Sunday,-0.7222222222222222
+161,327,Mark,"[0, 0, 0, 0, 0, -1, 0, 1, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,June 28 2020 Sunday,0.0
+162,327,Democratic,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,June 28 2020 Sunday,-0.9
+163,327,Trump,"[0, 0, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1]",Fox News Network LIFE LIBERTY LEVIN,June 28 2020 Sunday,-0.38461538461538464
+164,327,Allen West,"[0, 0, 0, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,June 28 2020 Sunday,0.0
+165,346,Trump,"[0, 0, -1, 0, 0, -1, 0, 0, 0]",Fox News Network THE FIVE,June 18 2020 Thursday,-0.2222222222222222
+166,346,Jesse,"[0, 1, 1, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE FIVE,June 18 2020 Thursday,0.3
+167,346,Juan,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 18 2020 Thursday,0.0
+168,346,Bolton,"[0, 0, -1, 0, 0, 0, -1, 0, 0, -1, 0]",Fox News Network THE FIVE,June 18 2020 Thursday,-0.2727272727272727
+169,346,Dana,"[0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 18 2020 Thursday,0.0
+170,352,Neil,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 22 2020 Monday,0.16666666666666666
+171,352,New York,"[0, 0, 0, 0, -1, -1, 0, -1, -1, 1, 0, -1, -1, 0, -1, 1, 0, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 22 2020 Monday,-0.2631578947368421
+172,352,Chicago,"[0, 0, 0, 0, 0, -1, -1, 0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 22 2020 Monday,-0.45454545454545453
+173,352,New York City,"[-1, -1, 0, 0, -1, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 22 2020 Monday,-0.25
+174,352,Trump,"[1, 0, -1, 0, 0, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 22 2020 Monday,-0.1
+175,377,Laura,"[0, 0, 0, 1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 15 2020 Monday,0.0
+176,377,Trump,"[-1, 0, 0, 0, -1, 0, -1, -1, 0, 1, 0, 1, 0]",Fox News Network INGRAHAM ANGLE,June 15 2020 Monday,-0.15384615384615385
+177,377,FDA,"[0, 0, 0, 0, -1, 0, -1, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,June 15 2020 Monday,-0.45454545454545453
+178,377,COVID,"[0, 1, -1, -1, -1, 0, 0, -1, 1, 1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 15 2020 Monday,-0.07692307692307693
+179,377,Bernie,"[0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network INGRAHAM ANGLE,June 15 2020 Monday,0.1111111111111111
+180,387,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 15 2020 Monday,-0.05
+181,387,Trump,"[0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 15 2020 Monday,-0.26666666666666666
+182,387,Oklahoma,"[0, 1, 0, 1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 15 2020 Monday,0.25
+183,387,New York,"[-1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 15 2020 Monday,-0.875
+184,387,Las Vegas,"[0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 15 2020 Monday,0.2
+185,394,Bret,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 30 2020 Tuesday,0.06666666666666667
+186,394,U.S.,"[-1, 0, 0, 0, 1, 0, -1, -1, 0, -1, -1, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 30 2020 Tuesday,-0.4
+187,394,Iran,"[-1, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 30 2020 Tuesday,-0.8
+188,394,Russia,"[-1, 1, -1, 0, 0, 0, -1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 30 2020 Tuesday,-0.3333333333333333
+189,394,the White House,"[0, 0, -1, -1, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 30 2020 Tuesday,-0.375
+190,432,Laura,"[0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network INGRAHAM ANGLE,June 2 2020 Tuesday,0.125
+191,432,New York,"[0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,June 2 2020 Tuesday,-0.5
+192,432,NYPD,"[-1, 0, 0, 0, 0, -1, 1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,June 2 2020 Tuesday,-0.3
+193,432,Trump,"[1, 0, 1, -1, 0, 1, 0, -1, -1, 0, -1, 1, 0, 1, -1]",Fox News Network INGRAHAM ANGLE,June 2 2020 Tuesday,0.0
+194,432,Antifa,"[-1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 2 2020 Tuesday,-1.0
+195,448,Bill,[],Fox News Network JUSTICE WITH JUDGE PIRRO,June 27 2020 Saturday,
+196,448,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 27 2020 Saturday,-0.8333333333333334
+197,448,House,"[0, -1, 0, 0, 0, -1, -1, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 27 2020 Saturday,-0.6
+198,448,Trump,"[-1, -1, 0, 1, 1, 1, 0, 0, 0, 0, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 27 2020 Saturday,0.0
+199,448,Democrat,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, 0, -1, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 27 2020 Saturday,-0.7368421052631579
+200,452,Laura,"[0, 0, -1, 1, 0]",Fox News Network INGRAHAM ANGLE,June 8 2020 Monday,0.0
+201,452,Americans,"[-1, -1, 1, -1, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,June 8 2020 Monday,-0.375
+202,452,BLM,"[-1, -1, 0, -1, -1, -1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,June 8 2020 Monday,-0.6666666666666666
+203,452,Democrats,"[-1, -1, 0, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,June 8 2020 Monday,-0.7142857142857143
+204,452,America,"[-1, -1, -1, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0]",Fox News Network INGRAHAM ANGLE,June 8 2020 Monday,-0.23076923076923078
+205,453,Neil,"[0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 8 2020 Monday,0.0
+206,453,New York City,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 8 2020 Monday,0.21428571428571427
+207,453,Minneapolis,"[-1, 0, 0, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 8 2020 Monday,-0.6153846153846154
+208,453,New York,"[0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 8 2020 Monday,0.09090909090909091
+209,453,George Floyd,"[0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 8 2020 Monday,-0.1111111111111111
+210,455,Democrats,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX HANNITY,June 12 2020 Friday,-0.8461538461538461
+211,455,Joe Biden,"[-1, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 12 2020 Friday,-0.8
+212,455,Trump,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1]",Fox News Network FOX HANNITY,June 12 2020 Friday,-0.1875
+213,455,Sean,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 12 2020 Friday,0.0
+214,455,the Democratic Party,"[-1, -1, -1, 0, -1, 0, 0, 0]",Fox News Network FOX HANNITY,June 12 2020 Friday,-0.5
+215,467,FBI,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, -1, 0, 1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 24 2020 Wednesday,0.0
+216,467,Trump,"[1, 0, 0, 0, -1, 0, 0, -1, 0, 1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 24 2020 Wednesday,-0.08333333333333333
+217,467,Flynn,"[0, 1, 1, -1, 0, 1, 0, 0, 0, 1, 0, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 24 2020 Wednesday,0.3333333333333333
+218,467,Michael Flynn,"[0, 1, 0, 1, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 24 2020 Wednesday,0.09090909090909091
+219,467,U.S.,"[0, 0, 0, -1, 1, -1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 24 2020 Wednesday,-0.1
+220,481,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 8 2020 Monday,0.0
+221,481,Minneapolis,"[0, -1, 0, -1, -1, -1, 0, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 8 2020 Monday,-0.45454545454545453
+222,481,David Dorn,"[0, 0, 0, 0, -1, 0, 0, 1, 1]",Fox News Network FOX NEWS @ NIGHT,June 8 2020 Monday,0.1111111111111111
+223,481,Fox News,"[0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 8 2020 Monday,0.0
+224,481,America,"[-1, 0, 1, -1, 1, -1, 1]",Fox News Network FOX NEWS @ NIGHT,June 8 2020 Monday,0.0
+225,500,Chicago,"[-1, -1, -1, -1, -1, 0, 0, 0, -1, 0, -1, -1, 0, 1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 9 2020 Tuesday,-0.5882352941176471
+226,500,Lightfoot,"[-1, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,June 9 2020 Tuesday,-0.7142857142857143
+227,500,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,June 9 2020 Tuesday,-0.09090909090909091
+228,500,Democrats,"[-1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,June 9 2020 Tuesday,-0.875
+229,500,Alderman,"[-1, -1, 0, 0, 0, 0, 0, 0, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,June 9 2020 Tuesday,-0.18181818181818182
+230,515,Chicago,"[0, -1, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, 0, 0, -1, -1]",Fox News Network FOX HANNITY,June 8 2020 Monday,-0.6470588235294118
+231,515,Sean,"[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 8 2020 Monday,0.16666666666666666
+232,515,Tom Cotton,"[-1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX HANNITY,June 8 2020 Monday,-0.15
+233,515,New York,"[0, 1, 0, -1, 0, 1, -1, 0, 0, 1, 0, -1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 8 2020 Monday,0.0
+234,515,Democrats,"[-1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1]",Fox News Network FOX HANNITY,June 8 2020 Monday,-0.7692307692307693
+235,549,Mike,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 26 2020 Friday,0.15789473684210525
+236,549,American,"[1, -1, -1, 1, 0, 0, -1, -1, -1, 0, -1, -1, 1, 1, -1]",Fox News Network FOX NEWS @ NIGHT,June 26 2020 Friday,-0.26666666666666666
+237,549,FBI,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 26 2020 Friday,0.0
+238,549,D.C.,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 26 2020 Friday,0.0
+239,549,Trump,"[1, 0, 1, 0, 0, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 26 2020 Friday,-0.3076923076923077
+240,556,Trump,"[0, -1, 0, 1, -1, 0, 0, 1, 0]",Fox News Network THE GREG GUTFELD SHOW,June 20 2020 Saturday,0.0
+241,556,Biden,"[-1, -1, -1, -1, 0, -1, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1, -1]",Fox News Network THE GREG GUTFELD SHOW,June 20 2020 Saturday,-0.5882352941176471
+242,556,Charlie,"[0, 0, 0, 1, -1, 0, 0, 0, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,June 20 2020 Saturday,-0.1
+243,556,Joe Biden,"[-1, -1, 0, 0, -1, -1, -1, -1]",Fox News Network THE GREG GUTFELD SHOW,June 20 2020 Saturday,-0.75
+244,556,Tulsa,"[0, 0, 0, 0, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,June 20 2020 Saturday,-0.16666666666666666
+245,608,the Democratic Party,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,June 14 2020 Sunday,-0.8461538461538461
+246,608,African-Americans,"[0, 0, 0, -1, -1, 0, -1, 1, -1, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,June 14 2020 Sunday,-0.36363636363636365
+247,608,America,[],Fox News Network LIFE LIBERTY LEVIN,June 14 2020 Sunday,
+248,608,Democrats,"[0, -1, 0, 0, 1, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,June 14 2020 Sunday,-0.14285714285714285
+249,608,Americans,"[-1, -1, 0, 1]",Fox News Network LIFE LIBERTY LEVIN,June 14 2020 Sunday,-0.25
+250,626,Shannon,"[1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 2 2020 Tuesday,0.2
+251,626,NYPD,"[-1, 0, 0, 0, -1, -1, 0, 0, -1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,June 2 2020 Tuesday,-0.4166666666666667
+252,626,the National Guard,"[0, -1, 0, 1, 0, -1, 0, 0, 0, 1]",Fox News Network FOX NEWS @ NIGHT,June 2 2020 Tuesday,0.0
+253,626,New York,"[-1, -1, -1, -1, -1, 0, -1, 0, -1, 1, -1, 0, -1, 0, 1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 2 2020 Tuesday,-0.5555555555555556
+254,626,George Floyd,"[0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 2 2020 Tuesday,-0.125
+255,637,I`m,"[1, 0, 0, 1, 0, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 15 2020 Monday,0.2857142857142857
+256,637,Stephen,"[0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 15 2020 Monday,0.0
+257,674,Sean,"[0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 9 2020 Tuesday,0.0
+258,674,George Floyd,[],Fox News Network FOX HANNITY,June 9 2020 Tuesday,
+259,674,Trump,"[-1, 0, 0, 1, 1, 1, 0, 0]",Fox News Network FOX HANNITY,June 9 2020 Tuesday,0.25
+260,674,NYPD,"[-1, -1, -1, -1, 0, -1]",Fox News Network FOX HANNITY,June 9 2020 Tuesday,-0.8333333333333334
+261,674,Chicago,"[-1, -1, 0, -1, -1, -1, 0, -1]",Fox News Network FOX HANNITY,June 9 2020 Tuesday,-0.75
+262,679,America,"[-1, 0, 1, 0, -1, -1, 0, 1, -1, 0, 0, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 23 2020 Tuesday,-0.3333333333333333
+263,679,Tucker,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 23 2020 Tuesday,0.0
+264,679,FBI,"[0, 0, -1, -1, -1, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 23 2020 Tuesday,-0.5555555555555556
+265,679,NASCAR,"[0, 0, -1, 0, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 23 2020 Tuesday,-0.25
+266,679,New York,"[-1, 0, 0, 0, 0, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 23 2020 Tuesday,-0.3333333333333333
+267,686,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 3 2020 Wednesday,0.06666666666666667
+268,686,America,[],Fox News Network TUCKER CARLSON TONIGHT,June 3 2020 Wednesday,
+269,686,Obama,"[0, -1, -1, -1, 0, -1, -1, -1, -1, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 3 2020 Wednesday,-0.6153846153846154
+270,686,Minneapolis,[],Fox News Network TUCKER CARLSON TONIGHT,June 3 2020 Wednesday,
+271,686,the United States,"[-1, 0, -1, -1, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 3 2020 Wednesday,-0.2857142857142857
+272,688,Brian,"[1, 1, 0, 0, 0, 0, 1, 1, 1, -1, 0, 0, 0, 1, 0, 1, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 26 2020 Friday,0.25
+273,688,Democrats,"[0, 0, 0, 0, 0, -1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 26 2020 Friday,-0.3
+274,688,D.C.,"[0, 0, 0, 0, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 26 2020 Friday,-0.375
+275,688,Florida,"[-1, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 26 2020 Friday,-0.2
+276,688,Americans,"[-1, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 26 2020 Friday,-0.14285714285714285
+277,700,Martha,"[0, 0, 0, 0, 1, 1, 1, 1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 17 2020 Wednesday,0.6
+278,700,Taser,"[-1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 17 2020 Wednesday,-0.125
+279,700,Bolton,"[0, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 17 2020 Wednesday,-0.5333333333333333
+280,700,America,"[1, -1, -1, 0, -1, 1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 17 2020 Wednesday,-0.1
+281,700,Trump,"[1, 0, -1, -1, -1, 0, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 17 2020 Wednesday,-0.3333333333333333
+282,712,Obama,"[0, 0, 0, 1, 0, 0]",Fox News Network BILL HEMMER REPORTS,June 8 2020 Monday,0.16666666666666666
+283,712,Joe Biden,"[0, 0, 0, 1]",Fox News Network BILL HEMMER REPORTS,June 8 2020 Monday,0.25
+284,712,Bill,"[1, 0, 0, 1]",Fox News Network BILL HEMMER REPORTS,June 8 2020 Monday,0.5
+285,712,Chicago,"[1, -1, 0, -1]",Fox News Network BILL HEMMER REPORTS,June 8 2020 Monday,-0.25
+286,717,Brooks,[],Fox News Network TUCKER CARLSON TONIGHT,June 17 2020 Wednesday,
+287,717,New York,"[-1, -1, 0, 1, -1, 0, 0, -1, -1, 0, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 17 2020 Wednesday,-0.5333333333333333
+288,717,Atlanta,"[0, 0, -1, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 17 2020 Wednesday,-0.625
+289,717,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 17 2020 Wednesday,0.0
+290,717,Wendy's,[],Fox News Network TUCKER CARLSON TONIGHT,June 17 2020 Wednesday,
+291,718,Laura,"[0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network INGRAHAM ANGLE,June 3 2020 Wednesday,0.23529411764705882
+292,718,Trump,"[-1, -1, -1, -1, 0, -1, 0, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,June 3 2020 Wednesday,-0.7272727272727273
+293,718,America,"[1, -1, 0, -1, 0, 0, -1, 1, 1, 0, 0, -1, 0, 1, -1]",Fox News Network INGRAHAM ANGLE,June 3 2020 Wednesday,-0.06666666666666667
+294,718,NYPD,"[-1, -1, 0, 0, 0, 1]",Fox News Network INGRAHAM ANGLE,June 3 2020 Wednesday,-0.16666666666666666
+295,718,FBI,"[0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 3 2020 Wednesday,0.0
+296,719,Antifa,"[-1, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,June 4 2020 Thursday,-0.5263157894736842
+297,719,Trump,"[-1, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, 1]",Fox News Network INGRAHAM ANGLE,June 4 2020 Thursday,-0.6153846153846154
+298,719,America,"[0, 0, -1, -1, -1, -1, -1, -1, 1, 0, 0, 0, 1]",Fox News Network INGRAHAM ANGLE,June 4 2020 Thursday,-0.3076923076923077
+299,719,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 4 2020 Thursday,0.0
+300,719,George Floyd,"[0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 4 2020 Thursday,-0.18181818181818182
+301,723,Trump,"[-1, -1, 0, -1, 0, 0, -1, -1, 0, -1, 0, 0, -1, 0, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 23 2020 Tuesday,-0.5
+302,723,Maduro,"[0, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 23 2020 Tuesday,-0.7777777777777778
+303,723,Bolton,"[0, 0, -1, -1, -1, -1, 0, 0, 0, 0, -1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 23 2020 Tuesday,-0.5
+304,723,the White House,"[0, 0, 0, 0, 0, 0, -1, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 23 2020 Tuesday,-0.2
+305,723,John Bolton,"[0, 0, -1, -1, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 23 2020 Tuesday,-0.5
+306,725,Bolton,"[-1, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 17 2020 Wednesday,-0.5789473684210527
+307,725,Trump,"[0, -1, -1, -1, 0, 0, -1, 0, -1, 0, -1, -1, -1, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 17 2020 Wednesday,-0.5
+308,725,China,"[-1, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 17 2020 Wednesday,-0.3333333333333333
+309,725,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 17 2020 Wednesday,0.0
+310,725,Google,"[-1, -1, -1, 0, -1, -1, -1, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 17 2020 Wednesday,-0.7
+311,729,Trump,"[0, -1, -1, -1, 0, -1, 0, -1, 0, -1, -1, -1, 0, -1, -1, 0]",Fox News Network MEDIA BUZZ,June 21 2020 Sunday,-0.625
+312,729,Bolton,"[-1, -1, 0, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0]",Fox News Network MEDIA BUZZ,June 21 2020 Sunday,-0.5294117647058824
+313,729,John Bolton,"[-1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, -1, -1]",Fox News Network MEDIA BUZZ,June 21 2020 Sunday,-0.7142857142857143
+314,729,Google,"[0, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0]",Fox News Network MEDIA BUZZ,June 21 2020 Sunday,-0.36363636363636365
+315,729,CNN,"[0, -1, -1, 0, -1, 1, -1, -1]",Fox News Network MEDIA BUZZ,June 21 2020 Sunday,-0.5
+316,731,Jesse,"[1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0]",Fox News Network THE FIVE,June 30 2020 Tuesday,0.35
+317,731,Dan,"[1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 30 2020 Tuesday,0.0
+318,731,Kennedy,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 30 2020 Tuesday,0.0
+319,731,Donna,"[0, 0, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0]",Fox News Network THE FIVE,June 30 2020 Tuesday,-0.25
+320,731,Jesse Watters,"[0, 0, 0, 0, 1, 1, 0]",Fox News Network THE FIVE,June 30 2020 Tuesday,0.2857142857142857
+321,743,Rod Rosenstein,"[0, -1, 0, 0, 0, -1, -1, -1, -1]",Fox News Network LIVE EVENT,June 4 2020 Thursday,-0.5555555555555556
+322,743,FBI,"[0, 0, -1, -1, -1, -1]",Fox News Network LIVE EVENT,June 4 2020 Thursday,-0.6666666666666666
+323,743,Bob Mueller,"[-1, -1, 0, -1]",Fox News Network LIVE EVENT,June 4 2020 Thursday,-0.75
+324,743,McCabe,"[-1, 0, 0, -1]",Fox News Network LIVE EVENT,June 4 2020 Thursday,-0.5
+325,743,Comey,"[0, 0, -1]",Fox News Network LIVE EVENT,June 4 2020 Thursday,-0.3333333333333333
+326,744,African-American,"[0, 0, 0, 0]",Fox News Network LIVE EVENT,June 4 2020 Thursday,0.0
+327,744,Mattis,"[1, -1, -1]",Fox News Network LIVE EVENT,June 4 2020 Thursday,-0.3333333333333333
+328,744,American,"[-1, 0, 0, 0]",Fox News Network LIVE EVENT,June 4 2020 Thursday,-0.25
+329,744,Trump,"[-1, -1, -1, 0, -1]",Fox News Network LIVE EVENT,June 4 2020 Thursday,-0.8
+330,744,America,"[-1, 0, -1, -1, 1, 1, 0, 0]",Fox News Network LIVE EVENT,June 4 2020 Thursday,-0.125
+331,745,Florida,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network LIVE EVENT,June 4 2020 Thursday,0.1
+332,756,George Floyd,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 9 2020 Tuesday,0.15384615384615385
+333,756,Neil,"[0, 0, 0, 1, 1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 9 2020 Tuesday,0.0
+334,756,Minneapolis,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 9 2020 Tuesday,0.0
+335,756,Ted,"[0, 1, 0, 0, 0, 0, 1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 9 2020 Tuesday,0.3333333333333333
+336,756,Houston,"[0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 9 2020 Tuesday,0.0
+337,758,Trump,"[-1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 9 2020 Tuesday,-0.38461538461538464
+338,758,Iran,"[0, -1, 0, 0, -1, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 9 2020 Tuesday,-0.6666666666666666
+339,758,George Floyd,"[0, 0, 0, 0, 1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 9 2020 Tuesday,0.14285714285714285
+340,758,Americans,"[-1, 0, -1, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 9 2020 Tuesday,-0.5714285714285714
+341,758,U.S.,"[0, 0, -1, -1, 0, 1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 9 2020 Tuesday,-0.25
+342,759,George,[],Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,
+343,759,Chauvin,[],Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,
+344,759,Rod Rosenstein,"[0, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,-0.7272727272727273
+345,759,George Floyd,"[0, -1, 0, 1, -1, 0, -1, -1, 0, 0, -1, 0, -1, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,-0.3333333333333333
+346,759,Trump,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,0.15789473684210525
+347,760,George,[],Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,
+348,760,Chauvin,[],Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,
+349,760,Rod Rosenstein,"[0, -1, -1, 0, 0, -1, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,-0.6666666666666666
+350,760,George Floyd,"[0, -1, -1, 1, -1, -1, -1, -1, 0, 0, -1, 0, -1, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,-0.4666666666666667
+351,760,Trump,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, -1, -1, -1, 0, 0, 0, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,-0.05
+352,761,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 10 2020 Wednesday,0.0
+353,761,American,"[-1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 10 2020 Wednesday,-0.125
+354,761,Congress,"[0, -1, 0, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 10 2020 Wednesday,-0.3333333333333333
+355,761,Trump,"[-1, -1, -1, 0, -1, -1, 1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 10 2020 Wednesday,-0.5
+356,761,CNN,"[0, 0, 0, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 10 2020 Wednesday,-0.3333333333333333
+357,797,Oklahoma,"[-1, -1, 0, 0, 0, -1, -1, -1, -1, 1, 0, 0, 0, 0, 0]",Fox News Network AMERICA'S NEWSROOM,June 19 2020 Friday,-0.3333333333333333
+358,797,Tulsa,"[0, -1, -1, 0, 0]",Fox News Network AMERICA'S NEWSROOM,June 19 2020 Friday,-0.4
+359,810,Martha,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 16 2020 Tuesday,0.16666666666666666
+360,810,American,"[-1, -1, -1, -1, 0, 0, 1, -1, 0, 1, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 16 2020 Tuesday,-0.35714285714285715
+361,810,America,"[-1, -1, 0, 0, -1, -1, -1, -1, 0, -1, 0, 0, 0, -1, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 16 2020 Tuesday,-0.4375
+362,810,Senate,"[0, -1, 0, -1, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 16 2020 Tuesday,-0.5
+363,810,Trump,"[1, 0, 0, -1, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 16 2020 Tuesday,-0.125
+364,830,Wisconsin,"[0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 25 2020 Thursday,0.3157894736842105
+365,830,China,"[-1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,June 25 2020 Thursday,-0.8235294117647058
+366,830,Russia,"[0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network FOX HANNITY,June 25 2020 Thursday,-0.25
+367,830,Joe Biden,"[-1, -1, -1, -1, -1, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 25 2020 Thursday,-0.5
+368,830,Flynn,"[-1, 0, 1, -1, -1, 0, 1, 1, -1]",Fox News Network FOX HANNITY,June 25 2020 Thursday,-0.1111111111111111
+369,837,Shannon,"[0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 5 2020 Friday,0.15
+370,837,America,[],Fox News Network FOX NEWS @ NIGHT,June 5 2020 Friday,
+371,837,COVID-19,"[0, -1, -1, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,June 5 2020 Friday,-0.6666666666666666
+372,837,American,[],Fox News Network FOX NEWS @ NIGHT,June 5 2020 Friday,
+373,837,Fox News,"[0, 1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 5 2020 Friday,0.16666666666666666
+374,851,America,"[-1, 0, 1, 0, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.3333333333333333
+375,851,Bernie Marcus,"[0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.3333333333333333
+376,851,Neil,"[1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.3333333333333333
+377,896,Trump,"[-1, 0, 0, 0, 0, -1, -1, 0, -1, 0, -1, -1, 0, -1, 0, 0, 0, -1, -1, 0, 0]",Fox News Network THE NEXT REVOLUTION,June 28 2020 Sunday,-0.42857142857142855
+378,896,Twitter,"[-1, 0, -1, -1, 0, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1, 0, 0]",Fox News Network THE NEXT REVOLUTION,June 28 2020 Sunday,-0.47058823529411764
+379,896,Biden,"[-1, -1, 1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, 1, -1, -1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,June 28 2020 Sunday,-0.7
+380,896,Lisa,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]",Fox News Network THE NEXT REVOLUTION,June 28 2020 Sunday,0.21428571428571427
+381,896,America,"[1, -1, -1, 0, 0, -1, 0, 0, 1, 1, 0, -1, 1]",Fox News Network THE NEXT REVOLUTION,June 28 2020 Sunday,0.0
+382,903,Shannon,"[0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network FOX NEWS @ NIGHT,June 29 2020 Monday,0.42105263157894735
+383,903,Texas,"[-1, 0, -1, 0, -1, 0, 0, 0, -1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 29 2020 Monday,-0.4166666666666667
+384,903,John Roberts,"[0, 0, 0, 0, -1, -1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 29 2020 Monday,-0.2
+385,903,Louisiana,"[0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 29 2020 Monday,-0.1111111111111111
+386,903,American,"[-1, -1, 0, -1, 0, -1, -1, 0, 0, 0, 1]",Fox News Network FOX NEWS @ NIGHT,June 29 2020 Monday,-0.36363636363636365
+387,907,D.C.,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,June 7 2020 Sunday,0.0
+388,907,Chris,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,June 7 2020 Sunday,0.0
+389,907,Trump,"[-1, 1, 0, 0, 0, 0, 0, -1, 0, 0, 1, 1, 0, 1, -1, 0]",Fox News Network FOX NEWS SUNDAY,June 7 2020 Sunday,0.0625
+390,907,Washington,"[-1, 0, 0, -1, 0, 0, 1, 0, 0, -1]",Fox News Network FOX NEWS SUNDAY,June 7 2020 Sunday,-0.2
+391,907,the White House,"[0, 0, -1, 0, 0, -1]",Fox News Network FOX NEWS SUNDAY,June 7 2020 Sunday,-0.3333333333333333
+392,917,George Floyd,"[-1, -1, -1, -1, 0, 0, 1]",Fox News Network LIVE EVENT,June 3 2020 Wednesday,-0.42857142857142855
+393,917,America,"[-1, 0, 0]",Fox News Network LIVE EVENT,June 3 2020 Wednesday,-0.3333333333333333
+394,917,Minnesota,[0],Fox News Network LIVE EVENT,June 3 2020 Wednesday,0.0
+395,947,Trump,"[-1, 0, -1, 1, 0, 0, -1, 0, 0, 1, -1, 0, 0, 1, 1, 0, -1]",Fox News Network FOX NEWS SUNDAY,June 21 2020 Sunday,-0.058823529411764705
+396,947,Joe Biden,"[0, -1, -1, 0, -1, 0, -1, -1, 0, 0, 1, 0, -1, 0, -1, 0, 0, -1, -1, -1]",Fox News Network FOX NEWS SUNDAY,June 21 2020 Sunday,-0.45
+397,947,Biden,"[0, -1, 0, -1, -1, 0, -1, 0, 0, -1, 1, 0, -1, -1, 0, 0, 0, -1, 0]",Fox News Network FOX NEWS SUNDAY,June 21 2020 Sunday,-0.3684210526315789
+398,947,Chris,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,June 21 2020 Sunday,-0.15
+399,947,Mercedes,"[0, 0, -1, -1, -1, 0, -1, 0, -1, 0]",Fox News Network FOX NEWS SUNDAY,June 21 2020 Sunday,-0.5
+400,966,Matt,"[0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 1 2020 Monday,0.3333333333333333
+401,966,David,"[0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 1 2020 Monday,0.3333333333333333
+402,969,Trump,"[1, 0, 0, -1, -1, 0, 0, -1, -1, -1, 0, -1, 0, -1, 0, 0, 0, -1, 0]",Fox News Network FOX NEWS SUNDAY,June 28 2020 Sunday,-0.3684210526315789
+403,969,Flynn,"[1, 0, 0, -1, -1, 0, 0, 0, 0, -1, -1, -1, 0]",Fox News Network FOX NEWS SUNDAY,June 28 2020 Sunday,-0.3076923076923077
+404,969,Biden,"[1, 0, 1, 1, -1, 0, 0, -1, 0, 0, 0, -1, -1, -1]",Fox News Network FOX NEWS SUNDAY,June 28 2020 Sunday,-0.14285714285714285
+405,969,Democrats,"[1, -1, 0, -1, -1, -1, 0, -1, 1]",Fox News Network FOX NEWS SUNDAY,June 28 2020 Sunday,-0.3333333333333333
+406,969,Republicans,"[0, -1, 0, -1, -1, -1, -1, 0, 0, -1]",Fox News Network FOX NEWS SUNDAY,June 28 2020 Sunday,-0.6
+407,979,American,"[1, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,0.3333333333333333
+408,1018,Ohio,"[0, 0, 0, 1, 0, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,0.2222222222222222
+409,1018,Neil,"[1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,0.6666666666666666
+410,1018,Ohioans,"[0, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,0.6666666666666666
+411,1039,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, -1]",Fox News Network FOX NEWS SUNDAY,June 14 2020 Sunday,-0.23529411764705882
+412,1039,Seattle,"[0, 0, -1, 0, -1, 0, 1, -1]",Fox News Network FOX NEWS SUNDAY,June 14 2020 Sunday,-0.25
+413,1039,Democrats,"[0, 0, 0, -1, 0, 1, -1, -1, 0, -1]",Fox News Network FOX NEWS SUNDAY,June 14 2020 Sunday,-0.3
+414,1039,Atlanta,"[-1, -1, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network FOX NEWS SUNDAY,June 14 2020 Sunday,-0.8
+415,1039,Chris,"[0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network FOX NEWS SUNDAY,June 14 2020 Sunday,0.125
+416,1049,Trump,"[-1, -1, 0, 0, 0, -1, -1, 1, 0, -1]",Fox News Network THE DAILY BRIEFING WITH DANA PERINO,June 25 2020 Thursday,-0.4
+417,1049,China,"[0, -1, -1, -1, -1, 0]",Fox News Network THE DAILY BRIEFING WITH DANA PERINO,June 25 2020 Thursday,-0.6666666666666666
+418,1049,Biden,"[-1, 0, 0, 0]",Fox News Network THE DAILY BRIEFING WITH DANA PERINO,June 25 2020 Thursday,-0.25
+419,1049,Yale,"[1, 0, 0]",Fox News Network THE DAILY BRIEFING WITH DANA PERINO,June 25 2020 Thursday,0.3333333333333333
+420,1049,Israel,"[0, 1, 0, 0]",Fox News Network THE DAILY BRIEFING WITH DANA PERINO,June 25 2020 Thursday,0.25
+421,1051,Bill,[0],Fox News Network BILL HEMMER REPORTS,June 16 2020 Tuesday,0.0
+422,1051,American,"[0, 1, 1, 1]",Fox News Network BILL HEMMER REPORTS,June 16 2020 Tuesday,0.75
+423,1051,Tim Scott,"[0, 0, 0]",Fox News Network BILL HEMMER REPORTS,June 16 2020 Tuesday,0.0
+424,1052,Jeanine,"[1, 1, 1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,1.0
+425,1052,George Floyd,"[0, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 6 2020 Saturday,-0.3333333333333333
+426,1054,Harris,"[0, 0, 0, 0]",Fox News Network LIVE EVENT,June 2 2020 Tuesday,0.0
+427,1054,Kellyanne,"[0, 1, 0, 0]",Fox News Network LIVE EVENT,June 2 2020 Tuesday,0.25
+428,1054,New York,"[0, -1, -1, -1, -1]",Fox News Network LIVE EVENT,June 2 2020 Tuesday,-0.8
+429,1054,Bible,"[-1, 0]",Fox News Network LIVE EVENT,June 2 2020 Tuesday,-0.5
+430,1054,American,"[-1, 0, 0]",Fox News Network LIVE EVENT,June 2 2020 Tuesday,-0.3333333333333333
+431,1066,Atlanta,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 1 2020 Monday,0.0
+432,1066,Georgia,"[1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 1 2020 Monday,0.0
+433,1072,China,"[-1, -1, -1, 1, -1, -1, -1, 0, 0, -1, 0, 0, 0, -1, 0, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,June 28 2020 Sunday,-0.5294117647058824
+434,1072,Maria,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]",Fox News Network SUNDAY MORNING FUTURES,June 28 2020 Sunday,0.16666666666666666
+435,1072,Trump,"[0, 0, 0, 0, -1, -1, 1, 1, 1, -1, -1, -1, -1, 1, -1, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,June 28 2020 Sunday,-0.29411764705882354
+436,1072,House,"[-1, 0, 1, 0, -1, -1, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,June 28 2020 Sunday,-0.3333333333333333
+437,1072,Joe Biden,"[0, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,June 28 2020 Sunday,-0.36363636363636365
+438,1095,Fauci,"[0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 30 2020 Tuesday,-0.25
+439,1095,Rand Paul,"[0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 30 2020 Tuesday,0.3333333333333333
+440,1095,D.C.,[],Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 30 2020 Tuesday,
+441,1097,New York,"[-1, 0, 0, -1, -1, -1, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 29 2020 Monday,-0.6666666666666666
+442,1097,New York City,"[-1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 29 2020 Monday,-1.0
+443,1100,Green,"[0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 11 2020 Thursday,-0.6666666666666666
+444,1100,Trump,"[-1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 11 2020 Thursday,-0.6666666666666666
+445,1106,American,"[1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,0.6666666666666666
+446,1108,Texas,"[0, 0, 0, 0, 0, 1, 1, 1, 0]",Fox News Network FOX AND FRIENDS,June 29 2020 Monday,0.3333333333333333
+447,1108,Americans,"[-1, -1, -1]",Fox News Network FOX AND FRIENDS,June 29 2020 Monday,-1.0
+448,1108,America,"[-1, -1, 1, -1, 1, -1]",Fox News Network FOX AND FRIENDS,June 29 2020 Monday,-0.3333333333333333
+449,1112,Georgia,"[0, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX AND FRIENDS,June 10 2020 Wednesday,-0.3333333333333333
+450,1114,New York,"[0, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,June 29 2020 Monday,-0.23076923076923078
+451,1114,Cuomo,"[-1, -1, -1, 0]",Fox News Network FOX AND FRIENDS,June 29 2020 Monday,-0.75
+452,1114,Steve,"[0, 0, 0]",Fox News Network FOX AND FRIENDS,June 29 2020 Monday,0.0
+453,1114,New York State,"[-1, 0, -1, -1]",Fox News Network FOX AND FRIENDS,June 29 2020 Monday,-0.75
+454,1115,I`m,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 10 2020 Wednesday,0.0
+455,1130,Angela,"[0, 1, 0]",Fox News Network FOX AND FRIENDS,June 10 2020 Wednesday,0.3333333333333333
+456,1130,House,"[0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,June 10 2020 Wednesday,0.0
+457,1130,Floyd,"[0, -1]",Fox News Network FOX AND FRIENDS,June 10 2020 Wednesday,-0.5
+458,1147,Minneapolis,"[0, 0, -1]",Fox News Network FOX AND FRIENDS,June 8 2020 Monday,-0.3333333333333333
+459,1147,Washington,"[-1, 1]",Fox News Network FOX AND FRIENDS,June 8 2020 Monday,0.0
+460,1147,Steve,"[0, 0, 1]",Fox News Network FOX AND FRIENDS,June 8 2020 Monday,0.3333333333333333
+461,1158,China,"[1, 1, -1, 1, -1, -1, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 23 2020 Tuesday,-0.1111111111111111
+462,1158,Chinese,"[0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 23 2020 Tuesday,-0.6666666666666666
+463,1158,U.I.,"[-1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 23 2020 Tuesday,-0.3333333333333333
+464,1177,Neil,"[1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 10 2020 Wednesday,0.3333333333333333
+465,1186,D.C.,"[0, 0, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 26 2020 Friday,-0.4
+466,1202,the National Guard,"[-1, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.0
+467,1202,the Insurrection Act,"[0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,-0.25
+468,1202,D.C.,"[-1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,-0.5
+469,1202,Lindsey Graham,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.0
+470,1202,National Guard,"[-1, 0, -1, 1, 0, 0, 0, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.0
+471,1203,China,"[-1, 0, -1, -1, 0, 0, 1, 0, 1, 1, 1, 0, 0, -1]",Fox News Network FOX HANNITY,June 17 2020 Wednesday,0.0
+472,1203,Sean,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]",Fox News Network FOX HANNITY,June 17 2020 Wednesday,0.2
+473,1203,Atlanta,"[0, 0, -1, -1, 0, 0, -1, -1, 0]",Fox News Network FOX HANNITY,June 17 2020 Wednesday,-0.4444444444444444
+474,1203,Joe,"[0, 0, 0, 0, 0, -1, -1, -1, -1, 0, 0]",Fox News Network FOX HANNITY,June 17 2020 Wednesday,-0.36363636363636365
+475,1203,American,"[-1, 0, 0, 0, -1, -1, 0, 0, 1, 1, 0, 0]",Fox News Network FOX HANNITY,June 17 2020 Wednesday,-0.08333333333333333
+476,1207,China,"[0, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,June 7 2020 Sunday,-0.5789473684210527
+477,1207,Trump,"[0, 0, 0, 0, -1, 0, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, 1]",Fox News Network SUNDAY MORNING FUTURES,June 7 2020 Sunday,-0.29411764705882354
+478,1207,Maria,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,June 7 2020 Sunday,0.09090909090909091
+479,1207,Trey Gowdy,"[0, 0, 0, 0, 1, 1, -1, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,June 7 2020 Sunday,0.1111111111111111
+480,1207,Russian,"[0, -1, -1, -1, 0]",Fox News Network SUNDAY MORNING FUTURES,June 7 2020 Sunday,-0.6
+481,1215,Republicans,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 19 2020 Friday,0.0
+482,1215,Democrats,"[0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 19 2020 Friday,-0.6666666666666666
+483,1238,China,"[0, -1, -1, 0, -1, -1, 1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 0]",Fox News Network SUNDAY MORNING FUTURES,June 14 2020 Sunday,-0.6470588235294118
+484,1238,Trump,"[0, 1, 0, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0, 0, 0, -1]",Fox News Network SUNDAY MORNING FUTURES,June 14 2020 Sunday,-0.3125
+485,1238,Maria,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,June 14 2020 Sunday,0.0
+486,1238,the Communist Party of China,"[-1, 0, 0, -1, 0, -1, 0, 0, -1, -1, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,June 14 2020 Sunday,-0.5833333333333334
+487,1238,American,"[0, 0, 1, 0, 0, -1, 0, 0, 0, 1]",Fox News Network SUNDAY MORNING FUTURES,June 14 2020 Sunday,0.1
+488,1239,Democrats,"[-1, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,-0.4
+489,1239,West Virginia,"[0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,0.3333333333333333
+490,1239,Republican,"[-1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,-0.6666666666666666
+491,1239,Scott,"[-1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,-0.6666666666666666
+492,1244,The New York Times,"[0, 0, -1, 0, -1, 0, 0, -1, -1]",Fox News Network FOX AND FRIENDS,June 8 2020 Monday,-0.4444444444444444
+493,1251,Mount Rushmore,"[0, 0, 1, 0]",Fox News Network FOX AND FRIENDS,June 24 2020 Wednesday,0.25
+494,1251,South Dakota,"[0, 0]",Fox News Network FOX AND FRIENDS,June 24 2020 Wednesday,0.0
+495,1251,America,"[-1, 1, 1, 1]",Fox News Network FOX AND FRIENDS,June 24 2020 Wednesday,0.5
+496,1268,American,"[-1, 0, -1, -1, -1, -1, 0, 0, 1]",Fox News Network SUNDAY MORNING FUTURES,June 21 2020 Sunday,-0.4444444444444444
+497,1268,Chinese,"[-1, -1, 0, -1, -1, -1, -1, -1, 0, -1, 1]",Fox News Network SUNDAY MORNING FUTURES,June 21 2020 Sunday,-0.6363636363636364
+498,1268,the United States,"[1, -1, -1, 0, -1, -1, 1, 0]",Fox News Network SUNDAY MORNING FUTURES,June 21 2020 Sunday,-0.25
+499,1268,Huawei,"[0, 0, -1, 0, 0, -1, -1, 0]",Fox News Network SUNDAY MORNING FUTURES,June 21 2020 Sunday,-0.375
+500,1268,U.S.,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,June 21 2020 Sunday,0.0
+501,1271,That`s,"[1, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,0.3333333333333333
+502,1356,Joe Biden,"[-1, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 30 2020 Tuesday,-0.5833333333333334
+503,1356,Martha,"[0, 0, 0, 1, 0, 1, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 30 2020 Tuesday,0.3333333333333333
+504,1356,American,"[0, 0, 1, 1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 30 2020 Tuesday,0.14285714285714285
+505,1356,Trump,"[-1, 0, 0, -1, 0, 0, -1, 0, 1, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 30 2020 Tuesday,-0.09090909090909091
+506,1356,Russia,"[0, -1, 0, -1, 0, 0, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 30 2020 Tuesday,-0.3333333333333333
+507,1360,Brooks,"[0, 0, 0, 0, -1, -1, 1, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,June 17 2020 Wednesday,-0.2
+508,1360,American,"[-1, 1, -1, -1, 1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 17 2020 Wednesday,-0.5294117647058824
+509,1360,D.A.,[],Fox News Network INGRAHAM ANGLE,June 17 2020 Wednesday,
+510,1360,Trump,"[0, 1, 0, 0, 0, -1, -1, 1, -1, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,June 17 2020 Wednesday,-0.15384615384615385
+511,1360,Laura,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 17 2020 Wednesday,0.07692307692307693
+512,1366,Bias Distorts,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,June 21 2020 Sunday,-0.07142857142857142
+513,1366,The New York Times,"[0, -1, 0, -1, -1, -1, 0, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,June 21 2020 Sunday,-0.6666666666666666
+514,1366,American,"[-1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,June 21 2020 Sunday,-0.6842105263157895
+515,1366,America,"[1, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,June 21 2020 Sunday,0.0
+516,1366,Congress,"[-1, 0, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,June 21 2020 Sunday,-0.25
+517,1367,Trump,"[0, -1, -1, 0, -1, 0, -1, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, -1, -1, -1]",Fox News Network MEDIA BUZZ,June 14 2020 Sunday,-0.7
+518,1367,The New York Times,"[-1, -1, -1, -1, 0, 0, -1, 0, 0]",Fox News Network MEDIA BUZZ,June 14 2020 Sunday,-0.5555555555555556
+519,1367,Times,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network MEDIA BUZZ,June 14 2020 Sunday,-1.0
+520,1367,Ray,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network MEDIA BUZZ,June 14 2020 Sunday,0.0
+521,1367,Tom Cotton,"[0, 0, 1, 0, 1, 0, 0, 0]",Fox News Network MEDIA BUZZ,June 14 2020 Sunday,0.25
+522,1393,Kayleigh,"[0, 1, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network AMERICA'S NEWSROOM,June 11 2020 Thursday,0.3
+523,1393,Democrats,"[0, -1, -1, 0, 1, -1, -1]",Fox News Network AMERICA'S NEWSROOM,June 11 2020 Thursday,-0.42857142857142855
+524,1393,Joe Biden,"[1, 0, 0]",Fox News Network AMERICA'S NEWSROOM,June 11 2020 Thursday,0.3333333333333333
+525,1393,the White House,"[0, 0, -1]",Fox News Network AMERICA'S NEWSROOM,June 11 2020 Thursday,-0.3333333333333333
+526,1393,Seattle,"[0, 0]",Fox News Network AMERICA'S NEWSROOM,June 11 2020 Thursday,0.0
+527,1394,Kayleigh,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network FOX AND FRIENDS,June 10 2020 Wednesday,0.09090909090909091
+528,1394,George Floyd,"[0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,June 10 2020 Wednesday,0.0
+529,1394,North Carolina,"[-1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,June 10 2020 Wednesday,-1.0
+530,1394,Jacksonville,"[0, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,June 10 2020 Wednesday,0.0
+531,1394,LA,"[0, 0, -1]",Fox News Network FOX AND FRIENDS,June 10 2020 Wednesday,-0.3333333333333333
+532,1403,Trump,"[-1, 0, -1, -1, -1, -1, 0, 1]",Fox News Network FOX AND FRIENDS,June 19 2020 Friday,-0.5
+533,1403,the Supreme Court,"[0, -1, 0, -1, 0, -1]",Fox News Network FOX AND FRIENDS,June 19 2020 Friday,-0.5
+534,1403,DACA,"[-1, 0, -1, 0, 0, -1, -1]",Fox News Network FOX AND FRIENDS,June 19 2020 Friday,-0.5714285714285714
+535,1403,Chuck Schumer,"[-1, 0, 1, -1]",Fox News Network FOX AND FRIENDS,June 19 2020 Friday,-0.25
+536,1424,Larry Kudlow,"[0, 0, 1, 1]",Fox News Network FOX AND FRIENDS,June 12 2020 Friday,0.5
+537,1424,Larry,"[0, 0, 0, 0, 0, 1, 1, 0]",Fox News Network FOX AND FRIENDS,June 12 2020 Friday,0.25
+538,1424,National Economic Council,[],Fox News Network FOX AND FRIENDS,June 12 2020 Friday,
+539,1442,Laura,[],Fox News Network INGRAHAM ANGLE,June 10 2020 Wednesday,
+540,1442,Seattle,"[0, -1, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, 1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 10 2020 Wednesday,-0.5882352941176471
+541,1442,America,"[-1, 0, -1, 0, -1, -1, -1, 0, 0, 0, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,June 10 2020 Wednesday,-0.5384615384615384
+542,1442,American,"[0, 0, 1, -1, -1, 1, 1, 0, -1]",Fox News Network INGRAHAM ANGLE,June 10 2020 Wednesday,0.0
+543,1442,UCLA,"[-1, -1, -1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,June 10 2020 Wednesday,-0.6666666666666666
+544,1446,Tucker,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 12 2020 Friday,-0.0625
+545,1446,CHAZ,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 12 2020 Friday,-0.17647058823529413
+546,1446,America,"[0, -1, 0, 1, -1, 0, -1, 0, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 12 2020 Friday,-0.4444444444444444
+547,1446,American,"[0, -1, -1, 0, 0, 0, 1, 1, -1, -1, -1, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 12 2020 Friday,-0.26666666666666666
+548,1446,Seattle,[-1],Fox News Network TUCKER CARLSON TONIGHT,June 12 2020 Friday,-1.0
+549,1458,Tucker,"[1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 4 2020 Thursday,0.38461538461538464
+550,1458,Donald Trump,"[0, 0, 0, 0, 0, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 4 2020 Thursday,-0.4
+551,1458,Americans,"[0, 1, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 4 2020 Thursday,-0.16666666666666666
+552,1458,New York,"[1, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 4 2020 Thursday,0.14285714285714285
+553,1458,Esper,"[0, 0, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 4 2020 Thursday,-0.5833333333333334
+554,1460,Flynn,"[0, 0, 0, -1, -1, 0, 1, -1, 0, 0, 0, 0, -1, -1, 1, -1, 0, -1, 0]",Fox News Network FOX HANNITY,June 24 2020 Wednesday,-0.2631578947368421
+555,1460,American,[],Fox News Network FOX HANNITY,June 24 2020 Wednesday,
+556,1460,Democrats,"[1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 24 2020 Wednesday,-0.7692307692307693
+557,1460,Trump,"[-1, 0, -1, -1, 1, 1, 1, -1, -1, -1, 1, 1, 1, 0, 1, 0, -1]",Fox News Network FOX HANNITY,June 24 2020 Wednesday,0.0
+558,1460,Democrat,"[-1, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, -1]",Fox News Network FOX HANNITY,June 24 2020 Wednesday,-0.6470588235294118
+559,1474,Sean,[],Fox News Network FOX HANNITY,June 3 2020 Wednesday,
+560,1474,NYPD,"[0, 0, -1, 0, 0, -1, 0, -1, -1, 0, -1, 0, -1, 0]",Fox News Network FOX HANNITY,June 3 2020 Wednesday,-0.42857142857142855
+561,1474,New York,"[0, 0, -1, 0, 1, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1]",Fox News Network FOX HANNITY,June 3 2020 Wednesday,-0.4444444444444444
+562,1474,New York City,"[-1, -1, -1, 0, -1, -1, -1, 0, 0, 1, -1]",Fox News Network FOX HANNITY,June 3 2020 Wednesday,-0.5454545454545454
+563,1474,FISA,"[0, -1, -1, 0, -1, 0, -1, -1, 0, 0, 0, -1]",Fox News Network FOX HANNITY,June 3 2020 Wednesday,-0.5
+564,1495,Seattle,"[-1, -1, 0, 0, -1, -1, 0, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 12 2020 Friday,-0.47368421052631576
+565,1495,Trump,"[-1, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 12 2020 Friday,-0.35714285714285715
+566,1495,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 12 2020 Friday,0.0
+567,1495,U.S.,"[0, -1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 12 2020 Friday,-0.5
+568,1495,Republicans,"[0, 0, 0, 1, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 12 2020 Friday,0.4
+569,1506,Pete,"[0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,June 27 2020 Saturday,0.125
+570,1506,Bubba Wallace,"[-1, -1, 1, -1, -1, 0, -1]",Fox News Network THE GREG GUTFELD SHOW,June 27 2020 Saturday,-0.5714285714285714
+571,1506,Confederate,"[1, -1, 0, -1, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,June 27 2020 Saturday,-0.16666666666666666
+572,1506,Greg,"[0, 0, 1, 0, 0, 0, 0, 1]",Fox News Network THE GREG GUTFELD SHOW,June 27 2020 Saturday,0.25
+573,1506,Kat,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,June 27 2020 Saturday,0.1
+574,1535,Trump,"[-1, -1, 0, 1, -1, -1, -1, -1, -1, -1, 0, 1, -1, 1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 4 2020 Thursday,-0.4666666666666667
+575,1535,George Floyd,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 4 2020 Thursday,0.0
+576,1535,Mattis,"[-1, -1, 1, -1, -1, 1, 0, -1, -1, 0, 0, -1, 0, -1, 1, 1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 4 2020 Thursday,-0.2222222222222222
+577,1535,Floyd,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 4 2020 Thursday,-0.05263157894736842
+578,1535,Iran,"[-1, -1, -1, -1, 0, -1, -1, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 4 2020 Thursday,-0.6666666666666666
+579,1551,Seattle,"[-1, 0, -1, 0, -1, -1, -1, 0, -1, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 10 2020 Wednesday,-0.5384615384615384
+580,1551,Tucker,"[0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 10 2020 Wednesday,0.125
+581,1551,Americans,"[-1, -1, -1, 0, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 10 2020 Wednesday,-0.75
+582,1551,Trump,"[0, 0, -1, -1, 0, 0, 1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 10 2020 Wednesday,-0.25
+583,1551,Mark Steyn,"[0, 1, 0, 1, 0, 0, 1, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 10 2020 Wednesday,0.4444444444444444
+584,1556,Trump,"[0, 0, 0, -1, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 8 2020 Monday,-0.125
+585,1556,Biden,"[0, 0, 1, 1, 0, 1, -1, 0, 1, 1, 1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 8 2020 Monday,0.5384615384615384
+586,1556,Martha,"[1, 0, 0, -1, 0, 0, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 8 2020 Monday,0.25
+587,1556,America,"[0, -1, 0, -1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 8 2020 Monday,-0.25
+588,1556,Joe Biden,"[0, 0, 1, 1, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 8 2020 Monday,0.5
+589,1557,American,"[1, 1, 1, 1, 1, 1, 1, 1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 23 2020 Tuesday,0.45454545454545453
+590,1557,Martha,"[0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 23 2020 Tuesday,0.0
+591,1557,Trump,"[0, 1, 0, 0, -1, 0, 1, 1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 23 2020 Tuesday,0.4
+592,1557,Minneapolis,"[0, 0, -1, -1, 0, 0, 0, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 23 2020 Tuesday,-0.5
+593,1557,Arizona,"[0, -1, -1, 1, 0, 0, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 23 2020 Tuesday,0.0
+594,1558,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1]",Fox News Network FOX NEWS @ NIGHT,June 4 2020 Thursday,0.21428571428571427
+595,1558,Trump,"[0, -1, 0, -1, -1, 1, 1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 4 2020 Thursday,-0.5
+596,1558,Detroit,"[0, 0, 1, 0, 0, 1, 1]",Fox News Network FOX NEWS @ NIGHT,June 4 2020 Thursday,0.42857142857142855
+597,1558,Minneapolis,"[-1, 0, 0, -1, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 4 2020 Thursday,-0.625
+598,1558,NYPD,"[-1, 0, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 4 2020 Thursday,-0.7142857142857143
+599,1574,Trump,"[1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1, -1, -1, -1]",Fox News Network THE FIVE,June 24 2020 Wednesday,-0.29411764705882354
+600,1574,Obama,"[-1, 0, -1, 0, 0, 0, 0, 1, 0, -1, 0, -1]",Fox News Network THE FIVE,June 24 2020 Wednesday,-0.25
+601,1574,NASCAR,"[0, 1, 0, 0, 0, -1, -1, 0, -1, 0, 1, 1, 0]",Fox News Network THE FIVE,June 24 2020 Wednesday,0.0
+602,1574,Jesse,"[0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 24 2020 Wednesday,0.0
+603,1574,Juan,"[0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 24 2020 Wednesday,-0.18181818181818182
+604,1577,Antifa,[],Fox News Network FOX HANNITY,June 4 2020 Thursday,
+605,1577,Sean,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 1, 0]",Fox News Network FOX HANNITY,June 4 2020 Thursday,0.0
+606,1577,NYPD,"[0, 0, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 4 2020 Thursday,-0.2
+607,1577,Geraldo,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 4 2020 Thursday,0.0
+608,1577,New York,"[-1, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1, -1, 0, -1, 0]",Fox News Network FOX HANNITY,June 4 2020 Thursday,-0.6
+609,1579,Democrats,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1]",Fox News Network THE NEXT REVOLUTION,June 14 2020 Sunday,-0.75
+610,1579,Rayshard Brooks,"[0, 0, 0, 0, -1]",Fox News Network THE NEXT REVOLUTION,June 14 2020 Sunday,-0.2
+611,1579,Joe Biden's,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,June 14 2020 Sunday,-1.0
+612,1579,Steve,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE NEXT REVOLUTION,June 14 2020 Sunday,0.058823529411764705
+613,1579,Trump,"[0, 1, 1, -1, -1, 0, 0, 0, 0, 1, 1]",Fox News Network THE NEXT REVOLUTION,June 14 2020 Sunday,0.18181818181818182
+614,1591,Antifa,"[-1, 0, 0, -1, -1, -1, -1, 0, -1, 0, 0, 0, -1]",Fox News Network THE FIVE,June 1 2020 Monday,-0.5384615384615384
+615,1591,Jesse,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1]",Fox News Network THE FIVE,June 1 2020 Monday,0.0
+616,1591,Dana,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 1 2020 Monday,0.1
+617,1591,George Floyd,"[0, 0, 0, -1, -1, -1, -1, 0, -1, 0]",Fox News Network THE FIVE,June 1 2020 Monday,-0.5
+618,1591,Trump,[],Fox News Network THE FIVE,June 1 2020 Monday,
+619,1594,Sean,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 22 2020 Monday,0.05
+620,1594,Seattle,"[-1, 0, 0, -1, -1, 0, 0, -1, 0, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1]",Fox News Network FOX HANNITY,June 22 2020 Monday,-0.5789473684210527
+621,1594,America,"[-1, -1, -1, -1, -1, -1, -1, 0, 1, 1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,June 22 2020 Monday,-0.5714285714285714
+622,1594,Chicago,"[0, 0, 0, -1, 0, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 22 2020 Monday,-0.6
+623,1594,American,"[1, -1, -1, 1, 1, -1, 0, 0, -1, -1, 1, 0, 0, 1, 1, -1, 1, 1, 0]",Fox News Network FOX HANNITY,June 22 2020 Monday,0.10526315789473684
+624,1602,Bill Clinton,[],Fox News Network WATTERS WORLD,June 27 2020 Saturday,
+625,1602,NASCAR,"[0, 0, 0, 1, 1, 1, 0, 0]",Fox News Network WATTERS WORLD,June 27 2020 Saturday,0.375
+626,1602,Jeffrey Epstein,[],Fox News Network WATTERS WORLD,June 27 2020 Saturday,
+627,1602,America,"[-1, -1, 0, -1, 1, 0, -1, 1, 1, 1]",Fox News Network WATTERS WORLD,June 27 2020 Saturday,0.0
+628,1602,Epstein,[],Fox News Network WATTERS WORLD,June 27 2020 Saturday,
+629,1606,Trump,"[-1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,June 6 2020 Saturday,0.16666666666666666
+630,1606,American,"[1, -1, -1, -1, 0, 1]",Fox News Network THE GREG GUTFELD SHOW,June 6 2020 Saturday,-0.16666666666666666
+631,1606,Biden,"[0, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1]",Fox News Network THE GREG GUTFELD SHOW,June 6 2020 Saturday,-0.2727272727272727
+632,1606,Burgess,"[0, 0, 0, 0, 1, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,June 6 2020 Saturday,0.14285714285714285
+633,1606,Greg,"[0, 0, 0, 0, 0, 1]",Fox News Network THE GREG GUTFELD SHOW,June 6 2020 Saturday,0.16666666666666666
+634,1607,Trump,"[1, -1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 2 2020 Tuesday,-0.10526315789473684
+635,1607,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 2 2020 Tuesday,0.0
+636,1607,Joe Biden,"[-1, 0, -1, 0, 0, 0, 0, 1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 2 2020 Tuesday,-0.2222222222222222
+637,1607,Washington,"[-1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 2 2020 Tuesday,-0.125
+638,1607,New York,"[-1, -1, -1, 0, 0, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 2 2020 Tuesday,-0.5555555555555556
+639,1608,Neil,"[0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 4 2020 Thursday,0.0
+640,1608,Brooklyn,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 4 2020 Thursday,-0.125
+641,1608,New York,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 4 2020 Thursday,-0.13333333333333333
+642,1608,George Floyd,"[0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 4 2020 Thursday,0.25
+643,1608,Iran,"[0, 0, -1, 0, 0, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 4 2020 Thursday,-0.45
+644,1614,Google,"[-1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 16 2020 Tuesday,-0.7894736842105263
+645,1614,Tucker,"[0, 1, 0, 0, 1, 1, 1, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 16 2020 Tuesday,0.625
+646,1614,Congress,"[-1, 0, -1, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 16 2020 Tuesday,-0.42857142857142855
+647,1614,Nike,"[1, -1, -1, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 16 2020 Tuesday,-0.5714285714285714
+648,1614,China,"[-1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 16 2020 Tuesday,-0.8
+649,1623,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 3 2020 Wednesday,0.0625
+650,1623,George Floyd,"[0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 3 2020 Wednesday,-0.18181818181818182
+651,1623,D.C.,"[0, 0, 0, -1, -1, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 3 2020 Wednesday,-0.1111111111111111
+652,1623,Texas,"[1, 1, 1, 0, 1]",Fox News Network FOX NEWS @ NIGHT,June 3 2020 Wednesday,0.8
+653,1623,U.S.,"[0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 3 2020 Wednesday,-0.3333333333333333
+654,1641,Shannon,"[1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1]",Fox News Network FOX NEWS @ NIGHT,June 23 2020 Tuesday,0.4166666666666667
+655,1641,John Bolton,"[0, -1, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 23 2020 Tuesday,-0.5714285714285714
+656,1641,Trump,"[0, 1, -1, -1, 0, 1, 0, 0, -1, 0, 1, 1]",Fox News Network FOX NEWS @ NIGHT,June 23 2020 Tuesday,0.08333333333333333
+657,1641,Democrats,"[-1, 0, -1, -1, 0, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 23 2020 Tuesday,-0.7
+658,1641,New York,"[-1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 23 2020 Tuesday,-0.21428571428571427
+659,1651,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 1 2020 Monday,0.0
+660,1651,Macy,"[0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 1 2020 Monday,-0.125
+661,1651,the National Guard,"[0, 1, 0, 0, 0, -1, 1, 1, 1]",Fox News Network FOX NEWS @ NIGHT,June 1 2020 Monday,0.3333333333333333
+662,1651,Minneapolis,"[-1, 0, -1, -1, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 1 2020 Monday,-0.75
+663,1651,D.C.,"[-1, -1, 0, 0, 0, -1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 1 2020 Monday,-0.4444444444444444
+664,1657,Joe Biden,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 30 2020 Tuesday,-0.08333333333333333
+665,1657,Fauci,"[-1, 0, -1, 0, 0, 1, 0, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 30 2020 Tuesday,-0.18181818181818182
+666,1657,Neil,"[0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 30 2020 Tuesday,0.0
+667,1657,Trump,"[0, -1, -1, 0, 0, 0, 0, -1, 0, 1, 1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 30 2020 Tuesday,0.0
+668,1657,American,"[1, 0, 0, 1, 1, 1, 1, 1, 1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 30 2020 Tuesday,0.6
+669,1687,Shannon,"[0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 24 2020 Wednesday,0.4
+670,1687,Flynn,"[-1, 0, 0, 1, 0, 0, 0, 1, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 24 2020 Wednesday,-0.05555555555555555
+671,1687,Democrats,"[0, -1, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, -1, -1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,June 24 2020 Wednesday,-0.47058823529411764
+672,1687,Trump,[],Fox News Network FOX NEWS @ NIGHT,June 24 2020 Wednesday,
+673,1687,Biden,"[0, -1, -1, -1, 0, 0, -1, 0, 1, 1, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 24 2020 Wednesday,-0.07692307692307693
+674,1689,Taser,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 17 2020 Wednesday,0.0
+675,1689,Atlanta,"[-1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 17 2020 Wednesday,-0.16666666666666666
+676,1689,Brooks,[],Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 17 2020 Wednesday,
+677,1689,Howard,"[0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 17 2020 Wednesday,-0.125
+678,1689,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 17 2020 Wednesday,0.0
+679,1708,Twitter,"[-1, 0, 0, 1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 26 2020 Friday,-0.3333333333333333
+680,1708,Parler,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 26 2020 Friday,0.0
+681,1708,John Matze,"[1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 26 2020 Friday,0.3333333333333333
+682,1736,Sean,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 2 2020 Tuesday,0.05
+683,1736,the National Guard,"[0, 1, 0, 0, -1, -1, 0, -1, 0, 0, -1, -1, 0, 0, 1, 0, -1, 0, 0, 0]",Fox News Network FOX HANNITY,June 2 2020 Tuesday,-0.2
+684,1736,New York,"[-1, -1, -1, -1, -1, -1, 0, 0, 0, 0, -1, 0, 0, -1, 0, -1, -1]",Fox News Network FOX HANNITY,June 2 2020 Tuesday,-0.5882352941176471
+685,1736,George Floyd,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX HANNITY,June 2 2020 Tuesday,-0.05555555555555555
+686,1736,New York City,"[0, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, 1, 1, 0]",Fox News Network FOX HANNITY,June 2 2020 Tuesday,-0.375
+687,1737,Trump,"[1, 0, 0, 0, -1, 1, 0, 0, 0, -1, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 15 2020 Monday,-0.14285714285714285
+688,1737,Bret,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 15 2020 Monday,0.058823529411764705
+689,1737,Seattle,"[0, 0, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 15 2020 Monday,-0.3
+690,1737,Atlanta,"[-1, 0, 0, -1, 0, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 15 2020 Monday,-0.3333333333333333
+691,1737,U.S.,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 15 2020 Monday,-0.1
+692,1739,China,"[0, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1, 0, 1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,June 21 2020 Sunday,-0.6111111111111112
+693,1739,Trump,"[0, 0, 0, 1, 0, 0, 1, 1, 1, 1, -1, -1, -1, 1, -1, 1, 1, 0, -1, 0]",Fox News Network THE NEXT REVOLUTION,June 21 2020 Sunday,0.15
+694,1739,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,June 21 2020 Sunday,-1.0
+695,1739,American,"[1, -1, 1, 0, 1, -1, -1, 1, 0, 0, -1, 1, 0, 1, 1, 1]",Fox News Network THE NEXT REVOLUTION,June 21 2020 Sunday,0.25
+696,1739,Americans,"[1, -1, 0, 1, 0, -1, 0, -1, 1, -1, -1, -1, 1, 1, 0, -1, -1]",Fox News Network THE NEXT REVOLUTION,June 21 2020 Sunday,-0.17647058823529413
+697,1765,Trump,"[0, -1, 0, 0, -1, 0, 0, 0, -1, 1, 1, 1, 1, 0, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 10 2020 Wednesday,0.13333333333333333
+698,1765,George Floyd,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 10 2020 Wednesday,-0.13333333333333333
+699,1765,Bret,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 10 2020 Wednesday,0.0
+700,1765,Floyd,"[0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 10 2020 Wednesday,0.1
+701,1765,Republicans,"[-1, 0, -1, 0, 0, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 10 2020 Wednesday,-0.625
+702,1790,Trump,"[0, -1, -1, -1, -1, -1, 0, 1, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1, -1, 1]",Fox News Network THE FIVE,June 16 2020 Tuesday,-0.45
+703,1790,Biden,"[-1, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, 1, -1, 0, 0, -1, -1]",Fox News Network THE FIVE,June 16 2020 Tuesday,-0.5555555555555556
+704,1790,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]",Fox News Network THE FIVE,June 16 2020 Tuesday,0.18181818181818182
+705,1790,Americans,"[0, -1, 0, 0, 0, -1, 1, 1]",Fox News Network THE FIVE,June 16 2020 Tuesday,0.0
+706,1790,Democrats,"[-1, 0, -1, -1, -1, -1, 0]",Fox News Network THE FIVE,June 16 2020 Tuesday,-0.7142857142857143
+707,1809,Jesse,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1]",Fox News Network THE FIVE,June 10 2020 Wednesday,0.1875
+708,1809,Lawrence,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 10 2020 Wednesday,0.0
+709,1809,Dana,"[0, 0, 0, 0, 0, 1, 0]",Fox News Network THE FIVE,June 10 2020 Wednesday,0.14285714285714285
+710,1809,Juan,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 10 2020 Wednesday,0.0
+711,1809,Joe Biden,"[-1, -1, 1, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,June 10 2020 Wednesday,-0.25
+712,1817,Trump,"[-1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 18 2020 Thursday,-0.7058823529411765
+713,1817,Bolton,"[0, -1, -1, 0, -1, 0, 0, 0, -1, 1, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 18 2020 Thursday,-0.26666666666666666
+714,1817,John Bolton,"[-1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 18 2020 Thursday,-0.2631578947368421
+715,1817,Biden,"[1, 0, 0, 0, -1, 0, 0, 0, -1, 0, 1, 1, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 18 2020 Thursday,0.13333333333333333
+716,1817,Bret,"[0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 18 2020 Thursday,0.23529411764705882
+717,1824,Trump,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, -1, 0, -1]",Fox News Network THE FIVE,June 5 2020 Friday,-0.13333333333333333
+718,1824,Jesse,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0]",Fox News Network THE FIVE,June 5 2020 Friday,0.26666666666666666
+719,1824,Joe Biden,"[-1, 0, -1, -1, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0]",Fox News Network THE FIVE,June 5 2020 Friday,-0.5714285714285714
+720,1824,Greg,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE FIVE,June 5 2020 Friday,0.058823529411764705
+721,1824,the National Guard,"[-1, 0, 1, -1, 1, 1, -1, 0, -1, 0]",Fox News Network THE FIVE,June 5 2020 Friday,-0.1
+722,1825,George Floyd,[],Fox News Network THE STORY WITH MARTHA MACCALLUM,June 1 2020 Monday,
+723,1825,Martha,"[1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 1 2020 Monday,0.2727272727272727
+724,1825,the White House,"[0, -1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 1 2020 Monday,-0.16666666666666666
+725,1825,St. John's,"[0, 0, -1, -1, -1, 0, 0, -1, 0, 1, -1, 0, 1, 0, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 1 2020 Monday,-0.125
+726,1825,Joe Biden,"[0, 0, 0, 1, 0, 0, 0, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 1 2020 Monday,0.2222222222222222
+727,1877,Sean,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 5 2020 Friday,0.0
+728,1877,D.C.,"[0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 5 2020 Friday,-0.6363636363636364
+729,1877,Americans,"[0, 1, -1, 1, -1, -1, -1]",Fox News Network FOX HANNITY,June 5 2020 Friday,-0.2857142857142857
+730,1877,New York,"[0, 0, -1, -1, 0, -1, -1, 0, 0, -1, 0, 0, -1, 0]",Fox News Network FOX HANNITY,June 5 2020 Friday,-0.42857142857142855
+731,1877,America,"[-1, -1, 1, -1, 0, 1, 1]",Fox News Network FOX HANNITY,June 5 2020 Friday,0.0
+732,1892,Joe Biden,"[-1, -1, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network WATTERS WORLD,June 20 2020 Saturday,-0.6111111111111112
+733,1892,Trump,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network WATTERS WORLD,June 20 2020 Saturday,0.26666666666666666
+734,1892,American,[],Fox News Network WATTERS WORLD,June 20 2020 Saturday,
+735,1892,Biden,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, -1, 0, 0, -1, 0, -1]",Fox News Network WATTERS WORLD,June 20 2020 Saturday,-0.6842105263157895
+736,1892,USA,"[0, 0, 0, 1, 0, 0, 0]",Fox News Network WATTERS WORLD,June 20 2020 Saturday,0.14285714285714285
+737,1901,Poland,"[0, 0, 1, 1, -1, 1, 0, 0, 0, 1, -1, 1, 1, 0, 0, 0, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,0.3333333333333333
+738,1901,the United States,"[1, 1, 0, 0, 1, -1, 0, 1, 0, 0, 1, 0, 0, -1, 1, 0, 1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,0.15789473684210525
+739,1901,Russia,"[-1, -1, -1, -1, 0, 0, -1, -1, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,-0.5833333333333334
+740,1901,Germany,"[-1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,-1.0
+741,1901,David,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 24 2020 Wednesday,0.16666666666666666
+742,1902,Poland,"[1, 1, -1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, -1, 0, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 23 2020 Tuesday,0.47368421052631576
+743,1902,the United States,"[0, 1, -1, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, -1, 1, 0, 1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 23 2020 Tuesday,0.0
+744,1902,Russia,"[-1, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 23 2020 Tuesday,-0.6153846153846154
+745,1902,Germany,"[-1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 23 2020 Tuesday,-1.0
+746,1902,David,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 23 2020 Tuesday,0.0
+747,1909,Texas,"[0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 11 2020 Thursday,-0.07142857142857142
+748,1909,Neil,"[0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 11 2020 Thursday,-0.15384615384615385
+749,1909,Dallas,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 11 2020 Thursday,0.0
+750,1909,Cavuto,[],Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 11 2020 Thursday,
+751,1909,George Floyd,"[0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 11 2020 Thursday,0.0
+752,1910,the White House,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 10 2020 Wednesday,-0.09090909090909091
+753,1910,Congress,"[0, -1, -1, -1, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 10 2020 Wednesday,-0.4444444444444444
+754,1910,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 10 2020 Wednesday,0.0
+755,1910,George Floyd,"[0, 0, -1, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 10 2020 Wednesday,-0.2857142857142857
+756,1910,Trump,"[0, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 10 2020 Wednesday,0.2
+757,1927,Washington,"[-1, 0, -1, 1, -1, 0, 1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 25 2020 Thursday,-0.2
+758,1927,Texas,"[0, -1, -1, 0, -1, -1, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 25 2020 Thursday,-0.7
+759,1927,Trump,"[0, -1, 1, -1, 1, 0, 1, 0, 1, -1, 0, 1, 0, -1, -1, 0, 1, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 25 2020 Thursday,0.1111111111111111
+760,1927,Donald Trump,"[1, 0, 0, 0, 0, 1, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 25 2020 Thursday,0.0
+761,1927,Mike Braun,"[-1, 0, -1, 0, -1, -1, -1, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 25 2020 Thursday,-0.7272727272727273
+762,1949,Seattle,"[-1, -1, -1, -1, -1, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,June 11 2020 Thursday,-0.6
+763,1949,Texas,"[0, 1, 1, 1, 0, -1, 0, 0, 0]",Fox News Network THE FIVE,June 11 2020 Thursday,0.2222222222222222
+764,1949,Dana,"[0, 0, 0, -1, 0, 0, 0, 1]",Fox News Network THE FIVE,June 11 2020 Thursday,0.0
+765,1949,Juan,"[0, 0, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,June 11 2020 Thursday,-0.14285714285714285
+766,1949,Trump,"[-1, 0, -1, -1, -1, -1, -1, 0, -1, 0]",Fox News Network THE FIVE,June 11 2020 Thursday,-0.7
+767,1958,Trump,"[0, 0, 0, 1, 0, 0, 0, -1, -1, -1, 0, -1, 0, 0, -1, -1, 1, -1, 0, 0]",Fox News Network THE FIVE,June 26 2020 Friday,-0.25
+768,1958,Joe Biden,"[1, -1, 0, -1, -1, 0, 1, 0, 0, -1, -1, 0, 0, 0, 0, 1, 1]",Fox News Network THE FIVE,June 26 2020 Friday,-0.058823529411764705
+769,1958,Dana,[],Fox News Network THE FIVE,June 26 2020 Friday,
+770,1958,Jesse,"[0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 26 2020 Friday,0.18181818181818182
+771,1958,Biden,"[-1, 0, 0, 1, -1, 1, 0, 0, -1, -1, 0, -1, -1, 0, 0, 0]",Fox News Network THE FIVE,June 26 2020 Friday,-0.25
+772,1962,Trump,"[1, -1, 0, -1, -1, 1, -1, -1, 0, 1, 0, -1, -1, 0, -1, 1, 0]",Fox News Network THE FIVE,June 25 2020 Thursday,-0.23529411764705882
+773,1962,Democrats,"[0, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,June 25 2020 Thursday,-0.5294117647058824
+774,1962,Joe Biden,"[-1, -1, 1, -1, 0, 0, -1, 0, 0, -1, 0]",Fox News Network THE FIVE,June 25 2020 Thursday,-0.36363636363636365
+775,1962,Juan,"[0, -1, 0, -1, 0, 0, 0, 0, 0, -1]",Fox News Network THE FIVE,June 25 2020 Thursday,-0.3
+776,1962,Republicans,"[0, 0, -1, -1, -1, 0, 0, -1]",Fox News Network THE FIVE,June 25 2020 Thursday,-0.5
+777,1963,Neil,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,0.05
+778,1963,Bolton,"[0, -1, -1, -1, 0, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,-0.6470588235294118
+779,1963,House,"[0, 0, 0, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,-0.3333333333333333
+780,1963,John Bolton,"[0, -1, 0, -1, -1, -1, -1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,-0.7
+781,1963,the White House,"[0, -1, -1, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 18 2020 Thursday,-0.375
+782,1988,Trump,"[1, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1, -1, 1, 0, -1, 1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,June 19 2020 Friday,-0.21052631578947367
+783,1988,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network INGRAHAM ANGLE,June 19 2020 Friday,0.058823529411764705
+784,1988,Tulsa,"[0, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 1, 1, 0]",Fox News Network INGRAHAM ANGLE,June 19 2020 Friday,-0.07142857142857142
+785,1988,Tammy,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 19 2020 Friday,0.0
+786,1988,Americans,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1]",Fox News Network INGRAHAM ANGLE,June 19 2020 Friday,0.0
+787,1991,Seattle,"[-1, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, -1, 0, 0, -1, -1, 1, -1, -1, -1, -1]",Fox News Network THE FIVE,June 12 2020 Friday,-0.6190476190476191
+788,1991,Juan,"[0, 0, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,June 12 2020 Friday,-0.25
+789,1991,Trump,"[-1, -1, -1, 0, -1, 0, 0, -1, -1, 0, -1, -1, 0]",Fox News Network THE FIVE,June 12 2020 Friday,-0.6153846153846154
+790,1991,Kennedy,"[0, 0, 0, 0, -1, 0, -1, 0, 0, 1, 0, 0]",Fox News Network THE FIVE,June 12 2020 Friday,-0.08333333333333333
+791,1991,Jesse,"[0, -1, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 12 2020 Friday,-0.07692307692307693
+792,1997,Kevin McCarthy,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 16 2020 Tuesday,0.05555555555555555
+793,1997,Trump,"[1, 0, 1, 1, 1, 1, 0, -1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1]",Fox News Network FOX HANNITY,June 16 2020 Tuesday,0.55
+794,1997,GOP,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 16 2020 Tuesday,0.0
+795,1997,Sean,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 16 2020 Tuesday,0.08333333333333333
+796,1997,Joe,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1]",Fox News Network FOX HANNITY,June 16 2020 Tuesday,-0.7894736842105263
+797,2022,Neil,"[1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 22 2020 Monday,0.3333333333333333
+798,2027,Seattle,"[-1, -1, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,June 11 2020 Thursday,-0.375
+799,2027,America,"[1, -1, 0, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,June 11 2020 Thursday,-0.47058823529411764
+800,2027,Laura,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,June 11 2020 Thursday,0.0
+801,2027,Trump,"[0, 1, 1, -1, 0, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,June 11 2020 Thursday,-0.125
+802,2027,Americans,"[0, 1, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,June 11 2020 Thursday,-0.3333333333333333
+803,2029,America,"[1, 0, 1, -1, 0, 1, 0, 0, 0]",Fox News Network THE NEXT REVOLUTION,June 7 2020 Sunday,0.2222222222222222
+804,2029,Trump,"[1, 1, -1, 1, 0, 0, 1, 0, 1, 1, -1]",Fox News Network THE NEXT REVOLUTION,June 7 2020 Sunday,0.36363636363636365
+805,2029,American,"[0, 0, 0, 1, 0, 0, 1, 1, 1]",Fox News Network THE NEXT REVOLUTION,June 7 2020 Sunday,0.4444444444444444
+806,2029,African-Americans,"[0, -1, -1, 1, -1, 0, -1, -1, 0, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,June 7 2020 Sunday,-0.5833333333333334
+807,2029,Americans,"[1, 1, 1, 1, 0, -1]",Fox News Network THE NEXT REVOLUTION,June 7 2020 Sunday,0.5
+808,2034,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 2 2020 Tuesday,0.0
+809,2034,New York City,"[0, 0, 1, -1, 0, 0, 0, -1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 2 2020 Tuesday,0.0
+810,2034,George Floyd,"[0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 2 2020 Tuesday,0.1111111111111111
+811,2034,Alan,"[0, 0, 0, 0, 0, 1, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 2 2020 Tuesday,0.2222222222222222
+812,2034,Houston,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 2 2020 Tuesday,0.0
+813,2045,Regeneron,"[1, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 12 2020 Friday,0.5
+814,2045,George,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 12 2020 Friday,0.0
+815,2046,Alan,"[0, 0, 0, 0, 0, 1, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 2 2020 Tuesday,0.2222222222222222
+816,2046,Alan Horwitz,"[0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 2 2020 Tuesday,0.0
+817,2075,Trump,"[0, 1, 0, 0, -1, -1, 0, 0, 1, 0, 0, 1, -1, 0, 1, -1, 0, 0, 0, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 16 2020 Tuesday,0.05
+818,2075,House,"[1, 0, -1, 0, 1, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 16 2020 Tuesday,0.0
+819,2075,Bret,"[0, 0, 0, 0, 1, 1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 16 2020 Tuesday,0.2222222222222222
+820,2075,Biden,"[0, -1, 0, -1, 1, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 16 2020 Tuesday,-0.375
+821,2075,China,"[-1, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 16 2020 Tuesday,-0.8888888888888888
+822,2081,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 30 2020 Tuesday,0.0
+823,2081,NYPD,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 30 2020 Tuesday,-0.7692307692307693
+824,2081,U.S.,"[-1, 0, 0, -1, 0, 0, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 30 2020 Tuesday,-0.5
+825,2081,New York,"[0, -1, 0, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0, -1, 0, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 30 2020 Tuesday,-0.47368421052631576
+826,2081,Detroit,"[0, 0, 0, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 30 2020 Tuesday,0.14285714285714285
+827,2082,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 16 2020 Tuesday,0.0
+828,2082,Trump,"[1, 0, 0, 1, 0, -1, 0, -1, -1, 1, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 16 2020 Tuesday,-0.1111111111111111
+829,2082,Google,"[0, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 16 2020 Tuesday,-0.36363636363636365
+830,2082,Federalist,"[0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 16 2020 Tuesday,-0.18181818181818182
+831,2082,Biden,"[-1, 0, 0, -1, 0, -1, -1, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 16 2020 Tuesday,-0.5294117647058824
+832,2101,U.S.,"[1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 29 2020 Monday,0.2222222222222222
+833,2101,Trump,"[0, -1, 0, 0, 1, 0, -1, 0, 0, 0, -1, 0, 0, 0, 1, -1, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 29 2020 Monday,-0.21052631578947367
+834,2101,Russia,"[0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 29 2020 Monday,-0.8666666666666667
+835,2101,Afghanistan,"[0, 0, -1, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 29 2020 Monday,-0.25
+836,2101,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 29 2020 Monday,0.0
+837,2121,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 30 2020 Tuesday,0.0
+838,2121,Republicans,"[-1, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1, 0, 1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 30 2020 Tuesday,-0.42857142857142855
+839,2121,American,"[-1, 0, 0, 0, -1, -1, 0, 0, 0, 1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 30 2020 Tuesday,-0.3076923076923077
+840,2121,America,"[0, -1, 1, 1, 1, -1, 1, -1, 1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 30 2020 Tuesday,0.0
+841,2121,St. Louis,"[-1, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 30 2020 Tuesday,-0.5
+842,2125,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 16 2020 Tuesday,0.0
+843,2125,North Korea,"[-1, 0, -1, -1, 0, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 16 2020 Tuesday,-0.625
+844,2125,Chris,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 16 2020 Tuesday,0.08333333333333333
+845,2125,Truman,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 16 2020 Tuesday,0.0
+846,2125,Roosevelt,"[0, -1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 16 2020 Tuesday,-0.4
+847,2130,America,"[0, -1, 0, 0, -1, -1, 1, -1, 0, 1, -1, -1, 0, -1, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 1 2020 Monday,-0.26666666666666666
+848,2130,Tucker,"[0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 1 2020 Monday,0.29411764705882354
+849,2130,Americans,"[-1, 1, 1, 0, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 1 2020 Monday,-0.125
+850,2130,Philadelphia,"[-1, -1, 0, 0, -1, -1, 0, 1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 1 2020 Monday,-0.3
+851,2130,Atlanta,"[-1, 0, 0, -1, 0, -1, 1, 1, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 1 2020 Monday,0.0
+852,2134,Seattle,"[0, -1, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 11 2020 Thursday,-0.5789473684210527
+853,2134,Trump,"[0, 0, -1, 0, -1, 0, 1, -1, 1, 1, 1, -1, -1, 0, 0, 0]",Fox News Network FOX HANNITY,June 11 2020 Thursday,-0.0625
+854,2134,Sean,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX HANNITY,June 11 2020 Thursday,-0.07142857142857142
+855,2134,FBI,"[-1, -1, -1, 0, 0, -1, 0, -1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 11 2020 Thursday,-0.6923076923076923
+856,2134,Donald Trump,"[0, 0, 1, -1, -1, 0]",Fox News Network FOX HANNITY,June 11 2020 Thursday,-0.16666666666666666
+857,2143,Ronna,"[0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network FOX AND FRIENDS,June 9 2020 Tuesday,0.1111111111111111
+858,2143,Joe Biden,"[0, 0, 1, 0, 0]",Fox News Network FOX AND FRIENDS,June 9 2020 Tuesday,0.2
+859,2143,Democrats,"[-1, -1, 0, 0, -1]",Fox News Network FOX AND FRIENDS,June 9 2020 Tuesday,-0.6
+860,2143,North Carolina,"[1, -1, 0]",Fox News Network FOX AND FRIENDS,June 9 2020 Tuesday,0.0
+861,2143,Nancy Pelosi,"[0, 0, -1]",Fox News Network FOX AND FRIENDS,June 9 2020 Tuesday,-0.3333333333333333
+862,2162,Shannon,"[0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0]",Fox News Network FOX NEWS @ NIGHT,June 12 2020 Friday,0.5
+863,2162,Seattle,"[0, -1, 0, 0, 0, 0, -1, -1, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 12 2020 Friday,-0.16666666666666666
+864,2162,Trump,"[0, -1, -1, -1, 0, 0, 0, 0, 0, 1]",Fox News Network FOX NEWS @ NIGHT,June 12 2020 Friday,-0.2
+865,2162,Republican,"[0, 0, 0, 0, 1]",Fox News Network FOX NEWS @ NIGHT,June 12 2020 Friday,0.2
+866,2162,Capitol Hill,"[-1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 12 2020 Friday,-0.5
+867,2165,Geoff Duncan,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 15 2020 Monday,0.06666666666666667
+868,2165,Seattle,"[0, 0, -1, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 15 2020 Monday,-0.2857142857142857
+869,2165,Germany,"[-1, 0, -1, -1, -1, 0, 1, -1, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 15 2020 Monday,-0.6666666666666666
+870,2165,Oklahoma,"[1, 0, 0, 1, 0, 1, 1, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 15 2020 Monday,0.5555555555555556
+871,2165,Senate,"[0, 0, -1, -1, -1, -1, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 15 2020 Monday,-0.3333333333333333
+872,2166,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,0.0
+873,2166,Wisconsin,"[0, 0, 0, -1, 0, 0, 0, 1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,-0.1
+874,2166,Connecticut,"[0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,0.125
+875,2166,Tampa,"[-1, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,-0.2857142857142857
+876,2166,New Jersey,"[0, 0, 0, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 25 2020 Thursday,-0.14285714285714285
+877,2167,Trump,"[-1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 1, -1, 1, 1, 1]",Fox News Network THE FIVE,June 23 2020 Tuesday,0.0625
+878,2167,Jesse,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 1, 0, 0, 0, 1]",Fox News Network THE FIVE,June 23 2020 Tuesday,-0.05263157894736842
+879,2167,Juan,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 23 2020 Tuesday,0.0
+880,2167,Dana,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 23 2020 Tuesday,0.08333333333333333
+881,2167,Joe Biden,"[0, -1, 0, 0, -1, 0, -1, -1]",Fox News Network THE FIVE,June 23 2020 Tuesday,-0.5
+882,2206,Shannon,"[0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 17 2020 Wednesday,0.3333333333333333
+883,2206,Trump,"[0, 0, 0, -1, -1, 0, 0, -1, -1, 0, -1, 0, 0, -1, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 17 2020 Wednesday,-0.3888888888888889
+884,2206,Bolton,"[-1, -1, 0, 0, 1, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,June 17 2020 Wednesday,-0.3333333333333333
+885,2206,Atlanta,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 17 2020 Wednesday,0.0
+886,2206,Brooks,"[-1, 0, 0, -1, -1, 0, -1, 0, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 17 2020 Wednesday,-0.5833333333333334
+887,2211,Trump,"[0, 0, 0, -1, -1, -1, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 18 2020 Thursday,-0.3333333333333333
+888,2211,Atlanta,"[0, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 18 2020 Thursday,-0.4117647058823529
+889,2211,Shannon,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 18 2020 Thursday,-0.08333333333333333
+890,2211,Rayshard Brooks,"[-1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 18 2020 Thursday,-0.875
+891,2211,John Bolton,"[-1, 0, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 18 2020 Thursday,-0.4
+892,2237,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 10 2020 Wednesday,0.05263157894736842
+893,2237,Trump,"[-1, 1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 10 2020 Wednesday,-0.6428571428571429
+894,2237,Seattle,"[-1, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 10 2020 Wednesday,-0.5384615384615384
+895,2237,Democrats,"[-1, 0, 1, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 10 2020 Wednesday,-0.14285714285714285
+896,2237,Minneapolis,"[0, -1, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 10 2020 Wednesday,-0.6666666666666666
+897,2252,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 22 2020 Monday,0.0
+898,2252,D.C.,"[0, 0, -1, -1, -1, 0, -1, 0, 1, 1, 1, 0, 1, 0, -1, 0, 1, 0, 1]",Fox News Network FOX NEWS @ NIGHT,June 22 2020 Monday,0.05263157894736842
+899,2252,Chicago,"[-1, 0, -1, -1, -1, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 22 2020 Monday,-0.6666666666666666
+900,2252,Seattle,"[-1, -1, 0, -1, -1, -1, 0, -1, 0, 1, -1]",Fox News Network FOX NEWS @ NIGHT,June 22 2020 Monday,-0.5454545454545454
+901,2252,Biden,"[0, 1, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 22 2020 Monday,0.4
+902,2275,American,"[-1, 1, 0, 0, -1, 1, 0]",Fox News Network INGRAHAM ANGLE,June 18 2020 Thursday,0.0
+903,2275,Trump,"[-1, 1, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 18 2020 Thursday,0.0
+904,2275,New York,"[-1, -1, 0, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,June 18 2020 Thursday,-0.6666666666666666
+905,2275,Roberts,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 18 2020 Thursday,-0.7272727272727273
+906,2275,John Roberts,"[-1, -1, -1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 18 2020 Thursday,-0.5
+907,2282,Trump,"[0, 0, 1, 1, 0, 0, 0, 0, 0, 0, -1, 1, -1, 1, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 25 2020 Thursday,0.17647058823529413
+908,2282,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 25 2020 Thursday,0.0
+909,2282,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 25 2020 Thursday,-0.8461538461538461
+910,2282,Senate,"[-1, -1, -1, -1, 1, -1]",Fox News Network FOX NEWS @ NIGHT,June 25 2020 Thursday,-0.6666666666666666
+911,2282,Republican,"[0, 0, -1, 0, -1, -1, 0, 0, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 25 2020 Thursday,-0.16666666666666666
+912,2311,American,"[0, 0, -1, -1, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 19 2020 Friday,-0.5
+913,2311,Republicans,"[-1, 0, -1, -1, -1, 0, 1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 19 2020 Friday,-0.5
+914,2311,Seattle,"[-1, 0, -1, 0, -1, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 19 2020 Friday,-0.5
+915,2311,Atlanta,[],Fox News Network TUCKER CARLSON TONIGHT,June 19 2020 Friday,
+916,2311,America,"[0, -1, 1, -1, -1, 0, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 19 2020 Friday,-0.5882352941176471
+917,2320,Flynn,"[0, -1, 0]",Fox News Network FOX AND FRIENDS,June 26 2020 Friday,-0.3333333333333333
+918,2320,the Logan Act,"[0, 0, -1, -1]",Fox News Network FOX AND FRIENDS,June 26 2020 Friday,-0.5
+919,2320,South Carolina,"[0, 0]",Fox News Network FOX AND FRIENDS,June 26 2020 Friday,0.0
+920,2320,America,"[-1, -1, -1]",Fox News Network FOX AND FRIENDS,June 26 2020 Friday,-1.0
+921,2320,Rupert,"[1, -1, 0]",Fox News Network FOX AND FRIENDS,June 26 2020 Friday,0.0
+922,2331,the White House,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.0
+923,2331,the National Guard,"[0, 1, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.75
+924,2331,Chuck,"[1, 0, 1, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.8
+925,2331,Secret Service,[0],Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.0
+926,2341,America,"[-1, -1, 0, -1, 0, -1, 1, 0, 1, -1, -1, -1, -1, -1, 0, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,June 7 2020 Sunday,-0.47058823529411764
+927,2341,the Democratic Party,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,June 7 2020 Sunday,-1.0
+928,2341,Bob Woodson,"[1, 0, 0, 0, 0, 0, -1, 0, 1]",Fox News Network LIFE LIBERTY LEVIN,June 7 2020 Sunday,0.1111111111111111
+929,2341,Shelby Steele,"[0, 0, 0, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,June 7 2020 Sunday,0.0
+930,2341,Democratic,"[0, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, 0, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,June 7 2020 Sunday,-0.6666666666666666
+931,2360,Laura,"[0, 1, 1, 0, 0]",Fox News Network INGRAHAM ANGLE,June 5 2020 Friday,0.4
+932,2360,Trump,"[-1, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, -1, 0, -1, -1, 1, 0]",Fox News Network INGRAHAM ANGLE,June 5 2020 Friday,-0.47368421052631576
+933,2360,Biden,"[0, -1, 0, -1, -1, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,June 5 2020 Friday,-0.3888888888888889
+934,2360,Democrats,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,June 5 2020 Friday,-0.7692307692307693
+935,2360,Lancet,"[-1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,June 5 2020 Friday,-0.75
+936,2366,U.S.,"[-1, -1, 1, 0, 0, 0, 0, -1, -1, 0, -1, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 26 2020 Friday,-0.42857142857142855
+937,2366,Trump,"[-1, 0, 0, 0, 1, -1, -1, 0, 0, 0, 1, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 26 2020 Friday,-0.2
+938,2366,Bret,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 26 2020 Friday,0.13333333333333333
+939,2366,American,"[0, -1, 0, 0, -1, -1, 1, -1, 0, 1, -1, -1, 0, 0, 0, 1, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 26 2020 Friday,-0.11764705882352941
+940,2366,China,"[-1, -1, -1, -1, -1, 0, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 26 2020 Friday,-0.7
+941,2367,Black Lives Matter,"[1, -1, 0, 1, -1, -1, 0, 0, 1, 0, 0, 0, 1, 0, -1, 0, -1, 0, -1, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 15 2020 Monday,-0.05
+942,2367,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 15 2020 Monday,0.0
+943,2367,Brooks,[],Fox News Network TUCKER CARLSON TONIGHT,June 15 2020 Monday,
+944,2367,Republican,"[0, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 15 2020 Monday,-0.6363636363636364
+945,2367,Americans,"[0, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 15 2020 Monday,-0.4
+946,2368,America,"[-1, 0, -1, -1, -1, -1, -1, 1, -1, -1, 1, 1]",Fox News Network INGRAHAM ANGLE,June 26 2020 Friday,-0.4166666666666667
+947,2368,Cuomo,"[-1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 26 2020 Friday,-0.8461538461538461
+948,2368,Tammy,"[0, -1, 0, 1, -1]",Fox News Network INGRAHAM ANGLE,June 26 2020 Friday,-0.2
+949,2368,Andrew Cuomo,"[-1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 26 2020 Friday,-0.875
+950,2368,The Ingraham Angle,"[0, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 26 2020 Friday,-0.6
+951,2386,Tucker,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 29 2020 Monday,0.1
+952,2386,St. Louis,"[-1, 0, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 29 2020 Monday,-0.3333333333333333
+953,2386,McCloskey,"[-1, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0, -1, -1, -1, 0, -1, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 29 2020 Monday,-0.5
+954,2386,Republican,"[0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 29 2020 Monday,0.0
+955,2386,Minneapolis,"[0, 0, 0, 0, 0, 0, -1, -1, 1]",Fox News Network TUCKER CARLSON TONIGHT,June 29 2020 Monday,-0.1111111111111111
+956,2390,Neil,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.23076923076923078
+957,2390,the National Guard,"[0, 0, 1, 0, 0, 1, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.5
+958,2390,the White House,"[0, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,-0.16666666666666666
+959,2390,Americans,"[1, 0, 0, -1, 1, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,0.14285714285714285
+960,2390,D.C.,"[-1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 5 2020 Friday,-0.5
+961,2413,New York,"[-1, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 8 2020 Monday,-0.3333333333333333
+962,2413,Stephanie,"[1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 8 2020 Monday,0.3333333333333333
+963,2453,Taser,[],Fox News Network FOX HANNITY,June 18 2020 Thursday,
+964,2453,Trump,"[-1, -1, -1, 0, 1, 0, -1, 0, 0, -1, 0, 1, 0, 1]",Fox News Network FOX HANNITY,June 18 2020 Thursday,-0.14285714285714285
+965,2453,Sean,"[1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network FOX HANNITY,June 18 2020 Thursday,0.18181818181818182
+966,2453,Geraldo,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 18 2020 Thursday,0.0
+967,2453,John Bolton,"[-1, -1, 0, -1, 0, -1, 1, -1]",Fox News Network FOX HANNITY,June 18 2020 Thursday,-0.5
+968,2458,Ed,"[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 19 2020 Friday,0.15
+969,2458,Trump,"[0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, -1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 19 2020 Friday,0.0
+970,2458,Tulsa,"[0, 0, -1, 0, 0, 0, -1, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 19 2020 Friday,-0.4
+971,2458,America,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 19 2020 Friday,0.07142857142857142
+972,2458,Oklahoma,"[0, 0, -1, -1, 0, 0, 0, -1, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 19 2020 Friday,-0.18181818181818182
+973,2459,Trump,"[-1, 0, 0, 0, 1, -1, -1, 1, 0, 0, 0, 0, 1, 0, -1, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 26 2020 Friday,0.0
+974,2459,Martha,"[0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 26 2020 Friday,0.3076923076923077
+975,2459,Joe Biden,"[1, 0, 0, 0, -1, 1, -1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 26 2020 Friday,-0.1
+976,2459,Donald Trump,"[-1, 0, 1, 0, -1, 0, 1, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 26 2020 Friday,-0.18181818181818182
+977,2459,Biden,"[1, -1, 0, 0, 0, -1, 1, -1, 0, 0, 0, -1, 0, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 26 2020 Friday,-0.1875
+978,2484,Biden,"[-1, 0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,June 24 2020 Wednesday,-0.55
+979,2484,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,June 24 2020 Wednesday,0.0
+980,2484,Trump,"[-1, 0, 0, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1, 1, 0, -1]",Fox News Network INGRAHAM ANGLE,June 24 2020 Wednesday,-0.5294117647058824
+981,2484,Flynn,"[0, -1, 0, -1, 1, 0, 0, -1, -1, -1, -1, -1, 1, 1, 0, 0]",Fox News Network INGRAHAM ANGLE,June 24 2020 Wednesday,-0.25
+982,2484,Democrats,"[-1, -1, -1, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,June 24 2020 Wednesday,-0.7333333333333333
+983,2500,Trump,"[0, 0, 0, -1, -1, -1, 0, 0, -1, 0, 0, 0, -1, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 18 2020 Thursday,-0.35294117647058826
+984,2500,John Bolton,"[0, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, -1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 18 2020 Thursday,-0.2777777777777778
+985,2500,Brooks,"[0, 0, -1, 0, 0, 0, -1, -1, 0, 1, 1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 18 2020 Thursday,-0.14285714285714285
+986,2500,China,"[-1, -1, 0, -1, -1, 0, -1, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 18 2020 Thursday,-0.7
+987,2500,Atlanta,"[0, -1, -1, 0, 0, 0, 0, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 18 2020 Thursday,-0.1111111111111111
+988,2501,America,"[-1, -1, 0, 1, 0, -1, -1, -1, -1, -1, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 9 2020 Tuesday,-0.5333333333333333
+989,2501,Chicago,"[0, 0, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 9 2020 Tuesday,-0.75
+990,2501,Americans,"[0, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 9 2020 Tuesday,-0.8
+991,2501,Tucker,"[0, 0, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,June 9 2020 Tuesday,-0.16666666666666666
+992,2501,African-Americans,"[-1, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,June 9 2020 Tuesday,-0.8333333333333334
+993,2514,Trump,"[0, 0, 0, 0, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 24 2020 Wednesday,-0.25
+994,2514,American,"[-1, 1, -1, -1, 1, 1, 0, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 24 2020 Wednesday,-0.09090909090909091
+995,2514,John Bolton,"[0, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 24 2020 Wednesday,-0.2
+996,2514,Michael Flynn,"[0, 0, 0, 0, 0, 1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 24 2020 Wednesday,-0.2222222222222222
+997,2514,Senate,"[-1, 0, -1, 1, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 24 2020 Wednesday,0.0
+998,2515,Seattle,"[0, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 11 2020 Thursday,-0.2777777777777778
+999,2515,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 11 2020 Thursday,0.0
+1000,2515,California,"[0, 0, 0, 0, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 11 2020 Thursday,-0.14285714285714285
+1001,2515,Harris,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 11 2020 Thursday,0.0
+1002,2515,Congress,"[-1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 11 2020 Thursday,-0.5
+1003,2527,George Floyd,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 1, 1, 1, 0, 0, 0, -1, 0]",Fox News Network THE FIVE,June 4 2020 Thursday,0.0
+1004,2527,Juan,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,June 4 2020 Thursday,0.09090909090909091
+1005,2527,Dana,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE FIVE,June 4 2020 Thursday,0.09090909090909091
+1006,2527,Minneapolis,"[0, 0, 0, 0, -1, -1, 1]",Fox News Network THE FIVE,June 4 2020 Thursday,-0.14285714285714285
+1007,2527,America,"[1, 1, 1, -1, 1, -1, 0, 0, 1]",Fox News Network THE FIVE,June 4 2020 Thursday,0.3333333333333333
+1008,2533,Seattle,"[-1, 0, 0, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 12 2020 Friday,-0.5555555555555556
+1009,2533,Martha,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 12 2020 Friday,0.23076923076923078
+1010,2533,George Floyd,"[0, -1, 0, 0, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 12 2020 Friday,-0.25
+1011,2533,Democrats,"[0, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 12 2020 Friday,-0.75
+1012,2533,Americans,"[1, -1, 1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 12 2020 Friday,-0.2
+1013,2538,Biden,"[-1, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 25 2020 Thursday,-0.16666666666666666
+1014,2538,Chicago,[],Fox News Network THE STORY WITH MARTHA MACCALLUM,June 25 2020 Thursday,
+1015,2538,Joe Biden,"[0, 1, 1, 1, 0, 0, 0, 1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 25 2020 Thursday,0.2727272727272727
+1016,2538,Trump,"[0, 0, 0, -1, 0, -1, 1, 0, 0, 1, 0, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 25 2020 Thursday,-0.07142857142857142
+1017,2538,Coronavirus,"[0, 0, -1, -1, -1, 0, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 25 2020 Thursday,-0.5555555555555556
+1018,2541,St. Paul,"[0, -1, 1, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 4 2020 Thursday,0.2
+1019,2541,Floyd,"[0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 4 2020 Thursday,-0.3333333333333333
+1020,2563,Seattle,"[-1, -1, 0, 0, 0, 0, -1, -1, -1, 0, -1, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 12 2020 Friday,-0.4666666666666667
+1021,2563,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 12 2020 Friday,0.0
+1022,2563,Constitution,"[0, 0, 0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 12 2020 Friday,0.16666666666666666
+1023,2563,Jacksonville,"[0, 1, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 12 2020 Friday,0.0
+1024,2563,North Carolina,"[0, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 12 2020 Friday,-0.5
+1025,2598,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 11 2020 Thursday,0.0
+1026,2598,Seattle,"[0, 0, -1, 0, -1, 0, -1, -1, 0, -1, -1, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 11 2020 Thursday,-0.5333333333333333
+1027,2598,the United States,"[-1, 0, 0, 1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 11 2020 Thursday,0.0
+1028,2598,Texas,"[-1, 0, -1, -1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 11 2020 Thursday,-0.5714285714285714
+1029,2598,America,"[1, 0, 0, 0, -1, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 11 2020 Thursday,-0.1
+1030,2605,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 1 2020 Monday,0.0
+1031,2605,Trump,"[0, 0, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 1 2020 Monday,-0.25
+1032,2605,the White House,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 1 2020 Monday,-0.17647058823529413
+1033,2605,the Rose Garden,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 1 2020 Monday,0.0
+1034,2605,D.C.,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 1 2020 Monday,0.0
+1035,2647,America,"[1, 1, 1, 1, 1, -1, -1, -1, 1, 1, 0, 1, -1, 0, 1, 1, 1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 20 2020 Saturday,0.4117647058823529
+1036,2647,Joe Biden,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 20 2020 Saturday,-0.7894736842105263
+1037,2647,Biden,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 20 2020 Saturday,-0.65
+1038,2647,American,"[0, 1, 1, 0, 1, -1, -1, 1, 0, 0, -1, 0, -1, 0, 0, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 20 2020 Saturday,-0.11764705882352941
+1039,2647,Democrats,"[-1, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 20 2020 Saturday,-0.7692307692307693
+1040,2648,Shannon,"[0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1]",Fox News Network FOX NEWS @ NIGHT,June 19 2020 Friday,0.6923076923076923
+1041,2648,Trump,"[0, 0, 1, -1, 0, 0, 0, -1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 19 2020 Friday,-0.18181818181818182
+1042,2648,D.C.,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,June 19 2020 Friday,0.0
+1043,2648,Oklahoma,"[-1, 0, 0, 0, 0, -1, 1, 0, -1, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,June 19 2020 Friday,-0.23076923076923078
+1044,2648,Tulsa,"[0, 0, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,June 19 2020 Friday,-0.6666666666666666
+1045,2652,Trump,"[0, 1, 1, 0, 1, 0, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 8 2020 Monday,0.4
+1046,2652,Bret,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 8 2020 Monday,0.2
+1047,2652,Democrats,"[0, 0, 1, 0, -1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 8 2020 Monday,-0.14285714285714285
+1048,2652,the White House,"[0, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 8 2020 Monday,0.2
+1049,2652,New York,"[0, -1, 0, 0, 0, 1, 1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 8 2020 Monday,0.1111111111111111
+1050,2720,Juan,"[0, 0, 0, 0, 0, -1, 1, -1, 0, 0, 0, -1, -1, 0, 1, 0, 0, 0]",Fox News Network THE FIVE,June 19 2020 Friday,-0.1111111111111111
+1051,2720,Trump,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0]",Fox News Network THE FIVE,June 19 2020 Friday,-0.13333333333333333
+1052,2720,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network THE FIVE,June 19 2020 Friday,0.08333333333333333
+1053,2720,Dana,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network THE FIVE,June 19 2020 Friday,0.07142857142857142
+1054,2720,Biden,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 1]",Fox News Network THE FIVE,June 19 2020 Friday,0.0
+1055,2721,Trump,"[0, 0, 0, -1, -1, -1, -1, 1, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1]",Fox News Network MEDIA BUZZ,June 7 2020 Sunday,-0.5555555555555556
+1056,2721,American,"[-1, 0, -1, 0, 0, 0]",Fox News Network MEDIA BUZZ,June 7 2020 Sunday,-0.3333333333333333
+1057,2721,Fox News,"[-1, 0, -1, 0, 0, 0]",Fox News Network MEDIA BUZZ,June 7 2020 Sunday,-0.3333333333333333
+1058,2721,the White House,"[-1, -1, -1, -1, -1, 0, 0]",Fox News Network MEDIA BUZZ,June 7 2020 Sunday,-0.7142857142857143
+1059,2721,Washington,"[-1, -1, -1, 0, -1, 0, 0, -1, -1]",Fox News Network MEDIA BUZZ,June 7 2020 Sunday,-0.6666666666666666
+1060,2722,Atlanta,"[0, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 13 2020 Saturday,-0.14285714285714285
+1061,2722,America,"[-1, -1, 0, -1, -1, 0, 1, -1, -1, -1, 0, 0, 1, -1, -1, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 13 2020 Saturday,-0.5555555555555556
+1062,2722,Seattle,"[-1, -1, -1, -1, -1, 0, 0, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 13 2020 Saturday,-0.6666666666666666
+1063,2722,Walter Scott,"[0, 0, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,June 13 2020 Saturday,-0.5
+1064,2722,Bernie,[],Fox News Network JUSTICE WITH JUDGE PIRRO,June 13 2020 Saturday,
+1065,2727,Martha,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 3 2020 Wednesday,0.15789473684210525
+1066,2727,Trump,"[0, 0, 0, 0, 0, 0, -1, -1, -1, 1, -1, 0, -1, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 3 2020 Wednesday,-0.375
+1067,2727,St. Louis,"[-1, 0, 0, 0, 1, 1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 3 2020 Wednesday,0.375
+1068,2727,Joe Biden,"[1, 1, 1, 1, -1, 1, 1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 3 2020 Wednesday,0.4444444444444444
+1069,2727,David Dorn,[],Fox News Network THE STORY WITH MARTHA MACCALLUM,June 3 2020 Wednesday,
+1070,2733,Martha,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 5 2020 Friday,0.07142857142857142
+1071,2733,George Floyd,"[0, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 5 2020 Friday,-0.4
+1072,2733,D.C.,"[0, 0, 0, -1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 5 2020 Friday,-0.2857142857142857
+1073,2733,America,"[-1, 0, 0, -1, 1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 5 2020 Friday,0.14285714285714285
+1074,2733,Trump,"[0, -1, 1, 1, 0, 0, -1, 1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 5 2020 Friday,0.0
+1075,2737,Neil,"[0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 19 2020 Friday,0.1111111111111111
+1076,2737,Tulsa,"[0, 0, 0, 0, -1, 1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 19 2020 Friday,-0.1111111111111111
+1077,2737,Trump,"[-1, -1, -1, -1, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 19 2020 Friday,-0.625
+1078,2737,Chicago,"[0, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 19 2020 Friday,-0.16666666666666666
+1079,2737,the White House,"[0, -1, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 19 2020 Friday,-0.3333333333333333
+1080,2742,Martha,"[0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 2 2020 Tuesday,0.2
+1081,2742,Biden,"[1, 1, 1, 0, -1, 1, -1, 0, 0, 1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 2 2020 Tuesday,0.08333333333333333
+1082,2742,Marc,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 2 2020 Tuesday,0.0
+1083,2742,American,"[-1, 0, 0, 0, 0, 0, -1, 0, 0, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 2 2020 Tuesday,-0.09090909090909091
+1084,2742,Ferguson,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 2 2020 Tuesday,0.0
+1085,2765,Antifa Trying,"[-1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network WATTERS WORLD,June 6 2020 Saturday,-0.15384615384615385
+1086,2765,American,"[-1, -1, 0, 1, 0, -1, 0, 0, -1, 1, 0, 0, -1, 0, 0]",Fox News Network WATTERS WORLD,June 6 2020 Saturday,-0.2
+1087,2765,America,"[0, -1, 1, -1, 1, -1, -1, 1, 0, 0, 1, 1, -1, 1]",Fox News Network WATTERS WORLD,June 6 2020 Saturday,0.07142857142857142
+1088,2765,Trump,[],Fox News Network WATTERS WORLD,June 6 2020 Saturday,
+1089,2765,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network WATTERS WORLD,June 6 2020 Saturday,0.0
+1090,2767,David,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 1 2020 Monday,0.0
+1091,2767,Minneapolis,"[0, 0, 0, 0, -1, -1, -1, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 1 2020 Monday,-0.2
+1092,2767,New York,"[0, -1, 0, 0, -1, -1, 1, 0, -1, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 1 2020 Monday,-0.3076923076923077
+1093,2767,George Floyd,[],Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 1 2020 Monday,
+1094,2767,the White House,"[-1, 0, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,June 1 2020 Monday,-0.3333333333333333
+1095,2776,New York,"[-1, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1, 0]",Fox News Network THE FIVE,June 2 2020 Tuesday,-0.375
+1096,2776,St. Louis,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE FIVE,June 2 2020 Tuesday,-1.0
+1097,2776,Trump,"[-1, -1, 0, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network THE FIVE,June 2 2020 Tuesday,-0.6470588235294118
+1098,2776,Riots,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network THE FIVE,June 2 2020 Tuesday,-0.21428571428571427
+1099,2776,Affecting Cities Like,[],Fox News Network THE FIVE,June 2 2020 Tuesday,
+1100,2787,Martha,"[0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 22 2020 Monday,0.3333333333333333
+1101,2787,Chicago,"[0, 0, 0, -1, -1, -1, 0, -1, 0, 1, -1, 0, 0, 0, -1, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 22 2020 Monday,-0.3684210526315789
+1102,2787,China,"[-1, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 22 2020 Monday,-0.6428571428571429
+1103,2787,Texas,"[0, -1, -1, 0, -1, -1, -1, -1, 0, -1, 1, 1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 22 2020 Monday,-0.46153846153846156
+1104,2787,COVID-19,"[-1, 0, -1, 1, -1, 0, -1, 0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,June 22 2020 Monday,-0.16666666666666666
+1105,2788,Biden,"[0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 29 2020 Monday,-0.47619047619047616
+1106,2788,Joe Biden,"[-1, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 29 2020 Monday,-0.8421052631578947
+1107,2788,Democrats,"[-1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 29 2020 Monday,-0.8888888888888888
+1108,2788,Chicago,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 29 2020 Monday,-0.9375
+1109,2788,Joe,"[0, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX HANNITY,June 29 2020 Monday,-0.6875
+1110,2792,George Floyd,[],Fox News Network FOX HANNITY,June 1 2020 Monday,
+1111,2792,Sean,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0]",Fox News Network FOX HANNITY,June 1 2020 Monday,0.15
+1112,2792,New York,"[0, 0, 0, 1, -1, -1, -1, -1, -1, 0, -1, 0, -1, 1, 0, 0]",Fox News Network FOX HANNITY,June 1 2020 Monday,-0.3125
+1113,2792,Antifa,[],Fox News Network FOX HANNITY,June 1 2020 Monday,
+1114,2792,America,[],Fox News Network FOX HANNITY,June 1 2020 Monday,
+1115,2804,Trump,"[1, 1, 0, -1, 0, -1, -1, -1, 0, -1, 1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 5 2020 Friday,-0.2857142857142857
+1116,2804,Americans,"[-1, -1, -1, -1, 0, 0, 1, -1, -1, -1, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 5 2020 Friday,-0.45454545454545453
+1117,2804,Joe Biden,"[-1, -1, -1, 0, -1, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 5 2020 Friday,-0.5
+1118,2804,Biden,"[-1, -1, 0, 0, -1, -1, 0, 0, 0, 1, -1, -1, -1, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 5 2020 Friday,-0.4117647058823529
+1119,2804,American,"[0, 1, 1, -1, 0, 1, -1, 0, 0, 1, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 5 2020 Friday,0.25
+1120,2817,Sean,"[1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]",Fox News Network FOX HANNITY,June 10 2020 Wednesday,0.29411764705882354
+1121,2817,Joe Biden,"[-1, -1, -1, 0, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, 0]",Fox News Network FOX HANNITY,June 10 2020 Wednesday,-0.6666666666666666
+1122,2817,Biden,"[-1, -1, 0, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,June 10 2020 Wednesday,-0.7
+1123,2817,Seattle,"[0, -1, -1, -1, 0, -1, 0, 0, -1, -1, 0]",Fox News Network FOX HANNITY,June 10 2020 Wednesday,-0.5454545454545454
+1124,2817,Confederate,[],Fox News Network FOX HANNITY,June 10 2020 Wednesday,
+1125,2821,Trump,"[1, 0, 0, -1, 1, -1, 0, 0, 1, 1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 11 2020 Thursday,0.08333333333333333
+1126,2821,Bret,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 11 2020 Thursday,0.0
+1127,2821,Seattle,"[-1, -1, -1, 0, -1, -1, -1, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 11 2020 Thursday,-0.6363636363636364
+1128,2821,ICC,"[-1, -1, -1, 0, -1, -1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 11 2020 Thursday,-0.7777777777777778
+1129,2821,Dallas,"[0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 11 2020 Thursday,0.0
+1130,2843,Trump,"[0, 0, -1, -1, 0, 0, 0, -1, -1, 1, -1, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 22 2020 Monday,-0.3125
+1131,2843,Joe Biden,"[-1, 0, 0, -1, 0, -1, 0, 0, -1, -1, 0, 0, -1, -1, -1, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 22 2020 Monday,-0.5555555555555556
+1132,2843,Biden,"[1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, -1, -1, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 22 2020 Monday,-0.05
+1133,2843,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 22 2020 Monday,0.0
+1134,2843,Tulsa,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 22 2020 Monday,-0.1
+1135,2853,Trump,"[1, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 19 2020 Friday,-0.125
+1136,2853,Oklahoma,"[0, 0, -1, 0, 0, -1, -1, -1, 0, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 19 2020 Friday,-0.23076923076923078
+1137,2853,Tulsa,"[0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 19 2020 Friday,-0.18181818181818182
+1138,2853,Biden,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 19 2020 Friday,0.0
+1139,2853,Mike,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,June 19 2020 Friday,0.0
+1140,2870,Joni Ernst,"[1, 1, 0]",Fox News Network FOX HANNITY,June 26 2020 Friday,0.6666666666666666
+1141,2870,Andy Biggs,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 26 2020 Friday,0.0
+1142,2870,Debbie Lesko,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network FOX HANNITY,June 26 2020 Friday,0.08333333333333333
+1143,2870,Democrats,"[-1, -1, 0, -1, -1, 0, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,June 26 2020 Friday,-0.6666666666666666
+1144,2870,Joe Biden,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0]",Fox News Network FOX HANNITY,June 26 2020 Friday,-0.75
+1145,2871,Joe Biden,"[0, 0, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, 0, -1, 0, -1, -1, 0, -1, 0]",Fox News Network FOX HANNITY,June 19 2020 Friday,-0.55
+1146,2871,Oklahoma,"[1, 1, -1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0]",Fox News Network FOX HANNITY,June 19 2020 Friday,0.29411764705882354
+1147,2871,Trump,"[1, 0, -1, 1, 1, -1, 1, 0, -1, 0, 0, 1, 0, 0, -1, 1, -1]",Fox News Network FOX HANNITY,June 19 2020 Friday,0.058823529411764705
+1148,2871,Jason,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,June 19 2020 Friday,0.05
+1149,2871,Congress,"[-1, 0, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, -1, 0]",Fox News Network FOX HANNITY,June 19 2020 Friday,-0.5

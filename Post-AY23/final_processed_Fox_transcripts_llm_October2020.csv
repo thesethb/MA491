@@ -1,0 +1,1347 @@
+,Transcript,Topic,Sentiment,Program,Date,avg_sentiment
+0,12,Shannon,"[0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 28 2020 Wednesday,0.15
+1,12,Trump,"[0, 1, 0, 0, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1, -1, 1, 0]",Fox News Network FOX NEWS @ NIGHT,October 28 2020 Wednesday,-0.29411764705882354
+2,12,Biden,"[0, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, 1, 0]",Fox News Network FOX NEWS @ NIGHT,October 28 2020 Wednesday,-0.21052631578947367
+3,12,Joe Biden,"[0, -1, -1, 0, -1, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 28 2020 Wednesday,-0.4
+4,12,the New York Times,"[-1, 0, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 28 2020 Wednesday,-0.6666666666666666
+5,41,Biden,"[0, -1, -1, 0, -1, -1, 0, -1, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0]",Fox News Network FOX HANNITY,October 12 2020 Monday,-0.4444444444444444
+6,41,Joe,"[-1, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, 0, 1]",Fox News Network FOX HANNITY,October 12 2020 Monday,-0.5263157894736842
+7,41,Joe Biden,"[-1, -1, -1, -1, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, -1, 0]",Fox News Network FOX HANNITY,October 12 2020 Monday,-0.5
+8,41,Democrats,"[-1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1]",Fox News Network FOX HANNITY,October 12 2020 Monday,-0.7857142857142857
+9,41,Trump,"[1, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0]",Fox News Network FOX HANNITY,October 12 2020 Monday,0.3333333333333333
+10,54,Oregon,"[0, 0, -1, 0, 0, -1, 0, 0, -1]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,-0.3333333333333333
+11,54,Portland,"[-1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,-1.0
+12,54,Peter DeFazio,"[-1, 0, 0]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,-0.3333333333333333
+13,54,Congress,[],Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,
+14,61,Trump,"[-1, -1, 0, -1, 0, -1, 0, 1, -1, -1, -1, 0, 0, -1, 0, 0, 0, 1, 0, -1]",Fox News Network THE FIVE,October 21 2020 Wednesday,-0.35
+15,61,Joe Biden,"[-1, -1, 0, 1, -1, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, -1, -1, -1]",Fox News Network THE FIVE,October 21 2020 Wednesday,-0.4
+16,61,Democrats,"[-1, 0, 0, 0, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, 0, -1, -1]",Fox News Network THE FIVE,October 21 2020 Wednesday,-0.5882352941176471
+17,61,Biden,"[-1, -1, -1, -1, -1, 0, 0, -1, 0, 0, 0, -1, 0, -1, 0, 0, -1, -1]",Fox News Network THE FIVE,October 21 2020 Wednesday,-0.5555555555555556
+18,61,Juan,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE FIVE,October 21 2020 Wednesday,0.0
+19,67,Democrats,"[0, 0, 0, -1, -1, 0, 0, -1, -1, 0]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,-0.4
+20,67,Alyssa,"[0, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.2222222222222222
+21,67,American,"[0, 0, 0, 0, -1, 1, 0]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.0
+22,67,White House,"[0, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.0
+23,67,the White House,"[0, 0, 0, 1, 0]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.2
+24,68,the White House,"[0, -1, 0, -1, -1, 0]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,-0.5
+25,68,Alyssa,"[0, 0, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,0.0
+26,68,White House,"[0, 0, -1, 0, -1, -1, 0]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,-0.42857142857142855
+27,68,Trump,"[0, 0, -1, 0]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,-0.25
+28,68,Americans,"[1, 0, 1, 0]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,0.5
+29,107,Trump,"[-1, 0, -1, 0, 0, -1, 1, -1, -1, 0, -1, -1, 1, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 13 2020 Tuesday,-0.4375
+30,107,the Affordable Care Act,"[0, -1, -1, 0, 0, 0, -1, -1, 1, 1, 1, -1, 0, 1, 0, 1, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 13 2020 Tuesday,-0.05
+31,107,Barrett,"[-1, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 13 2020 Tuesday,-0.14285714285714285
+32,107,Americans,"[-1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 13 2020 Tuesday,-0.6
+33,107,Harris,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 13 2020 Tuesday,-0.18181818181818182
+34,108,China,"[-1, -1, 0, 0, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 13 2020 Tuesday,-0.6
+35,108,Amy Coney Barrett,"[0, 0, 0, 1, -1, -1, -1, 0, -1, -1, -1, 1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 13 2020 Tuesday,-0.38461538461538464
+36,108,NBA,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 13 2020 Tuesday,-0.7692307692307693
+37,108,Tucker,"[0, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 13 2020 Tuesday,-0.2727272727272727
+38,108,Democrats,"[0, 0, 0, -1, -1, -1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 13 2020 Tuesday,-0.5
+39,109,Trump,"[1, 1, -1, 0, 0, -1, -1, -1, 1, 1, 1, 1, -1, 0, 1, 0, 0, -1, 1, 1]",Fox News Network FOX HANNITY,October 26 2020 Monday,0.15
+40,109,Joe Biden,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 26 2020 Monday,-0.9411764705882353
+41,109,Senate,"[1, 0, 0, -1, -1, 1, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 1]",Fox News Network FOX HANNITY,October 26 2020 Monday,0.05555555555555555
+42,109,American,"[1, 1, -1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1]",Fox News Network FOX HANNITY,October 26 2020 Monday,0.42857142857142855
+43,109,Biden,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1]",Fox News Network FOX HANNITY,October 26 2020 Monday,-0.7
+44,136,Trump,"[0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1]",Fox News Network MEDIA BUZZ,October 25 2020 Sunday,0.17647058823529413
+45,136,Joe Biden,"[1, -1, 0, 0, 1, -1, 0, -1, 0, -1, 0, 1, -1, 0, -1, -1, -1, 0]",Fox News Network MEDIA BUZZ,October 25 2020 Sunday,-0.2777777777777778
+46,136,Biden,"[0, 0, 0, -1, -1, 0, -1, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, -1]",Fox News Network MEDIA BUZZ,October 25 2020 Sunday,-0.2222222222222222
+47,136,Hunter Biden,"[0, 0, -1, 0, -1, 0, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network MEDIA BUZZ,October 25 2020 Sunday,-0.5294117647058824
+48,136,American,"[0, 0, 1, 1, -1, 1, 0, 0, 0, 0, 1, -1, 1, -1]",Fox News Network MEDIA BUZZ,October 25 2020 Sunday,0.14285714285714285
+49,175,Trump,"[0, 1, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 29 2020 Thursday,0.0625
+50,175,Biden,"[-1, -1, -1, -1, 0, 1, 1, -1, 0, 0, -1, -1, -1, 0, 0, 0, -1, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,October 29 2020 Thursday,-0.4
+51,175,Joe Biden,"[-1, 0, -1, 0, 0, 0, -1, 0, -1, -1, 1, 1, -1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 29 2020 Thursday,-0.25
+52,175,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 29 2020 Thursday,0.0
+53,175,Michigan,"[-1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 29 2020 Thursday,-0.125
+54,178,Joe Biden,"[-1, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,October 9 2020 Friday,-0.75
+55,178,Trump,"[0, -1, 0, 0, -1, 0, 0, 1, -1, 1, 0, -1, -1, -1, 0, 1, 0]",Fox News Network FOX HANNITY,October 9 2020 Friday,-0.17647058823529413
+56,178,HUD,"[1, 1]",Fox News Network FOX HANNITY,October 9 2020 Friday,1.0
+57,178,Ben Carson,"[0, 1, 1, 0]",Fox News Network FOX HANNITY,October 9 2020 Friday,0.5
+58,178,Sean,"[-1, 0, 1]",Fox News Network FOX HANNITY,October 9 2020 Friday,0.0
+59,185,Joe Biden,"[0, -1, 1, -1, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 16 2020 Friday,-0.35
+60,185,Georgia,"[0, 0, 0, 1, 0, 1, 1, 1, -1, 0, 0, 0, 0, 1, 0, -1, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 16 2020 Friday,0.05
+61,185,Biden,"[0, -1, -1, -1, 0, -1, 1, -1, 0, 0, 0, 1, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 16 2020 Friday,-0.4117647058823529
+62,185,Trump,"[0, 0, -1, -1, -1, 0, -1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 16 2020 Friday,-0.05555555555555555
+63,185,America,"[-1, 1, 1, 0, 1, 1, 0, 0, 0, -1, 1, -1, -1, 1, 0, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 16 2020 Friday,0.0
+64,196,Lindsey Graham,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1]",Fox News Network FOX HANNITY,October 20 2020 Tuesday,-0.23529411764705882
+65,196,Trump,"[-1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, 1, 0]",Fox News Network FOX HANNITY,October 20 2020 Tuesday,0.15789473684210525
+66,196,Joe Biden,"[-1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, 0, 0, -1, -1, 0, 0, -1, -1, 0]",Fox News Network FOX HANNITY,October 20 2020 Tuesday,-0.65
+67,196,Democrats,"[-1, -1, 0, -1, -1, 0, 0, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 20 2020 Tuesday,-0.6470588235294118
+68,196,Biden,"[-1, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, 0]",Fox News Network FOX HANNITY,October 20 2020 Tuesday,-0.7058823529411765
+69,197,Trump,"[1, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 30 2020 Friday,-0.0625
+70,197,Biden,"[-1, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 30 2020 Friday,-0.16666666666666666
+71,197,Minnesota,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 30 2020 Friday,-0.07692307692307693
+72,197,Joe Biden,"[0, 0, 0, 0, 0, -1, -1, -1, 1, -1, 0, 0, 1, 0, -1, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 30 2020 Friday,-0.2222222222222222
+73,197,Michigan,"[0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 30 2020 Friday,-0.16666666666666666
+74,210,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 15 2020 Thursday,0.0
+75,210,Senate,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 15 2020 Thursday,-0.21428571428571427
+76,210,Democrats,"[0, 0, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, 0, 0, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 15 2020 Thursday,-0.5294117647058824
+77,210,Twitter,"[-1, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 15 2020 Thursday,-0.5333333333333333
+78,210,Joe Biden,"[0, 0, 0, -1, 0, -1, 0, 0, -1, -1, -1, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 15 2020 Thursday,-0.4
+79,217,Trump,"[0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, -1, 0, 1, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 29 2020 Thursday,0.0
+80,217,Senate,"[0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 29 2020 Thursday,-0.13333333333333333
+81,217,Biden,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 29 2020 Thursday,-0.16666666666666666
+82,217,Florida,"[0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 29 2020 Thursday,0.0
+83,217,Joe Biden,"[0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 29 2020 Thursday,-0.18181818181818182
+84,228,Biden,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0]",Fox News Network WATTERS WORLD,October 10 2020 Saturday,-0.8421052631578947
+85,228,Trump,"[1, -1, 0, 0, -1, 1, 0, -1, 0, 0, 1, -1]",Fox News Network WATTERS WORLD,October 10 2020 Saturday,-0.08333333333333333
+86,228,Joe Biden,"[-1, -1, -1, 0, 0, 0, 0, -1, -1, 0, -1, 0]",Fox News Network WATTERS WORLD,October 10 2020 Saturday,-0.5
+87,228,Florida,"[0, 0, 0, 1, -1, 1, 1, 0, 0, 0]",Fox News Network WATTERS WORLD,October 10 2020 Saturday,0.2
+88,228,the Supreme Court,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network WATTERS WORLD,October 10 2020 Saturday,0.0
+89,231,Trump,"[0, -1, -1, -1, -1, 0, 0, 1, 1, -1, 0, -1, -1, -1, 0, 1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,October 8 2020 Thursday,-0.3684210526315789
+90,231,Biden,"[0, 0, -1, 0, 0, 0, 0, 0, 1, -1, -1, 0, -1, 0, 0, 0, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,October 8 2020 Thursday,-0.2631578947368421
+91,231,Kamala,"[-1, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 8 2020 Thursday,-0.8
+92,231,COVID,"[0, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 8 2020 Thursday,-0.8
+93,231,Joe Biden,"[0, 1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 8 2020 Thursday,-0.5555555555555556
+94,233,Joe Biden,"[0, 0, 0, 0, 0, 1, 1, -1, -1, 0, 0, 1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,0.0
+95,233,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,0.0
+96,233,Trump,"[0, -1, -1, 1, -1, 0, -1, 0, 0, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,-0.3076923076923077
+97,233,Biden,"[-1, 0, 0, 0, -1, 1, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,-0.25
+98,233,COVID,"[-1, -1, 0, -1, 0, 0, 0, -1, -1, -1, -1, -1, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,-0.6
+99,234,Joe Biden,"[-1, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 14 2020 Wednesday,-0.65
+100,234,Twitter,"[-1, 0, -1, -1, 0, 0, -1, 0, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 14 2020 Wednesday,-0.4444444444444444
+101,234,Burisma,"[-1, -1, 0, 0, -1, -1, 0, 0, 0, -1, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 14 2020 Wednesday,-0.5714285714285714
+102,234,Hunter Biden,"[-1, 0, -1, -1, -1, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 14 2020 Wednesday,-0.75
+103,234,American,"[0, 0, 0, 1, -1, 0, 0, 0, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 14 2020 Wednesday,-0.18181818181818182
+104,246,Kamala Harris,"[0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 1 2020 Thursday,-0.3333333333333333
+105,246,Tucker,"[-1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 1 2020 Thursday,-0.13333333333333333
+106,246,BLM,"[-1, -1, -1, -1, -1, 0, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 1 2020 Thursday,-0.5625
+107,246,C.D.C.,"[0, -1, 0, 0, -1, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 1 2020 Thursday,-0.4444444444444444
+108,246,Kentucky,"[-1, 0, -1, -1, -1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 1 2020 Thursday,-0.6666666666666666
+109,252,Trump,"[-1, 1, -1, 0, -1, 1, 0, 1, 0, 0, 0, -1, 1, 1, 0]",Fox News Network THE FIVE,October 28 2020 Wednesday,0.06666666666666667
+110,252,Joe Biden,"[0, -1, -1, -1, 0, 0, -1, -1, 0, 0, 0, -1, -1, 0, 0, -1, -1, 0, -1]",Fox News Network THE FIVE,October 28 2020 Wednesday,-0.5263157894736842
+111,252,Juan,"[0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network THE FIVE,October 28 2020 Wednesday,0.0
+112,252,Jesse,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 28 2020 Wednesday,-0.07692307692307693
+113,252,Biden,"[0, -1, 0, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1]",Fox News Network THE FIVE,October 28 2020 Wednesday,-0.3684210526315789
+114,260,Joe Biden,"[-1, 0, -1, 1, 0, 0, 0, 0, -1, 1, 0, 0, -1, 0, 0, 0, 0, -1, 1, 0]",Fox News Network FOX NEWS @ NIGHT,October 23 2020 Friday,-0.1
+115,260,Trump,"[1, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 23 2020 Friday,0.05263157894736842
+116,260,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 23 2020 Friday,0.0
+117,260,Biden,"[0, -1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, -1, 1, 0, -1, -1, 1]",Fox News Network FOX NEWS @ NIGHT,October 23 2020 Friday,0.0
+118,260,China,"[-1, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 23 2020 Friday,-0.5
+119,269,Joe Biden,"[0, -1, 0, 0, -1, -1, 0, 0, 0, 0, 1, -1, 1, -1, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 1 2020 Thursday,-0.1875
+120,269,Senate,"[0, -1, -1, -1, 0, 0, -1, 1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 1 2020 Thursday,-0.5
+121,269,Martha,"[0, 0, 0, 0, 0, 1, 1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 1 2020 Thursday,0.4444444444444444
+122,269,Trump,"[0, 0, 1, 1, 0, 0, -1, -1, -1, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 1 2020 Thursday,-0.09090909090909091
+123,269,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 1 2020 Thursday,-1.0
+124,321,Barrett,"[1, 0]",Fox News Network FOX AND FRIENDS,October 14 2020 Wednesday,0.5
+125,322,Las Vegas,"[0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,0.25
+126,337,Senate,"[0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 1 2020 Thursday,-0.125
+127,337,Biden,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 1 2020 Thursday,-0.17647058823529413
+128,337,Catholic,"[-1, -1, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 1 2020 Thursday,-0.05
+129,337,Bret,"[1, 1, 0, 0, 1, 0, 1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 1 2020 Thursday,0.4
+130,337,Joe Biden,"[-1, 0, 0, 0, -1, -1, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 1 2020 Thursday,-0.45454545454545453
+131,402,Neil,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,0.0
+132,402,Joe Biden,"[-1, 0, -1, 0, 0, -1, -1, -1, 0, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,-0.3333333333333333
+133,402,Democrats,"[0, 0, 0, -1, 1, 1, 1, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,0.09090909090909091
+134,402,the White House,"[1, 0, 1, 0, -1, 0, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,0.0
+135,402,North Carolina,"[0, 0, -1, -1, 0, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,-0.5
+136,403,Trump,"[-1, -1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, -1, 0]",Fox News Network THE NEXT REVOLUTION,October 25 2020 Sunday,0.10526315789473684
+137,403,Biden,"[0, 1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,October 25 2020 Sunday,-0.6842105263157895
+138,403,China,"[-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, 1, -1, -1, 0, -1, 1, 0, 0, 0]",Fox News Network THE NEXT REVOLUTION,October 25 2020 Sunday,-0.4
+139,403,America,"[1, 0, 1, 1, -1, -1, -1, 1, -1, -1, 1]",Fox News Network THE NEXT REVOLUTION,October 25 2020 Sunday,0.0
+140,403,American,"[-1, 1, 1, 0, 1, 1, 1, 1, -1, -1, 1]",Fox News Network THE NEXT REVOLUTION,October 25 2020 Sunday,0.36363636363636365
+141,423,Arizona,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 19 2020 Monday,0.10526315789473684
+142,423,Trump,"[1, -1, 1, 0, 0, 0, -1, 0, 1, -1, 0, 1, 1, 1, 0, -1, -1, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 19 2020 Monday,0.10526315789473684
+143,423,American,"[1, 1, -1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, -1, 1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 19 2020 Monday,0.3888888888888889
+144,423,America,"[1, 1, 0, 1, 1, 1, -1, -1, 1, -1, 1, 0, 1, 1, 1, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 19 2020 Monday,0.5294117647058824
+145,423,Joe Biden,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 19 2020 Monday,-0.6923076923076923
+146,436,Kentucky,"[-1, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 6 2020 Tuesday,-0.2
+147,436,Daniel Cameron,[],Fox News Network FOX AND FRIENDS,October 6 2020 Tuesday,
+148,436,Friends,[],Fox News Network FOX AND FRIENDS,October 6 2020 Tuesday,
+149,436,Fox News,[],Fox News Network FOX AND FRIENDS,October 6 2020 Tuesday,
+150,436,Taylor,"[0, 0, 0, -1]",Fox News Network FOX AND FRIENDS,October 6 2020 Tuesday,-0.25
+151,445,Trump,"[-1, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, -1, 0, 1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 8 2020 Thursday,-0.2631578947368421
+152,445,China,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 8 2020 Thursday,-0.8235294117647058
+153,445,Martha,"[0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 8 2020 Thursday,0.45
+154,445,Joe Biden,"[0, -1, -1, -1, -1, -1, -1, -1, 0, 0, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 8 2020 Thursday,-0.4166666666666667
+155,445,American,"[-1, -1, 1, 0, 0, 0, 1, 1, -1, 0, 0, 1, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 8 2020 Thursday,0.13333333333333333
+156,446,Trump,"[0, 0, -1, 0, -1, 0, -1, 0, 0, -1, 1, -1, -1, 0, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,October 1 2020 Thursday,-0.3157894736842105
+157,446,Biden,"[-1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,October 1 2020 Thursday,-0.2777777777777778
+158,446,Juan,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE FIVE,October 1 2020 Thursday,0.07692307692307693
+159,446,Dana,"[0, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,October 1 2020 Thursday,-0.2727272727272727
+160,446,Jesse,"[0, -1, 0, 0, 0, 0, 1, 0, 0, -1, 0]",Fox News Network THE FIVE,October 1 2020 Thursday,-0.09090909090909091
+161,447,Joe Biden,"[-1, -1, -1, -1, -1, 0, 0, 0, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, 0, 1]",Fox News Network FOX NEWS @ NIGHT,October 19 2020 Monday,-0.6
+162,447,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 19 2020 Monday,-0.05263157894736842
+163,447,Biden,"[0, -1, -1, 0, -1, 1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 19 2020 Monday,-0.7058823529411765
+164,447,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 19 2020 Monday,0.0
+165,447,Arizona,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 19 2020 Monday,-0.23076923076923078
+166,474,Trump,"[0, 0, 0, 0, 0, -1, 0, 0, -1, -1, -1, 0, 0, -1, 0, -1, -1]",Fox News Network THE FIVE,October 7 2020 Wednesday,-0.4117647058823529
+167,474,Democrats,"[-1, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, 1, 0, -1, 0, -1]",Fox News Network THE FIVE,October 7 2020 Wednesday,-0.55
+168,474,Pence,"[0, 0, -1, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 1, 0]",Fox News Network THE FIVE,October 7 2020 Wednesday,-0.2
+169,474,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 7 2020 Wednesday,0.0
+170,474,Juan,"[0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,October 7 2020 Wednesday,-0.07142857142857142
+171,477,Senate,"[-1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,-0.36363636363636365
+172,477,Neil,"[0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,-0.05
+173,477,Democrats,"[-1, -1, 0, -1, 0, -1, 1, 0, -1, -1, 0, 0, 0, 1, 0, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,-0.3333333333333333
+174,477,Joe Biden,"[0, 0, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,-0.35
+175,477,Hunter Biden,"[-1, -1, -1, -1, -1, 0, 0, 0, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,-0.6842105263157895
+176,489,Democrats,"[0, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 12 2020 Monday,-0.6111111111111112
+177,489,Joe Biden,"[-1, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 12 2020 Monday,-0.7333333333333333
+178,489,the Supreme Court,"[-1, 0, -1, 0, -1, -1, -1, -1, -1, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 12 2020 Monday,-0.6666666666666666
+179,489,Tucker,"[0, 0, 1, 1, 1, 1]",Fox News Network TUCKER CARLSON TONIGHT,October 12 2020 Monday,0.6666666666666666
+180,489,Senate,"[0, -1, 0, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 12 2020 Monday,-0.625
+181,512,Barrett,"[0, 1, 0, -1, 1, -1, 1, 0, 0, -1, 0, -1, -1, 1, 0, 1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 14 2020 Wednesday,-0.05263157894736842
+182,512,Laura,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 14 2020 Wednesday,0.06666666666666667
+183,512,Biden,"[0, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 14 2020 Wednesday,-0.7058823529411765
+184,512,Trump,"[-1, 0, 0, -1, 0, 1, -1, 0, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,October 14 2020 Wednesday,-0.18181818181818182
+185,512,Democrats,"[-1, -1, -1, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,October 14 2020 Wednesday,-0.8571428571428571
+186,553,Trump,"[0, 0, 0, 0, -1, 1, -1, 0, 0, -1, 0, -1, -1, -1, 0, 0, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 16 2020 Friday,-0.35
+187,553,Biden,"[-1, -1, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 16 2020 Friday,-0.45
+188,553,Senate,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 16 2020 Friday,0.05
+189,553,Bret,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 16 2020 Friday,0.08333333333333333
+190,553,Joe Biden,"[0, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 16 2020 Friday,-0.2727272727272727
+191,560,Trump,"[0, 0, -1, -1, 0, 0, -1, 0, 0, -1, 1, 0, 1, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 28 2020 Wednesday,-0.17647058823529413
+192,560,Biden,"[0, 0, 0, -1, -1, -1, 1, 0, 0, -1, 1, -1, 0, -1, 1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 28 2020 Wednesday,-0.23529411764705882
+193,560,Joe Biden,"[0, 0, 0, -1, 0, 0, -1, -1, -1, -1, -1, 0, 1, 1, 0, -1, -1, 0, -1, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 28 2020 Wednesday,-0.3
+194,560,Philadelphia,"[-1, -1, -1, 0, 0, -1, -1, 0, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 28 2020 Wednesday,-0.5833333333333334
+195,560,Bret,"[0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 28 2020 Wednesday,0.0
+196,570,Joe Biden,"[0, 0, -1, -1, -1, -1, 0, 0, -1, 1, -1, 0, -1, 0, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 20 2020 Tuesday,-0.47058823529411764
+197,570,Tucker,"[0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,October 20 2020 Tuesday,0.25
+198,570,The New York Post,"[0, -1, -1, 0, 0, 0, 0, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 20 2020 Tuesday,-0.4
+199,570,American,"[-1, -1, 0, 0, 0, 0, 1, 1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 20 2020 Tuesday,-0.2
+200,570,Russia,"[0, 0, -1, -1, -1, -1, 0, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 20 2020 Tuesday,-0.7142857142857143
+201,571,Biden,"[-1, 0, -1, 0, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1, -1, 0, -1, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 27 2020 Tuesday,-0.42105263157894735
+202,571,China,"[0, -1, -1, -1, -1, 1, -1, 0, 1, -1, 0, 0, 1, -1, -1, 1, 0, 0, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 27 2020 Tuesday,-0.15789473684210525
+203,571,Wisconsin,"[0, 0, 0, 0, -1, 1, 0, 1, 0, 0, 0, 1, 0, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 27 2020 Tuesday,0.0
+204,571,Trump,"[0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 27 2020 Tuesday,-0.25
+205,571,Michigan,"[0, 0, 0, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 1, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 27 2020 Tuesday,-0.0625
+206,572,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 2 2020 Friday,0.0
+207,572,Trump,[],Fox News Network TUCKER CARLSON TONIGHT,October 2 2020 Friday,
+208,572,Walter Reed,"[0, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 2 2020 Friday,0.0
+209,572,the White House,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,October 2 2020 Friday,0.1
+210,572,the United States,"[0, 0, 0, 0, 0, -1, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 2 2020 Friday,-0.2
+211,573,Democrat,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 7 2020 Wednesday,-0.9090909090909091
+212,573,Donald Trump,"[0, -1, 1, 0, -1, -1, 0]",Fox News Network FOX AND FRIENDS,October 7 2020 Wednesday,-0.2857142857142857
+213,573,American,"[1, 1, -1, 1, -1, 0]",Fox News Network FOX AND FRIENDS,October 7 2020 Wednesday,0.16666666666666666
+214,573,Democrats,"[0, -1, -1, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 7 2020 Wednesday,-0.6666666666666666
+215,573,Nancy Pelosi,"[0, 0, -1]",Fox News Network FOX AND FRIENDS,October 7 2020 Wednesday,-0.3333333333333333
+216,575,Joe Biden,"[-1, 1, -1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,-0.7142857142857143
+217,575,Joe Biden's,"[-1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,-1.0
+218,575,Marxist,"[-1, -1]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,-1.0
+219,575,American,"[0, 1, -1]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.0
+220,579,Trump,"[-1, 0, 0, 0, -1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0]",Fox News Network WATTERS WORLD,October 24 2020 Saturday,0.2
+221,579,Biden,"[-1, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, -1]",Fox News Network WATTERS WORLD,October 24 2020 Saturday,-0.5555555555555556
+222,579,Joe,"[-1, -1, -1, -1, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network WATTERS WORLD,October 24 2020 Saturday,-0.6111111111111112
+223,579,Joe Biden,"[-1, 0, -1, 0, -1, -1, -1, 0, 0, 0, 0, -1, 0, 0, -1, -1, -1, 0, 0]",Fox News Network WATTERS WORLD,October 24 2020 Saturday,-0.47368421052631576
+224,579,Wisconsin,"[0, 0, 0, 0]",Fox News Network WATTERS WORLD,October 24 2020 Saturday,0.0
+225,585,Joe Biden,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1, 0]",Fox News Network WATTERS WORLD,October 17 2020 Saturday,-0.75
+226,585,Biden,"[-1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, 1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network WATTERS WORLD,October 17 2020 Saturday,-0.7368421052631579
+227,585,Trump,"[0, 0, 1, 0, 1, -1, 1, 1, 1, 1, 1, -1, 0, 1, -1, 0, 1, 1, -1]",Fox News Network WATTERS WORLD,October 17 2020 Saturday,0.3157894736842105
+228,585,Tom Cotton,"[-1, -1]",Fox News Network WATTERS WORLD,October 17 2020 Saturday,-1.0
+229,585,Democrats,"[0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1]",Fox News Network WATTERS WORLD,October 17 2020 Saturday,-0.6923076923076923
+230,586,Trump,"[0, -1, 1, 0, 0, 0, 0, -1, 0, -1, 0, 1, 1, -1, -1, 1, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 6 2020 Tuesday,-0.047619047619047616
+231,586,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 6 2020 Tuesday,0.0
+232,586,Americans,"[1, 1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 6 2020 Tuesday,0.1111111111111111
+233,586,Russian,"[-1, -1, 0, 0, 0, -1, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 6 2020 Tuesday,-0.5
+234,586,Kamala Harris,"[0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 6 2020 Tuesday,-0.125
+235,587,Trump,"[1, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 2 2020 Friday,-0.15789473684210525
+236,587,Walter Reed,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 2 2020 Friday,0.0
+237,587,the White House,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 2 2020 Friday,0.07692307692307693
+238,587,Marine One,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 2 2020 Friday,0.0
+239,587,Bret,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 2 2020 Friday,0.0
+240,591,the White House,"[0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 5 2020 Monday,-0.25
+241,591,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 5 2020 Monday,0.0
+242,591,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 5 2020 Monday,0.0
+243,591,Biden,"[0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 5 2020 Monday,0.25
+244,591,Marine One,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 5 2020 Monday,0.0
+245,595,Biden,"[-1, -1, 0, 0, 0, 0, -1, -1, -1, -1, 0, 0, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 9 2020 Friday,-0.5
+246,595,the Supreme Court,"[0, -1, -1, -1, 0, -1, -1, 1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 9 2020 Friday,-0.5555555555555556
+247,595,the White House,"[0, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 9 2020 Friday,-0.2
+248,595,Donald Trump,"[-1, 0, 0, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 9 2020 Friday,-0.5714285714285714
+249,595,Congress,"[0, -1, 0, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 9 2020 Friday,-0.2857142857142857
+250,602,Arizona,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 28 2020 Wednesday,0.0
+251,602,USA,"[-1, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 28 2020 Wednesday,0.0
+252,602,Biden,"[-1, -1, 0, -1, -1, 0, -1, -1, -1, 0, -1, 0, 0, 0, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 28 2020 Wednesday,-0.5882352941176471
+253,602,America,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 28 2020 Wednesday,1.0
+254,602,China,"[-1, -1, 0, -1, -1, -1, -1, -1, -1, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 28 2020 Wednesday,-0.5454545454545454
+255,614,Joe Biden,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 16 2020 Friday,-1.0
+256,614,Trump,"[0, 1, -1, 0, 0, -1, -1, 1, 1, 1, -1, 0, -1, 0, -1]",Fox News Network FOX HANNITY,October 16 2020 Friday,-0.13333333333333333
+257,614,Donald Trump,[],Fox News Network FOX HANNITY,October 16 2020 Friday,
+258,614,Sean,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX HANNITY,October 16 2020 Friday,-0.125
+259,614,Joe,"[-1, 0, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1]",Fox News Network FOX HANNITY,October 16 2020 Friday,-0.6842105263157895
+260,624,Joe Biden,"[-1, 0, 0, -1, 0, -1, -1, -1, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 29 2020 Thursday,-0.6842105263157895
+261,624,Joe,"[0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0, -1]",Fox News Network FOX HANNITY,October 29 2020 Thursday,-0.42105263157894735
+262,624,Biden,"[-1, 0, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0, -1]",Fox News Network FOX HANNITY,October 29 2020 Thursday,-0.6923076923076923
+263,624,Sean,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 29 2020 Thursday,0.0
+264,624,Donald Trump,"[0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 29 2020 Thursday,0.0
+265,628,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network THE FIVE,October 19 2020 Monday,-0.10526315789473684
+266,628,Biden,"[-1, 0, 0, 0, 0, -1, 0, 1, 0, 0, -1, 0, 0, 0, 0, 1]",Fox News Network THE FIVE,October 19 2020 Monday,-0.0625
+267,628,Juan,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network THE FIVE,October 19 2020 Monday,0.05555555555555555
+268,628,Joe Biden,"[0, -1, -1, 0, -1, 0, 0, 1, 1, -1, 0, -1, -1, 0, -1, 0, 0]",Fox News Network THE FIVE,October 19 2020 Monday,-0.29411764705882354
+269,628,Jesse,"[0, 0, 0, 0, 0, 0, 1, 0, 1]",Fox News Network THE FIVE,October 19 2020 Monday,0.2222222222222222
+270,639,Joe Biden,"[0, 0, -1, 0]",Fox News Network FOX AND FRIENDS,October 30 2020 Friday,-0.25
+271,639,Eric,"[0, 0, 0, 0, 1]",Fox News Network FOX AND FRIENDS,October 30 2020 Friday,0.2
+272,639,American,[1],Fox News Network FOX AND FRIENDS,October 30 2020 Friday,1.0
+273,639,Biden,"[-1, 0, 0, 0, 0, -1]",Fox News Network FOX AND FRIENDS,October 30 2020 Friday,-0.3333333333333333
+274,640,Trump,"[1, 1, 0, 1, 0, 0, -1, 0, 1, 1, 0, 0, 1, -1, -1, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 3 2020 Saturday,0.16666666666666666
+275,640,American,"[1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 3 2020 Saturday,0.6666666666666666
+276,640,Walter Reed,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 3 2020 Saturday,0.1111111111111111
+277,640,the White House,"[0, 0, 0, -1, 1, -1, 0, 0, 1, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 3 2020 Saturday,0.0
+278,640,COVID,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 3 2020 Saturday,-0.13333333333333333
+279,641,Trump,"[1, 0, 1, 1, -1, 1, 1]",Fox News Network AMERICA'S NEWSROOM,October 5 2020 Monday,0.5714285714285714
+280,641,Joe Biden,"[0, -1, 0, -1, 0, -1, -1, -1]",Fox News Network AMERICA'S NEWSROOM,October 5 2020 Monday,-0.625
+281,641,Erin Perrine,"[0, 0, 0, 0, 1]",Fox News Network AMERICA'S NEWSROOM,October 5 2020 Monday,0.2
+282,641,China,"[-1, -1, 0]",Fox News Network AMERICA'S NEWSROOM,October 5 2020 Monday,-0.6666666666666666
+283,641,Trump 2020 Press Communications,"[0, 0]",Fox News Network AMERICA'S NEWSROOM,October 5 2020 Monday,0.0
+284,643,Joe Biden,"[1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-0.6363636363636364
+285,643,Trump,"[0, 0, -1, 0, 1, 0, -1, 1, 1, 1, 1, 0]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,0.25
+286,643,Pennsylvania,"[0, -1, -1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-0.8571428571428571
+287,643,Erin,"[1, 0, 0, 0, 1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,0.4
+288,643,Erin Perrine,"[0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,0.0
+289,653,Biden,"[-1, 0, -1, 0, 0, -1, -1, -1, -1, 0, 0, 0, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 1 2020 Thursday,-0.6
+290,653,Joe Biden,"[0, -1, -1, 0, -1, -1, 0, -1, -1, 1, -1, 0, -1, 0, 0, -1, -1]",Fox News Network FOX HANNITY,October 1 2020 Thursday,-0.5294117647058824
+291,653,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 1 2020 Thursday,0.0
+292,653,Democrats,"[-1, -1, 0, -1, -1, 0, 0, 0, 0, -1, 0, -1, 0]",Fox News Network FOX HANNITY,October 1 2020 Thursday,-0.46153846153846156
+293,653,Joe,"[0, 0, 0, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1, -1, 1, -1, 0, -1, 0]",Fox News Network FOX HANNITY,October 1 2020 Thursday,-0.42105263157894735
+294,654,Joe Biden,"[0, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1, 0, -1, 0]",Fox News Network FOX HANNITY,October 8 2020 Thursday,-0.5333333333333333
+295,654,Biden,"[-1, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, -1, -1, 0, -1]",Fox News Network FOX HANNITY,October 8 2020 Thursday,-0.4
+296,654,Trump,"[-1, 0, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network FOX HANNITY,October 8 2020 Thursday,-0.6470588235294118
+297,654,American,"[0, -1, 0, 0, 0, -1, -1, -1, 0, -1, 0, -1, 1]",Fox News Network FOX HANNITY,October 8 2020 Thursday,-0.38461538461538464
+298,654,Harris,"[0, -1, 0, -1, -1, -1, 1, 0, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,October 8 2020 Thursday,-0.5555555555555556
+299,655,Trump,"[-1, 0, 0, 0, 1, 0, 0, -1, 0, 0, 0, 1, 0, -1, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,October 1 2020 Thursday,-0.2222222222222222
+300,655,Tennessee,"[0, -1, 0, 0, 0, 0, 1, 0, -1]",Fox News Network INGRAHAM ANGLE,October 1 2020 Thursday,-0.1111111111111111
+301,655,Joe Biden,"[-1, 1, 0, -1, 0, 0, -1, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,October 1 2020 Thursday,-0.2
+302,655,Democrats,"[-1, 0, -1, -1, -1, -1, 1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,October 1 2020 Thursday,-0.6
+303,655,Biden,"[-1, 0, 0, 0, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,October 1 2020 Thursday,-0.5263157894736842
+304,659,Joe Biden,"[-1, 0, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 15 2020 Thursday,-0.75
+305,659,Ukraine,"[0, 1, -1, 0, 0, 0, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 15 2020 Thursday,-0.3
+306,659,Burisma,"[0, 1, -1, 1, -1, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 15 2020 Thursday,-0.3333333333333333
+307,659,Twitter,"[-1, -1, 0, 1, 1, -1, -1, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 15 2020 Thursday,-0.2727272727272727
+308,659,The New York Post,"[0, 0, -1, 0, -1, 0, 0, 1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 15 2020 Thursday,-0.1
+309,664,Joe Biden,"[0, -1, 0, 0, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1, 0, 1, -1, -1, -1, 0, -1]",Fox News Network FOX HANNITY,October 28 2020 Wednesday,-0.47619047619047616
+310,664,Sean,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 28 2020 Wednesday,0.0
+311,664,Biden,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1]",Fox News Network FOX HANNITY,October 28 2020 Wednesday,-0.65
+312,664,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, -1]",Fox News Network FOX HANNITY,October 28 2020 Wednesday,-0.7692307692307693
+313,664,Trump,"[-1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, -1, 1, -1]",Fox News Network FOX HANNITY,October 28 2020 Wednesday,0.3888888888888889
+314,670,Trump,"[1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, -1, -1, -1, 0, -1, 1]",Fox News Network THE NEXT REVOLUTION,October 18 2020 Sunday,0.2631578947368421
+315,670,Biden,"[-1, -1, -1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,October 18 2020 Sunday,-0.6923076923076923
+316,670,Joe Biden,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1, 0]",Fox News Network THE NEXT REVOLUTION,October 18 2020 Sunday,-0.7368421052631579
+317,670,China,"[0, 0, -1, -1, -1, -1, 1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1]",Fox News Network THE NEXT REVOLUTION,October 18 2020 Sunday,-0.6470588235294118
+318,670,Twitter,"[-1, -1, 0, -1, -1, 0, 0, 0, -1, 0, 0, -1, 0, -1, -1, 0, -1, 0, -1]",Fox News Network THE NEXT REVOLUTION,October 18 2020 Sunday,-0.5263157894736842
+319,678,Pennsylvania,"[0, 0, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0, -1, 0, -1, -1, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 20 2020 Tuesday,-0.47368421052631576
+320,678,Biden,"[-1, -1, 0, -1, 0, 0, 0, -1, -1, 0, -1, -1, 0, 0, 1, -1, -1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 20 2020 Tuesday,-0.45
+321,678,Joe Biden,"[0, 0, -1, -1, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, -1, 1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 20 2020 Tuesday,-0.4
+322,678,Trump,"[0, 1, 1, 0, 0, 0, -1, 1, 0, 1, 0, 0, 0, 0, 0, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 20 2020 Tuesday,0.0
+323,678,Donald Trump,"[-1, 0, -1, -1, 0, 0, 1, -1, -1, 0, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 20 2020 Tuesday,-0.38461538461538464
+324,680,Trump,"[0, 1, -1, 0, -1, -1, 0, 0, 1, 0, 1, 0, 1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 8 2020 Thursday,-0.06666666666666667
+325,680,Joe Biden,"[-1, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 8 2020 Thursday,-0.5
+326,680,Bret,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 8 2020 Thursday,0.0
+327,680,Biden,"[-1, 0, -1, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 8 2020 Thursday,-0.3888888888888889
+328,680,American,"[-1, 1, 1, 0, 1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 8 2020 Thursday,0.2222222222222222
+329,698,Trump,"[0, -1, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0, 1, 1, -1, -1]",Fox News Network THE GREG GUTFELD SHOW,October 31 2020 Saturday,0.0
+330,698,Biden,"[-1, -1, 0, -1, -1, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, -1]",Fox News Network THE GREG GUTFELD SHOW,October 31 2020 Saturday,-0.5
+331,698,America,"[0, 1, -1, -1, 0, 0, 1, -1, -1, -1, 0, 1]",Fox News Network THE GREG GUTFELD SHOW,October 31 2020 Saturday,-0.16666666666666666
+332,698,Tyrus,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 31 2020 Saturday,0.1875
+333,698,Walter,"[-1, 0, 0, 0, 0, -1, 0, 0, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,October 31 2020 Saturday,-0.3
+334,708,Florida,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,October 11 2020 Sunday,0.10526315789473684
+335,708,Mark,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]",Fox News Network LIFE LIBERTY LEVIN,October 11 2020 Sunday,0.05263157894736842
+336,708,U.S.,[-1],Fox News Network LIFE LIBERTY LEVIN,October 11 2020 Sunday,-1.0
+337,708,Democrats,"[-1, -1, -1, 0, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,October 11 2020 Sunday,-0.8571428571428571
+338,708,Constitution,"[0, 0, 0, -1, 0, 1]",Fox News Network LIFE LIBERTY LEVIN,October 11 2020 Sunday,0.0
+339,716,Trump,"[-1, 0, 0, 0, 0, -1, 0, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 7 2020 Wednesday,-0.3333333333333333
+340,716,Pence,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 7 2020 Wednesday,-0.1111111111111111
+341,716,Joe Biden,"[1, 1, -1, 0, -1, -1, 1, 0, -1, 1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 7 2020 Wednesday,0.0
+342,716,Washington,"[0, 1, 0, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 7 2020 Wednesday,-0.6
+343,716,Harris,"[1, 1, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 7 2020 Wednesday,-0.0625
+344,721,Trump,"[0, 0, -1, 0, -1, 0, 1, 0, -1, 0, -1, 0, 1, 0, -1, -1, -1, 1, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,October 24 2020 Saturday,-0.25
+345,721,Joe,"[-1, -1, 0, -1, -1, -1, -1, -1, 0, 0, 0, -1, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 24 2020 Saturday,-0.5333333333333333
+346,721,Greg,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 24 2020 Saturday,0.0625
+347,721,Terry,"[1, 0, 0, 1, 0, 1, 0, 0, 0, -1, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 24 2020 Saturday,0.15384615384615385
+348,721,Biden,"[1, -1, -1, -1, 1, -1, 0, -1, -1, -1, 0, -1, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 24 2020 Saturday,-0.42857142857142855
+349,727,Trump,"[-1, 0, -1, 0, -1, 0, 1, -1, 1, -1, 0, 0, 1, 0, 0, -1, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 27 2020 Tuesday,-0.2
+350,727,Biden,"[1, -1, 0, -1, -1, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 27 2020 Tuesday,-0.5
+351,727,Michigan,"[0, 0, -1, 1, 1, 0, 0, -1, 0, 0, -1, -1, -1, 1, 0, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 27 2020 Tuesday,-0.15789473684210525
+352,727,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 27 2020 Tuesday,0.0
+353,727,Republican,"[0, 0, 0, 0, -1, 0, 0, 0, 1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 27 2020 Tuesday,-0.16666666666666666
+354,738,Trump,"[-1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 0, -1, -1, -1]",Fox News Network THE FIVE,October 6 2020 Tuesday,-0.42105263157894735
+355,738,Joe Biden,"[0, 0, -1, 0, -1, 1, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0]",Fox News Network THE FIVE,October 6 2020 Tuesday,-0.25
+356,738,Juan,"[0, -1, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 6 2020 Tuesday,-0.2857142857142857
+357,738,Biden,"[0, 0, -1, -1, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 1, -1, -1]",Fox News Network THE FIVE,October 6 2020 Tuesday,-0.25
+358,738,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 6 2020 Tuesday,0.0
+359,753,the White House,"[0, 0, 0, 1, 0, 0, 0]",Fox News Network LIVE EVENT,October 6 2020 Tuesday,0.14285714285714285
+360,753,Twitter,"[0, -1, 0, 0, 0, -1]",Fox News Network LIVE EVENT,October 6 2020 Tuesday,-0.3333333333333333
+361,753,Brian,"[1, 1, 0, 0, -1, -1, -1, 1, 1, 0]",Fox News Network LIVE EVENT,October 6 2020 Tuesday,0.1
+362,753,American,"[1, 1, 0]",Fox News Network LIVE EVENT,October 6 2020 Tuesday,0.6666666666666666
+363,753,Brian Morgenstern,"[1, 1, 1]",Fox News Network LIVE EVENT,October 6 2020 Tuesday,1.0
+364,774,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 28 2020 Wednesday,0.10526315789473684
+365,774,Biden,"[0, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 28 2020 Wednesday,-0.5625
+366,774,the New York Post,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 28 2020 Wednesday,0.1
+367,774,Joe Biden,"[0, -1, 0, -1, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 28 2020 Wednesday,-0.375
+368,774,Twitter,"[-1, 0, 0, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 28 2020 Wednesday,-0.42857142857142855
+369,798,Trump,"[0, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, 0, 1, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 21 2020 Wednesday,-0.5
+370,798,Chris Cuomo,"[1, 0, 0, 0, 0, -1, 1, 0, 0, 0, 1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 21 2020 Wednesday,-0.07142857142857142
+371,798,Iran,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 21 2020 Wednesday,-1.0
+372,798,Tucker,"[0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 21 2020 Wednesday,0.45454545454545453
+373,798,Joe Biden,"[0, 0, 0, 0, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 21 2020 Wednesday,-0.5555555555555556
+374,836,Trump,"[1, 0, 1, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 13 2020 Tuesday,-0.2
+375,836,Republicans,"[0, -1, 0, 0, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 13 2020 Tuesday,-0.6111111111111112
+376,836,Barrett,"[1, 0, 0, 0, -1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 13 2020 Tuesday,0.16666666666666666
+377,836,Biden,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 13 2020 Tuesday,-0.15384615384615385
+378,836,Senate,"[1, 0, 0, 0, 1, 1, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 13 2020 Tuesday,-0.1
+379,846,Joe Biden,"[1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,-0.7692307692307693
+380,846,Hogan,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,0.0
+381,846,American,"[1, 0, 0, 0, -1, 1, 1]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,0.2857142857142857
+382,846,Trump 2020 Campaign National Press,"[0, 0, 0, 0, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,0.0
+383,846,Hogan Gidley,"[0, 0, 0, 0, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 6 2020 Tuesday,0.0
+384,883,Russian,"[0, 0, -1, -1, -1, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 19 2020 Monday,-0.5263157894736842
+385,883,Joe Biden,"[0, -1, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 19 2020 Monday,-0.6428571428571429
+386,883,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 19 2020 Monday,0.0
+387,883,Biden,"[-1, -1, 0, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 19 2020 Monday,-0.38095238095238093
+388,883,Twitter,"[-1, 0, 0, -1, 0, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 19 2020 Monday,-0.3333333333333333
+389,884,Trump,"[1, 0, 0, 0, 1, 1, 1, 0, -1, 0, 1, -1, -1, 0, -1, 1, 1, 1, -1]",Fox News Network INGRAHAM ANGLE,October 21 2020 Wednesday,0.15789473684210525
+390,884,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 21 2020 Wednesday,0.0
+391,884,Biden,"[-1, -1, -1, 0, 1, 1, 0, 1, 0, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 21 2020 Wednesday,-0.35714285714285715
+392,884,Obama,"[-1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,October 21 2020 Wednesday,-0.45454545454545453
+393,884,American,"[1, -1, -1, 0, 1, -1, -1, 0, 0, 0, 0, 1, 1, -1]",Fox News Network INGRAHAM ANGLE,October 21 2020 Wednesday,-0.07142857142857142
+394,897,the White House,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]",Fox News Network THE FIVE,October 2 2020 Friday,0.06666666666666667
+395,897,Walter Reed,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 2 2020 Friday,0.0
+396,897,Trump,"[0, 0, 1, 1, 0, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,October 2 2020 Friday,-0.1111111111111111
+397,897,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 2 2020 Friday,0.0
+398,897,Dana,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 2 2020 Friday,0.08333333333333333
+399,898,Trump,"[1, 1, 0, 0, -1, -1, 0, 1, 1, -1, 0, 0, 1, 0]",Fox News Network FOX HANNITY,October 5 2020 Monday,0.14285714285714285
+400,898,Biden,"[-1, 0, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 5 2020 Monday,-0.6842105263157895
+401,898,American,"[1, 1, 0, 0, 1, 1, 1, 0, 0, 1, -1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 5 2020 Monday,0.3333333333333333
+402,898,Joe Biden,"[0, -1, -1, -1, 0, 0, -1, 0, 0, -1]",Fox News Network FOX HANNITY,October 5 2020 Monday,-0.5
+403,898,Sean,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 5 2020 Monday,0.07142857142857142
+404,916,American,[],Fox News Network BILL HEMMER REPORTS,October 9 2020 Friday,
+405,916,the White House,"[0, 0]",Fox News Network BILL HEMMER REPORTS,October 9 2020 Friday,0.0
+406,928,Biden,"[0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0]",Fox News Network BILL HEMMER REPORTS,October 1 2020 Thursday,-0.23529411764705882
+407,928,Joe Biden,"[-1, 0, 0, -1, -1, 0]",Fox News Network BILL HEMMER REPORTS,October 1 2020 Thursday,-0.5
+408,928,I`m,"[0, 0, 0, -1, -1, 0, -1]",Fox News Network BILL HEMMER REPORTS,October 1 2020 Thursday,-0.42857142857142855
+409,928,FOX News,"[0, 0, 0]",Fox News Network BILL HEMMER REPORTS,October 1 2020 Thursday,0.0
+410,928,Chris Wallace,"[0, 0, 0]",Fox News Network BILL HEMMER REPORTS,October 1 2020 Thursday,0.0
+411,934,FBI,"[-1, -1, 0, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,October 18 2020 Sunday,-0.6
+412,934,Trump,"[-1, -1, -1, -1, 0, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 0, 1, -1, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,October 18 2020 Sunday,-0.6190476190476191
+413,934,American,"[0, 0, 1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, -1, 0, -1]",Fox News Network SUNDAY MORNING FUTURES,October 18 2020 Sunday,-0.16666666666666666
+414,934,China,"[-1, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,October 18 2020 Sunday,-0.8947368421052632
+415,934,Biden,"[-1, -1, -1, -1, 0, -1, -1, -1, 0, -1, 0, -1, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,October 18 2020 Sunday,-0.7857142857142857
+416,952,FEMA,"[0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 8 2020 Thursday,0.3333333333333333
+417,956,Joe Biden,"[1, 1, -1, -1, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,0.14285714285714285
+418,956,Michigan,"[-1, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,-0.5
+419,956,Republican,"[0, 1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,0.0
+420,956,COVID,"[-1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,-1.0
+421,957,Democrat,"[0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,-0.5
+422,957,Wisconsin,"[1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,0.0
+423,957,Green Bay,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,0.0
+424,957,Trump,"[0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,0.0
+425,957,I`m,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,0.0
+426,961,Joe Lieberman,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,0.0
+427,961,Dick Cheney,[0],Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,0.0
+428,961,I`m,"[0, 0, -1, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,0.0
+429,981,Trump,"[-1, 0, 0, -1, 0, 0, 0, 1, 0, -1, 0, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS SUNDAY,October 18 2020 Sunday,-0.1875
+430,981,Joe Biden,"[0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -1, -1, -1, 0, 1, 0]",Fox News Network FOX NEWS SUNDAY,October 18 2020 Sunday,-0.14285714285714285
+431,981,Biden,"[-1, 0, -1, -1, 0, 0, 0, 0, -1, -1, 0, 1, 0, 0, 1, 0, 1]",Fox News Network FOX NEWS SUNDAY,October 18 2020 Sunday,-0.11764705882352941
+432,981,Chris,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, -1, -1, 0, 0, 0, -1]",Fox News Network FOX NEWS SUNDAY,October 18 2020 Sunday,-0.11764705882352941
+433,981,Senate,"[-1, -1, 0, 0, 0, -1, -1, 0, 0]",Fox News Network FOX NEWS SUNDAY,October 18 2020 Sunday,-0.4444444444444444
+434,993,Trump,"[0, 1, -1, 1, -1, 0, 0, 0, 1, -1, -1, -1, 0, -1, 1, -1, -1, -1, -1, -1, 1]",Fox News Network SUNDAY MORNING FUTURES,October 4 2020 Sunday,-0.2857142857142857
+435,993,Maria,"[0, 0, 0, 0, 0, 0, 0, -1, -1, -1, 0, -1, -1, -1, 0, 1, -1]",Fox News Network SUNDAY MORNING FUTURES,October 4 2020 Sunday,-0.35294117647058826
+436,993,Russian,"[0, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,October 4 2020 Sunday,-0.5
+437,993,Senate,"[0, -1, 1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,October 4 2020 Sunday,-0.15384615384615385
+438,993,American,"[0, 0, 0, 0, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,October 4 2020 Sunday,-0.25
+439,997,Republican,"[-1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,-0.5
+440,997,American,"[1, 0, 1, 1, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,0.14285714285714285
+441,997,the United States,"[0, -1, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,0.0
+442,997,Hagel,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,0.0
+443,997,Leon Panetta,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,0.0
+444,998,COVID-19,"[0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 6 2020 Tuesday,-0.75
+445,998,Leon,"[0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 6 2020 Tuesday,0.0
+446,1035,Joe Biden,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network LIVE EVENT,October 20 2020 Tuesday,-0.9230769230769231
+447,1035,American,"[1, -1, 1, 1, -1, 1]",Fox News Network LIVE EVENT,October 20 2020 Tuesday,0.3333333333333333
+448,1035,Americans,"[1, -1, 1]",Fox News Network LIVE EVENT,October 20 2020 Tuesday,0.3333333333333333
+449,1035,Biden,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network LIVE EVENT,October 20 2020 Tuesday,-0.9411764705882353
+450,1035,Hogan,"[1, 0, 1, 1, 1, 1]",Fox News Network LIVE EVENT,October 20 2020 Tuesday,0.8333333333333334
+451,1060,Laura,"[-1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,-0.5
+452,1063,Democratic,"[0, -1]",Fox News Network AMERICA'S NEWSROOM,October 20 2020 Tuesday,-0.5
+453,1063,Larry,"[0, 1, 0, 1]",Fox News Network AMERICA'S NEWSROOM,October 20 2020 Tuesday,0.5
+454,1063,Trump,"[1, 1, 1, 0]",Fox News Network AMERICA'S NEWSROOM,October 20 2020 Tuesday,0.75
+455,1063,Biden,"[0, -1, -1, -1, 0]",Fox News Network AMERICA'S NEWSROOM,October 20 2020 Tuesday,-0.6
+456,1094,Switzerland,"[1, 1, 1, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,0.8
+457,1094,America,"[0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,0.0
+458,1094,Libertarian,"[0, -1, 1, 0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,0.14285714285714285
+459,1094,I`m,"[1, 0, 0, 1, 0, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,0.0
+460,1110,Senate,"[-1, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,-0.4
+461,1110,Congresswoman,"[0, 1, -1, 0, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,0.125
+462,1110,Michigan,"[0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,0.3333333333333333
+463,1110,I`m,"[1, -1, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,-0.15384615384615385
+464,1110,Joe Biden,"[0, 1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,0.5
+465,1151,the Problem Solvers Caucus,"[0, 0, 0, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,0.4
+466,1151,Josh,"[0, 1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,0.5
+467,1151,Neil,"[0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,0.25
+468,1151,Republicans,"[-1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,0.0
+469,1151,Democrats,[-1],Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,-1.0
+470,1153,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0, 1, -1]",Fox News Network FOX NEWS SUNDAY,October 25 2020 Sunday,-0.1875
+471,1153,Joe Biden,"[0, 1, -1, -1, 1, 0, 1, 0, 0, 1, -1, 0, 1, -1, -1, -1, 0, 1, 0]",Fox News Network FOX NEWS SUNDAY,October 25 2020 Sunday,0.0
+472,1153,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,October 25 2020 Sunday,0.0
+473,1153,Biden,"[0, -1, -1, -1, 0, -1, -1, 1, 0, 1, 0, 0, 0, 0, -1, -1, 1]",Fox News Network FOX NEWS SUNDAY,October 25 2020 Sunday,-0.23529411764705882
+474,1153,Chris,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,October 25 2020 Sunday,-0.07142857142857142
+475,1160,Joe Biden,"[0, -1, 0, -1, -1, -1]",Fox News Network AMERICA'S NEWSROOM,October 8 2020 Thursday,-0.6666666666666666
+476,1160,American,"[0, -1, 1, 0, -1]",Fox News Network AMERICA'S NEWSROOM,October 8 2020 Thursday,-0.2
+477,1160,Biden,"[0, -1, 0, 0, -1, 0, -1, -1]",Fox News Network AMERICA'S NEWSROOM,October 8 2020 Thursday,-0.5
+478,1173,Parler,"[-1, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,0.0
+479,1173,Ohio,[0],Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,0.0
+480,1173,Washington,"[-1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,-1.0
+481,1173,D.C.,"[-1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,-1.0
+482,1173,COVID,"[0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 29 2020 Thursday,-0.5
+483,1178,West Virginia,"[-1, -1, 0, -1, -1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,-0.42857142857142855
+484,1178,I`m,"[0, -1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,-0.6
+485,1178,Joe Biden,"[-1, 0, 1, 0, 1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,0.0
+486,1178,Barrett,"[0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,0.25
+487,1178,Neil,"[0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,0.25
+488,1204,Joe,"[0, -1, -1, -1, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 24 2020 Saturday,-0.4444444444444444
+489,1204,Trump,"[1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, -1, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 24 2020 Saturday,0.47368421052631576
+490,1204,Biden,"[-1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 24 2020 Saturday,-0.7894736842105263
+491,1204,Joe Biden,"[-1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 24 2020 Saturday,-0.75
+492,1204,Wisconsin,"[0, 0, 1, -1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 24 2020 Saturday,-0.09090909090909091
+493,1217,Trump,"[0, -1, -1, 0, 0, -1, 0, -1, -1, 0, -1, 0, -1, 0, -1, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 21 2020 Wednesday,-0.5
+494,1217,Joe Biden,"[1, 0, 0, 0, 0, -1, 1, 1, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 21 2020 Wednesday,0.0
+495,1217,Nashville,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 21 2020 Wednesday,0.0
+496,1217,Biden,"[-1, -1, 0, -1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 21 2020 Wednesday,0.07142857142857142
+497,1217,Senate,"[0, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 21 2020 Wednesday,-0.21428571428571427
+498,1235,Democrats,"[-1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,-0.75
+499,1235,Senate,"[0, -1, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,0.0
+500,1235,Biden,"[0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 22 2020 Thursday,-0.2
+501,1240,NBA,"[-1, 0, 1, -1, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,-0.2857142857142857
+502,1240,Democrats,"[1, -1, 1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,0.0
+503,1240,I`m,"[0, 0, 0, -1, 0, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,0.14285714285714285
+504,1240,Barrett,"[0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,0.25
+505,1240,Joe Biden,"[0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 9 2020 Friday,-0.75
+506,1241,Joe Biden,"[0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 17 2020 Saturday,-0.9047619047619048
+507,1241,Trump,"[0, -1, 1, 0, 0, 1, 0, 1, -1, -1, -1, -1, -1, -1, 1, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 17 2020 Saturday,-0.23529411764705882
+508,1241,Twitter,"[-1, -1, -1, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 17 2020 Saturday,-0.5384615384615384
+509,1241,American,"[-1, -1, 0, -1, 0, 0, 1, 0, 1, -1, 1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 17 2020 Saturday,-0.16666666666666666
+510,1241,America,"[-1, -1, 0, 1, 1, 1, 0, 1, 0, 0, -1, -1, 1, -1, 1, 1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 17 2020 Saturday,0.058823529411764705
+511,1256,Biden,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, 0, -1, 0, -1, -1, -1, -1]",Fox News Network LIVE EVENT,October 15 2020 Thursday,-0.7368421052631579
+512,1256,Joe Biden,"[0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1]",Fox News Network LIVE EVENT,October 15 2020 Thursday,-0.7272727272727273
+513,1256,Twitter,"[0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network LIVE EVENT,October 15 2020 Thursday,-0.8888888888888888
+514,1256,Trump,"[0, 0, -1, 0, 0, -1, 0]",Fox News Network LIVE EVENT,October 15 2020 Thursday,-0.2857142857142857
+515,1256,Chinese,"[0, -1, -1, -1, -1, -1]",Fox News Network LIVE EVENT,October 15 2020 Thursday,-0.8333333333333334
+516,1258,Trump,"[0, 0, 0, 1]",Fox News Network BILL HEMMER REPORTS,October 6 2020 Tuesday,0.25
+517,1258,Tim,"[0, 0, 0, 0, 1]",Fox News Network BILL HEMMER REPORTS,October 6 2020 Tuesday,0.2
+518,1258,American,"[0, -1, 1]",Fox News Network BILL HEMMER REPORTS,October 6 2020 Tuesday,0.0
+519,1258,the White House,"[0, 0, 1]",Fox News Network BILL HEMMER REPORTS,October 6 2020 Tuesday,0.3333333333333333
+520,1258,Mike Pence,"[1, 1]",Fox News Network BILL HEMMER REPORTS,October 6 2020 Tuesday,1.0
+521,1261,Biden,"[0, -1, -1, 0, -1, -1, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 27 2020 Tuesday,-0.5789473684210527
+522,1261,Joe Biden,"[0, 0, -1, -1, 0, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 27 2020 Tuesday,-0.35
+523,1261,Hunter Biden,"[0, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 27 2020 Tuesday,-0.2631578947368421
+524,1261,American,"[0, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 27 2020 Tuesday,-0.15
+525,1261,Jim Biden,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 27 2020 Tuesday,-0.1875
+526,1293,Joe Biden,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, 0, -1]",Fox News Network SUNDAY MORNING FUTURES,October 25 2020 Sunday,-0.85
+527,1293,Biden,"[-1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,October 25 2020 Sunday,-0.875
+528,1293,Hunter Biden,"[-1, -1, 0, -1, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, -1, 0, -1, 0, -1, 0]",Fox News Network SUNDAY MORNING FUTURES,October 25 2020 Sunday,-0.5
+529,1293,American,"[0, -1, 0, -1, -1, 0, 0, 0, 0, 0, -1, -1, 0, 1, 0, -1, -1, 0, -1]",Fox News Network SUNDAY MORNING FUTURES,October 25 2020 Sunday,-0.3684210526315789
+530,1293,China,"[-1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, 0, -1, 0, -1, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,October 25 2020 Sunday,-0.7058823529411765
+531,1316,Neil,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,0.05
+532,1316,Democrats,"[0, 0, 0, -1, 0, 0, 1, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,0.1
+533,1316,Trump,"[-1, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,-0.6428571428571429
+534,1316,Joe Biden,"[0, 0, 0, -1, -1, 0, -1, 0, 1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,-0.25
+535,1316,American,"[0, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 7 2020 Wednesday,-0.23076923076923078
+536,1318,Joe Biden,"[0, -1, -1, 0, 0, 0, 0, -1, 0, -1, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 22 2020 Thursday,-0.2
+537,1318,Trump,"[0, 0, -1, -1, -1, -1, 0, -1, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 1, 0]",Fox News Network THE FIVE,October 22 2020 Thursday,-0.35
+538,1318,Juan,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0]",Fox News Network THE FIVE,October 22 2020 Thursday,0.0
+539,1318,Joe,"[-1, 0, 0, 0, 1, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, 0, 0]",Fox News Network THE FIVE,October 22 2020 Thursday,-0.4
+540,1318,Donald Trump,"[0, 0, 0, 0, 0, 0, -1, -1, 1, -1, 0, -1, 1, 0, 0]",Fox News Network THE FIVE,October 22 2020 Thursday,-0.13333333333333333
+541,1328,Trump,"[0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,0.6
+542,1328,Jared Kushner,"[0, 0, 0, 0, -1, 1, 1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,0.14285714285714285
+543,1328,Fox,"[0, 0, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,0.0
+544,1328,Friends,[],Fox News Network FOX AND FRIENDS,October 26 2020 Monday,
+545,1328,Jews,[-1],Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-1.0
+546,1330,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 27 2020 Tuesday,0.0
+547,1330,Michigan,"[-1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 27 2020 Tuesday,0.3684210526315789
+548,1330,Joe Biden,"[-1, 0, 0, 1, 0, -1, 1, 1, 0, 0, -1, 1, 1, -1, 0, 0, 0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 27 2020 Tuesday,0.1
+549,1330,Biden,"[0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 27 2020 Tuesday,0.10526315789473684
+550,1330,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 27 2020 Tuesday,0.0
+551,1338,Scott Walker,"[0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,-0.5
+552,1338,Biden,"[-1, 0, -1, -1, 0, -1, 0, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,-0.7
+553,1338,Wisconsin,"[0, 0, -1, 0, 1, 1, -1, -1, 0, -1, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,-0.07692307692307693
+554,1338,Minnesota,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,0.0625
+555,1338,Fmr,[],Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 30 2020 Friday,
+556,1340,American,[],Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 16 2020 Friday,
+557,1340,Michigan,"[1, 1, 1, -1, 0, -1, 1, 1, 1, 1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 16 2020 Friday,0.38461538461538464
+558,1340,Trump,"[-1, -1, -1, -1, -1, 1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 16 2020 Friday,-0.7058823529411765
+559,1340,America,"[-1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 16 2020 Friday,-0.25
+560,1340,Biden,"[-1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 16 2020 Friday,-0.7368421052631579
+561,1354,the White House,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 1, -1, 0, 0, -1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 5 2020 Monday,-0.2
+562,1354,Trump,"[1, 1, -1, 0, 1, 0, -1, 0, 0, -1, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 5 2020 Monday,-0.07142857142857142
+563,1354,COVID,"[-1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 5 2020 Monday,-0.2222222222222222
+564,1354,Joe Biden,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 5 2020 Monday,0.1
+565,1354,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 5 2020 Monday,0.1111111111111111
+566,1368,Trump,"[-1, -1, -1, 0, -1, 0, -1, 1, 0, 0, -1, 0, 0, 0, -1, 0, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,October 17 2020 Saturday,-0.3888888888888889
+567,1368,Biden,"[0, -1, 0, -1, 0, -1, -1, -1, -1, -1, 0, 1, 0]",Fox News Network THE GREG GUTFELD SHOW,October 17 2020 Saturday,-0.46153846153846156
+568,1368,Brad Pitt,"[0, -1, -1, 0, -1, -1, -1, 1, 1]",Fox News Network THE GREG GUTFELD SHOW,October 17 2020 Saturday,-0.3333333333333333
+569,1368,Charlie,"[0, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 17 2020 Saturday,0.1111111111111111
+570,1368,Joe Biden,"[0, 0, -1, -1, -1, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,October 17 2020 Saturday,-0.5714285714285714
+571,1369,Biden,"[0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 26 2020 Monday,-0.29411764705882354
+572,1369,Pennsylvania,"[0, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 26 2020 Monday,-0.21052631578947367
+573,1369,Trump,"[0, 0, -1, -1, 1, 0, 0, -1, 0, 0, 0, 1, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 26 2020 Monday,-0.1875
+574,1369,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 26 2020 Monday,0.0
+575,1369,U.S.,"[0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0, -1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 26 2020 Monday,-0.3888888888888889
+576,1370,Hunter Biden,"[0, -1, 0, 1, 0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 14 2020 Wednesday,-0.15
+577,1370,Biden,"[-1, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 14 2020 Wednesday,-0.8125
+578,1370,Joe Biden,"[0, -1, -1, -1, 0, -1, 0, -1, 0, -1, -1, 0, 0, -1, 0, -1, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 14 2020 Wednesday,-0.5
+579,1370,Iowa,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 14 2020 Wednesday,0.25
+580,1370,American,"[0, 0, 0, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 14 2020 Wednesday,-0.375
+581,1371,Obergefell,"[0, 0, 0, -1, -1, -1, 0, 1, 0, 0, 0, 0, 0, 1, 1]",Fox News Network THE FIVE,October 13 2020 Tuesday,0.0
+582,1371,Trump,"[0, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, 0, 0, -1]",Fox News Network THE FIVE,October 13 2020 Tuesday,-0.4666666666666667
+583,1371,Booker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]",Fox News Network THE FIVE,October 13 2020 Tuesday,0.14285714285714285
+584,1371,Amy Coney Barrett,"[0, 1, -1, 0, -1, 0, 1, 0, 0]",Fox News Network THE FIVE,October 13 2020 Tuesday,0.0
+585,1371,Americans,"[0, -1, 0, 0, -1, -1, -1, -1, -1, 1, -1]",Fox News Network THE FIVE,October 13 2020 Tuesday,-0.5454545454545454
+586,1372,Harris,"[-1, -1, 0, 0, 0, -1, 1, 0, 1, -1, -1, -1]",Fox News Network THE FIVE,October 14 2020 Wednesday,-0.3333333333333333
+587,1372,California,"[0, -1, -1, 1, 1, -1, -1, -1, 0, 0]",Fox News Network THE FIVE,October 14 2020 Wednesday,-0.3
+588,1372,Trump,"[-1, 0, -1, 0, -1, 0, 0]",Fox News Network THE FIVE,October 14 2020 Wednesday,-0.42857142857142855
+589,1372,Juan,"[0, 0, 0, 0, 0, 1, 0]",Fox News Network THE FIVE,October 14 2020 Wednesday,0.14285714285714285
+590,1372,Kennedy,"[0, -1, 0, 1, 0, 0, -1, 0]",Fox News Network THE FIVE,October 14 2020 Wednesday,-0.125
+591,1385,Nancy Pelosi,"[-1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 9 2020 Friday,-1.0
+592,1385,the 25th Amendment,"[0, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 9 2020 Friday,-0.5
+593,1385,Conley,"[0, 0, 0]",Fox News Network FOX AND FRIENDS,October 9 2020 Friday,0.0
+594,1385,Kayleigh,"[0, 0, 1]",Fox News Network FOX AND FRIENDS,October 9 2020 Friday,0.3333333333333333
+595,1390,Joe Biden,"[-1, -1, -1, -1, -1, 0, 0, -1, 0, 0, -1, -1, -1, -1, -1]",Fox News Network AMERICA'S NEWSROOM,October 27 2020 Tuesday,-0.7333333333333333
+596,1390,Pennsylvania,"[-1, -1, -1, 1, 0, -1, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 27 2020 Tuesday,-0.375
+597,1390,American,"[-1, -1, -1, 0, 1, 1, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 27 2020 Tuesday,-0.125
+598,1390,Kayleigh,"[0, 0, 0, 0, -1, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 27 2020 Tuesday,-0.14285714285714285
+599,1390,COVID,"[-1, -1, 0, -1, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 27 2020 Tuesday,-0.5
+600,1392,Trump,"[1, -1, 1, 0, -1, 1]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,0.16666666666666666
+601,1392,China,"[-1, 0, -1, -1, -1, -1]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,-0.8333333333333334
+602,1392,Americans,"[-1, -1, 0, 1]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,-0.25
+603,1392,Kayleigh,"[0, 0, 0, 0, 0, 1]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,0.16666666666666666
+604,1392,Joe Biden,"[-1, 0, -1, -1, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,-0.5
+605,1399,Trump,"[0, 0, 0, 0, -1]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,-0.2
+606,1399,Kayleigh,"[0, 0, 0, 0, 0, 1]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,0.16666666666666666
+607,1399,American,"[-1, -1, 0, 0]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,-0.5
+608,1399,Twitter,"[-1, 0, 1]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,0.0
+609,1417,Joe Biden,"[-1, -1, 0, -1, 0, 0, -1, 0, 1, 0]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,-0.3
+610,1417,Trump,"[1, 0, 1, 1, 1, 1, 1]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,0.8571428571428571
+611,1417,Lara,"[0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,0.1111111111111111
+612,1417,Lara Trump,"[0, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,0.0
+613,1417,American,"[1, -1]",Fox News Network AMERICA'S NEWSROOM,October 23 2020 Friday,0.0
+614,1422,Trump,"[-1, 1, 0, 0, -1, 1, 1, 0, 1, 0]",Fox News Network AMERICA'S NEWSROOM,October 26 2020 Monday,0.2
+615,1422,Larry,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network AMERICA'S NEWSROOM,October 26 2020 Monday,-0.09090909090909091
+616,1422,Sandra,"[0, 0, 0, 0]",Fox News Network AMERICA'S NEWSROOM,October 26 2020 Monday,0.0
+617,1428,Trump,"[0, -1, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network LIVE EVENT,October 3 2020 Saturday,0.0
+618,1428,Shannon,"[1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]",Fox News Network LIVE EVENT,October 3 2020 Saturday,0.25
+619,1428,COVID,"[-1, -1, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, 1, -1, -1, -1, -1, -1]",Fox News Network LIVE EVENT,October 3 2020 Saturday,-0.5555555555555556
+620,1428,Senate,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network LIVE EVENT,October 3 2020 Saturday,0.0
+621,1428,the White House,"[0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network LIVE EVENT,October 3 2020 Saturday,-0.16666666666666666
+622,1429,Trump,"[1, 0, 1, 1, 1, 1, 0, -1, 1, 1, 1, 1, 0, 0, 0, -1, 1]",Fox News Network INGRAHAM ANGLE,October 30 2020 Friday,0.47058823529411764
+623,1429,America,"[1, 0, 1, -1, 1, 0, -1, -1, 0, 1, 0, 0, 1, 1, -1, 1]",Fox News Network INGRAHAM ANGLE,October 30 2020 Friday,0.1875
+624,1429,American,"[1, 1, 1, -1, -1, 1, 1, 0, -1, -1, -1, -1, 0, 0, 1, 0, 1, 1]",Fox News Network INGRAHAM ANGLE,October 30 2020 Friday,0.1111111111111111
+625,1429,China,"[-1, 0, -1, -1, 0, 0, -1, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,October 30 2020 Friday,-0.45454545454545453
+626,1429,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, 1, 0]",Fox News Network INGRAHAM ANGLE,October 30 2020 Friday,-0.0625
+627,1454,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, -1, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 27 2020 Tuesday,0.23529411764705882
+628,1454,Biden,"[0, 0, 0, -1, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 1]",Fox News Network FOX NEWS @ NIGHT,October 27 2020 Tuesday,0.0
+629,1454,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 27 2020 Tuesday,0.1111111111111111
+630,1454,Florida,"[0, 0, 0, -1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0]",Fox News Network FOX NEWS @ NIGHT,October 27 2020 Tuesday,0.13333333333333333
+631,1454,Joe Biden,"[0, -1, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, 1, 0, 1]",Fox News Network FOX NEWS @ NIGHT,October 27 2020 Tuesday,-0.23529411764705882
+632,1464,Biden,"[0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, 1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,-0.5555555555555556
+633,1464,Trump,"[1, 0, -1, 0, 0, -1, 1, 0, -1, -1, -1, 0, -1, -1, -1, 1]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,-0.3125
+634,1464,Joe Biden,"[0, 0, 1, 1, -1, -1, 0, 0, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,-0.3
+635,1464,Hunter,"[-1, 0, -1, -1, -1, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,-0.3
+636,1464,Laura,"[0, 0, -1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,0.07142857142857142
+637,1465,Biden,"[-1, 1, -1, 0, 1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,-0.6111111111111112
+638,1465,Trump,"[-1, 0, -1, -1, -1, 0, 0, -1, 0, 1, -1, 1, -1, 1, 1]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,-0.2
+639,1465,Joe Biden,"[0, 0, 1, 0, -1, -1, 0, 0, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, 1]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,-0.4
+640,1465,Hunter,"[-1, -1, 1, -1, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,-0.3333333333333333
+641,1465,Laura,"[0, 0, -1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 19 2020 Monday,0.07142857142857142
+642,1481,Neil,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 1 2020 Thursday,0.0
+643,1481,Democrats,"[1, -1, 0, -1, 0, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 1 2020 Thursday,-0.5555555555555556
+644,1481,Joe Biden,"[0, 0, -1, -1, 0, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 1 2020 Thursday,-0.3
+645,1481,Florida,"[-1, 0, 1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 1 2020 Thursday,0.0
+646,1481,the White House,"[0, 0, -1, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 1 2020 Thursday,0.0
+647,1486,Mark Meadows,"[0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 5 2020 Monday,0.0
+648,1486,White House,"[0, 1]",Fox News Network FOX AND FRIENDS,October 5 2020 Monday,0.5
+649,1486,Walter Reed,"[0, 0, 0]",Fox News Network FOX AND FRIENDS,October 5 2020 Monday,0.0
+650,1486,American,"[1, 1, 1, 1, 0, 1, 0, 1, 0]",Fox News Network FOX AND FRIENDS,October 5 2020 Monday,0.6666666666666666
+651,1486,Fox,"[0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 5 2020 Monday,0.0
+652,1487,Joe Biden,"[-1, -1, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network FOX AND FRIENDS,October 19 2020 Monday,-0.8
+653,1487,Twitter,"[-1, -1, 0, -1, 0, -1]",Fox News Network FOX AND FRIENDS,October 19 2020 Monday,-0.6666666666666666
+654,1487,American,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 19 2020 Monday,0.0
+655,1487,Mark Meadows,"[0, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 19 2020 Monday,0.0
+656,1487,White House,"[0, 0, 0, -1, 1, 0, 0]",Fox News Network FOX AND FRIENDS,October 19 2020 Monday,0.0
+657,1493,Pat,[-1],Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,-1.0
+658,1493,Mud,"[0, 1, 1, 0]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,0.5
+659,1493,Matthew,"[0, 1, 0, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,0.14285714285714285
+660,1493,Hollywood,"[0, 0]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,0.0
+661,1493,Matthew McConaughey,"[-1, 1, 0]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,0.0
+662,1494,Trump,"[-1, -1, 0, 1, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 22 2020 Thursday,-0.3125
+663,1494,Joe Biden,"[1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 1, -1, 0, -1, 0, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 22 2020 Thursday,0.05263157894736842
+664,1494,Biden,"[-1, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, -1, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 22 2020 Thursday,-0.1111111111111111
+665,1494,Nashville,"[0, 0, 0, 0, 1, 0, 0, 0, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 22 2020 Thursday,0.2222222222222222
+666,1494,China,"[-1, -1, 1, 0, -1, -1, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 22 2020 Thursday,-0.4
+667,1500,Russian,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 30 2020 Friday,-0.8571428571428571
+668,1500,Tucker,"[1, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,October 30 2020 Friday,0.14285714285714285
+669,1500,Donald Trump,"[-1, -1, -1, -1, -1, 1, 1, 1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 30 2020 Friday,-0.3333333333333333
+670,1500,Trump,"[-1, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, 1, 1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 30 2020 Friday,-0.35294117647058826
+671,1500,Joe Biden,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 30 2020 Friday,-0.9
+672,1504,Trump,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, 0, 0, 1]",Fox News Network THE GREG GUTFELD SHOW,October 10 2020 Saturday,-0.6470588235294118
+673,1504,Kat,"[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 10 2020 Saturday,0.18181818181818182
+674,1504,Dagen,"[0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,October 10 2020 Saturday,-0.1111111111111111
+675,1504,Kamala,"[0, -1, 0, -1, 0, -1, 0, 1]",Fox News Network THE GREG GUTFELD SHOW,October 10 2020 Saturday,-0.25
+676,1504,Tyrus,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 10 2020 Saturday,0.1
+677,1526,Chris Cuomo,"[-1, -1, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 6 2020 Tuesday,-0.6666666666666666
+678,1526,Donald Trump,"[0, 0, 0, -1, -1, 0, -1, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 6 2020 Tuesday,-0.36363636363636365
+679,1526,Trump,"[-1, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0, -1, -1, 0, 0, 1, 1]",Fox News Network TUCKER CARLSON TONIGHT,October 6 2020 Tuesday,-0.29411764705882354
+680,1526,COVID,[],Fox News Network TUCKER CARLSON TONIGHT,October 6 2020 Tuesday,
+681,1526,Americans,"[-1, 0, 1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 6 2020 Tuesday,-0.3333333333333333
+682,1537,COVID,"[1, 0, 1, -1, -1, 0, 0, -1, -1]",Fox News Network AMERICA'S NEWSROOM,October 7 2020 Wednesday,-0.2222222222222222
+683,1537,Joe Biden,"[-1, -1, -1, -1, -1]",Fox News Network AMERICA'S NEWSROOM,October 7 2020 Wednesday,-1.0
+684,1537,Mercedes,"[0, 0, 0, 1]",Fox News Network AMERICA'S NEWSROOM,October 7 2020 Wednesday,0.25
+685,1537,Mike Pence,"[1, 1, 1]",Fox News Network AMERICA'S NEWSROOM,October 7 2020 Wednesday,1.0
+686,1537,Kamala Harris,"[0, -1]",Fox News Network AMERICA'S NEWSROOM,October 7 2020 Wednesday,-0.5
+687,1546,Kamala Harris,"[-1, -1, -1, -1, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 8 2020 Thursday,-0.4444444444444444
+688,1546,Joe Biden,"[-1, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 8 2020 Thursday,-0.3076923076923077
+689,1546,Trump,"[-1, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 8 2020 Thursday,-0.4
+690,1546,China,"[-1, 0, -1, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 8 2020 Thursday,-0.35714285714285715
+691,1546,Mike Pence,"[0, -1, -1, -1, 1, 0, 0, 0, -1, 1, -1, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 8 2020 Thursday,-0.3125
+692,1561,Trump,"[-1, 0, -1, 0, 1, -1, 0, 1, -1, 0, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 29 2020 Thursday,-0.2
+693,1561,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 29 2020 Thursday,-0.6666666666666666
+694,1561,Shannon,"[1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 29 2020 Thursday,0.35
+695,1561,Biden,"[0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 29 2020 Thursday,-0.15789473684210525
+696,1561,Joe Biden,"[0, 1, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 29 2020 Thursday,-0.13333333333333333
+697,1571,Joe Biden,"[0, 0, 0, -1, 0, 1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 22 2020 Thursday,-0.2222222222222222
+698,1571,Biden,"[-1, -1, -1, 0, 0, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 22 2020 Thursday,-0.75
+699,1571,Trump,"[1, 0, 0, 1, 1, 0, 0, 0, -1, 0, 0, 0, 1, 0, -1, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 22 2020 Thursday,0.05263157894736842
+700,1571,China,"[-1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 22 2020 Thursday,-0.7857142857142857
+701,1571,Russian,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 22 2020 Thursday,-0.8125
+702,1596,Trump,"[-1, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 20 2020 Tuesday,-0.2222222222222222
+703,1596,FBI,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 20 2020 Tuesday,0.06666666666666667
+704,1596,Joe Biden,"[-1, -1, 0, -1, -1, 0, 0, 0, 1, -1, -1, -1, 0, 0, -1, -1, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 20 2020 Tuesday,-0.5
+705,1596,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 20 2020 Tuesday,0.0
+706,1596,Google,"[0, -1, -1, -1, -1, -1, 0, 0, -1, -1, 1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 20 2020 Tuesday,-0.5714285714285714
+707,1618,Trump,"[0, 1, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 9 2020 Friday,-0.2222222222222222
+708,1618,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 9 2020 Friday,-0.05555555555555555
+709,1618,Democrats,"[0, 0, 0, -1, -1, 0, 0, -1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 9 2020 Friday,-0.45454545454545453
+710,1618,Senate,"[0, 0, -1, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 9 2020 Friday,-0.3076923076923077
+711,1618,Twitter,"[-1, -1, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 9 2020 Friday,-1.0
+712,1634,Trump,"[-1, -1, 0, 1, 0, -1, 0, 1, 0, 0, 0, -1, 0, 1, 0, 0, 1, 0, 0]",Fox News Network INGRAHAM ANGLE,October 16 2020 Friday,0.0
+713,1634,Biden,"[-1, 0, -1, 0, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 16 2020 Friday,-0.6
+714,1634,Laura,"[0, 0, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,October 16 2020 Friday,-0.16666666666666666
+715,1634,Joe Biden,"[-1, -1, -1, -1, -1, 0, -1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 16 2020 Friday,-0.7
+716,1634,COVID,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 16 2020 Friday,-0.9
+717,1655,Biden,"[0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 6 2020 Tuesday,-0.8235294117647058
+718,1655,Trump,"[0, -1, 1, 0, 1, 0, -1, 1, 0, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,October 6 2020 Tuesday,-0.08333333333333333
+719,1655,Joe,"[-1, -1, 0, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 6 2020 Tuesday,-0.631578947368421
+720,1655,COVID,"[0, -1, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,October 6 2020 Tuesday,-0.3333333333333333
+721,1655,Joe Biden,"[-1, -1, 0, -1, 0, -1, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 6 2020 Tuesday,-0.4
+722,1658,Trump,"[-1, 1, 1, 1, 0, 0, 0, 1, -1, -1, -1, 0, 0, 0, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 15 2020 Thursday,0.125
+723,1658,China,"[0, -1, 0, -1, -1, 0, -1, 1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 15 2020 Thursday,-0.5454545454545454
+724,1658,Biden,"[-1, 0, -1, 0, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 15 2020 Thursday,-0.6666666666666666
+725,1658,Hunter Biden,"[-1, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 15 2020 Thursday,-0.6666666666666666
+726,1658,America,"[-1, 0, 0, 0, -1, 0, -1, 0, 0, -1, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 15 2020 Thursday,-0.42857142857142855
+727,1707,Kamala,"[-1, -1]",Fox News Network THE BRIAN KILMEADE SHOW,October 8 2020 Thursday,-1.0
+728,1720,Biden,"[0, 1, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 1, 0, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 7 2020 Wednesday,-0.1
+729,1720,Trump,"[0, 0, -1, 0, -1, -1, 0, -1, 0, -1, 0, 0, 0, -1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 7 2020 Wednesday,-0.4117647058823529
+730,1720,Joe Biden,"[0, -1, 0, 0, 0, 0, -1, -1, -1, 0, 1, 1, 0, -1, -1, 0, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 7 2020 Wednesday,-0.25
+731,1720,American,"[0, 0, 0, -1, -1, 0, 1, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 7 2020 Wednesday,-0.2
+732,1720,Mike Pence,"[0, 0, -1, 0, 0, 0, 0, 1, -1, 0, 1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 7 2020 Wednesday,0.0
+733,1722,Gettysburg,"[0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 6 2020 Tuesday,-0.125
+734,1722,America,"[-1, 1, -1, -1, 0, 0, -1, -1, 1, 1, -1, 1, 0, 0, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 6 2020 Tuesday,-0.3333333333333333
+735,1722,U.S.,[],Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 6 2020 Tuesday,
+736,1722,Joe Biden Delivers Address,[0],Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 6 2020 Tuesday,0.0
+737,1722,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 6 2020 Tuesday,0.0
+738,1757,New York,"[-1, 0, -1, -1, 0, 0, -1, -1, 0, -1, 0, -1]",Fox News Network FOX AND FRIENDS,October 20 2020 Tuesday,-0.5833333333333334
+739,1757,Russia,"[-1, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 20 2020 Tuesday,-0.5454545454545454
+740,1757,Joe Biden,"[-1, 0, 0, 0, 0, 1, 0, -1, -1, 0, 0, -1, 0]",Fox News Network FOX AND FRIENDS,October 20 2020 Tuesday,-0.23076923076923078
+741,1757,Brian,"[0, 0, 0, 1, -1, 0, 1]",Fox News Network FOX AND FRIENDS,October 20 2020 Tuesday,0.14285714285714285
+742,1757,American,"[-1, -1, -1, -1, -1, 0, 1, 0, 1]",Fox News Network FOX AND FRIENDS,October 20 2020 Tuesday,-0.3333333333333333
+743,1762,Trump,"[-1, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fox News Network THE FIVE,October 29 2020 Thursday,-0.23529411764705882
+744,1762,Biden,"[-1, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, 1, 0, 0, 1, 0, -1, -1]",Fox News Network THE FIVE,October 29 2020 Thursday,-0.3333333333333333
+745,1762,Florida,"[0, 0, 0, 0, -1, -1, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 29 2020 Thursday,-0.11764705882352941
+746,1762,Joe Biden,"[0, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE FIVE,October 29 2020 Thursday,-0.4117647058823529
+747,1762,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 29 2020 Thursday,-0.06666666666666667
+748,1767,Trump,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 19 2020 Monday,-0.11764705882352941
+749,1767,Biden,"[1, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, -1, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 19 2020 Monday,-0.5
+750,1767,Joe Biden,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 1, -1, 1, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 19 2020 Monday,-0.5882352941176471
+751,1767,Arizona,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 19 2020 Monday,-0.14285714285714285
+752,1767,U.S.,"[0, -1, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 19 2020 Monday,-0.6666666666666666
+753,1771,Trump,"[0, -1, 0, 0, 1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0]",Fox News Network THE FIVE,October 20 2020 Tuesday,-0.21052631578947367
+754,1771,Biden,"[0, 0, 0, 0, 0, 0, 0, -1, -1, -1, 0, -1, 0, 0, -1]",Fox News Network THE FIVE,October 20 2020 Tuesday,-0.3333333333333333
+755,1771,Juan,[],Fox News Network THE FIVE,October 20 2020 Tuesday,
+756,1771,Democratic,"[-1, 0, -1, -1, -1, 0, 0, -1, 0]",Fox News Network THE FIVE,October 20 2020 Tuesday,-0.5555555555555556
+757,1771,Joe Biden,"[-1, -1, 0, 0, -1, 0, 0, 0]",Fox News Network THE FIVE,October 20 2020 Tuesday,-0.375
+758,1789,Trump,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 1]",Fox News Network THE FIVE,October 5 2020 Monday,-0.15789473684210525
+759,1789,Coronavirus,"[0, 0, 0, 0, -1, -1, 0, 0, -1, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,October 5 2020 Monday,-0.2857142857142857
+760,1789,Jesse,"[0, -1, 0, 0, 0, 0, 0, 1, -1]",Fox News Network THE FIVE,October 5 2020 Monday,-0.1111111111111111
+761,1789,Juan,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network THE FIVE,October 5 2020 Monday,0.09090909090909091
+762,1789,Joe Biden,"[-1, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,October 5 2020 Monday,-0.2727272727272727
+763,1811,Joe Biden,"[0, -1, -1, -1, 0, 0, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network MEDIA BUZZ,October 4 2020 Sunday,-0.65
+764,1811,Trump,"[0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1, 1, 0, 0, -1, 0, -1]",Fox News Network MEDIA BUZZ,October 4 2020 Sunday,-0.21052631578947367
+765,1811,Walter Reed,"[0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]",Fox News Network MEDIA BUZZ,October 4 2020 Sunday,0.25
+766,1811,American,"[1, 1, 0, 1, 1, 0, 0, -1, 1, 1, 1, 1, 0]",Fox News Network MEDIA BUZZ,October 4 2020 Sunday,0.5384615384615384
+767,1811,Conley,"[0, 0, -1, 0, -1, 1, 0, 0, 0, 0, 0, -1, -1, -1]",Fox News Network MEDIA BUZZ,October 4 2020 Sunday,-0.2857142857142857
+768,1821,FBI,[],Fox News Network THE STORY WITH MARTHA MACCALLUM,October 21 2020 Wednesday,
+769,1821,Trump,"[1, -1, 1, 0, -1, -1, 0, 0, -1, -1, 0, 0, -1, 0, -1, 0, 0, -1, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 21 2020 Wednesday,-0.3
+770,1821,Joe Biden,"[0, 0, -1, 0, 0, 1, 0, 0, -1, -1, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 21 2020 Wednesday,-0.21428571428571427
+771,1821,Ukraine,"[0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 21 2020 Wednesday,-0.1111111111111111
+772,1821,Iran,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 21 2020 Wednesday,-1.0
+773,1827,Trump,"[0, 0, -1, -1, 0, 0, -1, 1, -1, 1, 0, 0, 1, -1, 1, 0, -1]",Fox News Network WATTERS WORLD,October 3 2020 Saturday,-0.11764705882352941
+774,1827,the White House,"[-1, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network WATTERS WORLD,October 3 2020 Saturday,-0.13333333333333333
+775,1827,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network WATTERS WORLD,October 3 2020 Saturday,0.047619047619047616
+776,1827,American,"[0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network WATTERS WORLD,October 3 2020 Saturday,0.058823529411764705
+777,1827,China,"[-1, 0, 0, -1, -1, 1, -1, 0]",Fox News Network WATTERS WORLD,October 3 2020 Saturday,-0.375
+778,1829,Shannon,"[0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 15 2020 Thursday,0.2631578947368421
+779,1829,Trump,"[0, 0, 1, 0, 0, 1, 1, 0, 0, 0, -1, 1, 1]",Fox News Network FOX NEWS @ NIGHT,October 15 2020 Thursday,0.3076923076923077
+780,1829,Biden,"[0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 15 2020 Thursday,-0.2857142857142857
+781,1829,Hunter Biden,"[0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 15 2020 Thursday,-0.23529411764705882
+782,1829,Joe Biden,"[0, -1, 1, -1, 0, -1, -1, -1, 0, -1, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 15 2020 Thursday,-0.5714285714285714
+783,1831,Joe Biden,"[-1, 0, -1, 0, 0, 0, -1, 0, 1, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, 0]",Fox News Network FOX HANNITY,October 22 2020 Thursday,-0.5
+784,1831,Biden,"[-1, 0, 0, -1, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,October 22 2020 Thursday,-0.6388888888888888
+785,1831,Trump,"[0, -1, -1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, -1, 0, 0, -1, 1, 0]",Fox News Network FOX HANNITY,October 22 2020 Thursday,0.05263157894736842
+786,1831,Joe,"[-1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 22 2020 Thursday,-0.8
+787,1831,China,"[0, 0, -1, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 22 2020 Thursday,-0.2
+788,1836,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,0.0
+789,1836,Senate,"[-1, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,-0.11764705882352941
+790,1836,Democrats,"[0, -1, -1, 1, 1, -1, -1, -1, 1, 1, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,0.0
+791,1836,Republicans,"[0, 0, 0, -1, -1, -1, 1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,-0.4
+792,1836,Republican,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 1, 0, -1, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 20 2020 Tuesday,-0.16666666666666666
+793,1837,Joe,"[0, 0, -1, -1, 0, 0, -1, 0, 0, 0, -1, 0, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network FOX HANNITY,October 21 2020 Wednesday,-0.5
+794,1837,Sean,"[-1, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 21 2020 Wednesday,-0.05
+795,1837,Joe Biden,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, 0, 0, 0, -1, -1]",Fox News Network FOX HANNITY,October 21 2020 Wednesday,-0.65
+796,1837,Hunter,"[0, -1, -1, -1, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 21 2020 Wednesday,-0.7894736842105263
+797,1837,Trump,"[1, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, -1, 1, 0, -1, 0]",Fox News Network FOX HANNITY,October 21 2020 Wednesday,-0.1875
+798,1846,Donald Trump,"[1, -1, -1, 1, -1, 1, 1, 0, -1, -1, 0, 0, -1]",Fox News Network FOX HANNITY,October 6 2020 Tuesday,-0.15384615384615385
+799,1846,Joe Biden,"[-1, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,October 6 2020 Tuesday,-0.7857142857142857
+800,1846,Biden,"[-1, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, -1, 0, -1]",Fox News Network FOX HANNITY,October 6 2020 Tuesday,-0.7368421052631579
+801,1846,Sean,"[0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 6 2020 Tuesday,0.13333333333333333
+802,1846,American,"[0, -1, -1, -1, -1, -1, 1, 1, -1, 0, 0, -1, 0]",Fox News Network FOX HANNITY,October 6 2020 Tuesday,-0.38461538461538464
+803,1852,Florida,"[1, 0, 1, 1, -1, 0, 0, 0, 1, 0, 0, -1, 0, 0, -1, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 12 2020 Monday,0.11764705882352941
+804,1852,Biden,"[-1, 0, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, 1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 12 2020 Monday,-0.631578947368421
+805,1852,China,"[-1, 1, 1, 0, 0, -1, -1, 1, 1, -1, -1, 0, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 12 2020 Monday,-0.26666666666666666
+806,1852,Trump,"[0, -1, 1, -1, 1, 1, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 12 2020 Monday,-0.2222222222222222
+807,1852,Joe Biden,"[-1, -1, -1, -1, 0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 12 2020 Monday,-0.3333333333333333
+808,1869,Biden,"[0, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,October 19 2020 Monday,-0.75
+809,1869,Joe Biden,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,October 19 2020 Monday,-0.8
+810,1869,Trump,"[0, 1, -1, 0, -1, 0, 0, -1, 1, -1, -1, 0, -1, 0, 1, 1, 0, 0, -1]",Fox News Network FOX HANNITY,October 19 2020 Monday,-0.15789473684210525
+811,1869,Hunter,"[-1, -1, 0, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network FOX HANNITY,October 19 2020 Monday,-0.7
+812,1869,Hunter Biden,"[-1, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0, -1, -1, -1]",Fox News Network FOX HANNITY,October 19 2020 Monday,-0.4117647058823529
+813,1886,Trump,"[0, 1, 0, -1, 0, 0, 0, -1, 1, 0, 0, 0, 0, 1, 0, 0, -1, -1, 0]",Fox News Network THE FIVE,October 23 2020 Friday,-0.05263157894736842
+814,1886,Joe Biden,"[0, -1, 0, 1, 1, 1, -1, -1, 0, -1, 1, 0, -1, 0, 0, 0, -1]",Fox News Network THE FIVE,October 23 2020 Friday,-0.11764705882352941
+815,1886,Biden,"[1, 0, 1, 0, -1, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1, -1, 0, -1, -1, 0]",Fox News Network THE FIVE,October 23 2020 Friday,-0.35
+816,1886,Joe,"[-1, -1, -1, -1, -1, 0, 0, 0, -1, 0, -1, 1, -1, 1, -1, -1, -1, 0]",Fox News Network THE FIVE,October 23 2020 Friday,-0.5
+817,1886,Juan,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,October 23 2020 Friday,-0.13333333333333333
+818,1887,Biden,"[-1, 0, -1, -1, -1, -1, 0, 0, -1, 1, 0, 0, -1, -1, 0, -1, -1, 0]",Fox News Network THE FIVE,October 16 2020 Friday,-0.5
+819,1887,Trump,"[-1, 1, -1, 0, 1, 0, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network THE FIVE,October 16 2020 Friday,-0.14285714285714285
+820,1887,Florida,"[-1, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 1, 0, 1]",Fox News Network THE FIVE,October 16 2020 Friday,-0.07142857142857142
+821,1887,America,"[-1, 1, 1, -1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0]",Fox News Network THE FIVE,October 16 2020 Friday,0.5714285714285714
+822,1887,Michigan,"[0, 0, 0, 0, 1, 0, 0, 0, 1, 1]",Fox News Network THE FIVE,October 16 2020 Friday,0.3
+823,1890,Trump,"[1, 0, 0, 1, 0, 1, 0, 0, -1, 0, 1, -1, 1, 1, 1, 1, 1, 1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 31 2020 Saturday,0.3684210526315789
+824,1890,Biden,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 31 2020 Saturday,-0.7777777777777778
+825,1890,American,"[1, 0, 1, -1, -1, 0, -1, 1, 1, -1, -1, 1, 0, 1, 1, 1, 1, 1, 1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 31 2020 Saturday,0.3157894736842105
+826,1890,North Carolina,"[0, 1, 0, 1, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 31 2020 Saturday,0.14285714285714285
+827,1890,Joe Biden,"[-1, -1, -1, -1, -1, 0, -1, -1, 0, 0, 0, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 31 2020 Saturday,-0.6923076923076923
+828,1896,Trump,"[1, 0, -1, -1, 0, 0, -1, -1, 0, 1, 1, 1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 14 2020 Wednesday,-0.23529411764705882
+829,1896,Joe Biden,"[-1, 0, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, 0, -1]",Fox News Network FOX HANNITY,October 14 2020 Wednesday,-0.6111111111111112
+830,1896,Hunter,"[-1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network FOX HANNITY,October 14 2020 Wednesday,-0.8421052631578947
+831,1896,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network FOX HANNITY,October 14 2020 Wednesday,-0.9333333333333333
+832,1896,Sean,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 14 2020 Wednesday,0.0
+833,1904,Trump,"[-1, 0, -1, 0, -1, -1, -1, 1, -1, 0, -1, -1, -1, -1, -1, 1, 0, -1, 0]",Fox News Network THE FIVE,October 30 2020 Friday,-0.5263157894736842
+834,1904,America,"[1, -1, 0, -1, 1, 1, -1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, -1, 0]",Fox News Network THE FIVE,October 30 2020 Friday,0.10526315789473684
+835,1904,Joe Biden,"[-1, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, -1, 0, 1, 1, -1, -1, 0]",Fox News Network THE FIVE,October 30 2020 Friday,-0.2777777777777778
+836,1904,Donald Trump,"[1, 0, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1]",Fox News Network THE FIVE,October 30 2020 Friday,-0.625
+837,1904,Russia,"[-1, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 1]",Fox News Network THE FIVE,October 30 2020 Friday,-0.16666666666666666
+838,1907,Joe Biden,"[-1, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1]",Fox News Network THE FIVE,October 26 2020 Monday,-0.42105263157894735
+839,1907,Trump,"[1, 1, 1, -1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 26 2020 Monday,0.21052631578947367
+840,1907,Pennsylvania,"[0, 0, 0, -1, -1, -1, 1, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,October 26 2020 Monday,-0.2631578947368421
+841,1907,Biden,"[0, 0, -1, 0, -1, 0, -1, 0, 0, -1, -1, -1, -1, 0, 0, 0, -1, 1, -1]",Fox News Network THE FIVE,October 26 2020 Monday,-0.42105263157894735
+842,1907,Hunter,"[0, -1, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network THE FIVE,October 26 2020 Monday,-0.3
+843,1911,Trump,"[1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 27 2020 Tuesday,0.3
+844,1911,Sean,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 27 2020 Tuesday,0.0
+845,1911,Biden,"[-1, -1, -1, 0, 0, 0, -1, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1, -1, 0, -1]",Fox News Network FOX HANNITY,October 27 2020 Tuesday,-0.6
+846,1911,Joe Biden,"[0, -1, 0, -1, -1, 0, -1, -1, -1, 0, 0, -1, 1, -1, -1, 0, 0, 0, -1, 0]",Fox News Network FOX HANNITY,October 27 2020 Tuesday,-0.45
+847,1911,Joe,"[1, -1, -1, 1, 0, 0, -1, 0, -1, -1, 0, 1, 0, -1, -1, 1, 0, -1, -1, 0]",Fox News Network FOX HANNITY,October 27 2020 Tuesday,-0.25
+848,1939,Trump,"[-1, 0, 0, 0, -1, -1, 0, 0, -1, 0, -1, 0, 0, -1, -1, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 6 2020 Tuesday,-0.5
+849,1939,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 6 2020 Tuesday,0.0
+850,1939,Kamala Harris,"[0, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 6 2020 Tuesday,-0.5384615384615384
+851,1939,California,"[-1, 0, -1, 1, 0, -1, -1, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 6 2020 Tuesday,-0.45454545454545453
+852,1939,CIA,"[0, 0, -1, 0, 0, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 6 2020 Tuesday,-0.2222222222222222
+853,1940,Trump,"[0, 0, 1, 1, 0, 1, 0, -1, -1, 0, 1, 0, 0, 0, 0, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 30 2020 Friday,0.16666666666666666
+854,1940,Biden,"[0, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 30 2020 Friday,-0.42105263157894735
+855,1940,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 30 2020 Friday,0.0
+856,1940,Joe Biden,"[0, -1, 0, -1, -1, 0, -1, -1, -1, 1, -1, 1, -1]",Fox News Network FOX NEWS @ NIGHT,October 30 2020 Friday,-0.46153846153846156
+857,1940,Senate,"[0, 0, -1, 0, -1, 0, 1, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 30 2020 Friday,-0.36363636363636365
+858,1941,Trump,"[0, 0, -1, -1, -1, 0, 1, 1, 0, 0, -1, -1, -1, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 30 2020 Friday,-0.35294117647058826
+859,1941,Minnesota,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 30 2020 Friday,0.058823529411764705
+860,1941,Joe Biden,"[-1, 0, -1, 0, 0, 0, -1, -1, 0, -1, 0, 0, -1, 0, -1, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 30 2020 Friday,-0.35294117647058826
+861,1941,Wisconsin,"[-1, -1, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 30 2020 Friday,-1.0
+862,1941,Biden,"[-1, 0, 0, 0, -1, -1, 0, -1, 0, -1, 0, 0, -1, 1, 0, -1, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 30 2020 Friday,-0.2631578947368421
+863,1951,Senate,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 5 2020 Monday,-0.17647058823529413
+864,1951,the White House,"[0, 0, 0, -1, -1, -1, -1, -1, 0, -1, 0, 1, -1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 5 2020 Monday,-0.35
+865,1951,Trump,"[1, 0, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 5 2020 Monday,-0.4375
+866,1951,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 5 2020 Monday,0.0
+867,1951,Democrats,"[-1, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 5 2020 Monday,-0.5
+868,1952,Sweden,"[1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,October 5 2020 Monday,0.35714285714285715
+869,1952,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 5 2020 Monday,-0.07692307692307693
+870,1952,Donald Trump,"[0, -1, -1, -1, -1, 0, 0, -1, 0, 1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 5 2020 Monday,-0.3333333333333333
+871,1952,COVID,"[0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 5 2020 Monday,-0.11764705882352941
+872,1952,Trump,"[-1, 0, 0, -1, 1, 0, 1, 1, -1, -1, 0, 0, 0, -1, 0, 0, 0, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 5 2020 Monday,-0.2
+873,1953,Trump,"[1, -1, 0, -1, -1, 0, -1, 0, 0, -1, 1, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,October 5 2020 Monday,-0.3333333333333333
+874,1953,Biden,"[0, -1, 0, 0, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0, -1, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 5 2020 Monday,-0.5263157894736842
+875,1953,COVID,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 5 2020 Monday,0.0
+876,1953,Laura,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 5 2020 Monday,-0.16666666666666666
+877,1953,Americans,"[-1, 0, 0, 1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 5 2020 Monday,0.0
+878,1954,the White House,"[0, 0, 0, 1, 0, -1, -1, 1, 1, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 5 2020 Monday,0.05263157894736842
+879,1954,Trump,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 5 2020 Monday,-0.08333333333333333
+880,1954,American,"[0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 5 2020 Monday,0.5714285714285714
+881,1954,Martha,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 5 2020 Monday,0.2
+882,1954,Robert,"[0, -1, 0, 0, 0, -1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 5 2020 Monday,-0.3333333333333333
+883,1956,Trump,"[0, 0, 0, -1, 1, -1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, -1]",Fox News Network THE FIVE,October 9 2020 Friday,0.16666666666666666
+884,1956,Joe Biden,"[-1, 0, 0, 1, -1, -1, -1, -1, 0, 0, -1, 0, 0, 1, 1, -1, 0, 0, 0]",Fox News Network THE FIVE,October 9 2020 Friday,-0.21052631578947367
+885,1956,Jesse,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 9 2020 Friday,-0.07692307692307693
+886,1956,Democrats,"[-1, -1, -1, -1, 0, -1, -1, -1, -1, 0]",Fox News Network THE FIVE,October 9 2020 Friday,-0.8
+887,1956,Jessica,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 9 2020 Friday,-0.1
+888,1976,Sean,"[0, 0, 0, 0, 0, 0, 0, 1, 0]",Fox News Network FOX HANNITY,October 2 2020 Friday,0.1111111111111111
+889,1976,COVID-19,"[-1, 1, -1, 0, 1, 0, 1, 0, 0, 0, 0, 0, -1, -1, 0, 0, -1, -1]",Fox News Network FOX HANNITY,October 2 2020 Friday,-0.16666666666666666
+890,1976,Walter Reed,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 1, 1]",Fox News Network FOX HANNITY,October 2 2020 Friday,0.11764705882352941
+891,1976,Democrats,"[-1, 1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 2 2020 Friday,-0.8
+892,1976,Trump,"[0, 0, -1, 0, -1, 0, -1]",Fox News Network FOX HANNITY,October 2 2020 Friday,-0.42857142857142855
+893,1993,Trump,"[0, 1, 0, 0, 0, -1, 1, 0, -1, 1, 1, -1, 0, 0, -1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 2 2020 Friday,-0.05555555555555555
+894,1993,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 2 2020 Friday,0.0
+895,1993,the White House,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 2 2020 Friday,-0.2
+896,1993,Walter Reed,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 2 2020 Friday,0.09523809523809523
+897,1993,Americans,"[0, -1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 2 2020 Friday,0.23076923076923078
+898,1998,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 9 2020 Friday,-0.058823529411764705
+899,1998,Trump,"[0, 0, 0, -1, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 9 2020 Friday,-0.07142857142857142
+900,1998,Barrett,"[0, 0, 0, 1, -1, -1, 0, 0, 1, 0, -1, 0, -1, 0, -1, 1]",Fox News Network FOX NEWS @ NIGHT,October 9 2020 Friday,-0.125
+901,1998,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 9 2020 Friday,-0.8888888888888888
+902,1998,Biden,"[-1, 0, 0, -1, 0, 0, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 9 2020 Friday,-0.6
+903,2003,Trump,"[1, 1, -1, -1, -1, -1, 1, -1, 1, 0, 1, 1, -1, 0, 0, -1, 0, -1, 1]",Fox News Network THE NEXT REVOLUTION,October 4 2020 Sunday,-0.05263157894736842
+904,2003,Democrats,"[-1, -1, -1, -1, 0, 0, 0, 0, -1, 0]",Fox News Network THE NEXT REVOLUTION,October 4 2020 Sunday,-0.5
+905,2003,Americans,"[1, 0, 1, -1, -1, 0, -1, 0]",Fox News Network THE NEXT REVOLUTION,October 4 2020 Sunday,-0.125
+906,2003,Joe Biden,"[-1, -1, -1, 0, 0, 0, -1]",Fox News Network THE NEXT REVOLUTION,October 4 2020 Sunday,-0.5714285714285714
+907,2003,Jason,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network THE NEXT REVOLUTION,October 4 2020 Sunday,0.0
+908,2005,Trump,"[0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 3 2020 Saturday,-0.15789473684210525
+909,2005,Charlie,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 3 2020 Saturday,-0.09090909090909091
+910,2005,Joe,"[1, 1, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,October 3 2020 Saturday,-0.38461538461538464
+911,2005,Navy,"[0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,October 3 2020 Saturday,-0.125
+912,2005,Jim,"[0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,October 3 2020 Saturday,0.125
+913,2006,Rob Portman,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,0.0
+914,2006,Pennsylvania,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,-0.1
+915,2006,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,0.0
+916,2006,COVID-19 Surging,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,-0.05
+917,2006,Joe Biden,"[0, -1, -1, 0, -1, -1, 0, 0, 0, -1, 0, -1, 0, 1, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 26 2020 Monday,-0.3333333333333333
+918,2013,Joe Biden,"[0, 0, 0, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 16 2020 Friday,-0.4
+919,2013,China,"[-1, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 16 2020 Friday,-0.5789473684210527
+920,2013,Hunter Biden,"[0, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1, 0, -1, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 16 2020 Friday,-0.5263157894736842
+921,2013,Biden,"[-1, 0, -1, 0, 0, 0, -1, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 16 2020 Friday,-0.4166666666666667
+922,2013,Chinese,"[-1, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 16 2020 Friday,-0.6923076923076923
+923,2018,Trump,"[-1, 0, -1, 0, -1, 0, 0, 0, 1, 0, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,-0.47058823529411764
+924,2018,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,-0.07692307692307693
+925,2018,Biden,"[0, -1, 0, 0, 0, 0, -1, -1, 0, 0, 1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,-0.21428571428571427
+926,2018,Michigan,"[0, 0, 0, -1, 0, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,-0.4444444444444444
+927,2018,Regeneron,"[0, 0, 1, 0, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,0.25
+928,2019,Trump,"[-1, 0, 1, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,-0.38461538461538464
+929,2019,Shannon,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,0.07142857142857142
+930,2019,Biden,"[-1, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,-0.42857142857142855
+931,2019,Michigan,"[0, 0, 0, 0, 0, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,-0.3333333333333333
+932,2019,Regeneron,"[1, 0, 1, 0, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 8 2020 Thursday,0.375
+933,2049,Democrats,"[-1, 0, 0, -1, 0, -1, 0, -1, 0, -1, 0, 1, -1, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 12 2020 Monday,-0.29411764705882354
+934,2049,Republicans,"[0, -1, 1, -1, -1, -1, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 12 2020 Monday,-0.4117647058823529
+935,2049,Barrett,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 12 2020 Monday,-0.047619047619047616
+936,2049,the Supreme Court,"[0, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 12 2020 Monday,-0.3076923076923077
+937,2049,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 12 2020 Monday,-0.07142857142857142
+938,2060,Democrats,"[-1, -1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,-1.0
+939,2060,Joe Biden,"[-1, -1, 0, 0]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,-0.5
+940,2060,American,"[1, -1, 1, 0]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,0.25
+941,2060,Tony Bobulinski,"[-1, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,-0.2
+942,2060,Texas,"[0, 1, -1]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,0.0
+943,2069,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 21 2020 Wednesday,0.0
+944,2069,Joe Biden,"[-1, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 21 2020 Wednesday,-0.631578947368421
+945,2069,Hunter Biden,"[-1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 21 2020 Wednesday,-0.4
+946,2069,FBI,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 21 2020 Wednesday,-0.4
+947,2069,Iran,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 21 2020 Wednesday,-0.9166666666666666
+948,2072,American,"[-1, -1, 0, -1, 0, -1, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 9 2020 Friday,-0.6666666666666666
+949,2072,Joe Biden,"[-1, -1, -1, 0, 0, -1, -1, 0]",Fox News Network FOX AND FRIENDS,October 9 2020 Friday,-0.625
+950,2072,Harris,"[-1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 9 2020 Friday,-1.0
+951,2072,Biden,"[0, -1, -1, 0, 0, -1, 0, 0, -1, -1, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 9 2020 Friday,-0.5384615384615384
+952,2072,Georgia,"[0, 0, 1]",Fox News Network FOX AND FRIENDS,October 9 2020 Friday,0.3333333333333333
+953,2087,American,"[1, 1, 0, 0, 0, 0, 1, 1, 1]",Fox News Network FOX AND FRIENDS,October 2 2020 Friday,0.5555555555555556
+954,2087,Joe Biden,"[0, -1, -1, 0, -1]",Fox News Network FOX AND FRIENDS,October 2 2020 Friday,-0.6
+955,2087,Trump,"[-1, 0, 0, -1]",Fox News Network FOX AND FRIENDS,October 2 2020 Friday,-0.5
+956,2087,COVID,"[-1, 0]",Fox News Network FOX AND FRIENDS,October 2 2020 Friday,-0.5
+957,2087,Republicans,"[-1, 1, 1]",Fox News Network FOX AND FRIENDS,October 2 2020 Friday,0.3333333333333333
+958,2102,Hallett,"[0, 0, 1, 0, 0, 1, 0]",Fox News Network FOX AND FRIENDS,October 19 2020 Monday,0.2857142857142857
+959,2102,Trump,"[0, 0, 0, 1]",Fox News Network FOX AND FRIENDS,October 19 2020 Monday,0.25
+960,2102,World War II,"[0, 0, 0]",Fox News Network FOX AND FRIENDS,October 19 2020 Monday,0.0
+961,2102,Florida,[0],Fox News Network FOX AND FRIENDS,October 19 2020 Monday,0.0
+962,2102,Kat,"[0, 0, 1]",Fox News Network FOX AND FRIENDS,October 19 2020 Monday,0.3333333333333333
+963,2105,Florida,"[1, 0, 0, 1]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.5
+964,2105,Democrats,"[1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,-0.5
+965,2105,D.C.,"[0, 0]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.0
+966,2105,Steve,"[0, -1, 0]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,-0.3333333333333333
+967,2137,China,"[0, 0, 0, -1, 1, 1, -1, 0, 0]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,0.0
+968,2137,Iran,"[-1, -1, 0, -1, -1, -1, -1, 0]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,-0.75
+969,2137,Russia,"[-1, -1, 0, 0, 0, 0, 1, -1, 0, -1]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,-0.3
+970,2137,Robert O'Brien,"[0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,0.0
+971,2137,Fox,"[0, 0, 0]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,0.0
+972,2145,Republicans,"[1, 0, 1, 0]",Fox News Network FOX AND FRIENDS,October 30 2020 Friday,0.5
+973,2145,Ronna McDaniel,"[0, 0, 0]",Fox News Network FOX AND FRIENDS,October 30 2020 Friday,0.0
+974,2145,Michigan,[0],Fox News Network FOX AND FRIENDS,October 30 2020 Friday,0.0
+975,2145,Ronna,"[0, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 30 2020 Friday,0.0
+976,2147,Rudy,"[0, 0, 0, 0, 0, 0, -1, 0, 1, 1]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,0.1
+977,2147,Hunter,"[-1, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,-0.7692307692307693
+978,2147,Hunter Biden,"[-1, 0, 0, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,-0.6666666666666666
+979,2147,Biden,"[-1, -1, 0, 0, 1, 0]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,-0.16666666666666666
+980,2147,Chinese,"[-1, -1]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,-1.0
+981,2169,Joe Biden,"[0, -1, 0, 1, -1, -1, 0, 0, 0, 1, 0, 0, 1, -1, 0, 0, 0, -1]",Fox News Network MEDIA BUZZ,October 11 2020 Sunday,-0.1111111111111111
+982,2169,Biden,"[0, 1, 0, -1, 0, 0, 0, -1, 0, -1, 0, 1, -1, 0, 0, 1, 1, 1]",Fox News Network MEDIA BUZZ,October 11 2020 Sunday,0.05555555555555555
+983,2169,Trump,"[-1, -1, 0, 0, 0, -1, 0, -1, -1, 0, -1, 0, -1]",Fox News Network MEDIA BUZZ,October 11 2020 Sunday,-0.5384615384615384
+984,2169,Kamala Harris,"[-1, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1]",Fox News Network MEDIA BUZZ,October 11 2020 Sunday,-0.4666666666666667
+985,2169,Mollie,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network MEDIA BUZZ,October 11 2020 Sunday,0.09090909090909091
+986,2172,Trump,"[1, 0, 0, 0, -1, 0, -1, 1, 0, -1, -1, -1, 0, -1, -1, -1]",Fox News Network FOX NEWS SUNDAY,October 4 2020 Sunday,-0.375
+987,2172,Steve,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,October 4 2020 Sunday,0.0
+988,2172,Chris,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,October 4 2020 Sunday,-0.058823529411764705
+989,2172,Covid,"[-1, -1, 0, -1, -1, -1, -1, -1, 0, -1, 0]",Fox News Network FOX NEWS SUNDAY,October 4 2020 Sunday,-0.7272727272727273
+990,2172,the White House,"[-1, 0, -1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network FOX NEWS SUNDAY,October 4 2020 Sunday,-0.8
+991,2173,Trump,"[-1, -1, -1, -1, -1, -1, 0, -1, 1, 1, 0, 1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 12 2020 Monday,-0.5789473684210527
+992,2173,Biden,"[0, 0, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 12 2020 Monday,-0.2631578947368421
+993,2173,Democrats,"[-1, -1, -1, 1, -1, -1, 0, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 12 2020 Monday,-0.6842105263157895
+994,2173,Shannon,"[0, 1, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 12 2020 Monday,0.058823529411764705
+995,2173,Florida,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]",Fox News Network FOX NEWS @ NIGHT,October 12 2020 Monday,0.16666666666666666
+996,2176,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 1, 1, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,October 11 2020 Sunday,0.0625
+997,2176,Barrett,"[0, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,October 11 2020 Sunday,-0.3
+998,2176,Democrats,"[-1, 0, 0, -1, -1, 0, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, -1]",Fox News Network FOX NEWS SUNDAY,October 11 2020 Sunday,-0.47058823529411764
+999,2176,Chris,"[0, 1, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network FOX NEWS SUNDAY,October 11 2020 Sunday,0.13333333333333333
+1000,2176,the White House,"[0, 0, 0, 0, -1, 1, -1, 0]",Fox News Network FOX NEWS SUNDAY,October 11 2020 Sunday,-0.125
+1001,2178,Trump,"[0, 0, 0, 0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 15 2020 Thursday,0.0
+1002,2178,Twitter,"[-1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 15 2020 Thursday,-0.7222222222222222
+1003,2178,Biden,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 15 2020 Thursday,-0.125
+1004,2178,Joe Biden,"[0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 15 2020 Thursday,-0.07692307692307693
+1005,2178,Hunter Biden,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 15 2020 Thursday,-0.2
+1006,2180,the Supreme Court,"[0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX AND FRIENDS,October 12 2020 Monday,-0.14285714285714285
+1007,2180,Senate,"[0, -1]",Fox News Network FOX AND FRIENDS,October 12 2020 Monday,-0.5
+1008,2180,Barrett,"[0, 1, -1]",Fox News Network FOX AND FRIENDS,October 12 2020 Monday,0.0
+1009,2180,Democrats,"[-1, -1, -1]",Fox News Network FOX AND FRIENDS,October 12 2020 Monday,-1.0
+1010,2181,Holocaust,[],Fox News Network FOX AND FRIENDS,October 29 2020 Thursday,
+1011,2181,Colorado,"[-1, 0, 1, -1]",Fox News Network FOX AND FRIENDS,October 29 2020 Thursday,-0.25
+1012,2181,Twitter,"[-1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 29 2020 Thursday,-1.0
+1013,2181,Ayatollah,"[-1, -1, 0]",Fox News Network FOX AND FRIENDS,October 29 2020 Thursday,-0.6666666666666666
+1014,2190,Shannon,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 2 2020 Friday,0.05
+1015,2190,Trump,"[1, 0, 0, 0, 0, 1, 0, -1, -1, -1, 0, -1, 1, -1, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 2 2020 Friday,-0.16666666666666666
+1016,2190,Walter Reed,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 2 2020 Friday,0.05
+1017,2190,COVID-19,"[1, 1, 1, 1, -1, 0, 0, -1, -1, -1, -1, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 2 2020 Friday,-0.13333333333333333
+1018,2190,the White House,"[0, 0, 0, 0, 0, -1, 0, -1, 1, 1]",Fox News Network FOX NEWS @ NIGHT,October 2 2020 Friday,0.0
+1019,2196,Texas,"[0, 0, -1, -1, 0]",Fox News Network FOX AND FRIENDS,October 14 2020 Wednesday,-0.4
+1020,2196,Senate,"[0, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 14 2020 Wednesday,-0.5
+1021,2196,Democrats,"[-1, -1, -1]",Fox News Network FOX AND FRIENDS,October 14 2020 Wednesday,-1.0
+1022,2196,COVID,"[-1, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 14 2020 Wednesday,-0.75
+1023,2198,Trump,"[0, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, 0, 0, 0, -1, 1, -1, 1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 13 2020 Tuesday,-0.45
+1024,2198,Barrett,"[0, 0, -1, -1, 1, -1, 1, 0, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 13 2020 Tuesday,-0.3888888888888889
+1025,2198,Shannon,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 13 2020 Tuesday,0.05555555555555555
+1026,2198,American,"[0, -1, -1, -1, -1, 0, 0, -1, 0, 1, 1, 0, 0, 1, 1, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 13 2020 Tuesday,-0.15789473684210525
+1027,2198,Democrats,"[-1, -1, 0, 0, 0, 0, 1, 0, 1, -1, 1]",Fox News Network FOX NEWS @ NIGHT,October 13 2020 Tuesday,0.0
+1028,2202,American,"[0, -1, 0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 13 2020 Tuesday,-0.16666666666666666
+1029,2202,Democratic,"[-1, -1, -1]",Fox News Network FOX AND FRIENDS,October 13 2020 Tuesday,-1.0
+1030,2202,Americans,"[-1, -1, 0, -1, 0]",Fox News Network FOX AND FRIENDS,October 13 2020 Tuesday,-0.6
+1031,2202,Democrats,"[-1, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 13 2020 Tuesday,-0.25
+1032,2202,Donald Trump,"[-1, -1, -1, 0, -1]",Fox News Network FOX AND FRIENDS,October 13 2020 Tuesday,-0.8
+1033,2204,China,"[-1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 8 2020 Thursday,-0.8571428571428571
+1034,2204,American,"[-1, -1, -1, -1, 1, -1]",Fox News Network FOX AND FRIENDS,October 8 2020 Thursday,-0.6666666666666666
+1035,2204,Biden,"[0, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 8 2020 Thursday,-0.8
+1036,2204,Senate,"[-1, -1, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 8 2020 Thursday,-0.4
+1037,2204,Joe Biden,"[-1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 8 2020 Thursday,-1.0
+1038,2212,Joe Biden,"[0, 0, -1, -1, -1, -1, -1, 1, -1, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 22 2020 Thursday,-0.6470588235294118
+1039,2212,Joe,"[-1, -1, -1, -1, 0, 0, -1, -1, -1, 0, 0, 0, -1, -1, 0, 0, 0, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 22 2020 Thursday,-0.55
+1040,2212,Biden,"[-1, 0, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 22 2020 Thursday,-0.6470588235294118
+1041,2212,Trump,"[1, 1, 1, -1, 1, -1, 1, 0, 1, -1, 1, -1, 0, -1, 0, 1, 0, 1]",Fox News Network FOX NEWS @ NIGHT,October 22 2020 Thursday,0.2222222222222222
+1042,2212,China,"[-1, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 22 2020 Thursday,-0.8
+1043,2216,Democrat,"[0, -1, -1, 0, 0, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,-0.5
+1044,2216,Trump,"[1, 1, 1, 1, 1, 1]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,1.0
+1045,2216,America,"[-1, 1, 0, 1]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,0.25
+1046,2216,60 Minutes,"[0, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,-0.5
+1047,2216,Joe Biden,"[0, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 22 2020 Thursday,0.0
+1048,2221,Senate,"[0, 0, 0, -1, 0, -1, -1, 1, -1, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 12 2020 Monday,-0.25
+1049,2221,South Carolina,"[-1, 1, 1, 0, -1, 0, 0, 0, -1]",Fox News Network FOX AND FRIENDS,October 12 2020 Monday,-0.1111111111111111
+1050,2221,House,"[0, -1, -1, 1, 1]",Fox News Network FOX AND FRIENDS,October 12 2020 Monday,0.0
+1051,2221,Trump,"[-1, 1, 1, -1]",Fox News Network FOX AND FRIENDS,October 12 2020 Monday,0.0
+1052,2221,Republicans,"[0, -1, -1, 1]",Fox News Network FOX AND FRIENDS,October 12 2020 Monday,-0.25
+1053,2222,Joe Biden,"[0, 0, 0, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,-0.5
+1054,2222,South Carolina,"[1, -1]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,0.0
+1055,2222,Lindsey Graham,"[0, -1, -1]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,-0.6666666666666666
+1056,2222,Ukraine,"[-1, 0, -1]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,-0.6666666666666666
+1057,2222,Trump,"[-1, -1]",Fox News Network FOX AND FRIENDS,October 16 2020 Friday,-1.0
+1058,2235,Biden,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 14 2020 Wednesday,-0.125
+1059,2235,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 14 2020 Wednesday,0.0
+1060,2235,Burisma,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 14 2020 Wednesday,-0.07142857142857142
+1061,2235,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 14 2020 Wednesday,0.0625
+1062,2235,Barrett,"[0, 0, 0, -1, 1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 1, -1]",Fox News Network FOX NEWS @ NIGHT,October 14 2020 Wednesday,-0.05555555555555555
+1063,2251,Trump,"[-1, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 20 2020 Tuesday,-0.35
+1064,2251,Democrats,"[0, -1, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 20 2020 Tuesday,-0.4
+1065,2251,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 20 2020 Tuesday,0.0
+1066,2251,Biden,"[-1, 0, -1, 0, -1, 0, 1, -1, -1, -1, 0, 0, -1, -1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 20 2020 Tuesday,-0.3888888888888889
+1067,2251,Pennsylvania,"[0, 0, 0, 1, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 20 2020 Tuesday,0.0
+1068,2253,Hunter Biden,"[0, -1, 0, 0]",Fox News Network FOX AND FRIENDS,October 15 2020 Thursday,-0.25
+1069,2253,Biden,"[0, -1, 0]",Fox News Network FOX AND FRIENDS,October 15 2020 Thursday,-0.3333333333333333
+1070,2253,"the ""New York Post","[-1, 0, 0]",Fox News Network FOX AND FRIENDS,October 15 2020 Thursday,-0.3333333333333333
+1071,2257,Trump,"[-1, 0, 1, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1, -1, 0, -1, 1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,October 26 2020 Monday,-0.3157894736842105
+1072,2257,Barrett,"[1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, -1, 1, 0]",Fox News Network FOX NEWS @ NIGHT,October 26 2020 Monday,0.6
+1073,2257,Shannon,"[0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 26 2020 Monday,0.15
+1074,2257,Senate,"[0, 0, 0, 0, -1, 0, 0, 0, 1, 1, 0]",Fox News Network FOX NEWS @ NIGHT,October 26 2020 Monday,0.09090909090909091
+1075,2257,American,"[0, 1, -1, -1, 0, 1, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 26 2020 Monday,-0.1
+1076,2265,Florida,"[0, 1, 1, -1]",Fox News Network FOX AND FRIENDS,October 29 2020 Thursday,0.25
+1077,2276,Democrats,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,October 4 2020 Sunday,-0.8888888888888888
+1078,2276,the Supreme Court,"[-1, -1, 0, -1, 0, 0, 0, -1, 1, 1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,October 4 2020 Sunday,-0.3333333333333333
+1079,2276,Joe Biden,"[-1, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,October 4 2020 Sunday,-0.75
+1080,2276,Constitution,"[0, 0, 1, 0, -1, 0, -1, 0, 0, 0, -1, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,October 4 2020 Sunday,-0.23076923076923078
+1081,2276,the Second Amendment,"[0, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,October 4 2020 Sunday,-0.8
+1082,2277,Biden,"[0, 0, 0, -1, -1, 0, 0, 0, -1, 0, 1, 0, 0]",Fox News Network FOX AND FRIENDS,October 15 2020 Thursday,-0.15384615384615385
+1083,2277,Joe Biden,"[0, -1, 0, -1, 0, -1]",Fox News Network FOX AND FRIENDS,October 15 2020 Thursday,-0.5
+1084,2277,Twitter,"[-1, -1, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 15 2020 Thursday,-0.8
+1085,2277,Democrats,"[-1, 0, -1, -1, 1]",Fox News Network FOX AND FRIENDS,October 15 2020 Thursday,-0.4
+1086,2277,Scalia,"[-1, 0, 0, 0]",Fox News Network FOX AND FRIENDS,October 15 2020 Thursday,-0.25
+1087,2278,Cal,"[0, -1, -1, 0, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 6 2020 Tuesday,-0.7142857142857143
+1088,2278,North Carolina,"[1, 1]",Fox News Network FOX AND FRIENDS,October 6 2020 Tuesday,1.0
+1089,2278,Capitol,"[0, 1, 0]",Fox News Network FOX AND FRIENDS,October 6 2020 Tuesday,0.3333333333333333
+1090,2278,COVID,"[-1, -1, -1]",Fox News Network FOX AND FRIENDS,October 6 2020 Tuesday,-1.0
+1091,2294,Russian,"[-1, 0, 0, -1, 0, -1, 0, -1]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,-0.5
+1092,2294,Democrats,"[-1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,-1.0
+1093,2294,American,"[1, 1, 1, -1, 1, 0]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,0.5
+1094,2294,Barrett,"[0, -1, 1, -1, 1]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,0.0
+1095,2294,Russia,"[-1, 0, 0, -1, -1, 0, -1, -1, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 21 2020 Wednesday,-0.6363636363636364
+1096,2295,Joe Biden,"[0, -1, -1, -1, -1, 0, -1, 0, -1, 0, -1, 0, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-0.6666666666666666
+1097,2295,Russia,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-1.0
+1098,2295,Democrats,"[-1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-1.0
+1099,2295,Barack Obama,[-1],Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-1.0
+1100,2295,Russian,"[-1, 0, -1, -1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-0.75
+1101,2299,Trump,"[0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 12 2020 Monday,-0.07142857142857142
+1102,2299,Democrats,"[0, 0, 0, 0, 0, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 12 2020 Monday,-0.4666666666666667
+1103,2299,Biden,"[-1, 1, -1, 0, 0, -1, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 12 2020 Monday,-0.25
+1104,2299,Republicans,"[1, 0, -1, -1, 0, -1, -1, -1, 1, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 12 2020 Monday,-0.38461538461538464
+1105,2299,Barrett,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 12 2020 Monday,0.0625
+1106,2301,Senate,"[0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,-0.21428571428571427
+1107,2301,CDC,"[0, 1, -1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,0.3333333333333333
+1108,2301,Neil,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,0.0625
+1109,2301,Trump,"[-1, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,-0.21428571428571427
+1110,2301,Biden,"[1, 1, 0, 0, 0, -1, 0, 0, 1, 0, -1, -1, -1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 21 2020 Wednesday,-0.05555555555555555
+1111,2313,Joe Biden,"[-1, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 26 2020 Monday,-0.3888888888888889
+1112,2313,Tucker,"[0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 26 2020 Monday,0.29411764705882354
+1113,2313,Amy Coney Barrett,"[0, -1, 0, -1, 0, 0, 0, 0, 1, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 26 2020 Monday,-0.2
+1114,2313,the Supreme Court,"[0, 0, 0, 0, -1, 0, -1, 0, -1, -1, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,October 26 2020 Monday,-0.25
+1115,2313,Constitution,"[0, -1, 1, -1, -1, -1, 1, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 26 2020 Monday,-0.36363636363636365
+1116,2316,Joe Biden,"[0, -1, -1, 0, 0, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 7 2020 Wednesday,-0.3888888888888889
+1117,2316,Kamala Harris,"[-1, -1, 0, -1, 0, 0, -1, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 7 2020 Wednesday,-0.631578947368421
+1118,2316,American,"[0, 0, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0, -1, 1]",Fox News Network FOX HANNITY,October 7 2020 Wednesday,-0.5
+1119,2316,Mike Pence,"[0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1]",Fox News Network FOX HANNITY,October 7 2020 Wednesday,0.5333333333333333
+1120,2316,Harris,"[0, -1, -1, -1, -1, -1, 0, -1, 1, 0, -1, -1, 0, 1, -1, -1]",Fox News Network FOX HANNITY,October 7 2020 Wednesday,-0.5
+1121,2322,Arizona,[0],Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.0
+1122,2322,Barrett,"[1, 0, 1, -1]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.25
+1123,2322,Constitution,"[1, -1, 0]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.0
+1124,2322,Markey,"[-1, 0, -1]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,-0.6666666666666666
+1125,2322,Trump,"[0, 1, 0]",Fox News Network FOX AND FRIENDS,October 27 2020 Tuesday,0.3333333333333333
+1126,2324,Steve,"[0, 0, 0, 1, 0]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,0.2
+1127,2324,Obamacare,"[-1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-1.0
+1128,2324,American,"[1, -1, -1]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,-0.3333333333333333
+1129,2324,Constitution,"[0, 1, 0]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,0.3333333333333333
+1130,2324,Barrett,"[1, 0, 0]",Fox News Network FOX AND FRIENDS,October 26 2020 Monday,0.3333333333333333
+1131,2329,Bret,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 14 2020 Wednesday,0.0
+1132,2329,Biden,"[-1, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 14 2020 Wednesday,-0.8333333333333334
+1133,2329,Trump,"[0, 0, 0, 1, 0, -1, 1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 14 2020 Wednesday,-0.05555555555555555
+1134,2329,Joe Biden,"[-1, -1, 0, 0, -1, -1, 0, 0, -1, -1, 0, -1, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 14 2020 Wednesday,-0.5625
+1135,2329,Hunter Biden,"[0, 0, 0, 0, -1, 0, -1, 0, 0, -1, -1, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 14 2020 Wednesday,-0.4
+1136,2333,Joe Biden,"[0, -1, -1, -1, -1, 1, 0, 0, -1, -1, 0, -1, 0, -1, -1, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 22 2020 Thursday,-0.47368421052631576
+1137,2333,American,"[0, -1, 0, 0, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 22 2020 Thursday,-0.5
+1138,2333,Biden,"[-1, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 22 2020 Thursday,-0.5
+1139,2333,Hunter Biden,"[0, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 22 2020 Thursday,-0.6470588235294118
+1140,2333,China,"[1, 1, 0, -1, 0, -1, -1, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 22 2020 Thursday,-0.1111111111111111
+1141,2338,Biden,"[-1, -1, -1, -1, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,October 13 2020 Tuesday,-0.625
+1142,2338,Trump,"[1, 0, -1, 1, 0, 0, -1, 1, 0, -1, -1, 0, -1, 1, 1, 0, 0]",Fox News Network INGRAHAM ANGLE,October 13 2020 Tuesday,0.0
+1143,2338,COVID,"[-1, -1, 1, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 13 2020 Tuesday,-0.3125
+1144,2338,Americans,"[0, 1, 1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 13 2020 Tuesday,-0.4
+1145,2338,Laura,"[0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 13 2020 Tuesday,0.0
+1146,2384,Biden,"[0, 0, 0, 0, -1, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 27 2020 Tuesday,-0.6
+1147,2384,Trump,"[1, 0, 0, 1, 0, 0, 0, 1, 1, -1, 1, 0, 1, 1, -1, 1, 0, 0, 1]",Fox News Network INGRAHAM ANGLE,October 27 2020 Tuesday,0.3684210526315789
+1148,2384,American,"[-1, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,October 27 2020 Tuesday,-0.8
+1149,2384,China,"[-1, -1, -1, -1, 0, -1, -1, -1, -1, 1, -1, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,October 27 2020 Tuesday,-0.6428571428571429
+1150,2384,Pennsylvania,"[-1, -1, 0, 0, 0, 0, 0, 1, 0, 0, -1, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,October 27 2020 Tuesday,-0.2
+1151,2402,Steve Cortes,"[0, 0, 0]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,0.0
+1152,2402,Americans,"[1, 1]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,1.0
+1153,2402,Donald Trump,"[1, 0, 1]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,0.6666666666666666
+1154,2402,Joe Biden,"[-1, 0, -1]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,-0.6666666666666666
+1155,2402,Trump,"[1, 0, 1]",Fox News Network FOX AND FRIENDS,October 28 2020 Wednesday,0.6666666666666666
+1156,2405,Neil,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 2 2020 Friday,0.0
+1157,2405,the White House,"[0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 2 2020 Friday,-0.3333333333333333
+1158,2405,Nancy Pelosi,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 2 2020 Friday,0.0
+1159,2405,American,"[1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 2 2020 Friday,0.36363636363636365
+1160,2405,Americans,"[1, -1, -1, -1, -1, -1, 0, 1, -1, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 2 2020 Friday,-0.25
+1161,2421,Trump,"[1, 0, -1, 1, 1, 1, 1, 0, 1, 0, 1, -1, 1, 1, 1]",Fox News Network THE NEXT REVOLUTION,October 11 2020 Sunday,0.5333333333333333
+1162,2421,Biden,"[0, 0, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0]",Fox News Network THE NEXT REVOLUTION,October 11 2020 Sunday,-0.6470588235294118
+1163,2421,America,"[1, -1, -1, -1, -1, 1, -1, 1, -1, 1]",Fox News Network THE NEXT REVOLUTION,October 11 2020 Sunday,-0.2
+1164,2421,Americans,"[-1, -1, 0, 0, -1, -1, 0, -1, 1]",Fox News Network THE NEXT REVOLUTION,October 11 2020 Sunday,-0.4444444444444444
+1165,2421,Joe Biden,"[-1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE NEXT REVOLUTION,October 11 2020 Sunday,-0.75
+1166,2423,Trump,"[-1, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 1, 0, -1, 0, 0, -1, -1, 0]",Fox News Network MEDIA BUZZ,October 18 2020 Sunday,-0.25
+1167,2423,Twitter,"[-1, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1, 0]",Fox News Network MEDIA BUZZ,October 18 2020 Sunday,-0.7058823529411765
+1168,2423,Biden,"[0, 0, -1, 1, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0]",Fox News Network MEDIA BUZZ,October 18 2020 Sunday,-0.2
+1169,2423,Joe Biden,"[0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network MEDIA BUZZ,October 18 2020 Sunday,-0.14285714285714285
+1170,2423,NBC,"[0, -1, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network MEDIA BUZZ,October 18 2020 Sunday,-0.2
+1171,2460,Biden,"[0, -1, 0, -1, 0, 0, 0, 0, 1, 0, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 29 2020 Thursday,-0.45
+1172,2460,Tucker,"[0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 29 2020 Thursday,0.3125
+1173,2460,Joe Biden,"[0, -1, 0, 0, -1, 1, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 29 2020 Thursday,-0.45454545454545453
+1174,2460,Trump,"[-1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 29 2020 Thursday,-0.16666666666666666
+1175,2460,American,"[0, 0, -1, -1, -1, -1, -1, 1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 29 2020 Thursday,-0.5
+1176,2478,Biden,"[0, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 28 2020 Wednesday,-0.7058823529411765
+1177,2478,Americans,"[0, 1, 0, 0, 0, 0, -1, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,October 28 2020 Wednesday,-0.09090909090909091
+1178,2478,Texas,"[0, -1, -1, 0, -1, 0, 0, -1, 1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 28 2020 Wednesday,-0.5
+1179,2478,America,"[0, -1, 1, -1, 1, 1, -1, -1, -1, 0, -1, 1, 1, 1]",Fox News Network INGRAHAM ANGLE,October 28 2020 Wednesday,0.0
+1180,2478,Trump,"[-1, -1, 1, 0, -1, -1, -1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 28 2020 Wednesday,-0.5
+1181,2520,Trump,"[0, -1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, -1, 0, 1, 0, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 23 2020 Friday,0.05
+1182,2520,Joe Biden,"[0, 0, 0, -1, 0, -1, -1, 0, 0, 0, -1, -1, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 23 2020 Friday,-0.21052631578947367
+1183,2520,Biden,"[-1, 0, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, -1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 23 2020 Friday,-0.3684210526315789
+1184,2520,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 23 2020 Friday,0.0
+1185,2520,Senate,"[0, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 23 2020 Friday,-0.2
+1186,2521,Senate,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 26 2020 Monday,-0.05263157894736842
+1187,2521,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 26 2020 Monday,-0.05263157894736842
+1188,2521,Republican,"[0, 0, 0, 0, -1, -1, 0, -1, 0, -1, 0, 1, -1, -1, -1, 0, 0, -1, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 26 2020 Monday,-0.35
+1189,2521,Democrats,"[0, 1, 1, 1, 1, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 26 2020 Monday,-0.058823529411764705
+1190,2521,the Supreme Court,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 26 2020 Monday,0.16666666666666666
+1191,2528,Trump,"[0, -1, -1, -1, -1, 1, -1, 0, -1, 0, 0, -1, 0, -1, 0, -1, 0, 0, -1]",Fox News Network THE FIVE,October 8 2020 Thursday,-0.47368421052631576
+1192,2528,Juan,"[1, 1, 0, 0, -1, -1, 1, 0, 0, 0, -1, 0, 0, -1, 0]",Fox News Network THE FIVE,October 8 2020 Thursday,-0.06666666666666667
+1193,2528,Biden,"[0, -1, 0, 0, -1, -1, 0, -1, 0, 0, -1, -1, -1, 0, -1, -1, -1, 0, 1, 1]",Fox News Network THE FIVE,October 8 2020 Thursday,-0.4
+1194,2528,Joe Biden,"[0, 0, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1]",Fox News Network THE FIVE,October 8 2020 Thursday,-0.3333333333333333
+1195,2528,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network THE FIVE,October 8 2020 Thursday,0.07142857142857142
+1196,2547,Kamala Harris,"[-1, 0, 0, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 7 2020 Wednesday,-0.6
+1197,2547,Joe Biden,"[0, 0, 1, -1, 1, -1, -1, 0, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 7 2020 Wednesday,-0.5
+1198,2547,Harris,"[0, 0, 1, 0, 0, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 7 2020 Wednesday,-0.4117647058823529
+1199,2547,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 7 2020 Wednesday,0.0
+1200,2547,Biden,"[-1, 0, -1, 0, 0, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 7 2020 Wednesday,-0.35294117647058826
+1201,2549,Joe Biden,"[0, -1, -1, 0, 0, -1, 0, -1, -1, -1, 0, 0, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 28 2020 Wednesday,-0.5625
+1202,2549,Biden,"[-1, 0, 0, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 28 2020 Wednesday,-0.5789473684210527
+1203,2549,Tony Bobulinski,"[0, 1, -1, 1, 1, -1, 1, 0, 0, 1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 28 2020 Wednesday,0.15384615384615385
+1204,2549,Kamala,"[0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 28 2020 Wednesday,-0.3
+1205,2549,Chinese,"[0, 0, 0, -1, 0, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 28 2020 Wednesday,-0.6
+1206,2577,Shannon,"[0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0]",Fox News Network FOX NEWS @ NIGHT,October 1 2020 Thursday,0.5
+1207,2577,Trump,"[-1, -1, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 1 2020 Thursday,-0.2
+1208,2577,Biden,"[-1, 0, 0, 0, -1, 0, -1, 0, 0, 0, -1, -1, 0, -1, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 1 2020 Thursday,-0.5
+1209,2577,America,[],Fox News Network FOX NEWS @ NIGHT,October 1 2020 Thursday,
+1210,2577,the White House,"[0, 0, -1, 1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,October 1 2020 Thursday,-0.14285714285714285
+1211,2578,Trump,"[0, -1, 0, 1, 0, 0, 0, 1, 0, 0, -1, -1, 0, -1, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 16 2020 Friday,-0.2222222222222222
+1212,2578,Democrats,"[-1, -1, -1, 0, 0, -1, -1, 0, 0, -1, 0, -1, 1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 16 2020 Friday,-0.4375
+1213,2578,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 16 2020 Friday,0.0
+1214,2578,Joe Biden,"[0, 0, 1, 0, -1, -1, 0, 0, -1, 0, 0, -1, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,October 16 2020 Friday,-0.375
+1215,2578,Biden,"[-1, 0, 0, 0, 0, -1, 0, 0, -1, -1, -1, -1, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,October 16 2020 Friday,-0.3684210526315789
+1216,2579,Joe Biden,"[-1, 0, -1, -1, 0, -1, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,October 23 2020 Friday,-0.5
+1217,2579,Trump,"[-1, 0, 1, 1, 0, 1, 1, -1, 1, 1, -1, -1, 1]",Fox News Network INGRAHAM ANGLE,October 23 2020 Friday,0.23076923076923078
+1218,2579,Biden,"[-1, 0, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 23 2020 Friday,-0.75
+1219,2579,China,"[-1, -1, -1, -1, 0, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,October 23 2020 Friday,-0.5263157894736842
+1220,2579,Joe,"[-1, -1, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,October 23 2020 Friday,-0.7368421052631579
+1221,2583,Trump,"[1, 0, -1, -1, 0, 0, -1, 0, 0, -1, 0, -1, -1, 0, 1, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 2 2020 Friday,-0.21052631578947367
+1222,2583,COVID,"[-1, 0, 0, -1, -1, 1, 0, 0, 0, 0, 1, 0, 0, -1, -1, 0, -1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 2 2020 Friday,-0.2
+1223,2583,Reagan,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,October 2 2020 Friday,-0.13333333333333333
+1224,2583,Laura,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 2 2020 Friday,0.0
+1225,2583,Smith,"[0, 0, 0, 1, 0, 0, 0, 1, 0, 0]",Fox News Network INGRAHAM ANGLE,October 2 2020 Friday,0.2
+1226,2585,Trump,"[0, -1, 1, -1, 0, 0, 0, 1, 0, 1, 1, -1, 0, -1, 1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 12 2020 Monday,0.05555555555555555
+1227,2585,Columbus,"[0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,October 12 2020 Monday,-0.25
+1228,2585,Laura,"[0, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 12 2020 Monday,-0.25
+1229,2585,COVID,"[-1, 0, -1, 0, 0, 0, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,October 12 2020 Monday,-0.4444444444444444
+1230,2585,Fauci,"[-1, -1, 0, -1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 12 2020 Monday,-0.5714285714285714
+1231,2594,Trump,"[1, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1, 1, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 9 2020 Friday,-0.4
+1232,2594,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 9 2020 Friday,0.21428571428571427
+1233,2594,Biden,"[0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 9 2020 Friday,-0.38461538461538464
+1234,2594,Joe Biden,"[0, 0, -1, 0, 0, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 9 2020 Friday,-0.5555555555555556
+1235,2594,Americans,[],Fox News Network THE STORY WITH MARTHA MACCALLUM,October 9 2020 Friday,
+1236,2597,Biden,"[-1, 0, -1, 0, 1, 0, 0, -1, -1, 0, 1, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 23 2020 Friday,-0.1875
+1237,2597,Trump,"[0, 0, 0, 0, -1, -1, 0, 1, 1, 0, 0, 0, -1, 0, 0, 1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 23 2020 Friday,-0.05555555555555555
+1238,2597,Joe Biden,"[0, 0, 0, 0, -1, -1, -1, 1, 1, -1, -1, 1, 0, -1, -1, -1, 1, -1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 23 2020 Friday,-0.3
+1239,2597,Bobulinski,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 23 2020 Friday,-0.17647058823529413
+1240,2597,Republicans,"[-1, 0, 0, 0, 1, 0, 0, 0, -1, -1, 1, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,October 23 2020 Friday,0.0
+1241,2602,Biden,"[-1, -1, 0, -1, -1, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,October 26 2020 Monday,-0.45
+1242,2602,Trump,"[0, 0, 1, 1, -1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,October 26 2020 Monday,0.17647058823529413
+1243,2602,COVID,"[0, -1, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,October 26 2020 Monday,-0.6666666666666666
+1244,2602,Laura,"[0, 0, 0, 1, 0]",Fox News Network INGRAHAM ANGLE,October 26 2020 Monday,0.2
+1245,2602,Joe Biden,"[-1, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,October 26 2020 Monday,-0.7692307692307693
+1246,2623,Joe Biden,"[0, 0, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1]",Fox News Network FOX HANNITY,October 23 2020 Friday,-0.6842105263157895
+1247,2623,Trump,"[-1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, -1, 1]",Fox News Network FOX HANNITY,October 23 2020 Friday,0.47368421052631576
+1248,2623,Joe,"[-1, 0, 0, 0, -1, 0, -1, 0, 0, -1, -1, -1, -1, 0, -1, 0, -1, 0, 0, -1]",Fox News Network FOX HANNITY,October 23 2020 Friday,-0.5
+1249,2623,Biden,"[-1, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX HANNITY,October 23 2020 Friday,-0.6842105263157895
+1250,2623,American,"[0, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1]",Fox News Network FOX HANNITY,October 23 2020 Friday,-0.36363636363636365
+1251,2627,Biden,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network FOX HANNITY,October 13 2020 Tuesday,-0.8235294117647058
+1252,2627,Joe Biden,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 13 2020 Tuesday,-0.95
+1253,2627,Trump,"[1, 1, 0, 1, -1, -1, 1, -1, -1, -1, 0, 1, -1, 0, 1]",Fox News Network FOX HANNITY,October 13 2020 Tuesday,0.0
+1254,2627,Sean,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,October 13 2020 Tuesday,0.0
+1255,2627,Joe,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,October 13 2020 Tuesday,-0.8333333333333334
+1256,2629,Joe Biden,"[-1, -1, -1, 0, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 23 2020 Friday,-0.4
+1257,2629,Trump,"[-1, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,October 23 2020 Friday,-0.26666666666666666
+1258,2629,China,"[-1, 0, 1, -1, 0, -1, -1, -1, 0, 0, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 23 2020 Friday,-0.5
+1259,2629,Russia,"[0, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 1, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 23 2020 Friday,-0.6923076923076923
+1260,2629,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,October 23 2020 Friday,-0.13333333333333333
+1261,2639,Joe Biden,"[-1, -1, -1, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 15 2020 Thursday,-0.7777777777777778
+1262,2639,Biden,"[0, 0, 0, -1, -1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1]",Fox News Network FOX HANNITY,October 15 2020 Thursday,-0.65
+1263,2639,Twitter,"[0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1]",Fox News Network FOX HANNITY,October 15 2020 Thursday,-0.8571428571428571
+1264,2639,Josh Hawley,"[-1, -1, 0, -1]",Fox News Network FOX HANNITY,October 15 2020 Thursday,-0.75
+1265,2639,Trump,"[0, -1, 0, 0, 0, -1, 0, -1, 0, -1, -1, -1, 0, -1, -1, -1]",Fox News Network FOX HANNITY,October 15 2020 Thursday,-0.5625
+1266,2668,Trump,"[1, 0, 0, -1, -1, -1, 0, 0, 1, -1, 1, -1, -1, -1, 0, -1, 1, 0]",Fox News Network INGRAHAM ANGLE,October 20 2020 Tuesday,-0.2222222222222222
+1267,2668,Biden,"[-1, 0, -1, 0, -1, 0, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 20 2020 Tuesday,-0.6842105263157895
+1268,2668,Russian,"[0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 20 2020 Tuesday,-0.8181818181818182
+1269,2668,America,"[0, -1, -1, -1, -1, -1, -1, 1, -1, 1]",Fox News Network INGRAHAM ANGLE,October 20 2020 Tuesday,-0.5
+1270,2668,Fairfax County,"[-1, -1, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 20 2020 Tuesday,-0.2857142857142857
+1271,2698,Trump,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 8 2020 Thursday,-0.05555555555555555
+1272,2698,Arizona,"[0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 8 2020 Thursday,0.0
+1273,2698,Authorities Foil Alleged Plot,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 8 2020 Thursday,0.0
+1274,2698,Kidnap Michigan,[],Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 8 2020 Thursday,
+1275,2698,Neil,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 8 2020 Thursday,-0.047619047619047616
+1276,2699,Trump,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -1, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 29 2020 Thursday,0.0
+1277,2699,China,"[-1, 0, -1, -1, -1, 1, 1, 0, -1, 0, 1, 1, -1, 0, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 29 2020 Thursday,-0.16666666666666666
+1278,2699,Joe Biden,"[0, 0, 0, 0, -1, 0, -1, 0, 0, 0, -1, 0, 1, 0, -1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 29 2020 Thursday,-0.2222222222222222
+1279,2699,Biden,"[0, 0, -1, 0, -1, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 29 2020 Thursday,-0.058823529411764705
+1280,2699,Biden Rally,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 29 2020 Thursday,0.06666666666666667
+1281,2713,Joe Biden,"[0, -1, 0, -1, -1, 0, 1, 0, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 19 2020 Monday,-0.5263157894736842
+1282,2713,Trump,"[0, 1, 1, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 19 2020 Monday,0.15384615384615385
+1283,2713,Hunter Biden,"[0, 0, 0, 0, 0, -1, -1, 0, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 19 2020 Monday,-0.3333333333333333
+1284,2713,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 19 2020 Monday,0.08333333333333333
+1285,2713,FBI,"[0, -1, -1, -1, -1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 19 2020 Monday,-0.4444444444444444
+1286,2723,Trump,"[0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE FIVE,October 15 2020 Thursday,-0.06666666666666667
+1287,2723,Juan,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network THE FIVE,October 15 2020 Thursday,0.0
+1288,2723,Twitter,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, 1, -1, -1, 0]",Fox News Network THE FIVE,October 15 2020 Thursday,-0.6923076923076923
+1289,2723,Biden,"[0, 0, 0, 0, 1, 0, 0, 1, 0, -1, 1, 1, 0, 0, 0, 0]",Fox News Network THE FIVE,October 15 2020 Thursday,0.1875
+1290,2723,Democrats,"[-1, 0, 0, -1, -1, -1, 0, -1, -1, -1, 1]",Fox News Network THE FIVE,October 15 2020 Thursday,-0.5454545454545454
+1291,2752,Trump,"[-1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]",Fox News Network WATTERS WORLD,October 31 2020 Saturday,0.3333333333333333
+1292,2752,Joe Biden,"[-1, 0, -1, -1, -1, -1, 0, -1, 0, 0, 0, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network WATTERS WORLD,October 31 2020 Saturday,-0.631578947368421
+1293,2752,Biden,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network WATTERS WORLD,October 31 2020 Saturday,-0.9411764705882353
+1294,2752,Pennsylvania,"[0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network WATTERS WORLD,October 31 2020 Saturday,-0.05555555555555555
+1295,2752,Jesse,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1]",Fox News Network WATTERS WORLD,October 31 2020 Saturday,-0.1
+1296,2778,Mike Pence,"[-1, 0, -1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1]",Fox News Network LIVE EVENT,October 7 2020 Wednesday,0.42105263157894735
+1297,2778,Trump,"[0, -1, 0, 1, -1, -1, 0, -1, -1, 0, 0, 0, 0, -1, 1, -1, 0]",Fox News Network LIVE EVENT,October 7 2020 Wednesday,-0.29411764705882354
+1298,2778,Pence,"[0, 1, 1, 0, 1, 1, -1, 0, 1, 1, -1, -1, 0, 1, 0, 0, -1, 1]",Fox News Network LIVE EVENT,October 7 2020 Wednesday,0.2222222222222222
+1299,2778,Kamala Harris,"[1, 0, 1, -1, 1, 0, -1, -1, -1, 0, -1, 0, 0]",Fox News Network LIVE EVENT,October 7 2020 Wednesday,-0.15384615384615385
+1300,2778,American,"[0, -1, -1, 0, 0, 0, -1, 0]",Fox News Network LIVE EVENT,October 7 2020 Wednesday,-0.375
+1301,2779,American,"[1, 0, 1, 1, 1, 0, 1, -1, 0, 0, 0, 1, 1, 1, 1, 1, -1, 1, 1, 1, 1]",Fox News Network LIFE LIBERTY LEVIN,October 25 2020 Sunday,0.5714285714285714
+1302,2779,Joe Biden,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,October 25 2020 Sunday,-0.9
+1303,2779,Trump,"[1, 1, 1, 1, 1, 1, -1, 1, 0, 1, -1, 1, 1, 1, 1, 1, 1, 1, -1]",Fox News Network LIFE LIBERTY LEVIN,October 25 2020 Sunday,0.631578947368421
+1304,2779,America,"[-1, -1, 1, -1, 0, 1, -1, 1, -1, 1, 1, 0, 0, 1, 1, 1, 1]",Fox News Network LIFE LIBERTY LEVIN,October 25 2020 Sunday,0.23529411764705882
+1305,2779,Kamala Harris,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,October 25 2020 Sunday,-0.8823529411764706
+1306,2800,Democrats,"[-1, -1, 1, 1, -1, 0, -1, 0, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE FIVE,October 12 2020 Monday,-0.47368421052631576
+1307,2800,Trump,"[-1, -1, 0, 0, -1, -1, -1, 0, 0, -1, 0, 0, 1, 0, -1, 0, 0, 0, -1]",Fox News Network THE FIVE,October 12 2020 Monday,-0.3684210526315789
+1308,2800,Juan,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE FIVE,October 12 2020 Monday,0.09090909090909091
+1309,2800,Joe Biden,"[-1, 0, 0, -1, 0, -1, 1, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,October 12 2020 Monday,-0.16666666666666666
+1310,2800,Republicans,"[0, 0, 0, -1, -1, -1, 0, 1, -1, 0]",Fox News Network THE FIVE,October 12 2020 Monday,-0.3
+1311,2811,Trump,"[-1, 0, 0, 1, -1, -1, 0, -1, 0, -1, 0, 0, 0, 1, -1, 1, -1, 0]",Fox News Network INGRAHAM ANGLE,October 9 2020 Friday,-0.2222222222222222
+1312,2811,Biden,"[-1, -1, 0, -1, -1, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,October 9 2020 Friday,-0.5263157894736842
+1313,2811,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,October 9 2020 Friday,0.0
+1314,2811,Democrats,"[0, -1, 0, 0, -1, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,October 9 2020 Friday,-0.5555555555555556
+1315,2811,COVID,"[0, -1, -1, -1, 0, 0, 1, 1, 1]",Fox News Network INGRAHAM ANGLE,October 9 2020 Friday,0.0
+1316,2818,Trump,"[0, 0, -1, -1, 0, 1, 0, 1, 0, 0, -1, -1, 0, -1, -1, 0, -1, -1]",Fox News Network THE FIVE,October 27 2020 Tuesday,-0.3333333333333333
+1317,2818,Joe Biden,"[0, -1, 1, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]",Fox News Network THE FIVE,October 27 2020 Tuesday,-0.05263157894736842
+1318,2818,Democrats,"[-1, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0]",Fox News Network THE FIVE,October 27 2020 Tuesday,-0.7142857142857143
+1319,2818,Biden,"[0, -1, 0, 0, 0, -1, -1, -1, 0, -1, 0, 0, 1, -1, -1, -1, 0, -1]",Fox News Network THE FIVE,October 27 2020 Tuesday,-0.4444444444444444
+1320,2818,American,"[0, -1, 0, 1, -1, -1, -1, -1, 0, 1, 0, 1, 0, -1, -1, -1, -1, 0, 0]",Fox News Network THE FIVE,October 27 2020 Tuesday,-0.3157894736842105
+1321,2819,Trump,"[0, 1, 0, -1, 0, 1, 0, 0, 0, 0, -1, -1, 0, 1, -1, 0, -1]",Fox News Network FOX HANNITY,October 30 2020 Friday,-0.11764705882352941
+1322,2819,Joe Biden,"[-1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,October 30 2020 Friday,-0.7058823529411765
+1323,2819,Sean,"[1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network FOX HANNITY,October 30 2020 Friday,0.05555555555555555
+1324,2819,Florida,"[-1, 0, 1, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network FOX HANNITY,October 30 2020 Friday,-0.16666666666666666
+1325,2819,Donald Trump,"[0, -1, 1, 1, 1, 1, 0, 1, 1]",Fox News Network FOX HANNITY,October 30 2020 Friday,0.5555555555555556
+1326,2822,Trump,"[-1, 0, 0, 0, 1, 1, 1, -1, 1, -1, -1, -1, 0, 1, 1, 0, -1]",Fox News Network INGRAHAM ANGLE,October 15 2020 Thursday,0.0
+1327,2822,Biden,"[-1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 15 2020 Thursday,-0.7368421052631579
+1328,2822,China,"[-1, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 15 2020 Thursday,-0.75
+1329,2822,Joe Biden,"[0, 0, 0, -1, 1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,October 15 2020 Thursday,-0.5882352941176471
+1330,2822,Michigan,"[-1, 0, 0, 1, 1, -1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,October 15 2020 Thursday,-0.1111111111111111
+1331,2837,Trump,"[-1, 0, 0, 0, 1, -1, 0, 0, -1, 0, 0, 1, 0, -1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 6 2020 Tuesday,-0.1111111111111111
+1332,2837,Senate,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 6 2020 Tuesday,0.125
+1333,2837,Joe Biden,"[0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 1, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 6 2020 Tuesday,0.13333333333333333
+1334,2837,the White House,"[-1, -1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 6 2020 Tuesday,-0.3333333333333333
+1335,2837,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,October 6 2020 Tuesday,0.0
+1336,2842,Trump,"[-1, 1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, -1, 1, 1, 0, 1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 10 2020 Saturday,-0.05263157894736842
+1337,2842,Biden,"[0, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, 0, 0, -1, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 10 2020 Saturday,-0.45
+1338,2842,American,"[-1, 1, 1, 0, -1, 1, 1, 0, -1, 0, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 10 2020 Saturday,0.07692307692307693
+1339,2842,Joe Biden,"[-1, 0, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 10 2020 Saturday,-0.6923076923076923
+1340,2842,Kyle,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 1]",Fox News Network JUSTICE WITH JUDGE PIRRO,October 10 2020 Saturday,0.0
+1341,2851,Joe Biden,"[-1, 0, 0, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, 0, 0, -1, -1, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 23 2020 Friday,-0.6
+1342,2851,Florida,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 23 2020 Friday,-0.05
+1343,2851,Lankford,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 23 2020 Friday,0.0
+1344,2851,Biden,"[0, 0, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 23 2020 Friday,-0.65
+1345,2851,Senate,"[0, 0, 0, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,October 23 2020 Friday,-0.25

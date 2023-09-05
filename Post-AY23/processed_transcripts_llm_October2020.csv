@@ -1,0 +1,1063 @@
+,Transcript,Topic,Sentiment,Program,avg_sentiment
+0,21,Trump,"[1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, 1, -1]",Fox News Network INGRAHAM ANGLE,-0.5882352941176471
+1,21,Comey,"[-1, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.7058823529411765
+2,21,Democrats,"[-1, -1, 0, -1, 0, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.7894736842105263
+3,21,FBI,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.8181818181818182
+4,21,Mueller,"[-1, -1, -1, -1, -1, 1, 0, 0, -1, -1, -1, 0, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.6
+5,36,Democrats,"[-1, 0, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.7058823529411765
+6,36,Trump,"[-1, -1, 1, 0, 0, 0, 1, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.25
+7,36,Senate,"[0, -1, 0, 0, -1, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.4666666666666667
+8,36,Adam Schiff,"[-1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 1]",Fox News Network INGRAHAM ANGLE,-0.7894736842105263
+9,36,House,"[0, 1, -1, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.5714285714285714
+10,38,Trump,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.0
+11,38,U.S.,"[0, -1, 0, -1, -1, 0, 1, -1, 0, 0, 0, 0, 1, -1, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.1111111111111111
+12,38,Iran,"[-1, -1, 0, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.5294117647058824
+13,38,Bret,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.21428571428571427
+14,38,Google,"[1, 1, 0, -1, -1, 0, 0, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.125
+15,48,Trump,"[-1, -1, -1, -1, 0, -1, 0, 0, -1, 0, 0, 1, -1, 0]",Fox News Network THE FIVE,-0.42857142857142855
+16,48,Sandra,"[0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,0.125
+17,48,Democrats,"[-1, 0, -1, 0, -1, -1, -1, 0, -1, -1]",Fox News Network THE FIVE,-0.7
+18,48,Soleimani,"[-1, -1, -1, 0, -1, 0, -1, -1, -1, 0, 0]",Fox News Network THE FIVE,-0.6363636363636364
+19,53,Trump,"[0, 1, 0, 1, -1, 0, -1, 0, -1, 0, -1, -1, 0, 0, -1, -1, 0, 0, -1]",Fox News Network THE FIVE,-0.3157894736842105
+20,53,Pete,"[0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network THE FIVE,-0.15384615384615385
+21,53,Iraq,"[-1, 0, -1, -1, 0, 0, -1, 0, -1, 0, 0, -1, -1]",Fox News Network THE FIVE,-0.5384615384615384
+22,85,American,"[0, 1, 1, -1, -1, 1, 0, 0, -1]",Fox News Network LIVE EVENT,0.0
+23,85,Americans,"[-1, 1, 0, -1, 0]",Fox News Network LIVE EVENT,-0.2
+24,85,Congress,"[0, 0, -1, -1]",Fox News Network LIVE EVENT,-0.5
+25,85,Senate,"[-1, 0, 0]",Fox News Network LIVE EVENT,-0.3333333333333333
+26,85,Stephanie,"[0, 0, 0, 0]",Fox News Network LIVE EVENT,0.0
+27,86,Soleimani,"[-1, 0, -1, 0, -1, 0, 0, -1, -1, 0, 0, 0]",Fox News Network LIVE EVENT,-0.4166666666666667
+28,86,Congress,"[-1, -1, 0, -1, -1, 0, 0, -1]",Fox News Network LIVE EVENT,-0.625
+29,86,Americans,"[-1, -1, 1, -1, -1]",Fox News Network LIVE EVENT,-0.6
+30,90,California,"[-1, -1, -1, 1, 1, -1, -1, -1, 0, -1, 0, 0, 0, 1, -1, -1, -1, -1, 1, 1]",Fox News Network TUCKER CARLSON TONIGHT,-0.3
+31,90,America,"[0, 0, 0, -1, -1, -1, -1, 0, -1, 1, 0, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.42857142857142855
+32,90,Democrats,"[0, 0, -1, 0, -1, 0, 0, 0, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.36363636363636365
+33,90,Hillary,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.21428571428571427
+34,90,Democratic,"[-1, -1, 0, -1, 0, -1, -1, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5454545454545454
+35,91,America,"[0, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.6428571428571429
+36,91,Mexico,"[-1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.8333333333333334
+37,91,Iran,"[0, -1, -1, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5714285714285714
+38,91,U.S.,"[0, 0, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.16666666666666666
+39,105,AEI,"[0, 0, -1, 0, -1, 0, -1, -1, 1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5
+40,105,Washington,"[-1, 0, 0, 0, -1, -1, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.6
+41,105,Americans,"[-1, 0, -1, 0, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.7777777777777778
+42,105,Pharma,"[-1, -1, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.75
+43,105,OxyContin,"[-1, -1, 0, 1, 0, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.4444444444444444
+44,115,Churchill,"[0, 0, 1, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.26666666666666666
+45,115,the Second World War,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.07142857142857142
+46,115,Hitler,"[-1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.875
+47,115,British,"[0, 0, -1, 0, -1, -1, 1, 0, 0, -1, 1, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.25
+48,115,Winston Churchill,"[0, 0, 0, 1, 0, 0, 0, 0, -1]",Fox News Network LIFE LIBERTY LEVIN,0.0
+49,141,Iran,"[-1, -1, 0, -1, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0, -1, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.45
+50,141,U.S.,"[-1, 1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.3157894736842105
+51,141,Soleimani,"[0, -1, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, 0, 0, 0, -1, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.5789473684210527
+52,141,Trump,"[0, -1, 1, -1, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.17647058823529413
+53,146,Iran,"[0, 0, -1, -1, -1, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.4
+54,146,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+55,146,Senate,"[-1, 0, 0, 1, 0, -1, -1, 0, -1, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.3333333333333333
+56,146,American,"[-1, -1, 0, -1, -1, -1, -1, 1, -1, 0, -1, -1, 0, -1, 0, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.6111111111111112
+57,146,Congress,"[0, 0, 1, 0, 0, -1, 0, 0, -1, 1, 1, 1, 1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.13333333333333333
+58,168,Iran,"[-1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.75
+59,168,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.05555555555555555
+60,168,American,"[0, 0, 0, -1, 0, 0, -1, 0, -1, -1, -1, 1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.38461538461538464
+61,168,Iranians,"[0, 0, 0, -1, 0, -1, 0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5
+62,168,Senate,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.08333333333333333
+63,243,Chinese,"[1, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.5
+64,251,John Bolton,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.1111111111111111
+65,251,Bolton,"[0, 0, 0, 0, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.3
+66,251,China,"[-1, 0, 0, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.6363636363636364
+67,251,Bernie Sanders,"[1, 1, 0, 1, -1, -1, -1, -1, -1, 0, 1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.08333333333333333
+68,270,Trump,"[-1, 0, 0, 1, -1, 0, -1, 0, -1, 0, 1, -1, 1, 0, 0, -1, -1, -1]",Fox News Network WATTERS WORLD,-0.2777777777777778
+69,270,CNN,"[-1, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network WATTERS WORLD,-0.8181818181818182
+70,270,Bernie,"[-1, -1, 0, 0, 1, 0, -1, -1, 0, 0, -1, -1, 0, 0, -1, 0, 0, -1, 0]",Fox News Network WATTERS WORLD,-0.3684210526315789
+71,270,Jesse,"[0, 0, 0, 0, 1]",Fox News Network WATTERS WORLD,0.2
+72,270,MSNBC,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network WATTERS WORLD,-0.9
+73,284,New Year's,"[0, 0, 0, 0, 0]",Fox News Network THE FIVE,0.0
+74,284,Juan,"[-1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE FIVE,-0.15
+75,284,Dana,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network THE FIVE,-0.1
+76,284,Trump,"[-1, 0, 0, 0, -1, 0, 1, 0, -1, 0, 0, -1, -1, 0, 0]",Fox News Network THE FIVE,-0.26666666666666666
+77,284,Jesse,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network THE FIVE,0.0
+78,332,CNN,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.7647058823529411
+79,332,Bernie,"[-1, 1, -1, -1, 0, 0, -1, -1, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5
+80,332,Elizabeth Warren,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.0
+81,332,Tucker,"[1, 0, -1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.1
+82,332,Bernie Sanders,"[1, 0, -1, -1, 0, 1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.2
+83,338,Iran,"[-1, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.3888888888888889
+84,338,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.08333333333333333
+85,338,Democrats,"[0, 0, 0, 1, -1, 0, 0, -1, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.16666666666666666
+86,338,Iraq,"[0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1, 1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.4444444444444444
+87,338,House,"[0, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2727272727272727
+88,344,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0625
+89,344,Iran,"[-1, 0, -1, 0, -1, -1, 0, 0, 0, 0, -1, -1, 0, -1, 0, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5
+90,344,Senate,"[0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.1
+91,344,Soleimani,"[-1, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.7272727272727273
+92,344,U.S.,"[0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.15384615384615385
+93,401,Joe Biden,"[-1, 0, -1, 0, -1, -1, -1, 0, -1, 0, -1, 0, 0, 0, 1, 1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.2777777777777778
+94,401,Democrats,"[0, -1, 0, -1, -1, -1, 0, -1, 0, -1, 0, 1, 1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.4375
+95,401,Bernie,"[0, -1, 0, 0, 0, 0, -1, 0, 1, -1, -1, 0, 0, -1, 0, -1, 0, -1, 1]",Fox News Network TUCKER CARLSON TONIGHT,-0.2631578947368421
+96,401,Bernie Sanders,"[0, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.36363636363636365
+97,401,American,"[-1, 0, -1, -1, 1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.6666666666666666
+98,407,Trump,"[-1, -1, 0, 0, 1, -1, 0, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.5789473684210527
+99,407,Adam Schiff,"[-1, -1, 0, 0, -1, 0, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.631578947368421
+100,407,Senate,"[-1, -1, 0, 0, 0, -1, -1, -1, -1, 0, 0, 1, -1]",Fox News Network INGRAHAM ANGLE,-0.46153846153846156
+101,407,Democrats,"[-1, -1, -1, 0, 0, -1, 0, -1, -1, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.6153846153846154
+102,407,Ukrainian,"[0, 0, 0, -1, -1, -1, -1, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.45454545454545453
+103,441,Trump,"[-1, -1, -1, -1, 0, 0, -1, 1, -1, 0, -1, 0, 0, -1, -1]",Fox News Network THE FIVE,-0.5333333333333333
+104,441,Democrats,"[0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1, 0]",Fox News Network THE FIVE,-0.3888888888888889
+105,441,Adam Schiff,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network THE FIVE,-0.9
+106,441,Juan,"[0, -1, 0, -1, 0, 0, 0, -1, 0]",Fox News Network THE FIVE,-0.3333333333333333
+107,441,House,"[-1, -1, 0, -1, 0, 0, -1, -1, 0]",Fox News Network THE FIVE,-0.5555555555555556
+108,442,Trump,"[-1, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1, 0, 1, -1, 0, 0, -1]",Fox News Network THE FIVE,-0.4117647058823529
+109,442,Democrats,"[-1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network THE FIVE,-0.85
+110,442,Republicans,"[0, -1, -1, 0, 0, -1, 0, -1, 0, 0, -1, -1, 0, 0, -1, -1]",Fox News Network THE FIVE,-0.5
+111,442,Senate,"[0, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network THE FIVE,-0.35714285714285715
+112,442,Adam Schiff,"[0, -1, -1, -1, 1, 0, 1, 0, -1, 0, 0, 0, -1, 1]",Fox News Network THE FIVE,-0.14285714285714285
+113,459,Bernie Sanders,"[-1, 0, 0, 1, -1, 0, 0, 0, -1, -1, 1, 1, 0, 0, 1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.11764705882352941
+114,459,Trump,"[-1, -1, 1, 0, -1, -1, -1, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.36363636363636365
+115,459,Elizabeth Warren,"[0, 0, 1, 0, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.0
+116,459,Tucker,"[1, 0, 1, 1, 1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.5714285714285714
+117,459,Hollywood,"[-1, -1, -1, 0, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.75
+118,461,Senate,"[0, -1, 0, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.38461538461538464
+119,461,Joe Biden,"[-1, 0, 0, -1, 1, -1, -1, -1, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.3076923076923077
+120,461,American,"[-1, 0, 0, 0, -1, -1, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.6
+121,461,Adam Schiff,"[0, 0, -1, 1, 1, 1, 0, 0, 0, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.0
+122,461,Trump,"[-1, -1, -1, 0, 0, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.4444444444444444
+123,470,Democrats,"[0, -1, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, -1, -1, 0, 0, 1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.2631578947368421
+124,470,Republicans,"[-1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.17647058823529413
+125,470,Senate,"[0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+126,470,Trump,"[0, 0, 0, -1, -1, 0, 0, 0, 0, 1, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.2857142857142857
+127,470,House,"[0, 0, -1, 0, 0, 1, 0, -1, -1, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.18181818181818182
+128,473,Bolton,"[-1, 0, 0, 0, -1, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.2
+129,473,Trump,"[-1, 1, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, -1, 1, -1]",Fox News Network INGRAHAM ANGLE,-0.06666666666666667
+130,473,Senate,"[0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.14285714285714285
+131,473,Democrats,"[0, -1, 0, 0, -1, -1, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.4444444444444444
+132,473,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,0.0
+133,475,Trump,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-1.0
+134,475,House,"[-1, 0, -1, -1, -1, 0, 1, -1, -1, -1, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.4666666666666667
+135,475,Congress,"[-1, -1, -1, -1, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1, 0, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.6842105263157895
+136,475,the White House,"[0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.7368421052631579
+137,475,Ukraine,"[-1, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.75
+138,490,Senate,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.10526315789473684
+139,490,Trump,"[1, 0, -1, 0, -1, 0, 1, -1, -1, 0, -1, 0, 0, 0, 0, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.3333333333333333
+140,490,House,"[0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.18181818181818182
+141,490,Democrats,"[-1, 0, 0, 0, -1, 0, 0, -1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.45454545454545453
+142,490,Zelensky,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.07692307692307693
+143,491,Trump,"[-1, 0, 0, 0, 0, -1, -1, -1, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,-0.4
+144,491,Democrats,"[-1, 0, -1, -1, -1, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,-0.7142857142857143
+145,491,Steve,"[0, 0, 1, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,0.14285714285714285
+146,491,Adam Schiff,"[1, 0, 0, 0, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,0.0
+147,491,Michael,"[1, 0, 0, 0, -1, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,0.0
+148,496,Senate,"[0, 0, 0, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.21428571428571427
+149,496,Adam Schiff,"[0, 0, -1, 0, 1, 1, 1, 0, -1, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.15384615384615385
+150,496,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.0
+151,496,Bloomberg,"[0, -1, -1, -1, 1, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.5625
+152,496,Vindman,"[0, 0, 0, 0, 0, -1, -1, 0, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.36363636363636365
+153,497,Trump,"[-1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.8
+154,497,Ukraine,"[1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0, 0, -1, 0, 0, 0, 1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.45
+155,497,Zelensky,"[-1, 0, -1, 0, 0, 0, -1, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.15789473684210525
+156,497,Giuliani,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.65
+157,497,U.S.,"[0, 0, 1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5555555555555556
+158,501,CNN,"[0, -1, -1, -1, 0, 0, -1, 0, 0, 0, -1, 0, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5
+159,501,Elizabeth Warren,"[0, -1, 1, 0, 1, -1, 1, 0, 0, 1, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.05
+160,501,Bernie,"[-1, -1, 0, 0, -1, 0, 0, -1, -1, 1, -1, 0, 0, 0, -1, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.47368421052631576
+161,501,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.0
+162,501,Trace Gallagher,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,0.2
+163,505,Senate,"[-1, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1]",Fox News Network FOX NEWS SUNDAY,-0.2857142857142857
+164,505,House,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX NEWS SUNDAY,-0.13333333333333333
+165,505,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,-0.1111111111111111
+166,505,Democrats,"[-1, 0, 0, 0, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1, 0]",Fox News Network FOX NEWS SUNDAY,-0.4444444444444444
+167,505,Republican,"[0, 0, 0, -1, 0, 0, -1, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 1, 1]",Fox News Network FOX NEWS SUNDAY,-0.10526315789473684
+168,508,Trump,"[1, 0, -1, 0, -1, 1, 0, -1, -1, -1, -1, 0, 1, -1, 0, -1, -1, 0]",Fox News Network FOX HANNITY,-0.3333333333333333
+169,508,Senate,"[0, 0, -1, 0, -1, -1, -1, 1, 0, -1, 0]",Fox News Network FOX HANNITY,-0.36363636363636365
+170,508,Democrats,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 0, -1, 0, -1]",Fox News Network FOX HANNITY,-0.8235294117647058
+171,508,John Bolton,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0, -1, 0, -1, 0, 0]",Fox News Network FOX HANNITY,-0.2777777777777778
+172,508,Ukraine,"[0, 1, 0, 0, 0, -1, 1, 1, 0, 0, 0, 0, 1, -1]",Fox News Network FOX HANNITY,0.14285714285714285
+173,511,Russians,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX HANNITY,-0.05
+174,511,Russia,"[-1, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network FOX HANNITY,-0.35
+175,511,Trump,"[0, 1, 0, -1, 0, -1, -1, -1, 0, 1, 0, 0, -1, -1, 0, 0, 0, -1, 0]",Fox News Network FOX HANNITY,-0.2631578947368421
+176,511,Ukraine,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, 1]",Fox News Network FOX HANNITY,-0.7
+177,511,Adam Schiff,"[-1, 1, 0, -1, 0, 1, 1, 1, 0, 0, -1, -1, -1, 1, 0, 0]",Fox News Network FOX HANNITY,0.0
+178,513,John Bolton,"[0, 0, -1, 0, 0, 0, -1, 1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,-0.15789473684210525
+179,513,Ukraine,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1]",Fox News Network FOX HANNITY,-0.7333333333333333
+180,513,Democrats,"[-1, -1, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.7857142857142857
+181,513,Bolton,"[-1, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, -1, 0, 0]",Fox News Network FOX HANNITY,-0.2
+182,513,Joe,"[1, 0, -1, 0, 0, 0, -1, -1, -1, -1, 0, 0, -1, -1, 1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.45
+183,514,House,"[-1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network FOX HANNITY,-0.7647058823529411
+184,514,Michael Waltz,"[-1, 0, -1]",Fox News Network FOX HANNITY,-0.6666666666666666
+185,514,Mike Johnson,"[-1, 0, -1]",Fox News Network FOX HANNITY,-0.6666666666666666
+186,514,Joe,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-1.0
+187,514,Trump,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, 1, -1, 0, -1, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.7222222222222222
+188,520,Democrats,"[-1, -1, -1, 0, 0, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.6666666666666666
+189,520,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,0.0
+190,520,Trump,"[-1, -1, 0, 0, 1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.6666666666666666
+191,520,American,"[-1, -1, -1, -1, 0, -1, -1, 0, -1, 0, 1, 0, 0]",Fox News Network FOX HANNITY,-0.46153846153846156
+192,520,Ukraine,"[-1, 1, -1, 1, 0, 1, -1]",Fox News Network FOX HANNITY,0.0
+193,537,Trump,"[-1, -1, 0, -1, 1, -1, -1, 0, 0, -1, -1, 0, -1, -1, 0, 0]",Fox News Network MEDIA BUZZ,-0.5
+194,537,American,"[0, -1, 0, 0, 1, 0, 0, 1, -1]",Fox News Network MEDIA BUZZ,0.0
+195,537,Soleimani,"[-1, -1, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0]",Fox News Network MEDIA BUZZ,-0.4375
+196,537,Iran,"[-1, -1, 0, -1, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1, 1, -1]",Fox News Network MEDIA BUZZ,-0.4375
+197,537,Iraq,"[-1, -1, 0, -1, -1, -1, -1, -1, 0, 0, 0, 0]",Fox News Network MEDIA BUZZ,-0.5833333333333334
+198,546,Democrats,"[0, 0, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0, -1, 0, -1]",Fox News Network FOX HANNITY,-0.65
+199,546,Trump,"[-1, 0, -1, 0, 1, 1, 0, 0, 1, -1, -1, 0, 0, -1, 0, 0]",Fox News Network FOX HANNITY,-0.125
+200,546,Senate,"[-1, -1, -1, 0, 0, 0, -1, 0, 0, 1, -1]",Fox News Network FOX HANNITY,-0.36363636363636365
+201,546,Lev Parnas,"[0, 0, -1, -1, -1, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network FOX HANNITY,-0.38461538461538464
+202,546,Donald Trump,"[0, -1, 1, -1, 0, -1, 0, -1, -1, 0]",Fox News Network FOX HANNITY,-0.4
+203,584,America,"[-1, 0, -1, -1, -1, 1, -1, 1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5454545454545454
+204,584,Washington,"[0, 0, -1, 0, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.25
+205,584,Iran,"[0, -1, -1, 0, -1, 0, -1, 0, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.4166666666666667
+206,584,the Royal Family,"[0, -1, -1, -1, 0, 0, 0, 1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.3333333333333333
+207,600,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 1, 0, -1, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.1
+208,600,Democrats,"[-1, -1, 0, 1, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0, -1, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.35
+209,600,China,"[0, -1, 0, 0, 0, 0, 1, 0, -1, -1, 0, -1, 0, 0, 0, -1, -1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.35
+210,600,House,"[0, -1, -1, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.42105263157894735
+211,600,Trump,"[-1, 0, 1, 0, 1, 1, 0, -1, 0, 0, 1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+212,601,House,"[-1, 0, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5882352941176471
+213,601,Burisma,"[-1, -1, -1, -1, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.45
+214,601,Hunter Biden,"[-1, 0, -1, -1, 0, -1, 0, 0, 0, -1, -1, 0, 0, -1, -1, 0, 0, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5
+215,601,Ukrainian,"[-1, -1, -1, 0, -1, -1, 0, 0, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5
+216,601,Zlochevsky,"[0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.7647058823529411
+217,646,Iranian,"[0, 0, -1, -1, 0, 0, 1, 0, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.4375
+218,646,American,"[1, -1, 0, 0, 0, 0, 1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.35294117647058826
+219,646,Senate,"[-1, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2222222222222222
+220,646,Iowa,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.09090909090909091
+221,646,Trump,"[0, 0, 0, 0, 1, 0, 1, 0, 0, -1, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.21428571428571427
+222,648,Trump,"[0, -1, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.17647058823529413
+223,648,Iran,"[-1, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.16666666666666666
+224,648,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.0
+225,648,Democrats,"[0, 0, 0, -1, -1, 0, 1, 0, -1, -1, 0, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2857142857142857
+226,648,Joe Biden,"[0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.07142857142857142
+227,656,Iran,"[-1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.7333333333333333
+228,656,Trump,"[0, 0, -1, -1, 0, 0, 0, 0, 1]",Fox News Network INGRAHAM ANGLE,-0.1111111111111111
+229,656,Senate,"[0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,0.0
+230,656,the United States,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,0.0
+231,656,China,"[0, -1, 0, -1, 1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.125
+232,699,Charles,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+233,699,China,"[0, 0, 0, 0, -1, -1, -1, 0, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.45454545454545453
+234,699,Trump,"[-1, 1, 0, 0, 1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+235,699,Medicare,"[1, 1, 1, -1, 0, 1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.125
+236,699,Democrats,"[-1, 0, -1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5
+237,706,Senate,"[-1, 0, 1, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.4
+238,706,House,"[-1, -1, 0, -1, 0, -1, 0, -1, -1, 0, 0, -1, -1, -1, 1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.6111111111111112
+239,706,Trump,"[0, 0, 1, 0, 0, -1, 0, 0, -1, 1, 0, 0, 0, -1, 0, 0, 1, 0]",Fox News Network INGRAHAM ANGLE,0.0
+240,706,Democrats,"[-1, 0, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.7692307692307693
+241,706,Laura,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.07692307692307693
+242,740,Iran,"[0, -1, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1]",Fox News Network FOX AND FRIENDS,-0.4
+243,740,U.N.,"[0, 0, 0, -1, 0, -1]",Fox News Network FOX AND FRIENDS,-0.3333333333333333
+244,740,Iranian,"[0, -1, -1, 0, 0, -1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,-0.7
+245,740,Soleimani,"[0, -1, 0, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,-0.7142857142857143
+246,741,VA,"[0, 0, 0, 0, -1, 0, -1]",Fox News Network FOX AND FRIENDS,-0.2857142857142857
+247,742,Hollywood,"[-1, -1, 0, -1, -1, 0, -1]",Fox News Network FOX AND FRIENDS,-0.7142857142857143
+248,742,World War III,"[-1, -1, -1, -1, -1]",Fox News Network FOX AND FRIENDS,-1.0
+249,742,Iraq,"[0, -1, 0, 0, -1, 0]",Fox News Network FOX AND FRIENDS,-0.3333333333333333
+250,742,Trump,"[-1, -1, -1, -1, 0]",Fox News Network FOX AND FRIENDS,-0.8
+251,750,Iowa,"[1, 0, 0, 0, 0, 0, 1, 0, 0, -1, 1, 0, 0, 0, -1, 0]",Fox News Network FOX NEWS SUNDAY,0.0625
+252,750,Trump,"[-1, 0, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS SUNDAY,-0.4
+253,750,Chris,"[0, -1, 0, 1, 0, 0, 0, 0, 1, 0, 0, -1, 1]",Fox News Network FOX NEWS SUNDAY,0.07692307692307693
+254,750,Democratic,"[0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,-0.1875
+255,750,Democrats,"[0, 0, -1, -1, 0, -1, -1, -1, 0, -1, 1]",Fox News Network FOX NEWS SUNDAY,-0.45454545454545453
+256,790,Senate,"[0, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.2222222222222222
+257,790,Clinton,"[0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.125
+258,790,Democrats,"[-1, -1, -1, 0, 0, -1, 0, 0, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.5833333333333334
+259,790,Shannon,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+260,790,Trump,"[0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.125
+261,811,Benghazi,"[0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, -1]",Fox News Network THE FIVE,-0.25
+262,811,Trump,"[0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, -1]",Fox News Network THE FIVE,-0.08333333333333333
+263,811,Democrats,"[-1, -1, -1, 0, -1, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.4
+264,811,New York,"[0, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.2
+265,811,Lawrence,"[0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,-0.1111111111111111
+266,832,Iran,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.7058823529411765
+267,832,Tucker,"[0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.25
+268,832,Washington,"[-1, 0, -1, 0, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.75
+269,832,Iraq,"[0, 0, 0, 0, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.2857142857142857
+270,833,Trump,"[-1, -1, -1, 0, 0, 0, 0, 1, 0, -1, -1, 1, 1, 0, 0, 1, 0, 0, 0, 1]",Fox News Network INGRAHAM ANGLE,0.0
+271,833,U.S.,"[0, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.45454545454545453
+272,833,Americans,"[-1, -1, -1, -1, -1, 0, 1, 1, 1, 1, -1, 0, 0, 1, 0]",Fox News Network INGRAHAM ANGLE,-0.06666666666666667
+273,833,Iran,"[1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.625
+274,856,Trump,"[1, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, 0, -1, 0, 0, -1, -1, 1, 1, 0]",Fox News Network INGRAHAM ANGLE,-0.3
+275,856,Democrats,"[-1, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.6111111111111112
+276,856,Ukraine,"[-1, 1, 0, 0, 0, -1, 0, -1, -1, -1, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.38461538461538464
+277,856,Senate,"[-1, -1, -1, 0, 0, -1, 0, 1, 0]",Fox News Network INGRAHAM ANGLE,-0.3333333333333333
+278,856,Laura,"[0, 0, 0, 0, 0, 1]",Fox News Network INGRAHAM ANGLE,0.16666666666666666
+279,857,Trump,"[-1, 0, -1, 0, -1, 1, 0, -1, 0, 1, -1, 0, 1, -1, 0, -1, 1, 1, 1]",Fox News Network THE NEXT REVOLUTION,-0.05263157894736842
+280,857,China,"[0, 1, -1, 0, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0, -1]",Fox News Network THE NEXT REVOLUTION,-0.5
+281,857,Huawei,"[-1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,-0.8461538461538461
+282,857,Democrats,"[1, -1, 0, -1, 0, -1, 0, 0, -1, 0]",Fox News Network THE NEXT REVOLUTION,-0.3
+283,857,American,"[1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 0, -1, 0]",Fox News Network THE NEXT REVOLUTION,0.23076923076923078
+284,859,China,"[0, 0, 0, 1, 0, -1, 0, 0, 0, -1, 0, 0, 1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.0
+285,859,Senate,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.07142857142857142
+286,859,Trump,"[0, -1, 0, -1, -1, -1, -1, -1, 0, 1, 0, -1, 0, -1, 1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.4375
+287,859,House,"[0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 0, -1, -1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.4
+288,859,Democrats,"[-1, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.6666666666666666
+289,860,Senate,"[-1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX HANNITY,-0.2
+290,860,Democrats,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.8
+291,860,House,"[-1, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, -1, -1, -1, 0, 0]",Fox News Network FOX HANNITY,-0.5294117647058824
+292,860,American,"[-1, 0, 1, -1, 0, 1, 0, 0, -1, -1, 1, 1, 0, 0, 0, 0, -1, 1, -1]",Fox News Network FOX HANNITY,-0.05263157894736842
+293,860,Devin Nunes,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network FOX HANNITY,0.05
+294,861,Senate,"[0, -1, 1, -1, 0, 0, 0, 1, 1, 1, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.18181818181818182
+295,861,Trump,"[-1, -1, -1, -1, -1, -1, -1, 1, -1, 0, -1, 0, 0, -1, 1, -1, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5789473684210527
+296,861,House,"[0, -1, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.3333333333333333
+297,861,Democrats,"[-1, 1, 1, 0, 0, 0, 1, 1, 1, -1, -1, 1, 1, -1, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.11764705882352941
+298,861,American,"[0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.1875
+299,862,House,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.06666666666666667
+300,862,Ukraine,"[0, -1, -1, -1, 1, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.47058823529411764
+301,862,OMB,"[0, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.3157894736842105
+302,862,Senate,"[-1, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.23076923076923078
+303,862,Trump,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.8571428571428571
+304,863,House,"[0, 0, -1, 0, -1, -1, -1, 0, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.5454545454545454
+305,863,Democrats,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, 0, 0, -1, -1, 0, 0, -1, 1, 1, -1]",Fox News Network INGRAHAM ANGLE,-0.5263157894736842
+306,863,Senate,"[0, -1, 0, 0, 0, 0, 0, 0, 1, -1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.15384615384615385
+307,863,Adam Schiff,"[-1, 0, -1, -1, -1, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, 0, 0, 1, 0]",Fox News Network INGRAHAM ANGLE,-0.5
+308,863,American,"[0, -1, 0, 0, 0, 0, 0, -1, -1, 1, -1, 1, 0, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.25
+309,864,Senate,"[0, 0, 0, 0, 0, 1, 1, 1, 0, 1]",Fox News Network JUSTICE WITH JUDGE PIRRO,0.4
+310,864,House,"[-1, 0, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.2777777777777778
+311,864,Trump,"[-1, 0, 0, 1, 1, 0, -1, 0, 0, -1, 0, 0, -1, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.14285714285714285
+312,864,American,"[-1, -1, -1, -1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.07142857142857142
+313,864,Democrats,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.9
+314,869,Senate,"[0, 0, 0, 0, 0, 0, -1, 0, -1, 0]",Fox News Network THE FIVE,-0.2
+315,869,House,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.10526315789473684
+316,869,Democrats,"[0, 0, -1, 0, -1, 0, -1, 0, 0, -1, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.2
+317,869,Nancy Pelosi,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, -1]",Fox News Network THE FIVE,0.05
+318,869,Republicans,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0]",Fox News Network THE FIVE,-0.1875
+319,870,Iran,"[0, -1, 0, 0, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.65
+320,870,Trump,"[1, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, 1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.15789473684210525
+321,870,Iranian,"[-1, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1, -1, 1, -1, -1, -1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.47368421052631576
+322,870,Democrats,"[-1, 0, -1, -1, -1, 0, 0, 0, 1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.36363636363636365
+323,870,Senate,"[0, 0, 0, -1, 0, 0, 1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,0.0
+324,871,Senate,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.07692307692307693
+325,871,Democrats,"[-1, 0, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 1]",Fox News Network INGRAHAM ANGLE,-0.6875
+326,871,Russia,"[-1, 0, -1, 0, 0, 0, -1, -1, 0, -1, 0, 0, -1, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.47619047619047616
+327,871,Trump,"[-1, 0, 0, 0, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.5625
+328,871,Hunter Biden,"[-1, -1, 0, -1, 0, 0, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.6
+329,873,Trump,"[-1, 1, 0, -1, 0, -1, 0, -1, -1, 1, 0, -1, 0, 0, -1, 0, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.21052631578947367
+330,873,China,"[1, 0, 0, -1, 0, 0, 0, 0, 0, 1, -1, 0, 1, -1, 1, 1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.2222222222222222
+331,873,Senate,"[0, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2857142857142857
+332,873,Martha,"[0, 0, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.21052631578947367
+333,873,Democrats,"[-1, 0, 0, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.6153846153846154
+334,887,Trump,"[0, 1, 0, 1, -1, 0, 0, -1, 0, -1, -1, 0, 0, 1, 0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+335,887,Iowa,"[1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.125
+336,887,China,"[0, 0, -1, 0, 1, 1, 0, -1, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.08333333333333333
+337,887,Bernie Sanders,"[0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.4375
+338,887,Charles,"[0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.125
+339,891,Trump,"[0, 0, 0, -1, -1, -1, 0, -1, 0, 1, -1, 0, 0, 1, -1, -1, -1]",Fox News Network THE FIVE,-0.35294117647058826
+340,891,Apple,"[-1, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.21052631578947367
+341,891,Bernie,"[-1, -1, -1, 0, 1, -1, -1, 0, 0, 0, -1, -1, 0, 0, 1, -1, -1, -1]",Fox News Network THE FIVE,-0.4444444444444444
+342,891,Dana,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,0.0
+343,891,Juan,"[0, 0, 1, 0, 1, 0, 0, 0, 0]",Fox News Network THE FIVE,0.2222222222222222
+344,892,Iran,"[0, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.7142857142857143
+345,892,Senate,"[0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.21052631578947367
+346,892,Trump,"[0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, -1, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.3333333333333333
+347,892,Republicans,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.07692307692307693
+348,892,Bret,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.08333333333333333
+349,893,House,"[-1, 0, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.6842105263157895
+350,893,Senate,"[-1, 0, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, 0, 0, 0, -1, -1, 0, -1]",Fox News Network FOX HANNITY,-0.4
+351,893,Democrats,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, 0, 0]",Fox News Network FOX HANNITY,-0.75
+352,893,Sean,"[0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,0.1875
+353,893,Joe,"[-1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.75
+354,894,Senate,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.058823529411764705
+355,894,House,"[-1, 0, -1, 0, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.4444444444444444
+356,894,Matthew Whitaker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+357,894,Republicans,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.07692307692307693
+358,895,Trump,"[0, -1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, -1, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.05555555555555555
+359,895,Shannon,"[1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.2777777777777778
+360,895,Senate,"[0, 0, 0, -1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.05555555555555555
+361,895,Democrats,"[1, 0, -1, 0, 0, 1, -1, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.08333333333333333
+362,921,Trump,"[0, 0, 0, 0, 0, -1]",Fox News Network LIVE EVENT,-0.16666666666666666
+363,921,Georgia,"[1, 0, 1]",Fox News Network LIVE EVENT,0.6666666666666666
+364,923,Boeing,"[0, 0, 1]",Fox News Network LIVE EVENT,0.3333333333333333
+365,923,Iran,"[0, 0, 0, -1, -1]",Fox News Network LIVE EVENT,-0.4
+366,986,Iran,"[0, -1, 0, 0, 0, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5555555555555556
+367,986,Iraq,"[0, -1, -1, 0, 0, -1, -1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.3333333333333333
+368,986,Democratic,"[0, 0, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.4
+369,986,Democrats,"[0, -1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.4
+370,986,Soleimani,"[1, 0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+371,1058,Mike,"[0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1]",Fox News Network LIVE EVENT,0.5
+372,1058,Iowa,"[0, -1, -1, -1, 0]",Fox News Network LIVE EVENT,-0.6
+373,1058,Trump,"[-1, 0, 1, -1, 0, -1]",Fox News Network LIVE EVENT,-0.3333333333333333
+374,1058,Mike Bloomberg,"[1, 1, 0, 1, 0, 1]",Fox News Network LIVE EVENT,0.6666666666666666
+375,1058,Kevin,"[0, 0, 0, 1, 1]",Fox News Network LIVE EVENT,0.4
+376,1083,Las Vegas,"[0, 0, -1, 1]",Fox News Network LIVE EVENT,0.0
+377,1090,House,"[0, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.3076923076923077
+378,1090,Adam Schiff,"[0, 0, 0, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1, -1, -1, 0, 0, 0, -1]",Fox News Network SUNDAY MORNING FUTURES,-0.42105263157894735
+379,1090,Trump,"[-1, 0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, -1, 0, 1, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.35294117647058826
+380,1090,Senate,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.23076923076923078
+381,1090,Ukraine,"[0, 0, -1, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.45454545454545453
+382,1098,Senate,"[0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.3333333333333333
+383,1099,Biden,"[1, 1, 1, 0, 1, 1, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.4444444444444444
+384,1099,Iowa,"[0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+385,1099,Bernie Sanders,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+386,1102,Senate,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+387,1102,Nancy Pelosi,"[0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.75
+388,1102,House,"[-1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.25
+389,1102,Republican,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+390,1107,Iran,"[-1, 0, 0, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1]",Fox News Network FOX HANNITY,-0.5555555555555556
+391,1107,Trump,"[1, 0, -1, 0, -1, -1, -1, 0, -1, 1, 1, 0, 0, 1, 0, 1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.15789473684210525
+392,1107,Sean,"[0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,0.058823529411764705
+393,1107,Senate,"[0, 0, -1, 0, 1, 0, 0, 1, 0, 0, -1]",Fox News Network FOX HANNITY,0.0
+394,1107,Democrats,"[-1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.9090909090909091
+395,1116,Democrats,"[-1, 0, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.6
+396,1116,House,"[-1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.6666666666666666
+397,1123,House,"[-1, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, 0, -1, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,-0.75
+398,1123,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, -1, -1, 0, -1]",Fox News Network SUNDAY MORNING FUTURES,-0.7647058823529411
+399,1123,Senate,"[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network SUNDAY MORNING FUTURES,0.2631578947368421
+400,1123,Trump,"[0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, 1, 0, 0, -1, 1, -1, -1, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.21052631578947367
+401,1123,Hunter Biden,"[-1, -1, 0, -1, -1, -1, -1, -1, 0, 0, 0, 0, -1, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.5714285714285714
+402,1174,Soleimani,"[-1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.3333333333333333
+403,1174,Neil,"[1, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.4
+404,1174,Iranians,"[-1, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.75
+405,1174,Americans,"[-1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-1.0
+406,1174,American,"[0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+407,1223,House,"[0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.25
+408,1223,Senate,"[0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+409,1223,Republican,"[0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.25
+410,1227,Iran,"[0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.8666666666666667
+411,1227,Iraq,"[0, 0, 0, -1, 0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5
+412,1227,Soleimani,"[-1, -1, 0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.8333333333333334
+413,1227,U.S.,"[0, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.2
+414,1227,Congress,"[0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.25
+415,1228,John Bolton,"[0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.3333333333333333
+416,1228,Republican,"[0, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5
+417,1254,Iranian,"[1, 1, 0, 1, 0, 0]",Fox News Network LIVE EVENT,0.5
+418,1254,Americans,"[1, 1, -1, -1, -1]",Fox News Network LIVE EVENT,-0.2
+419,1254,Stephanie,"[0, 0, 1]",Fox News Network LIVE EVENT,0.3333333333333333
+420,1254,Democrats,"[0, -1, -1, -1]",Fox News Network LIVE EVENT,-0.75
+421,1254,White House,"[0, -1, 0]",Fox News Network LIVE EVENT,-0.3333333333333333
+422,1279,Senate,"[0, -1, -1, 0, 0, 0, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 1, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.25
+423,1279,Iran,"[0, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, -1, 1, 0, 0, 0, -1, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.3157894736842105
+424,1279,Trump,"[0, 1, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,-0.05555555555555555
+425,1279,House,"[0, 0, 1, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.0625
+426,1286,Iran,"[-1, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1, -1, 0, -1, -1]",Fox News Network SUNDAY MORNING FUTURES,-0.5789473684210527
+427,1286,Trump,"[1, 0, 0, -1, 1, 0, -1, 0, 0, 1, 0, 1, -1, 1, 0, 1, 1, 1, 1]",Fox News Network SUNDAY MORNING FUTURES,0.3157894736842105
+428,1286,China,"[0, -1, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,-0.1111111111111111
+429,1286,Senate,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network SUNDAY MORNING FUTURES,0.07692307692307693
+430,1286,Maria,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0]",Fox News Network SUNDAY MORNING FUTURES,0.2
+431,1294,Iran,"[-1, -1, -1, 0, 0, -1, 0, -1, -1, 0, 0, -1, -1, 0, -1, 0, -1, 0, 0]",Fox News Network FOX NEWS SUNDAY,-0.5263157894736842
+432,1294,Trump,"[-1, 0, 0, 0, 0, -1, 0, 0, 0, -1, 1, 0, 0, 0, 0, -1, -1]",Fox News Network FOX NEWS SUNDAY,-0.23529411764705882
+433,1294,Congress,"[0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, -1]",Fox News Network FOX NEWS SUNDAY,-0.2631578947368421
+434,1294,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,-0.0625
+435,1294,Iranian,"[-1, 0, -1, -1, 1, 0, 1, 0, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, -1]",Fox News Network FOX NEWS SUNDAY,-0.47368421052631576
+436,1295,Charles,"[0, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.2
+437,1295,Peter,"[0, 1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.5
+438,1295,I`m,"[1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.6666666666666666
+439,1300,Huawei,"[0, 0, -1, 0]",Fox News Network LIVE EVENT,-0.25
+440,1300,Ross,"[0, 1, 0]",Fox News Network LIVE EVENT,0.3333333333333333
+441,1300,Hyundai,"[0, 0, 0]",Fox News Network LIVE EVENT,0.0
+442,1308,U.S.,"[0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network FOX HANNITY,-0.15789473684210525
+443,1308,Iraq,"[0, -1, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX HANNITY,-0.3684210526315789
+444,1309,Trump,"[-1, -1, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, -1, 0, 1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.2222222222222222
+445,1309,U.S.,"[0, -1, 0, -1, -1, -1, 0, 1, -1, -1, 0, -1, 1, -1, -1, 0, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.42105263157894735
+446,1309,Iraq,"[0, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.631578947368421
+447,1310,Iran,"[0, 0, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.3333333333333333
+448,1310,Iraq,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.05263157894736842
+449,1310,American,"[-1, 0, 0, -1, 0, 0, -1, 0, 1, -1, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.45
+450,1310,U.S.,"[-1, -1, -1, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.5263157894736842
+451,1310,Iranian,"[-1, -1, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.4375
+452,1311,Iran,"[-1, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.3684210526315789
+453,1311,U.S.,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.15789473684210525
+454,1311,Iraq,"[0, 0, -1, -1, 0, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.6666666666666666
+455,1311,American,"[0, 0, 0, 0, -1, -1, 0, 0, -1, 0, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.16666666666666666
+456,1311,Iranian,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 1, -1, -1, 0, 0, 0, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.05
+457,1312,Iran,"[0, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.3125
+458,1312,Trump,"[1, -1, 0, -1, 1, -1, 1, 0, 0, -1, 0, -1, -1, 1, -1, 1, 1]",Fox News Network INGRAHAM ANGLE,-0.058823529411764705
+459,1313,Iran,"[0, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.7222222222222222
+460,1313,U.S.,"[-1, -1, 0, -1, 1, -1, -1, 0, -1, -1, -1, 0, -1, 0, 0, -1, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.55
+461,1313,Iraq,"[0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.65
+462,1313,Trump,"[0, 0, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, -1, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2777777777777778
+463,1313,Iranian,"[0, 0, 0, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.5789473684210527
+464,1314,Iranian,"[-1, 0, 1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.75
+465,1314,Iran,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.9444444444444444
+466,1314,Iraq,"[0, 0, -1, 0, 0, 0, 0, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network FOX HANNITY,-0.5
+467,1314,Soleimani,"[0, 0, -1, 0, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, -1, 0]",Fox News Network FOX HANNITY,-0.5
+468,1319,Trump,"[-1, 0, 0, -1, 0, -1, -1, 0, -1, -1, 0, 1, -1, 0, -1, 0]",Fox News Network THE FIVE,-0.4375
+469,1319,Iran,"[-1, -1, -1, 0, 0, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, 0]",Fox News Network THE FIVE,-0.6470588235294118
+470,1319,Soleimani,"[-1, 0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0]",Fox News Network THE FIVE,-0.4166666666666667
+471,1319,Democrats,"[-1, -1, 1, -1, -1, 0, -1, -1, 0]",Fox News Network THE FIVE,-0.5555555555555556
+472,1319,Senate,"[0, -1, -1, 0, 0, -1]",Fox News Network THE FIVE,-0.5
+473,1401,Iran,"[-1, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, 1, -1, -1, 0]",Fox News Network WATTERS WORLD,-0.7368421052631579
+474,1401,Trump,"[-1, -1, 1, -1, -1, 0, -1, 0, 0, -1, 0, 0, 0, -1, 1, 0, -1, -1, 0]",Fox News Network WATTERS WORLD,-0.3684210526315789
+475,1401,Iraq,"[0, 0, -1, -1, -1, -1, -1, -1]",Fox News Network WATTERS WORLD,-0.75
+476,1401,Iranian,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]",Fox News Network WATTERS WORLD,-0.8333333333333334
+477,1409,Iran,"[1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.7
+478,1409,Trump,"[0, -1, 0, 0, 0, 0, -1, -1, 1, 0, 1, -1, 0, -1, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.2222222222222222
+479,1409,American,"[-1, 0, -1, 0, -1, 1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, 1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.5789473684210527
+480,1409,Democrats,"[-1, -1, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.7058823529411765
+481,1409,Laura,"[0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,0.0
+482,1426,America,"[1, -1, 0, -1, -1, 0, 0, 0, -1, -1, 1]",Fox News Network TUCKER CARLSON TONIGHT,-0.2727272727272727
+483,1426,Goldman Sachs,"[0, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.6111111111111112
+484,1426,Adam Schiff,"[-1, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.4666666666666667
+485,1426,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.0
+486,1426,Ukraine,"[0, -1, -1, 0, -1, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.4444444444444444
+487,1445,Trump,"[-1, 0, 0, 1, 0, 0, 0, -1, -1, -1, 1, -1, 1, 0, -1, -1, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.2631578947368421
+488,1445,Senate,"[-1, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, -1, 1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.17647058823529413
+489,1445,Democrats,"[-1, -1, 0, 0, -1, -1, -1, -1, 1, -1, -1, -1, 0, 1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.4666666666666667
+490,1445,Donald Trump,"[0, -1, 0, 0, 0, 1, 0, 0, 0, -1, 1, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.0
+491,1445,Tucker,"[0, -1, 0, 0, 0, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.2222222222222222
+492,1482,Trump,"[-1, 1, 0, 0, 0, -1, 1, 0, -1, 1, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.0
+493,1482,Bernie,"[-1, 0, 0, -1, 0, -1, 1, 0, -1, -1, -1, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.4375
+494,1482,American,"[-1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.18181818181818182
+495,1482,Mark,"[0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.2727272727272727
+496,1482,Elizabeth Warren,"[-1, -1, -1, 0, -1, 0, 0, 0, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5454545454545454
+497,1525,Trump,"[-1, -1, 0, -1, 0, -1, 0, 0, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network MEDIA BUZZ,-0.5
+498,1525,CNN,"[-1, -1, -1, 1, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1]",Fox News Network MEDIA BUZZ,-0.6666666666666666
+499,1525,Parnas,"[-1, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0]",Fox News Network MEDIA BUZZ,-0.3333333333333333
+500,1525,Lev Parnas,"[-1, -1, -1, -1, -1, 0, 0, 0, 0, 0]",Fox News Network MEDIA BUZZ,-0.5
+501,1525,Warren,"[0, 0, -1, -1, -1, 0, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1]",Fox News Network MEDIA BUZZ,-0.5
+502,1530,Trump,"[-1, 0, -1, 0, 1, 0, 1, 0, -1, 0, -1, 0, 0, 0, -1, 0, 1, 1, -1]",Fox News Network THE GREG GUTFELD SHOW,-0.10526315789473684
+503,1530,Iran,"[-1, -1, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,-0.4166666666666667
+504,1530,Pete,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,-0.1
+505,1531,Iran,"[-1, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.8125
+506,1531,U.S.,"[-1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 1, -1, 1, 0, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.10526315789473684
+507,1531,Trump,"[0, 0, 1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.07142857142857142
+508,1531,Democrats,"[-1, 0, -1, 0, 1, -1, 0, 0, 0, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.46153846153846156
+509,1531,Senate,"[0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.14285714285714285
+510,1536,Republicans,"[-1, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.2727272727272727
+511,1536,Congress,"[0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.13333333333333333
+512,1536,Ohio,"[0, 0, 0, 0, 0, 0, -1, 1, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.3333333333333333
+513,1536,Neil,"[1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.26666666666666666
+514,1536,Democrats,"[0, 0, 0, 0, 0, 0, 0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.3
+515,1564,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.05
+516,1564,House,"[0, 0, 0, 0, 0, -1, -1, 0, -1, 0, -1, -1, 0, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.375
+517,1564,Democrats,"[0, 0, -1, 1, -1, -1, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.4
+518,1564,Senate,"[-1, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.25
+519,1564,Jesus,"[0, 1, 1, 1, 1, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.7142857142857143
+520,1565,Trump,"[-1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.7647058823529411
+521,1565,Democrats,"[0, -1, -1, 0, -1, 0, 1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.65
+522,1565,CNN,"[-1, -1, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.3
+523,1565,Senate,"[0, 0, -1, 0, 0, 0, 0, -1, 1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.08333333333333333
+524,1565,Lev Parnas,"[-1, 0, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.5384615384615384
+525,1597,Trump,"[1, 1, 0, -1, -1, 0, 1, 0, 0, -1, 1, 0, 0, -1, -1, 0]",Fox News Network THE NEXT REVOLUTION,-0.0625
+526,1597,Iran,"[1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0]",Fox News Network THE NEXT REVOLUTION,-0.1111111111111111
+527,1597,American,"[-1, -1, 1, 0, -1, 0, -1, -1, 0, -1, 1, -1, 0, 0]",Fox News Network THE NEXT REVOLUTION,-0.35714285714285715
+528,1597,China,"[0, -1, 1, -1, 0, 0, 0, 0, -1]",Fox News Network THE NEXT REVOLUTION,-0.2222222222222222
+529,1597,Democrats,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,-0.9090909090909091
+530,1599,Democrats,"[-1, -1, 0, -1, -1, -1, 0, -1, -1, 1, 0, -1, -1, -1, 0, -1, 1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.5789473684210527
+531,1599,Trump,"[0, -1, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.25
+532,1599,Senate,"[0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.46153846153846156
+533,1599,Obama,"[-1, -1, 0, 0, 0, -1, 0, -1, 0, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.6153846153846154
+534,1599,Iran,"[0, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.7058823529411765
+535,1611,the United States,"[0, -1, 0, 0, 0, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,-0.14285714285714285
+536,1611,Biden,"[0, 0, 0, -1, 0, -1, -1, 0, 0, -1, 0, -1, -1, 0, -1, 0, 0, -1, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,-0.4
+537,1611,Senate,"[0, 0, 0, 0, -1, 0, -1, 0, 0, 0, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.2727272727272727
+538,1611,Mark,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,0.0
+539,1611,Elizabeth Warren,"[0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,-0.18181818181818182
+540,1612,Kobe Bryant,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,-1.0
+541,1612,Young Daughter,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE NEXT REVOLUTION,0.0
+542,1612,Trump,"[0, -1, 1, 0, 0, -1, 0, -1, 1, 1, 1, -1, 0, -1, -1, 1, 0]",Fox News Network THE NEXT REVOLUTION,-0.058823529411764705
+543,1612,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0]",Fox News Network THE NEXT REVOLUTION,-0.8823529411764706
+544,1612,NBA Legend,"[-1, 0, 0, -1, 0, 0, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network THE NEXT REVOLUTION,-0.35294117647058826
+545,1617,Ukraine,"[0, 1, 0, -1, -1, 1, -1, -1, 0, 1, -1, -1, -1, 1, -1, 1, 0, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.15789473684210525
+546,1617,Giuliani,"[0, 0, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, -1, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5789473684210527
+547,1617,Trump,"[-1, 0, -1, -1, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1, 0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.47368421052631576
+548,1617,Yovanovitch,"[-1, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, 1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.6
+549,1617,Russia,"[-1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.75
+550,1628,Trump,"[-1, 0, 1, 1, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.23529411764705882
+551,1628,Rudy,"[0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.21428571428571427
+552,1628,Senate,"[0, -1, -1, -1, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.5
+553,1628,Democrats,"[-1, 0, 0, 0, -1, -1, -1, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.5555555555555556
+554,1628,House,"[-1, -1, 0, -1, 0, 0, 0, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.5555555555555556
+555,1638,Trump,"[0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1, 0, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.3888888888888889
+556,1638,Iowa,"[0, -1, -1, 0, 0, -1, 1, 1, 1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.16666666666666666
+557,1638,Senate,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.1
+558,1638,Parnas,"[0, 0, -1, 0, 0, 1, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.1
+559,1638,Shannon,"[0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+560,1644,Senate,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.08333333333333333
+561,1644,Ukraine,"[0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.7777777777777778
+562,1644,Parnas,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.15789473684210525
+563,1644,Neil,"[0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+564,1644,Trump,"[0, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.6363636363636364
+565,1703,Neil,"[0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.35294117647058826
+566,1703,Iowa,"[0, 0, 0, 1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.14285714285714285
+567,1703,Trump,"[-1, -1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.2857142857142857
+568,1703,Bloomberg,"[0, -1, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+569,1703,Obama,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.13333333333333333
+570,1715,FISA,"[0, -1, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network FOX HANNITY,-0.35294117647058826
+571,1715,Trump,"[-1, 1, 0, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 0, -1, -1, 1, 1]",Fox News Network FOX HANNITY,-0.05263157894736842
+572,1715,House,"[0, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1, 0, -1, 0]",Fox News Network FOX HANNITY,-0.4375
+573,1715,Americans,"[-1, -1, -1, -1, 0, -1, 0, -1, -1, 1, 1, 1, 1, 1, 1, 1, 0, 0]",Fox News Network FOX HANNITY,0.0
+574,1716,Senate,"[0, -1, 0, 0, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX HANNITY,-0.3
+575,1716,Iran,"[0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0]",Fox News Network FOX HANNITY,-0.5
+576,1716,Democrats,"[-1, -1, -1, 1, -1, -1, 0, -1, -1, 0, -1]",Fox News Network FOX HANNITY,-0.6363636363636364
+577,1716,Sean,"[-1, 0, 0, 1, 0, 0, 0, -1, 0, -1]",Fox News Network FOX HANNITY,-0.2
+578,1716,Trump,"[0, 0, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX HANNITY,-0.1111111111111111
+579,1717,Trump,"[-1, 0, 0, -1, 0, -1, 0, 0, 1, 1, -1, -1, 1, 0, 0, 0, 0, -1, 1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.15
+580,1717,Iran,"[-1, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, 0, 0, 0, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.6
+581,1717,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.05555555555555555
+582,1717,Democrats,"[0, -1, -1, 0, 1, 0, 0, 0, 1, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.1
+583,1717,Wisconsin,"[-1, 0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.3333333333333333
+584,1798,Iran,"[0, 1, 0, 0, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE FIVE,-0.5
+585,1798,Trump,"[-1, -1, -1, -1, -1, 0, 0, 0, 0, 1, -1, 0, 0, 0, -1, -1]",Fox News Network THE FIVE,-0.4375
+586,1798,Obama,"[0, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE FIVE,-0.5833333333333334
+587,1798,Brian,"[1, 0, 0, 0, 0, -1, 0, 0, 0, 1, 1, 1]",Fox News Network THE FIVE,0.25
+588,1859,Ukraine,"[1, 0, 1, -1, 0, 0, 1, 1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.08333333333333333
+589,1859,Democratic,"[0, 0, 0, -1, -1, -1, 1, -1, 1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.18181818181818182
+590,1859,Heartland,"[1, 1, 0, 1, 0, 0, 1, 1, 1, -1, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,0.5
+591,1859,Senate,"[0, 0, 0, -1, -1, 0, 0, 1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.1
+592,1859,Tucker,"[0, 1, 0, 1, 0, 0, 1, 0, 0, 1]",Fox News Network TUCKER CARLSON TONIGHT,0.4
+593,1871,Iran,"[0, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.5789473684210527
+594,1871,Soleimani,"[-1, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.7647058823529411
+595,1871,Congress,"[1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,0.0
+596,1881,Trump,"[0, 0, 1, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, -1, 0, 0, 0, 0, 0]",Fox News Network WATTERS WORLD,0.05263157894736842
+597,1881,Democrats,"[-1, -1, -1, -1, -1, -1, -1, 0, 1, 0, -1, -1, -1, 0, 0]",Fox News Network WATTERS WORLD,-0.6
+598,1881,Biden,"[-1, 0, 0, -1, -1, -1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network WATTERS WORLD,-0.1875
+599,1881,Bernie,"[0, 0, 0, 1, 0, 1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network WATTERS WORLD,-0.4375
+600,1881,Donald Trump,"[0, 1, 0, 1, 1, -1, -1, 1]",Fox News Network WATTERS WORLD,0.25
+601,1883,Trump,"[-1, 1, -1, 1, 0, -1, -1, 0, -1, 0, 0, 0, -1, 0, -1, 0]",Fox News Network THE FIVE,-0.3125
+602,1883,Juan,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network THE FIVE,-0.08333333333333333
+603,1883,Democrats,"[-1, 0, -1, 0, 0, -1, 0, 0, 0, -1, 0]",Fox News Network THE FIVE,-0.36363636363636365
+604,1883,Jesse,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE FIVE,0.09090909090909091
+605,1883,Martha,"[0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE FIVE,-0.1111111111111111
+606,1897,Trump,"[0, -1, 0, 1, 0, 0, 0, -1, -1, 0, -1, 0, 1, -1, 0, -1, -1, 0, 1]",Fox News Network FOX HANNITY,-0.21052631578947367
+607,1897,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0]",Fox News Network FOX HANNITY,-0.8571428571428571
+608,1897,House,"[0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network FOX HANNITY,-0.18181818181818182
+609,1906,Trump,"[-1, 0, -1, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.5
+610,1906,Chinese,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-1.0
+611,1906,America,"[0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.25
+612,1906,Donald Trump,"[-1, -1, 0, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.8333333333333334
+613,1906,Buttigieg,"[0, -1, -1, 0, 0, -1, -1, -1, 0, -1, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.6153846153846154
+614,1919,American,"[1, 1, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1]",Fox News Network THE FIVE,-0.55
+615,1919,Trump,"[-1, -1, -1, -1, -1, 1, 1, 0, 1, 0, 0, 1, 1]",Fox News Network THE FIVE,0.0
+616,1919,Iran,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,-0.5625
+617,1919,Martha,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.09090909090909091
+618,1959,Iran,"[-1, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network THE GREG GUTFELD SHOW,-0.6
+619,1959,Jim,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,0.0
+620,1959,New York,"[-1, -1, 0, 0, 0, -1, -1, -1, -1]",Fox News Network THE GREG GUTFELD SHOW,-0.6666666666666666
+621,1959,CNN,"[-1, 0, 0, -1, -1, -1, -1]",Fox News Network THE GREG GUTFELD SHOW,-0.7142857142857143
+622,1982,Neil,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.3
+623,1982,Republicans,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.1111111111111111
+624,1982,John Bolton,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.05
+625,1982,House,"[0, 0, -1, 0, 0, -1, -1, 0, -1, 1, 0, -1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.3333333333333333
+626,1982,Republican,"[-1, 0, -1, 0, 0, 0, -1, -1, 0, -1, 0, -1, 0, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5294117647058824
+627,1983,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+628,1983,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+629,1983,Apple,"[0, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.375
+630,1983,House,"[0, 0, -1, 0, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.35714285714285715
+631,1983,Democrats,"[0, 0, -1, -1, 0, 0, -1, -1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.45454545454545453
+632,1996,Ukraine,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.19047619047619047
+633,1996,John Bolton,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.05263157894736842
+634,1996,Trump,"[0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.15
+635,1996,House,"[0, 0, 0, 0, 1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+636,1996,Chief Justice,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.15789473684210525
+637,2001,Democrats,"[-1, -1, -1, -1, 0, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, -1, -1, -1]",Fox News Network THE FIVE,-0.6111111111111112
+638,2001,Trump,"[0, 1, -1, 0, -1, -1, 1, -1, 1, 1, 0, -1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network THE FIVE,-0.3684210526315789
+639,2001,Bolton,"[-1, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1]",Fox News Network THE FIVE,-0.4375
+640,2001,Donald Trump,"[-1, 1, -1, -1, 0, 0, 1, 0, -1]",Fox News Network THE FIVE,-0.2222222222222222
+641,2001,China,"[0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network THE FIVE,-0.8333333333333334
+642,2009,Soleimani,"[0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1]",Fox News Network FOX HANNITY,-0.7333333333333333
+643,2017,Iran,"[-1, -1, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, -1, 1, 0, -1, -1, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.35
+644,2017,Neil,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+645,2017,Baghdad,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.23529411764705882
+646,2017,Democrats,"[-1, 0, 0, -1, -1, 0, 0, -1, -1, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5
+647,2017,Iranian,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.8947368421052632
+648,2025,American,"[1, 0, 0, 1, 1, -1, 1, 1, 0, 1, 0, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.2857142857142857
+649,2025,House,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.08333333333333333
+650,2025,Iranian,"[1, -1, 0, 0, 0, -1, 1, 0, -1, 1, 1, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.07142857142857142
+651,2025,Nancy Pelosi,"[0, 0, 0, 0, -1, -1, -1, 0, -1, 1, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.16666666666666666
+652,2025,Karl,"[0, 1, 0, 0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.25
+653,2043,Trump,"[-1, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0]",Fox News Network THE FIVE,-0.6428571428571429
+654,2043,the State Department,"[-1, -1, 0, -1, -1, -1, 0, 0, -1, 0, -1, -1, 0, -1, 0, 0, 0, -1, -1, 0]",Fox News Network THE FIVE,-0.55
+655,2043,Ukraine,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, 0, 0, 0, -1]",Fox News Network THE FIVE,-0.6842105263157895
+656,2043,House,"[-1, 0, 0, 0, 1, 0, 0]",Fox News Network THE FIVE,0.0
+657,2043,Democrats,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.08333333333333333
+658,2044,Trump,"[-1, -1, 1, 1, -1, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE FIVE,0.0
+659,2044,John Roberts,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,0.0
+660,2044,James Bond,"[0, 0, 0, 1, 0, 0, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,0.0
+661,2044,Juan,"[0, -1, -1, 0, 0, 0, 0, 1, -1, -1, 0]",Fox News Network THE FIVE,-0.2727272727272727
+662,2055,U.S.,"[-1, 0, 1, 0, 0, 0, 1, 0, -1, 0, -1, 0, 0, 1, 0, 0, 0, 1, 0, 1]",Fox News Network FOX NEWS @ NIGHT,0.1
+663,2055,Shannon,"[0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1]",Fox News Network FOX NEWS @ NIGHT,0.3
+664,2055,American,"[-1, -1, -1, 0, -1, -1, 0, -1, 1, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.21052631578947367
+665,2055,Senate,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.14285714285714285
+666,2059,Senate,"[0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.17647058823529413
+667,2059,Democrats,"[-1, 0, -1, -1, -1, 1, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.6470588235294118
+668,2059,House,"[-1, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, -1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.4375
+669,2059,Republicans,"[0, -1, 0, 0, 0, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.5555555555555556
+670,2059,Trump,"[-1, -1, 0, 0, 0, -1, 0, 0, 0, -1, 0, -1, -1, 0, 0, -1, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.4
+671,2071,House,"[0, -1, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,-0.5555555555555556
+672,2071,Democrats,"[-1, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network LIFE LIBERTY LEVIN,-0.7142857142857143
+673,2071,American,"[0, 0, -1, 0, -1, -1, -1, 1, 0, 1, -1, 0, 0, -1, 1, 1, 1]",Fox News Network LIFE LIBERTY LEVIN,-0.058823529411764705
+674,2071,Senate,"[0, 0, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.3076923076923077
+675,2071,Adam Schiff,"[-1, -1, -1, -1, -1, 0, -1, 0, 0, 0, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.6923076923076923
+676,2074,Iran,"[-1, 0, -1, -1, -1, 0, -1, 0, 0, 0, 0, -1, -1, 0, -1, -1, -1, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.6
+677,2074,Trump,"[-1, -1, 0, -1, -1, 0, -1, 0, -1, -1, 1, -1, 0, -1, -1, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.5789473684210527
+678,2074,Ed,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.07142857142857142
+679,2074,New Year,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.0
+680,2074,Obama,"[0, 0, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.6428571428571429
+681,2079,Iran,"[0, 0, 0, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.47058823529411764
+682,2079,U.S.,"[0, 1, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.1875
+683,2079,American,"[0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.65
+684,2079,Senate,"[0, 0, -1, -1, 0, -1, -1, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.45454545454545453
+685,2096,Trump,"[0, -1, 1, -1, 0, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.47058823529411764
+686,2096,Democrats,"[0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.18181818181818182
+687,2096,Shannon,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+688,2096,House,"[-1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+689,2096,Ukraine,"[-1, 0, 0, -1, 0, 0, -1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.4
+690,2097,U.S.,"[0, 1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.10526315789473684
+691,2097,Iran,"[-1, -1, -1, 0, -1, -1, 0, 0, -1, -1, 0, 1, 0, 0, -1, -1, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.6
+692,2097,Iranian,"[-1, 1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.75
+693,2103,Trump,"[-1, 1, 1, -1, 0, -1, 0, 0, 1, -1, -1, -1, 0, 0, 0, 1, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,-0.2631578947368421
+694,2103,Iran,"[-1, 0, 0, 0, -1, 0, -1, 0, 0, 0, -1, -1, -1, 0, 0, -1, -1]",Fox News Network THE NEXT REVOLUTION,-0.47058823529411764
+695,2103,America,"[0, 0, 1, 0, -1, -1, 1, 0, -1, -1, -1]",Fox News Network THE NEXT REVOLUTION,-0.2727272727272727
+696,2103,the Middle East,"[-1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 1, 0, 0, 1, 0]",Fox News Network THE NEXT REVOLUTION,-0.4666666666666667
+697,2103,Democrats,"[-1, -1, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1, 0]",Fox News Network THE NEXT REVOLUTION,-0.625
+698,2128,Trump,"[0, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, 0, 0]",Fox News Network THE FIVE,-0.5
+699,2128,Hollywood,"[-1, -1, 0, -1, -1, 0, 0, -1]",Fox News Network THE FIVE,-0.625
+700,2128,Iran,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE FIVE,-0.9285714285714286
+701,2128,Biden,"[-1, -1, -1, -1, 0, -1, 0, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,-0.5
+702,2148,Senate,"[-1, 0, 0, 0, 0, -1, -1, 0, -1, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.4
+703,2148,Iran,"[0, -1, 0, -1, 0, 0, -1, 0, 0, 1, 0, 0, 0, 0, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.1875
+704,2148,Democrats,"[-1, -1, 0, -1, 0, 0, 0, 0, 1, 1]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.1
+705,2148,House,"[-1, -1, 0, 0, 0, 0, -1, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.4444444444444444
+706,2159,Trump,"[0, 1, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1, 1]",Fox News Network FOX HANNITY,-0.2
+707,2159,Russia,"[-1, 0, -1, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.7272727272727273
+708,2159,Democrats,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.9375
+709,2159,Russian,"[-1, -1, 0, -1, 0, -1, 0, -1, -1, 0, -1, 0]",Fox News Network FOX HANNITY,-0.5833333333333334
+710,2159,Senate,"[0, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1, 1]",Fox News Network FOX HANNITY,-0.4166666666666667
+711,2160,Senate,"[0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,-0.0625
+712,2160,Trump,"[0, 0, 1, 1, -1, 0, 1, 0, 0, -1, 0, 1, -1, -1, -1, -1, -1, -1, 1, -1]",Fox News Network FOX HANNITY,-0.2
+713,2160,House,"[-1, -1, 0, -1, -1, 0, -1, 0, -1, 0, 0, 0, 0, -1, -1, 0, 0, -1, 0]",Fox News Network FOX HANNITY,-0.47368421052631576
+714,2160,Democrats,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-1.0
+715,2160,Miami,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX HANNITY,0.07692307692307693
+716,2171,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, -1, 0, 0, -1]",Fox News Network THE FIVE,-0.13333333333333333
+717,2171,Iowa,"[0, 0, -1, 0, 0, 0, 1, -1, 0, 0]",Fox News Network THE FIVE,-0.1
+718,2171,Democrats,"[0, 0, 0, -1, -1, 0, -1, 0, -1, 0, -1]",Fox News Network THE FIVE,-0.45454545454545453
+719,2171,Juan,"[0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.125
+720,2171,Republicans,"[1, -1, 0, -1, -1, -1, 0, 0, -1, 0]",Fox News Network THE FIVE,-0.4
+721,2184,Trump,"[-1, -1, 1, -1, -1, -1, 0, 1, 0, 0, 0, -1, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.3076923076923077
+722,2184,Senate,"[0, 1, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.08333333333333333
+723,2184,Ukraine,"[0, -1, 1, -1, 0, -1, -1, 0, -1, -1, -1, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.5384615384615384
+724,2184,House,"[0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.13333333333333333
+725,2184,Democrats,"[-1, -1, -1, -1, -1, 0, -1]",Fox News Network JUSTICE WITH JUDGE PIRRO,-0.8571428571428571
+726,2185,Trump,"[1, 0, -1, 0, -1, 0, 0, -1, -1, 1, -1, 0, -1, 0, 0, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.3333333333333333
+727,2185,Bolton,"[-1, 0, 0, 1, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.1875
+728,2185,Democrats,"[-1, -1, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.4375
+729,2185,House,"[1, -1, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.3333333333333333
+730,2185,Senate,"[0, 0, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.2
+731,2186,Iran,"[-1, 1, -1, 0, 1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.5789473684210527
+732,2186,Soleimani,"[-1, -1, -1, 0, -1, -1, -1, 1, 0, -1, 0, 0, 0, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.5294117647058824
+733,2186,Trump,"[0, -1, -1, -1, -1, 1, -1, 0, 0, 0, -1, -1, -1, 0, 0, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.35294117647058826
+734,2186,U.S.,"[0, -1, -1, -1, 0, -1, -1, 0, 0, 0, 0, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.5
+735,2186,Iranians,"[0, -1, -1, -1, -1, -1, 1, -1, 1, 0, -1, -1, -1, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.4
+736,2189,Iran,"[-1, 0, -1, -1, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.65
+737,2189,U.S.,"[0, 0, 0, 1, 0, 0, -1, -1, 0, 0, 0, 0, 1, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+738,2189,Iraq,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.21052631578947367
+739,2189,Iranian,"[-1, -1, -1, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.4444444444444444
+740,2189,American,"[0, -1, 1, -1, -1, 1, 1, 0, -1, 1, 1, 1, 1, 1, 1]",Fox News Network FOX NEWS @ NIGHT,0.3333333333333333
+741,2194,Senate,"[0, 0, -1, 0, 0, -1, 0, 0, -1, 0, -1, 1, 0, 1, 0, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.15789473684210525
+742,2194,Shannon,"[1, 1, 0, 1, 1, 1, 0, -1, 1, 1, 1, 0, 0, 0, 1]",Fox News Network FOX NEWS @ NIGHT,0.5333333333333333
+743,2194,Democrats,"[0, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, 0, 0, 0, 1, 1, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.45
+744,2194,House,"[0, -1, -1, 0, -1, 0, 0, -1, 0, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.5
+745,2194,Sanders,"[-1, 0, -1, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0, 1, 1]",Fox News Network FOX NEWS @ NIGHT,-0.26666666666666666
+746,2195,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+747,2195,Bolton,"[0, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.3888888888888889
+748,2195,Trump,"[1, 0, -1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.058823529411764705
+749,2195,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+750,2195,Democrats,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 1]",Fox News Network FOX NEWS @ NIGHT,-0.7272727272727273
+751,2230,Iran,"[-1, 0, -1, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.5555555555555556
+752,2230,Trump,"[1, 0, -1, 0, 1, -1, 0, 0, -1, -1, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.2
+753,2230,U.S.,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.15
+754,2230,Iraq,"[0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.2857142857142857
+755,2230,Shannon,"[0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.2777777777777778
+756,2238,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.05263157894736842
+757,2238,Democrats,"[0, 0, 0, 0, 1, 0, -1, -1, -1, 1, 0, 0, 0, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.11764705882352941
+758,2238,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.16666666666666666
+759,2238,Trump,"[0, 0, 0, 0, 1, -1, 0, 0, -1, 0, 0, 1]",Fox News Network FOX NEWS @ NIGHT,0.0
+760,2238,Elizabeth Warren,"[0, 0, -1, -1, 0, 1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.14285714285714285
+761,2244,Senate,"[0, 0, 0, -1, -1, -1, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.4
+762,2244,Trump,"[1, -1, -1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, -1]",Fox News Network FOX NEWS @ NIGHT,0.25
+763,2244,Democrats,"[0, 0, -1, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.5384615384615384
+764,2244,Republicans,"[0, -1, -1, -1, -1, 0, -1, 0, 1, 1, 1, 1]",Fox News Network FOX NEWS @ NIGHT,-0.08333333333333333
+765,2244,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+766,2245,Democrats,"[-1, 0, -1, 0, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.5
+767,2245,Trump,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.23076923076923078
+768,2245,House,"[0, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.21428571428571427
+769,2245,Shannon,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]",Fox News Network FOX NEWS @ NIGHT,0.18181818181818182
+770,2245,American,"[1, -1, -1, 1, 0, 1, 1, 0, -1, 0, 0, 1]",Fox News Network FOX NEWS @ NIGHT,0.16666666666666666
+771,2248,Iran,"[0, 0, -1, 1, -1, -1, 0, 0, -1, -1, 0, -1, 0, 1, 0, -1, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.3
+772,2248,Trump,"[0, 0, 0, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1, -1, 1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.5
+773,2248,Shannon,"[1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0]",Fox News Network FOX NEWS @ NIGHT,0.35
+774,2248,Congress,"[0, -1, 0, 0, 0, -1, 0, 0, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.36363636363636365
+775,2248,Democrats,"[-1, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.35714285714285715
+776,2263,Democrats,"[-1, -1, -1, 0, 0, -1, 0, -1, 1, -1, -1, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.5333333333333333
+777,2263,Joe Biden,"[0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.7142857142857143
+778,2263,Senate,"[0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.1111111111111111
+779,2263,Trump,"[0, 0, 0, 0, 0, -1, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2222222222222222
+780,2263,Republican,"[-1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.15789473684210525
+781,2269,Trump,"[-1, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.47058823529411764
+782,2269,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+783,2269,Democrats,"[-1, -1, 0, -1, -1, -1, 0, 0, -1, -1, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.6666666666666666
+784,2269,Senate,"[1, -1, 0, -1, -1, -1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.4444444444444444
+785,2269,Democratic,"[0, 0, -1, -1, -1, -1, -1, -1, -1, 0, 1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.5833333333333334
+786,2271,Senate,"[0, -1, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.3333333333333333
+787,2271,Democrats,"[-1, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.3
+788,2271,Shannon,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS @ NIGHT,0.0
+789,2271,Trump,"[-1, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.5294117647058824
+790,2271,House,"[1, -1, -1, 1, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0, 0, -1]",Fox News Network FOX NEWS @ NIGHT,-0.25
+791,2273,Iran,"[0, 1, 0, 0, -1, 0, -1, -1, 0, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.4166666666666667
+792,2273,Trump,"[0, -1, 1, -1, 1, 1, 0, -1, 0, -1, 0, 0, -1, -1, -1, 0, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.3333333333333333
+793,2273,Senate,"[1, -1, -1, -1, 0, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0, 1, -1, 1]",Fox News Network FOX NEWS @ NIGHT,-0.2777777777777778
+794,2273,Shannon,"[0, 0, 1, 1, 0, 0, 1, 1, 1, -1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0]",Fox News Network FOX NEWS @ NIGHT,0.45
+795,2273,Obama,"[-1, -1, 0, 0, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1]",Fox News Network FOX NEWS @ NIGHT,-0.5555555555555556
+796,2283,Iran,"[0, 0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2222222222222222
+797,2283,U.S.,"[-1, 0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2777777777777778
+798,2283,American,"[-1, 0, -1, 1, -1, 0, 0, 1, 0, 0, -1, 0, 0, -1, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2777777777777778
+799,2283,Iraq,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, 1, 1, -1, 0, -1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.5625
+800,2283,House,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.07692307692307693
+801,2293,Iran,"[0, -1, -1, 0, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.4
+802,2293,China,"[-1, 0, 0, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, 1, -1, 1, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.3684210526315789
+803,2293,the United States,"[0, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, 1, 1, 0, -1, 0, 0, -1]",Fox News Network LIFE LIBERTY LEVIN,-0.3684210526315789
+804,2293,Senate,"[0, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network LIFE LIBERTY LEVIN,-0.17647058823529413
+805,2293,Mark,"[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1]",Fox News Network LIFE LIBERTY LEVIN,0.125
+806,2302,House,"[0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.3333333333333333
+807,2302,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.17647058823529413
+808,2302,Chief Justice,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.125
+809,2302,Trump,"[-1, 0, -1, -1, -1, -1, -1, 0, 0, 0, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.6153846153846154
+810,2302,Ukraine,"[0, -1, 0, 0, -1, -1, 0, 0, 0, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.4166666666666667
+811,2303,House,"[-1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.8125
+812,2303,Senate,"[0, -1, 0, 0, -1, 0, 0, -1, 1, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.17647058823529413
+813,2303,Ukraine,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+814,2303,White House,"[0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 0, -1, -1, -1, 0, 0, 0, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.391304347826087
+815,2303,the White House,"[0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.15384615384615385
+816,2306,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, -1, 1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.1111111111111111
+817,2306,Trump,"[0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.1875
+818,2306,Republicans,"[0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2
+819,2306,Republican,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 1, -1, -1, 0, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.15789473684210525
+820,2306,Bidens,"[-1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.7142857142857143
+821,2307,Democrats,"[-1, -1, 0, 0, -1, 0, -1, 0, -1, 0, 0, -1, -1, -1, 0, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.631578947368421
+822,2307,Trump,"[0, -1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.21428571428571427
+823,2307,John Bolton,"[-1, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.0
+824,2307,Republicans,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2
+825,2307,Martha,"[-1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-1.0
+826,2312,Trump,"[-1, -1, -1, -1, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2631578947368421
+827,2312,House,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.15384615384615385
+828,2312,Ukraine,"[0, 0, 0, 0, 0, 0, 0, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.0
+829,2312,Lev Parnas,"[0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2727272727272727
+830,2312,Democrats,"[-1, 0, 0, 1, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2857142857142857
+831,2325,Ukraine,"[0, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, 1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.5714285714285714
+832,2325,John Bolton,"[-1, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.15
+833,2325,Trump,"[0, 0, 0, 0, -1, 0, 0, 0, -1, -1, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.35714285714285715
+834,2325,House,"[-1, 0, -1, -1, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.625
+835,2325,Hunter Biden,"[-1, -1, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.38461538461538464
+836,2326,Iowa,"[0, 0, 0, 0, 0, 1, 1, 0, 0, -1, 1, 0, 0, 1, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.23529411764705882
+837,2326,Trump,"[1, 1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.058823529411764705
+838,2326,Senate,"[0, 0, 1, 0, -1, 1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2222222222222222
+839,2326,Bret,"[0, 1, 0, 0, 0, 0, 1, 0, -1, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.2
+840,2326,Mike,"[0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, -1, 0, 1, 1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.125
+841,2327,House,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.0
+842,2327,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.07142857142857142
+843,2327,Chief Justice,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.0
+844,2327,U.S.,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.1
+845,2327,Trump,"[-1, -1, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.38461538461538464
+846,2328,Bolton,"[0, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.1875
+847,2328,Senate,"[-1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2777777777777778
+848,2328,Chief Justice,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.0
+849,2328,House,"[0, -1, 0, 0, -1, 0, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.4
+850,2328,Trump,"[-1, 0, -1, -1, -1, -1, 1, 0, -1, 1, 1, 1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.14285714285714285
+851,2362,Trump,"[0, -1, -1, -1, 1, 0, 0, 0, -1, -1, 0, -1, -1, -1, 0, 1, -1, -1, 0]",Fox News Network THE FIVE,-0.42105263157894735
+852,2362,Juan,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.07692307692307693
+853,2362,China,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE FIVE,-0.9230769230769231
+854,2362,Katie,"[-1, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.16666666666666666
+855,2374,Iran,"[0, 0, 0, 0, -1, -1, -1, 0, 0, 1, -1, -1, 0, 0, 0, 0, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.3157894736842105
+856,2374,Trump,"[-1, 0, -1, -1, -1, -1, 0, 0, -1, 0, 0, -1, -1, 1, 1, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.4444444444444444
+857,2374,American,"[-1, -1, 0, -1, -1, -1, -1, 1, 0, 0, 0, -1, -1, 0, -1, -1, 0, 1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.47368421052631576
+858,2374,Obama,"[-1, 0, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.7777777777777778
+859,2374,Iraq,"[0, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.6875
+860,2400,Ukraine,"[0, 0, 0, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network MEDIA BUZZ,-0.4666666666666667
+861,2400,Trump,"[0, 0, -1, 0, 0, -1, -1, -1, -1, 0, -1, 0]",Fox News Network MEDIA BUZZ,-0.5
+862,2400,Fox,"[-1, 0, -1, 0, 1, 0, -1, 0, 1, 0, 0, 0]",Fox News Network MEDIA BUZZ,-0.08333333333333333
+863,2400,Senate,"[-1, -1, 0, -1, -1, 0]",Fox News Network MEDIA BUZZ,-0.6666666666666666
+864,2400,House,"[-1, -1, -1, 0, 0, 0, 0, 0]",Fox News Network MEDIA BUZZ,-0.375
+865,2406,Iran,"[-1, -1, 0, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, 0, 0, -1, -1, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.65
+866,2406,U.S.,"[0, 0, 1, -1, 0, 0, 0, -1, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, 0, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.25
+867,2406,Iraq,"[-1, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.19047619047619047
+868,2406,Neil,"[0, 0, 0, 0, 0, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.0
+869,2406,Soleimani,"[-1, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0, -1, 0, -1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.5263157894736842
+870,2434,Virginia,"[0, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.6
+871,2434,Bernie,"[-1, -1, -1, -1, 0, 1, 0, 0, -1, -1, -1, -1, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.5333333333333333
+872,2434,Democrats,"[-1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-1.0
+873,2434,Senate,"[0, 0, 0, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.16666666666666666
+874,2451,Trump,"[0, -1, -1, -1, 0, -1, -1, 0, 1, 0, -1, -1, -1, 0, 1, 0, 0, -1]",Fox News Network THE FIVE,-0.3888888888888889
+875,2451,Bernie,"[0, 1, 0, -1, -1, -1, -1, 1, 0, 0, -1]",Fox News Network THE FIVE,-0.2727272727272727
+876,2451,Dem,"[-1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE FIVE,-0.06666666666666667
+877,2451,Democrats,"[-1, 0, 0, 0, 0, 1, 0]",Fox News Network THE FIVE,0.0
+878,2451,Senate,"[0, 0, 0, -1, 0]",Fox News Network THE FIVE,-0.2
+879,2457,Trump,"[1, 1, 1, 0, 0, -1, 0, -1, 0, -1, 0, 0, -1, -1, 0, 0]",Fox News Network THE FIVE,-0.125
+880,2457,Juan,"[0, 1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Fox News Network THE FIVE,0.0625
+881,2457,CNN,"[-1, 0, -1, -1, -1, 0, 0, 0, -1, 0, 0, -1]",Fox News Network THE FIVE,-0.5
+882,2457,James Comey,"[0, -1, -1, 0, -1, -1, 0, -1, -1, -1]",Fox News Network THE FIVE,-0.7
+883,2457,Dana,"[0, 0, 0, 0, 0, 0, -1, 0, 0]",Fox News Network THE FIVE,-0.1111111111111111
+884,2469,Senate,"[0, 0, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.25
+885,2469,Democrats,"[-1, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1, 0]",Fox News Network THE FIVE,-0.5
+886,2469,Republican,"[-1, 0, -1, -1, -1, -1, -1, 0, 0, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network THE FIVE,-0.7142857142857143
+887,2469,Mitch McConnell,"[0, 0, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE FIVE,-0.23529411764705882
+888,2470,Democrats,"[-1, -1, 0, 0, -1, 0, -1, -1, -1, -1, 0, -1]",Fox News Network THE FIVE,-0.6666666666666666
+889,2470,Jesse,"[0, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.14285714285714285
+890,2470,Juan,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network THE FIVE,0.07692307692307693
+891,2470,Republicans,"[0, -1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network THE FIVE,-0.2222222222222222
+892,2470,Trump,"[0, -1, -1, -1, 0, 0, 0, 0, 0]",Fox News Network THE FIVE,-0.3333333333333333
+893,2473,Ukraine,"[-1, -1, 0, -1, 0, 1, 0, 0, 1, -1, 0, 0, 1, 0, 0, 0, -1, 0, 1, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.0
+894,2473,the White House,"[0, 0, -1, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.0
+895,2473,Trump,"[-1, -1, 0, 0, 0, -1, -1, 0, -1, 1, 1, 0, 0, 0, 1, 1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.10526315789473684
+896,2473,Democrats,"[1, -1, 0, 0, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.1875
+897,2473,House,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.125
+898,2474,Iran,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.8
+899,2474,Trump,"[-1, -1, -1, -1, -1, 0, 0, 0, 1, 0, -1, 1, 0, -1, -1, -1, 0, 1, -1]",Fox News Network INGRAHAM ANGLE,-0.3684210526315789
+900,2474,Democrats,"[0, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, -1, -1, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.6111111111111112
+901,2474,Senate,"[-1, -1, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.2857142857142857
+902,2485,Iran,"[-1, 0, -1, -1, -1, 0, 1, 0, 0, 0, -1, 0]",Fox News Network MEDIA BUZZ,-0.3333333333333333
+903,2485,Trump,"[-1, 0, 0, 0, -1, -1, -1, 0, -1, 0, -1, -1, -1, 1, 0, 1, -1, 0, 0, 0]",Fox News Network MEDIA BUZZ,-0.35
+904,2485,Soleimani,"[0, -1, -1, -1, 0, 0, -1, 0, -1, -1, 0, 0, 0, -1, 0, 0]",Fox News Network MEDIA BUZZ,-0.4375
+905,2485,Democrats,"[-1, 0, -1, -1, -1, -1, 1, 0, 1, -1, -1, -1, 0, 0]",Fox News Network MEDIA BUZZ,-0.42857142857142855
+906,2485,American,"[-1, -1, 0, -1, 0, 1, 1, 1, 0, 1, 0, -1, -1, 0]",Fox News Network MEDIA BUZZ,-0.07142857142857142
+907,2495,Bernie,"[0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, -1]",Fox News Network THE GREG GUTFELD SHOW,0.0
+908,2495,Trump,"[0, -1, 1, -1, -1, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,-0.25
+909,2495,Warren,"[0, 0, -1, 0, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,-0.125
+910,2495,Tyrus,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,0.0
+911,2495,Lawrence,"[0, 0, 0, 0, 0]",Fox News Network THE GREG GUTFELD SHOW,0.0
+912,2503,Senate,"[1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.0
+913,2503,Democrats,"[-1, -1, 0, 0, -1, -1, -1, 0, 1, 1, 0, 0, -1, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.375
+914,2503,House,"[0, -1, -1, -1, 1, 0, -1, -1, 1, 1, 1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.15384615384615385
+915,2503,Trump,"[0, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.5
+916,2503,Adam Schiff,"[0, 0, -1, 0, -1, 0, -1, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.45454545454545453
+917,2504,Senate,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.15
+918,2504,John Bolton,"[0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.1111111111111111
+919,2504,Republicans,"[-1, 0, 0, 0, 1, 0, -1, 0, 0, 0, -1, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2857142857142857
+920,2504,Democrats,"[0, 0, 0, 0, -1, -1, 1, -1, 0, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.4166666666666667
+921,2504,House,"[-1, 0, -1, -1, 0, 0, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.4
+922,2507,Trump,"[-1, 0, -1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1]",Fox News Network INGRAHAM ANGLE,0.15789473684210525
+923,2507,Democrats,"[-1, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.7777777777777778
+924,2507,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,0.0
+925,2507,Adam Schiff,"[-1, 1, -1, -1, -1, 0, 0, 0, 0, -1, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.4166666666666667
+926,2507,Iowa,"[0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,0.0
+927,2508,New Jersey,"[0, 0, 1, 1, 1, 0, 0, 1, -1, 1, 1, -1, 0, -1, 0, 1, 1, 1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.3157894736842105
+928,2508,Democrats,"[-1, 0, -1, 0, -1, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.65
+929,2508,American,"[0, 0, 0, 0, 0, 0, -1, -1, 1, -1, -1, 0, -1, 0, 0, 1, 1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.16666666666666666
+930,2508,House,"[-1, 0, -1, -1, -1, 1, -1, 0, 0, 0, 0, 1, 0, -1, -1, 0, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.42105263157894735
+931,2508,Trump,"[0, -1, -1, -1, -1, 0, 0, 1, 1, 0, 0, 1, 1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.06666666666666667
+932,2509,Trump,"[-1, -1, -1, 0, 1, -1, 0, 0, -1, -1, -1, -1, -1, 0, 1, 0, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.5263157894736842
+933,2509,Democrats,"[0, -1, -1, -1, 0, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.4444444444444444
+934,2509,Senate,"[0, 0, 0, -1, -1, 1, -1, 0, 0, 0, 1, 0, -1, -1, 0, 1, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.16666666666666666
+935,2509,House,"[-1, 0, 0, -1, -1, 0, 1, -1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.36363636363636365
+936,2509,American,"[-1, -1, -1, 0, 0, -1, -1, -1, -1, -1, 1, -1]",Fox News Network INGRAHAM ANGLE,-0.6666666666666666
+937,2510,Trump,"[1, 0, -1, -1, -1, -1, 1, -1, -1, 0, -1, -1, -1, 0, 1]",Fox News Network INGRAHAM ANGLE,-0.4
+938,2510,Democrats,"[-1, -1, 0, -1, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.5333333333333333
+939,2510,Senate,"[0, 0, 0, 0, 0, -1, -1, -1, 1, -1]",Fox News Network INGRAHAM ANGLE,-0.3
+940,2510,House,"[0, 0, 0, -1, 0, 0, 0, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.2
+941,2510,Russia,"[0, -1, -1, -1, -1, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.4375
+942,2511,Trump,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, 0, 0, 0, 1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.6
+943,2511,Democrats,"[-1, 0, -1, -1, 0, -1, 0, -1, 1, 0, 0, -1, -1, 0, -1, -1, -1, -1, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.55
+944,2511,Ukraine,"[-1, -1, 0, -1, 0, 0, 0, -1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.45454545454545453
+945,2511,House,"[0, 0, 1, -1, 0, 0, -1, -1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2727272727272727
+946,2511,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.0
+947,2512,Bolton,"[-1, -1, -1, 0, -1, 0, 1, -1, -1, 0, -1, 0, 0, 0, 1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.4117647058823529
+948,2512,Trump,"[0, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.2222222222222222
+949,2512,Senate,"[0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, -1]",Fox News Network INGRAHAM ANGLE,-0.2
+950,2512,Biden,"[0, 0, 1, 0, -1, 0, 0, 0, -1, 0, -1, 0, 1, -1, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.125
+951,2512,Hunter Biden,"[0, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1]",Fox News Network INGRAHAM ANGLE,-0.46153846153846156
+952,2513,Democrats,"[0, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.25
+953,2513,Trump,"[0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.058823529411764705
+954,2513,House,"[0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.13333333333333333
+955,2513,Ukraine,"[0, 1, -1, 1, 0, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.125
+956,2513,Senate,"[0, 0, -1, 0, 0, -1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2222222222222222
+957,2539,Ukraine,"[1, -1, 1, 1, 1, 1, 0, 1, 1, 1, -1, -1, 1, 1, 1, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.42105263157894735
+958,2539,Tucker,"[0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, -1, 0, 1, -1, 1]",Fox News Network TUCKER CARLSON TONIGHT,0.21052631578947367
+959,2539,Democrats,"[-1, 1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.6666666666666666
+960,2539,Bernie Sanders,"[0, 0, -1, -1, -1, 0, 1, 0, 0, -1, -1, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.3076923076923077
+961,2539,Don Lemon,"[-1, -1, -1, 0, 0, 0, 0, -1, 0, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5454545454545454
+962,2572,Austin,"[0, -1, -1, -1, -1, -1, 1, -1, 0, 0, -1, -1]",Fox News Network FOX HANNITY,-0.5833333333333334
+963,2572,Senate,"[0, -1, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0]",Fox News Network FOX HANNITY,-0.3125
+964,2572,Trump,"[-1, 1, 0, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 0, -1, -1, 0, 0]",Fox News Network FOX HANNITY,-0.15789473684210525
+965,2572,Democrats,"[1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.6666666666666666
+966,2572,CNN,"[-1, 0, -1, -1, -1, 0, -1, 0, 0, -1, -1, 0, -1]",Fox News Network FOX HANNITY,-0.6153846153846154
+967,2582,Iran,"[-1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.631578947368421
+968,2582,Trump,"[1, 0, 0, -1, 0, 0, -1, 0, 0, 1, 0, 0, -1, -1, 0, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.15789473684210525
+969,2582,Congress,"[0, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.38461538461538464
+970,2582,U.S.,"[-1, 0, -1, 0, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.5294117647058824
+971,2582,Senate,"[1, 0, -1, 0, 0, 0, -1, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.18181818181818182
+972,2584,Democrats,"[-1, -1, -1, 0, 0, -1, -1, -1, 1, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.42105263157894735
+973,2584,Senate,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.06666666666666667
+974,2584,Trump,"[0, 0, 0, 0, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.4117647058823529
+975,2584,House,"[0, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.26666666666666666
+976,2584,Republicans,"[0, 0, 0, 1, -1, 0, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2
+977,2586,Trump,"[0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 1, 1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.15384615384615385
+978,2586,U.S.,"[0, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.5
+979,2586,Senate,"[0, 0, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2857142857142857
+980,2586,Iowa,"[-1, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.09090909090909091
+981,2586,Biden,"[-1, 1, 1, 1, 0, 0, 0, -1, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.16666666666666666
+982,2607,Trump,"[-1, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2777777777777778
+983,2607,Democrats,"[0, -1, -1, 0, -1, 1, 1, -1, -1, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.38461538461538464
+984,2607,Senate,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.07692307692307693
+985,2607,Joe Biden,"[1, 1, 0, 0, -1, -1, -1, 0, -1, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.2727272727272727
+986,2616,Trump,"[0, 0, 0, -1, -1, 0, 0, 1, 1, 1, 0, 0, 0, -1, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.05555555555555555
+987,2616,Iran,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.75
+988,2616,U.S.,"[-1, 0, -1, 0, 0, 0, -1, 0, 1, -1, -1, 0, 0, 0, -1, -1, 0, 0, 1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.25
+989,2616,the Middle East,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.1
+990,2616,Iraq,"[0, 0, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.6
+991,2628,Democrats,"[-1, -1, 0, -1, 0, -1, -1, 0, 0, 0, -1, -1, 1, -1, -1, -1, -1, 0, -1, -1]",Fox News Network FOX HANNITY,-0.6
+992,2628,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network FOX HANNITY,-0.05555555555555555
+993,2628,America,"[-1, 1, -1, 1, 0, 1, 1, -1, 1, 1, 0, 1, 0]",Fox News Network FOX HANNITY,0.3076923076923077
+994,2628,House,"[-1, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,-0.29411764705882354
+995,2633,Trump,"[1, 1, 1, 0, 0, 0, 1, 1, -1, -1, 1, -1, 0, -1]",Fox News Network WATTERS WORLD,0.14285714285714285
+996,2633,Democrats,"[-1, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, 0]",Fox News Network WATTERS WORLD,-0.6428571428571429
+997,2633,Adam Schiff,"[0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network WATTERS WORLD,-0.8181818181818182
+998,2633,Ukraine,"[0, 1, 0, -1, 0, 1, 1, 0, 0]",Fox News Network WATTERS WORLD,0.2222222222222222
+999,2633,the White House,"[0, -1, -1, 0, 0, 0, 0, 0]",Fox News Network WATTERS WORLD,-0.25
+1000,2664,Trump,"[1, -1, 0, 0, 0, -1, -1, 1, 0, -1, -1, -1, -1, -1, 0, -1, 1, 1, 0]",Fox News Network INGRAHAM ANGLE,-0.2631578947368421
+1001,2664,Senate,"[0, 0, 0, -1, 0, 1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,-0.1111111111111111
+1002,2664,Laura,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network INGRAHAM ANGLE,0.0
+1003,2664,Democrats,"[-1, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0]",Fox News Network INGRAHAM ANGLE,-0.6363636363636364
+1004,2664,Iran,"[-1, 0, -1, 0, -1, -1, 0, -1, 1, -1, 0, -1, -1, 1]",Fox News Network INGRAHAM ANGLE,-0.42857142857142855
+1005,2675,Iran,"[0, -1, 0, -1, -1, 0, -1, -1, -1, 0, -1, 0, -1, 1, 0, 1, 1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2222222222222222
+1006,2675,Congress,"[-1, -1, -1, 0, 1, 1, -1, 0, 1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.16666666666666666
+1007,2675,Democrats,"[0, 0, 0, 0, -1, 1, 0, 0, 0, 0, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.16666666666666666
+1008,2675,Trump,"[0, 0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.15384615384615385
+1009,2679,Trump,"[-1, 0, 0, 0, 0, -1, -1, -1, 1, 0, 0, -1, 1, -1, -1, -1, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.4117647058823529
+1010,2679,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.1111111111111111
+1011,2679,House,"[1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.7142857142857143
+1012,2679,Ukraine,"[-1, 0, 0, -1, -1, -1, -1, 0, 0, 0, -1, 0, 0, -1]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,-0.5
+1013,2679,Republicans,"[1, 0, -1, 1, 1, 1, -1, -1, 0, 0, 0]",Fox News Network FOX SPECIAL REPORT WITH BRET BAIER,0.09090909090909091
+1014,2702,Iran,"[-1, 0, -1, 0, -1, 0, -1, -1, 0, 0, -1, -1, -1, 0, 1, -1, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.5
+1015,2702,Trump,"[0, 1, -1, 0, -1, 0, -1, -1, 1, 0, 1, 1, -1, 0, 1, 0, -1, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.05263157894736842
+1016,2702,Iranian,"[-1, -1, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.47368421052631576
+1017,2702,Iranians,"[-1, 0, -1, 0, -1, 0, 0, -1, 1, -1, -1, -1, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.5
+1018,2712,Democrats,"[-1, -1, -1, 0, -1, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.46153846153846156
+1019,2712,Trump,"[0, -1, 1, 1, -1, 0, -1, -1, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.2727272727272727
+1020,2712,Iran,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, 1, 0, -1, -1, 0, -1, 1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.5555555555555556
+1021,2712,Martha,"[1, 1, 0, 0, 1, 0, 0, 1, 0, -1, 0, 0, -1, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.14285714285714285
+1022,2712,Weinstein,"[-1, -1, 0, 0, -1, -1, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.3333333333333333
+1023,2738,Iran,"[-1, 0, -1, -1, -1, 0, 0, 1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.6666666666666666
+1024,2738,American,"[0, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, -1, 1, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.2
+1025,2738,Iraq,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.21052631578947367
+1026,2738,Tucker,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,0.0
+1027,2738,Republican,"[-1, 0, 0, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.625
+1028,2747,Iran,"[-1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.8888888888888888
+1029,2747,Trump,"[-1, 1, 0, 1, -1, -1, 0, -1, 0, 0, -1, 1, 1, -1, -1, -1, 0, -1, -1, -1]",Fox News Network FOX HANNITY,-0.35
+1030,2753,American,"[0, 0, 1, -1, -1, 1, -1, -1, 0, -1, 0, -1, 1, -1, -1, 0, 0, -1, -1, -1]",Fox News Network FOX NEWS SUNDAY,-0.4
+1031,2753,Trump,"[1, 0, -1, 0, 0, -1, 0, 0, 1, -1, 0, 1, -1, -1, -1]",Fox News Network FOX NEWS SUNDAY,-0.2
+1032,2753,U.S.,"[-1, 0, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Fox News Network FOX NEWS SUNDAY,-0.2777777777777778
+1033,2753,Soleimani,"[-1, 0, 0, 0, -1, -1, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0]",Fox News Network FOX NEWS SUNDAY,-0.3888888888888889
+1034,2755,Iran,"[-1, 0, 0, -1, -1, -1, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.631578947368421
+1035,2755,Trump,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.2
+1036,2755,Democrats,"[0, -1, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.25
+1037,2755,Bernie Sanders,"[-1, -1, 0, -1, 0, 0, 0, -1, -1, 0, 0, -1, 0, -1, 0]",Fox News Network FOX NEWS @ NIGHT,-0.4666666666666667
+1038,2755,Warren,"[0, 0, -1, 0, -1, 0, 1, 0, -1, 0, -1, 0, 0, -1, 0, 0]",Fox News Network FOX NEWS @ NIGHT,-0.25
+1039,2756,Democrats,"[-1, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.23529411764705882
+1040,2756,Republicans,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, -1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.07142857142857142
+1041,2756,House,"[1, 0, -1, -1, 0, 0, 0, 0, 0, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.1
+1042,2756,Neil,"[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,0.35714285714285715
+1043,2756,Senate,"[0, 0, 0, 0, 0, -1, -1, -1, 0]",Fox News Network YOUR WORLD WITH NEIL CAVUTO,-0.3333333333333333
+1044,2760,Democrats,"[0, -1, -1, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0]",Fox News Network FOX HANNITY,-0.42105263157894735
+1045,2760,China,"[0, 1, -1, 0]",Fox News Network FOX HANNITY,0.0
+1046,2760,American,"[1, 1, -1, -1, -1, 1, 1, 1, 0, -1, -1, 0, -1, -1, -1, 0, 0, -1]",Fox News Network FOX HANNITY,-0.2222222222222222
+1047,2760,Senate,"[0, 0, -1, 0, -1, 0, 1, 0, 0, 0, 0]",Fox News Network FOX HANNITY,-0.09090909090909091
+1048,2762,Iraq,"[0, -1, -1, -1, 0, -1, -1, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.42105263157894735
+1049,2762,Iran,"[0, -1, 0, 0, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.6
+1050,2762,Iranian,"[-1, -1, 0, -1, -1, -1, 0, -1, 0, -1, 0, -1, -1, 0]",Fox News Network TUCKER CARLSON TONIGHT,-0.6428571428571429
+1051,2762,CNN,"[-1, -1, 0, -1, 0, -1, 1, -1]",Fox News Network TUCKER CARLSON TONIGHT,-0.5
+1052,2840,Democrats,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.6111111111111112
+1053,2840,Trump,"[-1, -1, 0, 0, 0, 0, -1, 1, 1, 1, 1, 1, 0, 0, 0]",Fox News Network THE STORY WITH MARTHA MACCALLUM,0.13333333333333333
+1054,2840,House,"[0, 0, -1, -1, 0, 0, 0, 0, -1, -1, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.38461538461538464
+1055,2840,Lev Parnas,"[0, 0, 0, 0, 0, 0, 0, 0, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.1111111111111111
+1056,2840,Iran,"[-1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1]",Fox News Network THE STORY WITH MARTHA MACCALLUM,-0.7857142857142857
+1057,2862,Senate,"[0, 0, 0, -1, 0, 0, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1]",Fox News Network FOX HANNITY,-0.5555555555555556
+1058,2862,American,"[0, -1, -1, -1, 1, 0, 0, 1, 0, 1, -1, -1, -1, -1, 0, -1, 0, -1]",Fox News Network FOX HANNITY,-0.3333333333333333
+1059,2862,Democrats,"[-1, -1, -1, -1, -1, -1, 1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, 1]",Fox News Network FOX HANNITY,-0.6666666666666666
+1060,2862,Adam Schiff,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0]",Fox News Network FOX HANNITY,-0.8
+1061,2862,House,"[1, 0, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, 1]",Fox News Network FOX HANNITY,-0.375

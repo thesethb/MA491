@@ -1,0 +1,950 @@
+,Transcript,Topic,Sentiment,Program,Date,avg_sentiment
+0,13,My Brother`s Keeper,"[1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1]",MSNBC MSNBC LIVE,November 19 2020 Thursday,0.6111111111111112
+1,13,Obama,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",MSNBC MSNBC LIVE,November 19 2020 Thursday,0.05555555555555555
+2,13,I`m,"[0, 0, 0, 0, 1, -1, 0, 1, 0, 0, 0, 1, 0, 0, -1, 0, 0, 0, 1, 0]",MSNBC MSNBC LIVE,November 19 2020 Thursday,0.1
+3,13,Christian,"[0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 19 2020 Thursday,0.0
+4,13,Jerron,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",MSNBC MSNBC LIVE,November 19 2020 Thursday,0.08333333333333333
+5,14,Pfizer,"[1, 1, 1, 0]",MSNBC ANDREA MITCHELL REPORTS,November 18 2020 Wednesday,0.75
+6,14,Americans,"[-1, -1, 0]",MSNBC ANDREA MITCHELL REPORTS,November 18 2020 Wednesday,-0.6666666666666666
+7,14,Fauci,"[-1, 0]",MSNBC ANDREA MITCHELL REPORTS,November 18 2020 Wednesday,-0.5
+8,14,Moderna,"[1, 0, 1]",MSNBC ANDREA MITCHELL REPORTS,November 18 2020 Wednesday,0.6666666666666666
+9,14,the United States,"[-1, -1]",MSNBC ANDREA MITCHELL REPORTS,November 18 2020 Wednesday,-1.0
+10,188,Trump,"[-1, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 10 2020 Tuesday,-0.6875
+11,188,Republican,"[0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 10 2020 Tuesday,-0.8125
+12,188,Chris,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 10 2020 Tuesday,0.07142857142857142
+13,188,COVID,"[0, -1, -1, 0, -1, -1, -1, -1, 0, -1, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 10 2020 Tuesday,-0.6666666666666666
+14,188,Biden,"[1, 1, 0, -1, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, -1, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 10 2020 Tuesday,-0.058823529411764705
+15,189,Trump,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 11 2020 Wednesday,-0.75
+16,189,Republicans,"[0, 0, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 11 2020 Wednesday,-0.4166666666666667
+17,189,Republican,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 11 2020 Wednesday,-0.7894736842105263
+18,189,Donald Trump,"[0, 0, 0, 0, -1, -1, -1, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 11 2020 Wednesday,-0.6
+19,189,Americans,"[-1, 0, -1, 0, 1]",MSNBC ALL IN with CHRIS HAYES,November 11 2020 Wednesday,-0.2
+20,190,Trump,"[0, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 12 2020 Thursday,-0.10526315789473684
+21,190,COVID,"[0, 0, -1, 0, -1, 0, 0, -1, 0, 0, 0, -1, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 12 2020 Thursday,-0.4666666666666667
+22,190,Republican,"[0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 12 2020 Thursday,-0.7777777777777778
+23,190,Biden,"[0, -1, -1, -1, 0, 0, 1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 12 2020 Thursday,-0.16666666666666666
+24,190,Congress,"[-1, 0, 0, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 12 2020 Thursday,-0.14285714285714285
+25,191,Republican,"[-1, 0, -1, -1, 0, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 13 2020 Friday,-0.42105263157894735
+26,191,Trump,"[0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 13 2020 Friday,-0.5555555555555556
+27,191,American,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 13 2020 Friday,-0.07142857142857142
+28,191,Senate,"[0, -1, 0, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 13 2020 Friday,-0.3076923076923077
+29,191,Republicans,"[-1, -1, 0, 0, -1, 1, -1, -1, -1, -1, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 13 2020 Friday,-0.5833333333333334
+30,192,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 16 2020 Monday,-0.2
+31,192,Republican,"[-1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 16 2020 Monday,-0.8421052631578947
+32,192,Donald Trump,"[-1, -1, -1, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 16 2020 Monday,-0.7692307692307693
+33,192,Raffensperger,"[-1, 0, -1, 0, 0, 0, -1, 0, 0, -1, 0, 1, 0, -1, 1]",MSNBC ALL IN with CHRIS HAYES,November 16 2020 Monday,-0.2
+34,192,Joe Biden,"[0, -1, 0, 0, 1, 0, 0, 0, 0, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 16 2020 Monday,-0.09090909090909091
+35,193,Trump,"[-1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 17 2020 Tuesday,-0.7894736842105263
+36,193,Republicans,"[-1, 0, 0, 1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 17 2020 Tuesday,-0.5333333333333333
+37,193,Michigan,"[0, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, 0, 0, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 17 2020 Tuesday,-0.47058823529411764
+38,193,Republican,"[-1, -1, -1, 0, -1, 0, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 17 2020 Tuesday,-0.4444444444444444
+39,193,COVID,"[0, 0, -1, -1, 0, 0, 0, 0, -1, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 17 2020 Tuesday,-0.36363636363636365
+40,194,Trump,"[-1, -1, -1, -1, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1, 0, -1, 0, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 18 2020 Wednesday,-0.5263157894736842
+41,194,Republican,"[-1, -1, -1, 0, 0, 0, 0, 0, -1, 0, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 18 2020 Wednesday,-0.45
+42,194,Donald Trump,"[-1, -1, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 18 2020 Wednesday,-0.7692307692307693
+43,194,GSA,"[0, 0, 0, 0, 0, 0, 1, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 18 2020 Wednesday,0.1111111111111111
+44,194,Joe Biden,"[1, 0, 0, 0, 1, 1, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 18 2020 Wednesday,0.25
+45,195,Republican,"[0, 1, -1, 0, -1, -1, -1, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 19 2020 Thursday,-0.42105263157894735
+46,195,Trump,"[-1, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 19 2020 Thursday,-0.7058823529411765
+47,195,Georgia,"[0, 1, 1, -1, -1, 0, -1, 1, 0, 0, -1, 0, 0, 0, 0, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 19 2020 Thursday,-0.11764705882352941
+48,195,Michigan,"[0, 0, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, 0, 0, -1, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 19 2020 Thursday,-0.5294117647058824
+49,195,Donald Trump,"[-1, -1, -1, -1, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 19 2020 Thursday,-0.7857142857142857
+50,196,Trump,"[-1, -1, -1, 0, 0, 0, -1, -1, 0, -1, 0, -1, 0, 0, -1, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 2 2020 Monday,-0.47058823529411764
+51,196,Pennsylvania,"[1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 2 2020 Monday,0.047619047619047616
+52,196,Donald Trump,"[0, -1, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 1, -1, -1, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 2 2020 Monday,-0.21052631578947367
+53,196,Texas,"[1, -1, 0, -1, 0, 0, 0, 1, -1, 1, 0, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 2 2020 Monday,0.0
+54,196,Joe Biden,"[-1, 0, 1, 0, -1, 1, 1, 0, 0, 1, 1, 1, 1, -1, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 2 2020 Monday,0.25
+55,197,Republican,"[-1, 0, -1, 0, 0, -1, 0, 0, -1, 0, 0, -1, -1, 0, 0, -1, 0, 0, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 20 2020 Friday,-0.4
+56,197,Michigan,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",MSNBC ALL IN with CHRIS HAYES,November 20 2020 Friday,0.05263157894736842
+57,197,Trump,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 20 2020 Friday,-0.7777777777777778
+58,197,American,"[-1, 0, 0, -1, -1, 0, 0, -1, 0, 1, 0, -1, -1, 0, 0, -1, 0, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 20 2020 Friday,-0.3684210526315789
+59,197,Congress,"[-1, -1, 0, 0, 0, -1, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 20 2020 Friday,-0.3
+60,198,Biden,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1]",MSNBC ALL IN with CHRIS HAYES,November 23 2020 Monday,0.29411764705882354
+61,198,Regeneron,"[1, 0, 1, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 23 2020 Monday,-0.2857142857142857
+62,198,COVID,"[-1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 23 2020 Monday,-0.8333333333333334
+63,198,That`s,"[0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1]",MSNBC ALL IN with CHRIS HAYES,November 23 2020 Monday,0.45454545454545453
+64,198,Trump,"[0, 0, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 23 2020 Monday,-0.7
+65,199,Trump,"[-1, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, -1, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 24 2020 Tuesday,-0.4444444444444444
+66,199,Biden,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 24 2020 Tuesday,0.0
+67,199,Republican,"[0, 0, 0, -1, 0, -1, -1, 0, 0, 0, -1, 0, 0, 1, 0, -1, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 24 2020 Tuesday,-0.2777777777777778
+68,199,American,"[0, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 24 2020 Tuesday,-0.4444444444444444
+69,199,That`s,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 24 2020 Tuesday,0.06666666666666667
+70,200,Donald Trump,"[-1, 0, -1, 0, -1, -1, -1, 0, 0, -1, 0, -1, -1, 0, -1, -1, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 25 2020 Wednesday,-0.5555555555555556
+71,200,Americans,"[-1, -1, 0, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 25 2020 Wednesday,-0.7058823529411765
+72,200,Flynn,"[0, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 25 2020 Wednesday,-0.7142857142857143
+73,200,Trump,"[-1, -1, 0, 0, -1, -1, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 25 2020 Wednesday,-0.47058823529411764
+74,200,Joe Biden,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1]",MSNBC ALL IN with CHRIS HAYES,November 25 2020 Wednesday,0.2727272727272727
+75,201,Senate,"[0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 30 2020 Monday,-0.15789473684210525
+76,201,Trump,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 30 2020 Monday,-0.8947368421052632
+77,201,Georgia,"[0, -1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 1, 0]",MSNBC ALL IN with CHRIS HAYES,November 30 2020 Monday,-0.1111111111111111
+78,201,Republican,"[-1, 0, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",MSNBC ALL IN with CHRIS HAYES,November 30 2020 Monday,-0.8
+79,201,Chris,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 30 2020 Monday,0.0
+80,202,Georgia,"[0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0]",MSNBC ALL IN with CHRIS HAYES,November 9 2020 Monday,-0.23076923076923078
+81,202,Chris,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]",MSNBC ALL IN with CHRIS HAYES,November 9 2020 Monday,0.11764705882352941
+82,202,Joe Biden,"[1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0]",MSNBC ALL IN with CHRIS HAYES,November 9 2020 Monday,0.7857142857142857
+83,202,Senate,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC ALL IN with CHRIS HAYES,November 9 2020 Monday,-0.1
+84,202,Trump,"[-1, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1, 0, 0, 0, 0, -1]",MSNBC ALL IN with CHRIS HAYES,November 9 2020 Monday,-0.45
+85,261,New York City,"[0, 0, 1, 0, 0, 0, 0, 0, -1]",MSNBC MORNING JOE,November 16 2020 Monday,0.0
+86,261,Mika,[0],MSNBC MORNING JOE,November 16 2020 Monday,0.0
+87,261,We`ve,"[1, 1, 1]",MSNBC MORNING JOE,November 16 2020 Monday,1.0
+88,261,Mayor,"[1, 0, 1]",MSNBC MORNING JOE,November 16 2020 Monday,0.6666666666666666
+89,261,Kasie,"[0, 1]",MSNBC MORNING JOE,November 16 2020 Monday,0.5
+90,308,Trump,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,-0.7647058823529411
+91,308,Donald Trump,"[-1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,-0.7
+92,308,Joe Biden,"[0, -1, -1, 0, 0, 0, 1, 0, 1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,-0.1
+93,308,Nicolle,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,0.0
+94,308,Biden,"[-1, -1, 0, -1, -1, 1, -1, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, 0, 1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,-0.4
+95,309,Trump,"[0, 0, 0, 1, 0, 0, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,-0.5
+96,309,Biden,"[0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 1, 1, 0, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,0.1111111111111111
+97,309,Joe Biden,"[1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,0.17647058823529413
+98,309,Nicolle,"[1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,0.2857142857142857
+99,309,Donald Trump,"[-1, -1, 0, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,-0.6923076923076923
+100,310,Trump,"[-1, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.8421052631578947
+101,310,Donald Trump,"[-1, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.7777777777777778
+102,310,American,"[0, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.55
+103,310,the White House,"[-1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.7272727272727273
+104,310,Joe Biden,"[1, 0, 0, -1, -1, -1, -1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.3333333333333333
+105,311,Donald Trump,"[0, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,-0.8333333333333334
+106,311,Trump,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,-0.8
+107,311,Republicans,"[-1, 0, -1, 0, -1, 0, -1, 1, 0, 0, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,-0.4666666666666667
+108,311,Joe Biden,"[0, 1, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,-0.21428571428571427
+109,311,Nicolle,"[0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,0.0
+110,312,Donald Trump,"[-1, 0, -1, -1, -1, 0, -1, 0, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,-0.6842105263157895
+111,312,Joe Biden,"[0, 0, 0, 0, 0, 1, 0, 0, -1, 0, 1, 0, 0, 0, 1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,0.058823529411764705
+112,312,Nicolle,"[1, 1, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,0.2
+113,312,Trump,"[-1, 0, 0, 0, -1, -1, 0, -1, 0, 0, 0, -1, 0, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,-0.5
+114,312,CIA,"[0, 0, 0, -1, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,-0.1111111111111111
+115,313,Donald Trump,"[-1, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,-0.45
+116,313,Joe Biden,"[0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, -1, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,0.1111111111111111
+117,313,Republicans,"[0, -1, 0, -1, -1, -1, 0, -1, 0, -1, -1, 0, 0, 1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,-0.375
+118,313,Joe,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,0.29411764705882354
+119,313,Trump,"[-1, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0, 0, 0, -1, 0, 0, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,-0.5555555555555556
+120,314,Donald Trump,"[-1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, 0, -1, 0, 0, -1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,-0.5555555555555556
+121,314,Republican,"[-1, 0, 0, 0, 1, 0, -1, -1, -1, -1, 0, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,-0.5
+122,314,Nicolle,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,0.06666666666666667
+123,314,American,"[0, -1, -1, -1, 0, -1, -1, 0, 0, 1, 1, 1, -1, -1, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,-0.3125
+124,314,Americans,"[0, -1, -1, 0, -1, 0, 0, 1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,-0.2222222222222222
+125,315,Joe Biden,"[0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 4 2020 Wednesday,0.65
+126,315,Donald Trump,"[-1, 0, 0, 0, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 4 2020 Wednesday,-0.3888888888888889
+127,315,Trump,"[-1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, -1, 0, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 4 2020 Wednesday,-0.42105263157894735
+128,315,Wisconsin,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 4 2020 Wednesday,0.0
+129,315,Michigan,"[1, -1, 0, -1, 0, 0, 0, -1, 1, 1, 1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 4 2020 Wednesday,0.16666666666666666
+130,316,Trump,"[0, -1, 0, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1, 0, 0, -1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,-0.45
+131,316,Donald Trump,"[-1, 0, 0, -1, -1, -1, -1, -1, 0, -1, 0, 0, 0, -1, -1, -1, 0, -1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,-0.55
+132,316,Republicans,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,-0.8666666666666667
+133,316,Joe Biden,"[1, -1, 0, 0, 1, 0, 1, 1, 0, -1, 1, 1, 0, 0, 0, 1, 0, 1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,0.3684210526315789
+134,316,Biden,"[1, 1, -1, 0, 1, 1, 0, 0, -1, -1, -1, -1, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,-0.2
+135,317,Donald Trump,"[-1, 0, -1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 11 2020 Wednesday,-0.6666666666666666
+136,317,Republicans,"[-1, 0, 0, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 11 2020 Wednesday,-0.6153846153846154
+137,317,Biden,"[1, 0, 1, -1, 1, 0, 0, -1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 11 2020 Wednesday,0.25
+138,317,Trump,"[-1, -1, -1, -1, -1, 0, 0, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 11 2020 Wednesday,-0.7058823529411765
+139,317,Ari,"[-1, 0, 0, 0, 0, 0, 1, 0, 0, 1]",MSNBC DEADLINE: WHITE HOUSE,November 11 2020 Wednesday,0.1
+140,318,Joe Biden,"[1, 1, 1, -1, 0, 0, 0, -1, -1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 12 2020 Thursday,0.15
+141,318,Trump,"[1, 0, -1, -1, -1, 0, -1, -1, -1, 0, -1, 0, -1, 0, -1, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 12 2020 Thursday,-0.5555555555555556
+142,318,Donald Trump,"[-1, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 12 2020 Thursday,-0.7368421052631579
+143,318,Biden,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, -1, 0, 1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 12 2020 Thursday,0.2222222222222222
+144,318,Republican,"[0, 0, -1, -1, -1, -1, -1, 0, 1, 1, -1, 0, 1, -1, -1, -1, 1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 12 2020 Thursday,-0.3333333333333333
+145,319,New York,"[-1, 1, 1, 0, -1, -1, 0, 0, -1, 0, 0, 0, -1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 13 2020 Friday,-0.14285714285714285
+146,319,Joe Biden,"[1, -1, 0, 1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 13 2020 Friday,0.0
+147,319,Americans,"[0, 0, 0, -1, -1, -1, 0, -1, -1, 0, -1, -1, 1, 0, 0, -1, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 13 2020 Friday,-0.5714285714285714
+148,319,Donald Trump,"[0, 0, 1, 0, -1, -1, -1, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 13 2020 Friday,-0.3333333333333333
+149,319,Trump,"[0, 0, 0, -1, -1, -1, 0, -1, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 13 2020 Friday,-0.45
+150,320,Trump,"[-1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,-0.8823529411764706
+151,320,Joe Biden,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, -1, 0, 1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,0.15789473684210525
+152,320,Biden,"[0, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,-0.21052631578947367
+153,320,Republicans,"[-1, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,-0.42857142857142855
+154,320,I`m,"[0, -1, 0, -1, 0, 0, 1, 1, 0, 1, 1, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 16 2020 Monday,-0.06666666666666667
+155,321,Georgia,"[0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,-0.1
+156,321,Trump,"[-1, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,-0.7
+157,321,Republican,"[1, 0, -1, -1, 0, 0, 0, -1, -1, -1, 0, -1, 1, -1, -1, 0, -1, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,-0.4
+158,321,Donald Trump,"[-1, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,-0.8125
+159,321,Republicans,"[-1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 17 2020 Tuesday,-0.7692307692307693
+160,322,Trump,"[-1, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, 0, 0, 0, -1, -1, -1, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.47368421052631576
+161,322,Donald Trump,"[0, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.6428571428571429
+162,322,Republican,"[0, -1, 0, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.5
+163,322,Joe Biden,"[0, 0, -1, 0, 0, 0, 0, 1, 0, -1, -1, 0, -1, 1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.23529411764705882
+164,322,Republicans,"[-1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 18 2020 Wednesday,-0.8333333333333334
+165,323,Trump,"[-1, 0, -1, -1, -1, 0, -1, -1, -1, 0, -1, 0, 0, 0, -1, -1, -1, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,-0.631578947368421
+166,323,Fauci,"[-1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 0, 1, -1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,-0.5263157894736842
+167,323,Joe Biden,"[0, 1, 0, 1, 1, 0, 1, 0, 0, -1, 0, 0, 0, 0, 1, 1, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,0.2631578947368421
+168,323,Donald Trump,"[0, 0, -1, 0, -1, -1, 0, 0, -1, -1, 0, -1, 0, -1, 0, -1, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,-0.55
+169,323,Texas,"[0, 0, 0, 0, 0, 0, -1, 1, 1, -1, -1, -1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,-0.07692307692307693
+170,324,Trump,"[-1, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, 0, -1, 0, -1, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,-0.47058823529411764
+171,324,Texas,"[0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,-0.16666666666666666
+172,324,Georgia,"[1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,0.2631578947368421
+173,324,Biden,"[1, 0, 1, 1, 0, 0, 1, 0, 0, 1, -1, 0, 0, 0, 0, 1, 0, 0, 1]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,0.3157894736842105
+174,324,Joe Biden,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 2 2020 Monday,0.375
+175,325,Trump,"[-1, -1, -1, 0, -1, -1, -1, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 20 2020 Friday,-0.5333333333333333
+176,325,Donald Trump,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 20 2020 Friday,-0.9
+177,325,Republicans,"[-1, -1, -1, 0, -1, -1, -1, 0, 0, -1, 0, 0, -1, 0, 0, 0, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 20 2020 Friday,-0.5789473684210527
+178,325,Nicolle,[],MSNBC DEADLINE: WHITE HOUSE,November 20 2020 Friday,
+179,325,Republican,"[0, 0, -1, 0, 0, -1, 0, -1, -1, 0, -1, 0, -1, 0, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 20 2020 Friday,-0.5
+180,326,Trump,"[-1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,-0.8888888888888888
+181,326,Michigan,"[-1, -1, -1, 0, -1, -1, 0, 0, 1, 0, 0, 1, 1, 1, 1]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,0.0
+182,326,Donald Trump,"[-1, 0, -1, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,-0.5
+183,326,Joe Biden,"[-1, 0, 1, 0, 0, 0, -1, 0, -1, -1, 1, -1, 1, 0, 0, 0, -1, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,-0.21052631578947367
+184,326,Republican,"[0, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 23 2020 Monday,-0.6842105263157895
+185,327,Trump,"[-1, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,-0.8333333333333334
+186,327,Donald Trump,"[0, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,-0.7
+187,327,Joe Biden,"[1, 1, 0, 1, 0, -1, 1, 0, 0, -1, -1, 0, 0, -1, 1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,0.0625
+188,327,Nicolle,"[-1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,-0.75
+189,327,Biden,"[1, 1, -1, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 1, 0, 0, 1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 24 2020 Tuesday,0.16666666666666666
+190,328,Donald Trump,"[-1, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,-0.5789473684210527
+191,328,Trump,"[0, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,-0.6666666666666666
+192,328,Mike Flynn,"[-1, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,-0.5294117647058824
+193,328,Joe Biden,"[0, 1, 1, 1, 1, 0, -1, -1, 0, 1, 0, 1, -1, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,0.17647058823529413
+194,328,American,"[0, -1, 0, -1, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 25 2020 Wednesday,-0.25
+195,329,Trump,"[-1, -1, 0, 0, -1, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,-0.5294117647058824
+196,329,Georgia,"[0, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,-0.25
+197,329,Republican,"[-1, -1, 0, 0, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,-0.65
+198,329,Republicans,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,-0.7692307692307693
+199,329,Donald Trump,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 30 2020 Monday,-0.7142857142857143
+200,330,Trump,"[0, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, -1, 0, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,-0.5882352941176471
+201,330,Joe Biden,"[0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, -1, 1, 1, 1, 1, 1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,0.55
+202,330,Biden,"[1, -1, 1, 1, 1, 0, -1, -1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,0.42105263157894735
+203,330,Donald Trump,"[0, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,-0.7142857142857143
+204,330,Nicolle,"[0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,0.36363636363636365
+205,394,Trump,"[-1, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,-0.631578947368421
+206,394,Pentagon,[],MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,
+207,394,Esper,"[-1, 0, 0, -1, -1, 0, 0, 0, 0, 0, -1, -1, 0, 0, -1, 0, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,-0.3684210526315789
+208,394,Donald Trump,"[0, -1, -1, 0, 0, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1, -1, -1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,-0.47368421052631576
+209,394,Republicans,"[-1, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1]",MSNBC DEADLINE: WHITE HOUSE,November 10 2020 Tuesday,-0.375
+210,395,Donald Trump,"[-1, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 19 2020 Thursday,-0.7777777777777778
+211,395,Trump,"[-1, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, -1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 19 2020 Thursday,-0.47368421052631576
+212,395,Republican,"[0, 0, 1, 0, -1, -1, 0, -1, 0, 0, -1, 0, -1, 0, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 19 2020 Thursday,-0.35294117647058826
+213,395,Joe Biden,"[0, -1, 0, 0, 0, 0, -1, 0, 1, 1, 0, -1, -1, 0, 0, -1, 1, 1, 0, 1]",MSNBC DEADLINE: WHITE HOUSE,November 19 2020 Thursday,0.0
+214,395,Biden,"[0, -1, 0, 1, 1, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, 1, 1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 19 2020 Thursday,0.05263157894736842
+215,396,Trump,"[-1, 0, 0, 0, -1, -1, 0, 0, -1, 0, -1, 0, -1, -1, 0, -1, -1, 0, 0, -1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 5 2020 Thursday,-0.5
+216,396,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 5 2020 Thursday,0.15789473684210525
+217,396,Joe Biden,"[0, 0, 0, 0, 0, 1, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 5 2020 Thursday,0.05
+218,396,Biden,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 5 2020 Thursday,0.21739130434782608
+219,396,Nicolle,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 5 2020 Thursday,0.05
+220,397,Trump,"[-1, -1, -1, -1, -1, -1, -1, -1, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,-0.8
+221,397,Joe Biden,"[-1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, -1, -1, 0, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,-0.05555555555555555
+222,397,Donald Trump,"[-1, -1, -1, -1, -1, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1, -1]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,-0.8125
+223,397,American,"[0, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,-0.36363636363636365
+224,397,America,"[1, -1, -1, 0, 0, 0, 0, 0, 0, 1, 1, -1, 0]",MSNBC DEADLINE: WHITE HOUSE,November 9 2020 Monday,0.0
+225,416,I`m,"[0, 1, 1, 1, 1, 1]",MSNBC MSNBC LIVE,November 30 2020 Monday,0.8333333333333334
+226,416,Tal Zaks,"[0, 0, 0, 1, 0]",MSNBC MSNBC LIVE,November 30 2020 Monday,0.2
+227,416,FDA,"[0, 0, 0, 1]",MSNBC MSNBC LIVE,November 30 2020 Monday,0.25
+228,416,Moderna,"[1, 0, 0]",MSNBC MSNBC LIVE,November 30 2020 Monday,0.3333333333333333
+229,416,U.S.,[1],MSNBC MSNBC LIVE,November 30 2020 Monday,1.0
+230,422,Trump,"[0, -1, 0, -1, -1, 0, -1]",MSNBC MORNING JOE,November 16 2020 Monday,-0.5714285714285714
+231,422,COVID,"[-1, 0, 0, 0, -1, -1, -1]",MSNBC MORNING JOE,November 16 2020 Monday,-0.5714285714285714
+232,422,New York City,"[0, 0, 0, 0, 0]",MSNBC MORNING JOE,November 16 2020 Monday,0.0
+233,422,New York,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MORNING JOE,November 16 2020 Monday,0.0
+234,422,Jonathan,"[0, 0, 0, 0, 0]",MSNBC MORNING JOE,November 16 2020 Monday,0.0
+235,424,New Jersey,"[-1, 0, 0, 0, 0, -1, 0]",MSNBC MORNING JOE,November 16 2020 Monday,-0.2857142857142857
+236,424,There`s,[],MSNBC MORNING JOE,November 16 2020 Monday,
+237,424,Cuomo,"[0, 0, 0]",MSNBC MORNING JOE,November 16 2020 Monday,0.0
+238,480,American,"[1, 1]",MSNBC ANDREA MITCHELL REPORTS,November 11 2020 Wednesday,1.0
+239,480,the State Department,"[-1, -1, 0]",MSNBC ANDREA MITCHELL REPORTS,November 11 2020 Wednesday,-0.6666666666666666
+240,480,Biden,"[-1, 0, 1]",MSNBC ANDREA MITCHELL REPORTS,November 11 2020 Wednesday,0.0
+241,488,Trump,"[0, 0, 0]",MSNBC MSNBC LIVE,November 18 2020 Wednesday,0.0
+242,488,Clerk McDonell,"[0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 18 2020 Wednesday,0.0
+243,488,Wisconsin,"[0, 0, 0, -1, -1]",MSNBC MSNBC LIVE,November 18 2020 Wednesday,-0.4
+244,488,Dane County,"[0, -1, 0, 0, 0]",MSNBC MSNBC LIVE,November 18 2020 Wednesday,-0.2
+245,488,Democratic,"[-1, 0]",MSNBC MSNBC LIVE,November 18 2020 Wednesday,-0.5
+246,503,Graham,"[-1, 0, 0, 0, 0, -1, 0]",MSNBC MSNBC LIVE,November 17 2020 Tuesday,-0.2857142857142857
+247,503,Arizona,"[0, 0, 0]",MSNBC MSNBC LIVE,November 17 2020 Tuesday,0.0
+248,503,Georgia,"[0, 1]",MSNBC MSNBC LIVE,November 17 2020 Tuesday,0.5
+249,503,Lindsey Graham,"[-1, -1, -1]",MSNBC MSNBC LIVE,November 17 2020 Tuesday,-1.0
+250,503,Nevada,[0],MSNBC MSNBC LIVE,November 17 2020 Tuesday,0.0
+251,512,Republicans,"[1, 1, -1, 0, 0]",MSNBC MTP DAILY,November 9 2020 Monday,0.2
+252,512,Biden,"[1, 1, 0, 1, 0]",MSNBC MTP DAILY,November 9 2020 Monday,0.6
+253,512,I`m,"[1, -1, -1, 0, 1, 1]",MSNBC MTP DAILY,November 9 2020 Monday,0.16666666666666666
+254,512,House,"[0, 1, 0]",MSNBC MTP DAILY,November 9 2020 Monday,0.3333333333333333
+255,512,Trump,"[1, -1, 0]",MSNBC MTP DAILY,November 9 2020 Monday,0.0
+256,514,Biden,"[0, 0, 0, 1, 1, 0, 0]",MSNBC MSNBC LIVE,November 17 2020 Tuesday,0.2857142857142857
+257,514,Joe Biden,"[0, 1, 1, 0, 0]",MSNBC MSNBC LIVE,November 17 2020 Tuesday,0.4
+258,514,Delaware,"[0, 1, 0]",MSNBC MSNBC LIVE,November 17 2020 Tuesday,0.3333333333333333
+259,514,Joe,"[0, 1, 1, 0, 0]",MSNBC MSNBC LIVE,November 17 2020 Tuesday,0.4
+260,518,Donald Trump,"[0, -1, 0, 0, 0, -1, -1, -1]",MSNBC MTP DAILY,November 9 2020 Monday,-0.5
+261,518,Democratic,"[0, 1, -1, 0, -1]",MSNBC MTP DAILY,November 9 2020 Monday,-0.2
+262,518,Democrats,"[1, -1, 0, 0, 0]",MSNBC MTP DAILY,November 9 2020 Monday,0.0
+263,518,Joe Biden,"[1, 0, 1, 0, 0, 1]",MSNBC MTP DAILY,November 9 2020 Monday,0.5
+264,518,House,"[0, 0, 0, -1, 0, 0]",MSNBC MTP DAILY,November 9 2020 Monday,-0.16666666666666666
+265,537,Biden,"[0, -1, 1, -1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 25 2020 Wednesday,0.1
+266,537,Kasie,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]",MSNBC MSNBC LIVE,November 25 2020 Wednesday,0.18181818181818182
+267,537,Trump,"[-1, 0, 0, -1, 0, -1, -1, -1, 0]",MSNBC MSNBC LIVE,November 25 2020 Wednesday,-0.5555555555555556
+268,537,Senate,"[-1, 0, 0, 0, 0, 0, -1, -1]",MSNBC MSNBC LIVE,November 25 2020 Wednesday,-0.375
+269,537,Republicans,"[0, -1, -1, -1, -1, -1, 0, 0]",MSNBC MSNBC LIVE,November 25 2020 Wednesday,-0.625
+270,542,Chicago,"[1, 0]",MSNBC MSNBC LIVE,November 13 2020 Friday,0.5
+271,565,Trump,"[-1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1]",MSNBC MTP DAILY,November 10 2020 Tuesday,-0.7894736842105263
+272,565,Republicans,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, -1, 0, 0]",MSNBC MTP DAILY,November 10 2020 Tuesday,-0.65
+273,565,Chuck,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 10 2020 Tuesday,0.0
+274,565,Republican,"[0, -1, -1, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1, 0, 0]",MSNBC MTP DAILY,November 10 2020 Tuesday,-0.45
+275,565,Biden,"[-1, 0, -1, 0, 0, 1, 0, 0, 0, 0, -1, 0, 1, -1, 0, 1, -1, -1, -1]",MSNBC MTP DAILY,November 10 2020 Tuesday,-0.21052631578947367
+276,566,Trump,"[0, -1, 0, -1, -1, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0, -1, 0]",MSNBC MTP DAILY,November 11 2020 Wednesday,-0.47058823529411764
+277,566,Chuck,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 11 2020 Wednesday,0.0
+278,566,Republicans,"[-1, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1]",MSNBC MTP DAILY,November 11 2020 Wednesday,-0.35294117647058826
+279,566,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 11 2020 Wednesday,0.0
+280,566,Senate,"[0, -1, 1, 0, -1, -1, 0, 0, 1, 0, -1]",MSNBC MTP DAILY,November 11 2020 Wednesday,-0.18181818181818182
+281,567,Trump,"[-1, -1, -1, 0, -1, -1, -1, 0, -1, 0, 0, 0]",MSNBC MTP DAILY,November 12 2020 Thursday,-0.5833333333333334
+282,567,Republicans,"[0, 0, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, 0, 0]",MSNBC MTP DAILY,November 12 2020 Thursday,-0.3125
+283,567,Biden,"[1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 1]",MSNBC MTP DAILY,November 12 2020 Thursday,0.25
+284,567,Georgia,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 12 2020 Thursday,-0.0625
+285,567,COVID,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 12 2020 Thursday,0.0
+286,568,Chuck,"[1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]",MSNBC MTP DAILY,November 13 2020 Friday,0.3333333333333333
+287,568,Jackson,"[0, 0, 0, 0, 0, 0, -1, 0, -1, -1, 1, 1, 0, 0, 0]",MSNBC MTP DAILY,November 13 2020 Friday,-0.06666666666666667
+288,568,COVID,"[-1, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1]",MSNBC MTP DAILY,November 13 2020 Friday,-0.6666666666666666
+289,568,Biden,"[-1, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1, 0]",MSNBC MTP DAILY,November 13 2020 Friday,-0.3333333333333333
+290,568,I`m,"[0, 1, 0, -1, 1, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1]",MSNBC MTP DAILY,November 13 2020 Friday,-0.10526315789473684
+291,569,Biden,"[0, 1, -1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",MSNBC MTP DAILY,November 16 2020 Monday,0.0
+292,569,Philadelphia,"[0, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0, -1, -1, -1, 0, -1, 0]",MSNBC MTP DAILY,November 16 2020 Monday,-0.4117647058823529
+293,569,Kasie,"[0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 16 2020 Monday,0.0
+294,569,COVID,"[-1, -1, -1, -1, -1, 0, 0, -1, 0, 0, 1, -1]",MSNBC MTP DAILY,November 16 2020 Monday,-0.5
+295,569,Moderna,"[1, 0, 1, 1, 0, 1, 0, 1]",MSNBC MTP DAILY,November 16 2020 Monday,0.625
+296,570,Chuck,"[0, 1, 0, 1, -1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0]",MSNBC MTP DAILY,November 17 2020 Tuesday,0.3333333333333333
+297,570,Trump,"[-1, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0]",MSNBC MTP DAILY,November 17 2020 Tuesday,-0.631578947368421
+298,570,Republican,"[0, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0]",MSNBC MTP DAILY,November 17 2020 Tuesday,-0.6923076923076923
+299,570,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0]",MSNBC MTP DAILY,November 17 2020 Tuesday,-0.2
+300,570,Biden,"[0, -1, 0, 0, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 1, 0, 1, 0, 0]",MSNBC MTP DAILY,November 17 2020 Tuesday,-0.1
+301,571,Trump,"[0, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1, -1, 0, 0, 0, -1, -1, 0]",MSNBC MTP DAILY,November 18 2020 Wednesday,-0.5
+302,571,Chuck,"[0, 0, 0, 1, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 18 2020 Wednesday,0.1111111111111111
+303,571,Wisconsin,"[-1, -1, 0, -1, 0, -1, 0, 0]",MSNBC MTP DAILY,November 18 2020 Wednesday,-0.5
+304,571,Joe Biden,"[0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0]",MSNBC MTP DAILY,November 18 2020 Wednesday,0.0
+305,571,Democrats,"[-1, -1, 1, 0, 0, 0, 0]",MSNBC MTP DAILY,November 18 2020 Wednesday,-0.14285714285714285
+306,572,Chuck,"[0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 19 2020 Thursday,0.0
+307,572,Trump,"[-1, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1, -1]",MSNBC MTP DAILY,November 19 2020 Thursday,-0.5833333333333334
+308,572,Americans,"[0, 0, 0, 0, -1, -1, 1, 0, -1, -1, 1, 1]",MSNBC MTP DAILY,November 19 2020 Thursday,-0.08333333333333333
+309,572,American,"[0, -1, -1, 0, -1, 0, 1, -1, 0, 0, 0, 0, 1, -1, -1, -1, 0, 0, 0, 0]",MSNBC MTP DAILY,November 19 2020 Thursday,-0.25
+310,572,I`m,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",MSNBC MTP DAILY,November 19 2020 Thursday,-0.08333333333333333
+311,573,Georgia,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",MSNBC MTP DAILY,November 2 2020 Monday,0.11764705882352941
+312,573,Trump,"[-1, 0, -1, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1]",MSNBC MTP DAILY,November 2 2020 Monday,-0.3
+313,573,Biden,"[0, 1, 0, 1, -1, 0, -1, 0, 0, 1, 1, 1, 0, -1, 1, 0, 1, 0]",MSNBC MTP DAILY,November 2 2020 Monday,0.2222222222222222
+314,573,Fauci,"[0, -1, -1, 1, -1, 0, 0, 0, 0, -1, -1, -1, -1, 0]",MSNBC MTP DAILY,November 2 2020 Monday,-0.42857142857142855
+315,573,North Carolina,"[1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",MSNBC MTP DAILY,November 2 2020 Monday,0.07692307692307693
+316,574,Chuck,"[0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]",MSNBC MTP DAILY,November 20 2020 Friday,0.10526315789473684
+317,574,Republican,"[1, 0, 0, -1, 0, 0, 1, -1, 0, 1, -1, 0, -1, 0, -1, -1, 0, -1, 1]",MSNBC MTP DAILY,November 20 2020 Friday,-0.15789473684210525
+318,574,Joe Biden,"[1, 0, 0, 0, 0, 1, 0, 0, 0, 1]",MSNBC MTP DAILY,November 20 2020 Friday,0.3
+319,574,I`m,"[0, -1, -1, 1, 0, 0, 0, 1, 1, -1, 0, 0, -1, 1, 1, 0, 0, 0, 0]",MSNBC MTP DAILY,November 20 2020 Friday,0.05263157894736842
+320,574,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 20 2020 Friday,0.0
+321,575,Trump,"[0, 0, 0, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1]",MSNBC MTP DAILY,November 23 2020 Monday,-0.6111111111111112
+322,575,Joe Biden,"[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 23 2020 Monday,0.18181818181818182
+323,575,Biden,"[0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, -1, 0, 0, 1, 1]",MSNBC MTP DAILY,November 23 2020 Monday,0.1875
+324,575,Kasie,"[0, -1, 0, 1, 1, 0]",MSNBC MTP DAILY,November 23 2020 Monday,0.16666666666666666
+325,575,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 23 2020 Monday,0.0
+326,576,America,"[0, 0, 1, 1, 1, -1, 0, 1, 0, 1, 1, 0, 1]",MSNBC MTP DAILY,November 24 2020 Tuesday,0.46153846153846156
+327,576,American,"[1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 24 2020 Tuesday,0.23529411764705882
+328,576,Joe Biden,"[1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 24 2020 Tuesday,0.3125
+329,576,the United States,"[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",MSNBC MTP DAILY,November 24 2020 Tuesday,0.1875
+330,576,Biden,"[1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0]",MSNBC MTP DAILY,November 24 2020 Tuesday,0.35
+331,577,Georgia,"[1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 3 2020 Tuesday,0.2222222222222222
+332,577,Chuck,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 3 2020 Tuesday,0.05263157894736842
+333,577,Democrats,"[1, 1, 0, 0, 0, 0, -1, -1, 0, 1, 0, -1, 1, -1, -1, 0, 0, 0, 1, 1]",MSNBC MTP DAILY,November 3 2020 Tuesday,0.05
+334,577,Trump,"[0, 0, -1, -1, 0, 0, 0, -1, 0, -1, 0, 0, 0, -1, 1, 0, 0, 0]",MSNBC MTP DAILY,November 3 2020 Tuesday,-0.2222222222222222
+335,577,Florida,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 3 2020 Tuesday,0.0
+336,578,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 3 2020 Tuesday,0.0
+337,578,Chuck,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 3 2020 Tuesday,0.05263157894736842
+338,578,Democrats,"[-1, 0, 1, 1, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1, -1, 0]",MSNBC MTP DAILY,November 3 2020 Tuesday,-0.15
+339,578,Trump,"[0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 3 2020 Tuesday,-0.16666666666666666
+340,578,Florida,"[0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",MSNBC MTP DAILY,November 3 2020 Tuesday,0.058823529411764705
+341,579,Clark County,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 5 2020 Thursday,0.0
+342,579,Biden,"[1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0]",MSNBC MTP DAILY,November 5 2020 Thursday,0.7
+343,579,INAUDIBLE,[],MSNBC MTP DAILY,November 5 2020 Thursday,
+344,579,Nevada,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 5 2020 Thursday,0.0
+345,579,Trump,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 5 2020 Thursday,-0.0625
+346,580,Trump,"[0, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 9 2020 Monday,-0.15
+347,580,Esper,"[-1, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1, 0, -1, 0, -1, 0]",MSNBC MTP DAILY,November 9 2020 Monday,-0.4375
+348,580,Biden,"[1, 1, 0, 0, 1, 0, -1, 1, 0, 1, 1, -1, 1, 0, 0, 0]",MSNBC MTP DAILY,November 9 2020 Monday,0.3125
+349,580,Joe Biden,"[0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, -1]",MSNBC MTP DAILY,November 9 2020 Monday,0.07142857142857142
+350,580,Kasie,"[0, 0, 0, 0]",MSNBC MTP DAILY,November 9 2020 Monday,0.0
+351,615,Truman,"[0, 0, 0, 1, 0, 0, 0, 0, 1, -1, 0, 1, 1, 0, 0, 0, 0, 0, 0]",MSNBC MORNING JOE,November 27 2020 Friday,0.15789473684210525
+352,615,Harry Truman,"[1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1]",MSNBC MORNING JOE,November 27 2020 Friday,0.3333333333333333
+353,615,Joe Biden,"[0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",MSNBC MORNING JOE,November 27 2020 Friday,0.3
+354,615,Joe,"[0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]",MSNBC MORNING JOE,November 27 2020 Friday,0.375
+355,615,American,"[0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1]",MSNBC MORNING JOE,November 27 2020 Friday,0.6428571428571429
+356,619,Arizona,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.15789473684210525
+357,619,Wisconsin,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.05
+358,619,Trump,"[1, 0, 0, 0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.05555555555555555
+359,619,Donald Trump,"[-1, -1, 0, -1, 0, -1, -1, -1, 0, 0, 1, -1, 1, -1, 0, -1, -1, 0, 1, -1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.4
+360,619,Biden,"[1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.15
+361,620,Biden,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+362,620,North Carolina,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.15
+363,620,Democrats,"[1, 0, -1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, -1, 1, -1, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.3
+364,620,Texas,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+365,620,Trump,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.1
+366,621,Florida,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+367,621,Trump,"[0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, -1, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.10526315789473684
+368,621,Biden,"[1, 0, 0, -1, 0, -1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, -1, 1, -1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.10526315789473684
+369,621,Democrats,"[-1, -1, -1, 0, 0, 0, 1, 0, -1, 0, 1, 0, 0, 0, 0, -1, 0, -1, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.21052631578947367
+370,621,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+371,622,Biden,"[0, 0, 1, 1, 0, 0, -1, 1, 0, 0, 0, 1, -1, 0, 0, 0, 1, -1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.1111111111111111
+372,622,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.05
+373,622,Trump,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.17647058823529413
+374,622,Democrats,"[0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.35294117647058826
+375,622,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+376,623,Texas,"[-1, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0, 0, 1, -1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.07142857142857142
+377,623,Chris,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+378,623,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+379,623,Democrats,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, -1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+380,623,Joe Biden,"[0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.4
+381,624,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.058823529411764705
+382,624,Trump,"[0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.125
+383,624,Biden,"[0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.2631578947368421
+384,624,Michigan,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+385,624,Nevada,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.1
+386,625,Donald Trump,"[0, -1, -1, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, -1, -1, 0, -1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.5
+387,625,Florida,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.05
+388,625,Trump,"[-1, -1, 0, 0, 0, -1, 0, -1, 0, 0, -1, -1, -1, 0, -1, -1, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.47368421052631576
+389,625,Pennsylvania,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+390,625,Joe Biden,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, 1, 0, 0, 1, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+391,626,Pennsylvania,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.10526315789473684
+392,626,Trump,"[0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, -1, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.05
+393,626,Arizona,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.0
+394,626,Biden,"[1, -1, 1, 0, 1, 0, 0, -1, 0, 0, 1, -1, 0, 1, 0, 0, 1, 0, -1, -1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.05
+395,626,Joe Biden,"[0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.16666666666666666
+396,627,Georgia,"[0, -1, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.058823529411764705
+397,627,Joe Biden,"[-1, 0, 1, 0, 0, 0, 1, 0, 1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.3
+398,627,Biden,"[1, 0, 0, 1, 0, 1, 0, 1, -1, 0, 0, 1, 1, 1, 1, 0, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.47058823529411764
+399,627,Trump,"[-1, 0, 0, -1, 0, -1, 0, 0, -1, 0, 0, 0, -1, -1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.42857142857142855
+400,627,Arizona,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.0625
+401,628,Trump,"[-1, 0, 0, 1, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, -1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.10526315789473684
+402,628,Arizona,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.0625
+403,628,Pennsylvania,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1, -1, 0, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.2
+404,628,Biden,"[1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 1, -1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.2777777777777778
+405,628,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.0
+406,629,Trump,"[0, -1, 0, 0, 0, 1, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.21052631578947367
+407,629,Wisconsin,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.0
+408,629,Biden,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.1
+409,629,Michigan,"[-1, -1, 0, -1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.15789473684210525
+410,629,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.0
+411,630,Joe Biden,"[0, 1, 0, 0, -1, 0, 1, 1, 0, -1, 0, -1, 1, 1, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.13333333333333333
+412,630,Trump,"[0, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.5
+413,630,Biden,"[1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.47368421052631576
+414,630,Donald Trump,"[0, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 1, -1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.3
+415,630,Michigan,"[0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, -1, 1, 0, 0, 1, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.2777777777777778
+416,631,Trump,"[0, -1, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.10526315789473684
+417,631,Pennsylvania,"[0, 0, 0, 1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, -1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.2
+418,631,Biden,"[0, 1, 0, 0, 0, 0, -1, 1, 1, 0, 1, -1, 0, 1, 1, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.3125
+419,631,Wisconsin,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.1
+420,631,Donald Trump,"[0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0, -1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.35
+421,632,Trump,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.2222222222222222
+422,632,Pennsylvania,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.05
+423,632,Biden,"[1, -1, 0, 0, 1, 1, -1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.35
+424,632,Wisconsin,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.25
+425,632,Donald Trump,"[0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, -1, -1, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.2631578947368421
+426,633,Trump,"[0, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.21052631578947367
+427,633,Pennsylvania,"[0, 0, 0, 0, 0, 0, 1, -1, 0, 1, 0, 0, 1, -1, -1, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.0
+428,633,Biden,"[0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, -1, -1, 1, 1, 1, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.3684210526315789
+429,633,Joe Biden,"[0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.45
+430,633,Arizona,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.05263157894736842
+431,634,Joe Biden,"[0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.45
+432,634,Donald Trump,"[0, 0, 0, -1, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, 0, -1, -1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.4
+433,634,Trump,"[-1, -1, -1, 0, -1, -1, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, -1, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,-0.4
+434,634,Wisconsin,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.0
+435,634,Michigan,"[1, -1, 0, -1, 0, 1, 0, -1, 1, 1, 1, 1]",MSNBC MSNBC LIVE,November 4 2020 Wednesday,0.25
+436,635,Joe Biden,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 7 2020 Saturday,0.25
+437,635,Biden,"[0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, -1, 0]",MSNBC MSNBC LIVE,November 7 2020 Saturday,0.4444444444444444
+438,635,Georgia,"[0, 1, 0, -1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0]",MSNBC MSNBC LIVE,November 7 2020 Saturday,0.3157894736842105
+439,635,Trump,"[-1, 0, 0, 0, 0, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1]",MSNBC MSNBC LIVE,November 7 2020 Saturday,-0.625
+440,635,Kamala Harris,"[0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0]",MSNBC MSNBC LIVE,November 7 2020 Saturday,0.4117647058823529
+441,636,Georgia,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.05263157894736842
+442,636,Biden,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.10526315789473684
+443,636,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,-0.05263157894736842
+444,636,Trump,"[0, -1, -1, 0, 0, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, 0, -1, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,-0.3157894736842105
+445,636,Philadelphia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, -1, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.0
+446,637,Arizona,"[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.13333333333333333
+447,637,Pennsylvania,"[0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,-0.125
+448,637,Biden,"[0, 1, -1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.3
+449,637,Joe Biden,"[0, 0, 1, 0, 0, 1, 1, 1, 0, -1, 0, 1, 0, 0, 1, 1, 0, 0, 1]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.3684210526315789
+450,637,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.0
+451,718,Trump,"[0, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1, -1, 0, -1, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,-0.3684210526315789
+452,718,Biden,"[0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.65
+453,718,Nevada,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.0
+454,718,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.0
+455,718,Joe Biden,"[0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.5
+456,740,Joe Biden,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.1
+457,740,Donald Trump,"[-1, 0, -1, 0, -1, -1, 0, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.7
+458,740,Trump,"[-1, 0, -1, 0, -1, -1, 0, 0, -1, 0, 0, 0, -1, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.42857142857142855
+459,740,Pennsylvania,"[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.1875
+460,740,American,"[0, 0, -1, -1, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.3157894736842105
+461,741,Biden,"[1, -1, 0, 0, 1, 1, 0, 0, -1, 1, 0, -1, 0, 0, 1, 1, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.17647058823529413
+462,741,Pennsylvania,"[1, 0, 0, 1, 1, -1, 1, 0, 1, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.4
+463,741,Trump,"[-1, 0, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.5263157894736842
+464,741,Joe Biden,"[0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.3888888888888889
+465,741,Brian,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.0
+466,742,Trump,"[-1, -1, 0, -1, 0, 0, 0, -1, -1, -1, 0, 1, -1, 0, 0, 0, -1, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.4444444444444444
+467,742,Arizona,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.05555555555555555
+468,742,Biden,"[1, 1, -1, 0, 0, 0, 1, 0, 1, 1, 1, 0, -1, 1, 1, 1, 1, -1, 0, 1]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.4
+469,742,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.05263157894736842
+470,742,Joe Biden,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.10526315789473684
+471,743,Biden,"[1, 0, 0, 0, 0, -1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.4
+472,743,Trump,"[-1, -1, 0, -1, 0, -1, 0, 0, 1, 0, -1, -1, 0, -1, 0, 0, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.3888888888888889
+473,743,Nevada,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.0
+474,743,Pennsylvania,"[1, 1, 0, 0, 0, 1, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.3
+475,743,Ari,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.06666666666666667
+476,744,Pennsylvania,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.125
+477,744,Biden,"[1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.3
+478,744,Joe Biden,"[1, 0, 1, 1, 1, 0, -1, 1, -1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.5263157894736842
+479,744,Donald Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.05
+480,744,Trump,"[-1, 0, 0, -1, 0, 0, 0, -1, -1, -1, 0, -1, -1, -1, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.5333333333333333
+481,745,Joe Biden,"[-1, 0, 0, 1, 1, 0, 1, 1, -1, 1, 1, 1, 1, 1, -1, 1, 0, 1, 1]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.47368421052631576
+482,745,Pennsylvania,"[0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, 0, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.11764705882352941
+483,745,Arizona,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.07142857142857142
+484,745,Donald Trump,"[0, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.5294117647058824
+485,745,Biden,"[1, 1, 0, 0, 0, -1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.6111111111111112
+486,746,Joe Biden,"[0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.10526315789473684
+487,746,Pennsylvania,"[1, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.1875
+488,746,Trump,"[0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.1875
+489,746,Donald Trump,"[-1, 1, -1, 0, 0, 1, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1, -1, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.3157894736842105
+490,746,Biden,"[1, 0, 0, 1, -1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.2777777777777778
+491,747,Joe Biden,"[0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, -1, -1, 1, 1, 1, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.25
+492,747,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.0
+493,747,Donald Trump,"[0, 0, -1, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.15789473684210525
+494,747,Biden,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 6 2020 Friday,0.0
+495,747,Trump,"[0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1]",MSNBC MSNBC LIVE,November 6 2020 Friday,-0.21052631578947367
+496,748,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.05
+497,748,Biden,"[0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, -1, 1, 1, 1, 1]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.5
+498,748,Trump,"[0, 0, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,-0.2
+499,748,Arizona,"[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 1, 0, 1, 1, -1, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.16666666666666666
+500,748,Joe Biden,"[1, 1, -1, 1, 1, 1, 0, 0, 1, 0, 1, -1, 1, 0, 1, 1, -1, -1]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.3333333333333333
+501,749,Pennsylvania,"[0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.0
+502,749,Biden,"[1, 1, 1, -1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, -1, 1, 1, 1, 1]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.5789473684210527
+503,749,Georgia,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.05263157894736842
+504,749,Joe Biden,"[1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.5
+505,749,Philadelphia,"[0, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, 1, 1, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 5 2020 Thursday,0.1111111111111111
+506,770,Florida,"[0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.05
+507,770,Trump,"[0, -1, -1, 0, 0, 0, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,-0.5625
+508,770,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.10526315789473684
+509,770,Biden,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.0
+510,770,Democrats,"[0, 1, -1, 1, 0, 0, 0, 1, 0, 1, 1, 1, -1, 1]",MSNBC MSNBC LIVE,November 3 2020 Tuesday,0.35714285714285715
+511,947,South Bend,[],MSNBC MSNBC LIVE,November 19 2020 Thursday,
+512,947,Indiana,[],MSNBC MSNBC LIVE,November 19 2020 Thursday,
+513,947,Pete Buttigieg,"[0, 0, 0, 0]",MSNBC MSNBC LIVE,November 19 2020 Thursday,0.0
+514,947,Joe Biden,"[0, 1, 1, 0, 0, 1, 1]",MSNBC MSNBC LIVE,November 19 2020 Thursday,0.5714285714285714
+515,947,Pete,"[0, 1, 0, -1, 0, 1]",MSNBC MSNBC LIVE,November 19 2020 Thursday,0.16666666666666666
+516,979,Georgia,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",MSNBC POLITICS NATION,November 14 2020 Saturday,0.1
+517,979,Trump,"[-1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0]",MSNBC POLITICS NATION,November 14 2020 Saturday,-0.7058823529411765
+518,979,Biden,"[1, 1, -1, -1, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0]",MSNBC POLITICS NATION,November 14 2020 Saturday,0.0
+519,979,Congress,"[-1, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0]",MSNBC POLITICS NATION,November 14 2020 Saturday,-0.09090909090909091
+520,979,Republicans,"[-1, -1, 0, 0, -1]",MSNBC POLITICS NATION,November 14 2020 Saturday,-0.6
+521,980,Michigan,"[-1, 0, 0, -1, 1, 0, 1, 0, -1, 0, 0, 1]",MSNBC POLITICS NATION,November 21 2020 Saturday,0.0
+522,980,Confederate,"[0, 0, 0, -1, -1, 0, 0, 0, -1]",MSNBC POLITICS NATION,November 21 2020 Saturday,-0.3333333333333333
+523,980,Trump,"[-1, 0, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1]",MSNBC POLITICS NATION,November 21 2020 Saturday,-0.8
+524,980,Republicans,"[-1, 1, -1, 0, -1, 0, 0]",MSNBC POLITICS NATION,November 21 2020 Saturday,-0.2857142857142857
+525,980,Sharpton,"[1, 0, 0, 1, 1]",MSNBC POLITICS NATION,November 21 2020 Saturday,0.6
+526,981,Biden,"[1, 0, 1, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, 0, -1, 1, -1, 0, 1, 1]",MSNBC POLITICS NATION,November 28 2020 Saturday,0.15
+527,981,Joe Biden,"[1, 0, 0, 0, 1, 0, 1, 0, 0, -1]",MSNBC POLITICS NATION,November 28 2020 Saturday,0.2
+528,981,New York,"[0, -1, -1, 1, 0, 1]",MSNBC POLITICS NATION,November 28 2020 Saturday,0.0
+529,981,Trump,"[0, -1, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1]",MSNBC POLITICS NATION,November 28 2020 Saturday,-0.6470588235294118
+530,981,Harry Truman,"[0, 0, 0, 1, 1, 0, 0, 1, 1]",MSNBC POLITICS NATION,November 28 2020 Saturday,0.4444444444444444
+531,1030,Pennsylvania,"[0, 0, 0, 0, 0, 0, 1, 1, 0, -1, -1, 0, 0, 0, 1, 0, 0, -1, 0, 1]",MSNBC POLITICS NATION,November 1 2020 Sunday,0.05
+532,1030,Donald Trump,"[0, 1, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, -1]",MSNBC POLITICS NATION,November 1 2020 Sunday,-0.3333333333333333
+533,1030,Michigan,"[0, 0, 0, 1, 1, 1, 0, 0, -1, 0, 0, 0, 0]",MSNBC POLITICS NATION,November 1 2020 Sunday,0.15384615384615385
+534,1030,Philadelphia,"[0, 0, 0, 0, 0, -1, -1, 0, -1, 0, 1]",MSNBC POLITICS NATION,November 1 2020 Sunday,-0.18181818181818182
+535,1030,Joe Biden,"[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]",MSNBC POLITICS NATION,November 1 2020 Sunday,0.18181818181818182
+536,1031,Trump,"[-1, -1, 0, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",MSNBC POLITICS NATION,November 15 2020 Sunday,-0.7058823529411765
+537,1031,Republicans,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0]",MSNBC POLITICS NATION,November 15 2020 Sunday,-0.8333333333333334
+538,1031,Biden,"[-1, -1, -1, -1, 0, 0, 0, 1, 0, 0, -1, 0, 0, 1, -1, 1, 1, 1, 0]",MSNBC POLITICS NATION,November 15 2020 Sunday,-0.05263157894736842
+539,1031,Georgia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]",MSNBC POLITICS NATION,November 15 2020 Sunday,0.2857142857142857
+540,1031,I`m,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1]",MSNBC POLITICS NATION,November 15 2020 Sunday,0.0
+541,1032,We`ve,"[0, 0, 0, -1, 0, -1, -1, 0, 1, 0]",MSNBC POLITICS NATION,November 22 2020 Sunday,-0.2
+542,1032,Americans,"[-1, -1, 1, -1, -1, -1, -1, 0, -1]",MSNBC POLITICS NATION,November 22 2020 Sunday,-0.6666666666666666
+543,1032,Trump,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0]",MSNBC POLITICS NATION,November 22 2020 Sunday,-0.875
+544,1032,America,"[-1, -1, 1, -1, 0, -1, 0, -1, 1, -1, -1, -1, -1, -1, -1, -1]",MSNBC POLITICS NATION,November 22 2020 Sunday,-0.625
+545,1032,I`m,"[1, 1, 1, 1, 1, -1, 0, 0, 1, -1, 0]",MSNBC POLITICS NATION,November 22 2020 Sunday,0.36363636363636365
+546,1033,Georgia,"[1, 0, 1, 0, 0, -1, -1, 0, -1, 0, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0]",MSNBC POLITICS NATION,November 29 2020 Sunday,-0.25
+547,1033,Trump,"[-1, 0, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, 0, -1]",MSNBC POLITICS NATION,November 29 2020 Sunday,-0.6
+548,1033,Joe Biden,"[0, 1, 0, 1, 1, 0, 1, 0]",MSNBC POLITICS NATION,November 29 2020 Sunday,0.5
+549,1033,Senate,"[0, 0, -1, 0, 0, 0, 1, 0]",MSNBC POLITICS NATION,November 29 2020 Sunday,0.0
+550,1033,Biden,"[1, 0, -1, 0, 1, 0, -1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0]",MSNBC POLITICS NATION,November 29 2020 Sunday,0.2631578947368421
+551,1034,Joe Biden,"[0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]",MSNBC POLITICS NATION,November 8 2020 Sunday,0.3888888888888889
+552,1034,Senate,"[-1, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, -1]",MSNBC POLITICS NATION,November 8 2020 Sunday,-0.14285714285714285
+553,1034,Georgia,"[1, 0, 0, -1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0]",MSNBC POLITICS NATION,November 8 2020 Sunday,0.35714285714285715
+554,1034,Michigan,"[0, 1, 0, 0, 1, 1, 1, 1, 1, -1]",MSNBC POLITICS NATION,November 8 2020 Sunday,0.5
+555,1034,Kamala Harris,"[0, -1, 0, 0, 0, 0, 1, 0]",MSNBC POLITICS NATION,November 8 2020 Sunday,0.0
+556,1057,U.S.,"[-1, 0]",MSNBC MSNBC LIVE,November 23 2020 Monday,-0.5
+557,1057,FDA,"[1, 0]",MSNBC MSNBC LIVE,November 23 2020 Monday,0.5
+558,1057,Ruud,"[0, 0, 0, 1]",MSNBC MSNBC LIVE,November 23 2020 Monday,0.25
+559,1065,Trump,"[-1, 0, -1, 0, -1, 0, 0, -1, 0, -1, -1, 0, 0, 0, -1, -1, 0, -1, 0]",MSNBC MTP DAILY,November 30 2020 Monday,-0.47368421052631576
+560,1065,Biden,"[0, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0]",MSNBC MTP DAILY,November 30 2020 Monday,-0.1
+561,1065,Georgia,"[-1, -1, 0, 0, -1, -1, -1, 0, 0, -1, 0, 0, -1, 0, -1, 0]",MSNBC MTP DAILY,November 30 2020 Monday,-0.5
+562,1065,Senate,"[0, 0, 0, 0, 0, -1, -1, 0, -1, -1]",MSNBC MTP DAILY,November 30 2020 Monday,-0.4
+563,1065,Kasie,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",MSNBC MTP DAILY,November 30 2020 Monday,0.08333333333333333
+564,1251,Trump,"[0, 0, 0, -1, 0, -1, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 5 2020 Thursday,-0.35
+565,1251,Joe Biden,"[0, 1, 1, 0, 0, 0, 0, 1, -1, 1, 0, 0, 0, 1, 0, -1, 0, -1, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 5 2020 Thursday,0.15
+566,1251,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 5 2020 Thursday,0.0
+567,1251,Philadelphia,"[0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 5 2020 Thursday,-0.05263157894736842
+568,1251,Brian,"[0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 5 2020 Thursday,-0.07692307692307693
+569,1252,Trump,"[0, 0, -1, 0, 0, -1, -1, 0, 0, 1, -1, -1, 0, -1, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 9 2020 Monday,-0.4375
+570,1252,Biden,"[1, -1, 0, -1, 1, 0, 0, 0, 1, 0, 1, 1, -1, -1, 1, 1, 1, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 9 2020 Monday,0.2631578947368421
+571,1252,Brian,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 9 2020 Monday,0.0
+572,1252,Donald Trump,"[-1, 0, 0, -1, 0, 0, 0, -1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 9 2020 Monday,-0.3333333333333333
+573,1252,the Republican Party,"[0, 0, -1, 0, -1, 0, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 9 2020 Monday,-0.4444444444444444
+574,1253,Trump,"[0, -1, -1, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1, 0, -1, 0, -1, -1, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 10 2020 Tuesday,-0.5
+575,1253,Biden,"[0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, -1, 0, -1, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 10 2020 Tuesday,0.17647058823529413
+576,1253,Republicans,"[0, 0, -1, 0, 0, -1, 0, 1, 0, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 10 2020 Tuesday,-0.25
+577,1253,Joe Biden,"[1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 10 2020 Tuesday,0.6363636363636364
+578,1253,Democrats,"[0, 0, -1, -1, 1, -1, -1, -1, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 10 2020 Tuesday,-0.6
+579,1254,Trump,"[0, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 11 2020 Wednesday,-0.2222222222222222
+580,1254,Biden,"[-1, -1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 1, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 11 2020 Wednesday,0.05555555555555555
+581,1254,Brian,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 11 2020 Wednesday,0.0
+582,1254,Joe Biden,"[0, 1, -1, 0, -1, 0, 0, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 11 2020 Wednesday,0.0
+583,1254,the White House,"[0, -1, 0, 0, 0, 0, -1, -1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 11 2020 Wednesday,-0.3333333333333333
+584,1255,Joe Biden,"[1, 0, 0, 0, 0, -1, -1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 12 2020 Thursday,0.35294117647058826
+585,1255,Donald Trump,"[-1, -1, 0, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 12 2020 Thursday,-0.6666666666666666
+586,1255,Brian,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 12 2020 Thursday,-0.07142857142857142
+587,1255,Trump,"[-1, -1, 0, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 12 2020 Thursday,-0.7058823529411765
+588,1255,Biden,"[0, -1, -1, 0, 1, -1, 0, 1, 1, -1, 0, 0, 0, 1, 0, -1, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 12 2020 Thursday,0.0
+589,1256,Trump,"[0, -1, -1, -1, -1, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, -1, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 13 2020 Friday,-0.5
+590,1256,American,"[0, 0, -1, 0, 0, -1, 1, -1, 0, 0, 1, 0, -1, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 13 2020 Friday,-0.13333333333333333
+591,1256,Brian,"[0, 0, 0, 0, 0, 0, 0, 1, -1, -1, 0, 1, 0, -1, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 13 2020 Friday,-0.0625
+592,1256,Joe Biden,"[1, 0, 1, 0, 1, 0, 1, 1, 1, -1, 0, 1, 1, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 13 2020 Friday,0.5714285714285714
+593,1256,Donald Trump,"[0, 0, -1, -1, -1, -1, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 13 2020 Friday,-0.75
+594,1257,Trump,"[-1, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 16 2020 Monday,-0.5882352941176471
+595,1257,Joe Biden,"[0, 0, 1, 1, 0, -1, -1, 0, 0, -1, -1, -1, -1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 16 2020 Monday,-0.2857142857142857
+596,1257,Georgia,"[0, 0, 0, 0, -1, 0, 0, 0, 1, 1, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 16 2020 Monday,0.18181818181818182
+597,1257,Afghanistan,"[-1, -1, -1, -1, -1, 0, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 16 2020 Monday,-0.75
+598,1257,That`s,"[-1, 0, 0, 0, -1, 0, 0, -1, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 16 2020 Monday,-0.3
+599,1258,Trump,"[1, 0, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 17 2020 Tuesday,-0.5263157894736842
+600,1258,Donald Trump,"[-1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, 0, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 17 2020 Tuesday,-0.6875
+601,1258,Iraq,"[0, 0, -1, 0, -1, -1, 0, 0, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 17 2020 Tuesday,-0.4
+602,1258,Lindsey Graham,"[-1, 0, -1, 0, -1, -1, 0, 0, 0, -1, -1, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 17 2020 Tuesday,-0.5384615384615384
+603,1258,Afghanistan,"[0, 0, 0, 0, 0, -1, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 17 2020 Tuesday,-0.125
+604,1259,Trump,"[0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 18 2020 Wednesday,-0.9411764705882353
+605,1259,Biden,"[0, -1, 0, 0, -1, 1, 0, 0, 0, 0, 1, 1, 0, -1, -1, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 18 2020 Wednesday,-0.17647058823529413
+606,1259,Brian,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 18 2020 Wednesday,0.0
+607,1259,Sioux City,"[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 18 2020 Wednesday,0.14285714285714285
+608,1259,There`s,"[0, -1, -1, -1, 0, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 18 2020 Wednesday,-0.625
+609,1260,Trump,"[-1, -1, 0, 0, -1, -1, 0, 0, -1, -1, 0, 0, -1, 0, -1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 19 2020 Thursday,-0.5
+610,1260,Brian,"[0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 19 2020 Thursday,0.13333333333333333
+611,1260,Joe Biden,"[0, -1, -1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 19 2020 Thursday,0.1875
+612,1260,Biden,"[0, 1, 1, -1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 19 2020 Thursday,0.21052631578947367
+613,1260,Obama,"[0, 0, 0, 0, 0, 0, -1, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 19 2020 Thursday,-0.1111111111111111
+614,1261,Trump,"[-1, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 2 2020 Monday,-0.3125
+615,1261,Pennsylvania,"[0, -1, 0, 0, -1, 1, 0, -1, 1, 0, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 2 2020 Monday,0.0
+616,1261,Democrats,"[1, 1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 2 2020 Monday,0.08333333333333333
+617,1261,Joe Biden,"[1, 0, -1, -1, 0, 1, 1, 1, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 2 2020 Monday,0.3333333333333333
+618,1261,That`s,"[0, -1, -1, -1, 0, -1, 0, -1, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 2 2020 Monday,-0.4166666666666667
+619,1262,Trump,"[0, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 20 2020 Friday,-0.7368421052631579
+620,1262,Biden,"[-1, -1, 0, 0, 0, -1, 0, -1, 0, -1, -1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 20 2020 Friday,-0.5
+621,1262,Brian,"[0, 0, 0, 0, 0, 0, 1, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 20 2020 Friday,0.25
+622,1262,Georgia,"[1, 0, 0, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 20 2020 Friday,-0.16666666666666666
+623,1262,the White House,"[0, -1, -1, -1, 1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 20 2020 Friday,-0.3333333333333333
+624,1263,Trump,"[0, 0, 0, 1, 0, -1, 0, -1, 0, -1, -1, -1, 0, -1, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 23 2020 Monday,-0.3125
+625,1263,Biden,"[0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 23 2020 Monday,0.25
+626,1263,Joe Biden,"[1, 0, 0, 0, 0, -1, 1, 0, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 23 2020 Monday,0.2
+627,1263,Brian,"[0, 0, 0, 0, 0, 1, 0, 1, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 23 2020 Monday,0.3333333333333333
+628,1263,I`m,"[-1, -1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 23 2020 Monday,0.08333333333333333
+629,1264,Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 24 2020 Tuesday,0.0
+630,1264,Biden,"[-1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 24 2020 Tuesday,0.0
+631,1264,Joe Biden,"[0, 1, -1, 0, 0, 0, 0, 0, -1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 24 2020 Tuesday,-0.1
+632,1264,America,"[1, 1, 1, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 24 2020 Tuesday,0.16666666666666666
+633,1264,the Republican Party,"[-1, -1, -1, 0, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 24 2020 Tuesday,-0.7142857142857143
+634,1265,Joe Biden,"[-1, -1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 25 2020 Wednesday,0.21052631578947367
+635,1265,Trump,"[0, -1, 0, -1, 0, 0, 0, -1, 0, 0, -1, 0, -1, 0, -1, -1, 0, -1, -1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 25 2020 Wednesday,-0.45
+636,1265,Pennsylvania,"[0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 25 2020 Wednesday,-0.16666666666666666
+637,1265,Republicans,"[0, 0, 0, 0, 0, 1, -1, -1, -1, 0, 0, -1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 25 2020 Wednesday,-0.23076923076923078
+638,1265,House,"[0, 0, 1, 1, -1, 0, 0, -1, 0, 1, -1, -1, -1, 0, 1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 25 2020 Wednesday,-0.0625
+639,1266,Trump,"[-1, -1, -1, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 30 2020 Monday,-0.7058823529411765
+640,1266,Republican,"[0, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1, 0, 1, -1, -1, 0, 0, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 30 2020 Monday,-0.47368421052631576
+641,1266,Joe Biden,"[0, 0, 0, -1, 0, 1, -1, 1, 1, 0, 1, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 30 2020 Monday,0.07692307692307693
+642,1266,Republicans,"[0, 0, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 30 2020 Monday,-0.4166666666666667
+643,1266,Biden,"[-1, 0, 0, 1, -1, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 30 2020 Monday,-0.05555555555555555
+644,1267,Donald Trump,"[-1, -1, 0, 0, 0, -1, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, -1, 0, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 4 2020 Wednesday,-0.35
+645,1267,Joe Biden,"[1, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, 1, 0, -1, -1, 1, 0, 1, 1, 1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 4 2020 Wednesday,0.25
+646,1267,Biden,"[0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 4 2020 Wednesday,0.2222222222222222
+647,1267,Trump,"[1, -1, 0, 0, 0, -1, 1, -1, -1, -1, 0, -1, -1]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 4 2020 Wednesday,-0.38461538461538464
+648,1267,Pennsylvania,"[0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC 11TH HOUR WITH BRIAN WILLIAMS,November 4 2020 Wednesday,-0.13333333333333333
+649,1309,Trump,"[-1, 0, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 27 2020 Friday,-0.5714285714285714
+650,1309,Donald Trump,"[-1, 0, -1, 0, -1, -1, 0, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 27 2020 Friday,-0.47058823529411764
+651,1309,Biden,"[1, 0, 1, 1, -1, -1, 0, 1, 0, 0, 1, 1, 1]",MSNBC THE BEAT WITH ARI MELBER,November 27 2020 Friday,0.38461538461538464
+652,1309,Bob Weir,"[1, 0, 0, 1, 1, 1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 27 2020 Friday,0.5714285714285714
+653,1309,T.V.,"[-1, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 27 2020 Friday,-1.0
+654,1500,Trump,"[-1, -1, -1, 0, 0, 0, 0, 1, 0, -1, -1, -1, -1, 0, -1, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 10 2020 Tuesday,-0.5294117647058824
+655,1500,Donald Trump,"[-1, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, 0, -1, 0, -1, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 10 2020 Tuesday,-0.6470588235294118
+656,1500,Barr,"[-1, -1, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 10 2020 Tuesday,-0.4117647058823529
+657,1500,Biden,"[1, 0, 1, 0, 0, 0, 0, -1, 0, 1, 1, 1, 0, 1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 10 2020 Tuesday,0.3333333333333333
+658,1500,Ari,"[0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 10 2020 Tuesday,-0.07142857142857142
+659,1501,Trump,"[-1, -1, -1, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, 0, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 11 2020 Wednesday,-0.6111111111111112
+660,1501,Donald Trump,"[0, 0, 0, -1, -1, 0, -1, -1, 0, -1, 0, -1, 0, -1, 0, -1, 0, 0, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 11 2020 Wednesday,-0.5
+661,1501,Joe Biden,"[1, 0, -1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, -1, 0, 0, 1, 1]",MSNBC THE BEAT WITH ARI MELBER,November 11 2020 Wednesday,0.35
+662,1501,Biden,"[0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 11 2020 Wednesday,0.3157894736842105
+663,1501,Republicans,"[-1, -1, -1, -1, 0, 0, -1, 0, 0, 0, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 11 2020 Wednesday,-0.5
+664,1502,Donald Trump,"[0, -1, -1, 0, 0, -1, 0, -1, 0, 0, 0, -1, 0, 0, -1, 0, 0, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 12 2020 Thursday,-0.42105263157894735
+665,1502,Trump,"[-1, -1, -1, -1, 0, -1, -1, -1, 0, -1, 0, -1, 0, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 12 2020 Thursday,-0.6666666666666666
+666,1502,Biden,"[0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, -1, 1, -1, 1, 1]",MSNBC THE BEAT WITH ARI MELBER,November 12 2020 Thursday,0.35294117647058826
+667,1502,There`s,"[0, 0, 0, 0, 0, 1, 0, 1, -1, -1, 1]",MSNBC THE BEAT WITH ARI MELBER,November 12 2020 Thursday,0.09090909090909091
+668,1502,Joe Biden,"[0, 1, 0, 0, 1, 1, 0, 1, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 12 2020 Thursday,0.4
+669,1503,Trump,"[-1, -1, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0, 0, -1, 0, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 13 2020 Friday,-0.5294117647058824
+670,1503,Donald Trump,"[-1, 0, -1, -1, 0, -1, 0, 0, -1, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 13 2020 Friday,-0.5789473684210527
+671,1503,Joe,"[0, 1, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 13 2020 Friday,-0.05263157894736842
+672,1503,Joe Biden,"[1, 1, 1, -1, 0, 0, 0, 1, 0, 0, 0, 0, -1, 0, 1]",MSNBC THE BEAT WITH ARI MELBER,November 13 2020 Friday,0.2
+673,1503,Obama,"[1, 0, 0, 1, 0, 0, 0, 0, 0, 0, -1, -1, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 13 2020 Friday,-0.07142857142857142
+674,1504,Trump,"[0, -1, 0, 0, -1, -1, -1, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 16 2020 Monday,-0.5555555555555556
+675,1504,Donald Trump,"[0, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 16 2020 Monday,-0.6666666666666666
+676,1504,Ari,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 16 2020 Monday,0.0
+677,1504,Biden,"[1, 0, 1, 0, 0, 0, -1, 0, -1, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 16 2020 Monday,-0.2
+678,1504,Joe Biden,"[0, 1, 1, -1, -1, -1, 1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 16 2020 Monday,0.0
+679,1505,Trump,"[-1, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 17 2020 Tuesday,-0.7777777777777778
+680,1505,Republican,"[-1, 0, -1, -1, -1, 0, -1, -1, -1, -1, 0, 1, -1, 0, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 17 2020 Tuesday,-0.625
+681,1505,Donald Trump,"[-1, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 17 2020 Tuesday,-0.8125
+682,1505,Lindsey Graham,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 17 2020 Tuesday,-0.7692307692307693
+683,1505,Ari,"[0, 0, 0, 0, 1, -1, 1, -1, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 17 2020 Tuesday,0.0
+684,1506,Trump,"[0, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, 1, -1, 0, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 18 2020 Wednesday,-0.5294117647058824
+685,1506,Donald Trump,"[-1, -1, -1, 0, 0, -1, -1, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 18 2020 Wednesday,-0.47368421052631576
+686,1506,Biden,"[0, 1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 18 2020 Wednesday,-0.16666666666666666
+687,1506,That`s,"[0, 0, -1, 0, 0, 0, 0, 1, 1, -1, 0, 1]",MSNBC THE BEAT WITH ARI MELBER,November 18 2020 Wednesday,0.08333333333333333
+688,1506,Georgia,"[0, -1, 0, -1, 0, -1, -1, -1, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 18 2020 Wednesday,-0.6
+689,1507,Donald Trump,"[-1, 0, -1, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1, -1, -1, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 19 2020 Thursday,-0.5882352941176471
+690,1507,Trump,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 19 2020 Thursday,-0.8235294117647058
+691,1507,Republican,"[1, 0, -1, 0, 0, 0, -1, -1, 0, -1, -1, 0, 0, 1, 0, 0, -1, 0, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 19 2020 Thursday,-0.3
+692,1507,Larry,"[1, 1, 0, 1, 0, 0, 1, 0, -1, 1, 0, 1]",MSNBC THE BEAT WITH ARI MELBER,November 19 2020 Thursday,0.4166666666666667
+693,1507,Ari,[],MSNBC THE BEAT WITH ARI MELBER,November 19 2020 Thursday,
+694,1508,Joe Biden,"[1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 2 2020 Monday,0.45
+695,1508,Donald Trump,"[0, 0, 0, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1, 0, 0, -1, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 2 2020 Monday,-0.3888888888888889
+696,1508,Biden,"[0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1]",MSNBC THE BEAT WITH ARI MELBER,November 2 2020 Monday,0.375
+697,1508,Florida,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 2 2020 Monday,0.125
+698,1508,Trump,"[-1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, -1, 1, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 2 2020 Monday,-0.2
+699,1509,Donald Trump,"[0, 0, 0, 0, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, 0, -1, -1, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 20 2020 Friday,-0.47368421052631576
+700,1509,Trump,"[-1, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, -1, 0, -1, -1, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 20 2020 Friday,-0.47058823529411764
+701,1509,COVID,"[-1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 20 2020 Friday,-0.125
+702,1509,Katy,"[0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 20 2020 Friday,0.16666666666666666
+703,1509,Rudy Giuliani,"[0, 0, 0, 0, 0, -1, 0, -1, -1, 0, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 20 2020 Friday,-0.3333333333333333
+704,1510,Trump,"[0, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 23 2020 Monday,-0.35294117647058826
+705,1510,Georgia,"[-1, 1, 0, 0, 1, 0, -1, -1, 0, -1, -1, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 23 2020 Monday,-0.2
+706,1510,Joe Biden,"[1, -1, 1, 1, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 23 2020 Monday,0.125
+707,1510,Biden,"[0, -1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1]",MSNBC THE BEAT WITH ARI MELBER,November 23 2020 Monday,0.45
+708,1510,Ari,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 23 2020 Monday,0.06666666666666667
+709,1511,Biden,"[-1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, -1, 0, 1, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 24 2020 Tuesday,0.05555555555555555
+710,1511,Trump,"[-1, 0, 0, 0, 0, -1, 1, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 24 2020 Tuesday,-0.2777777777777778
+711,1511,Donald Trump,"[0, -1, -1, 0, 0, 0, 0, 0, -1, 0, -1, -1, 0, -1, -1, -1, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 24 2020 Tuesday,-0.5
+712,1511,Joe Biden,"[0, 1, 1, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 24 2020 Tuesday,0.125
+713,1511,America,"[1, 0, -1, 1, 1, -1, 1, 1, 1, 1]",MSNBC THE BEAT WITH ARI MELBER,November 24 2020 Tuesday,0.5
+714,1512,Trump,"[0, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 25 2020 Wednesday,-0.4
+715,1512,Donald Trump,"[0, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1, 0, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 25 2020 Wednesday,-0.6
+716,1512,Flynn,"[0, 0, 0, 0, 0, -1, 1, -1, -1, -1, 0, -1, -1, -1, 1, 1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 25 2020 Wednesday,-0.23529411764705882
+717,1512,Russia,"[0, -1, -1, 0, 0, 0, 0, -1, 0, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 25 2020 Wednesday,-0.45454545454545453
+718,1512,Mueller,"[1, 0, -1, 0, 0, 0, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 25 2020 Wednesday,-0.25
+719,1513,Trump,"[-1, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 30 2020 Monday,-0.75
+720,1513,Donald Trump,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 30 2020 Monday,-0.8823529411764706
+721,1513,Ari,"[0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 30 2020 Monday,0.38461538461538464
+722,1513,Americans,"[-1, -1, 1, -1, -1, 1, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 30 2020 Monday,-0.5
+723,1513,Biden,"[0, -1, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 30 2020 Monday,-0.058823529411764705
+724,1514,Trump,"[0, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1]",MSNBC THE BEAT WITH ARI MELBER,November 9 2020 Monday,-0.625
+725,1514,Donald Trump,"[0, 0, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, 0, 0, 0, 0, -1]",MSNBC THE BEAT WITH ARI MELBER,November 9 2020 Monday,-0.47058823529411764
+726,1514,Biden,"[1, 0, 0, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 9 2020 Monday,0.05
+727,1514,America,"[1, 1, -1, -1, 0, 0, 0, -1, 0, -1, -1, 0, 0, 1, 0]",MSNBC THE BEAT WITH ARI MELBER,November 9 2020 Monday,-0.13333333333333333
+728,1514,That`s,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE BEAT WITH ARI MELBER,November 9 2020 Monday,0.07692307692307693
+729,1569,Georgia,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 11 2020 Wednesday,-0.058823529411764705
+730,1569,Joe Biden,"[0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 11 2020 Wednesday,0.05263157894736842
+731,1569,Donald Trump,"[-1, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1, -1, 0, -1, 0, 0, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 11 2020 Wednesday,-0.7
+732,1569,Ron Klain,"[1, 0, 1, 1, 1, -1, 1, 0, 0, 1, 1, 0, 0, 1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 11 2020 Wednesday,0.4666666666666667
+733,1569,Senate,"[0, 0, 0, 0, 0, 1, 1, 1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 11 2020 Wednesday,0.375
+734,1710,Joe Biden,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 12 2020 Thursday,0.2
+735,1710,Republican,"[-1, 0, 0, 0, 0, 0, 1, 1, 0, 1, -1, 0, 1, 0, 0, -1, 0, -1, 1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 12 2020 Thursday,0.0
+736,1710,Ron Klain,"[1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 12 2020 Thursday,0.3684210526315789
+737,1710,Lawrence,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 12 2020 Thursday,0.058823529411764705
+738,1710,Biden,"[0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, 0, 1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 12 2020 Thursday,0.0
+739,1711,Trump,"[0, -1, 0, -1, 0, -1, -1, 0, -1, 0, -1, -1, 1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 16 2020 Monday,-0.46153846153846156
+740,1711,Georgia,"[0, 0, 0, -1, 0, -1, -1, -1, -1, -1, 1, 0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 16 2020 Monday,-0.3333333333333333
+741,1711,Nixon,"[-1, 0, -1, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 16 2020 Monday,-0.42105263157894735
+742,1711,Donald Trump,"[0, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 16 2020 Monday,-0.6666666666666666
+743,1711,Emily Murphy,"[0, -1, -1, 0, 0, -1, -1, -1, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 16 2020 Monday,-0.45
+744,1712,Donald Trump,"[-1, -1, -1, 0, 0, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 17 2020 Tuesday,-0.6842105263157895
+745,1712,Trump,"[-1, -1, -1, -1, -1, 0, -1, 1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 17 2020 Tuesday,-0.7222222222222222
+746,1712,Christopher Krebs,"[-1, 1, 0, 1, -1, 0, 0, 1, 1, -1, -1, -1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 17 2020 Tuesday,-0.07692307692307693
+747,1712,Joe Biden,"[1, 0, -1, -1, 0, 0, 0, 0, 1, 1, 1, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 17 2020 Tuesday,0.15384615384615385
+748,1712,Emily Murphy,"[0, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 17 2020 Tuesday,-0.6666666666666666
+749,1713,Donald Trump,"[-1, 0, -1, 0, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 2 2020 Monday,-0.6
+750,1713,Texas,"[0, -1, 0, 0, 0, 0, 0, 0, 1, -1, -1, 1, -1, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 2 2020 Monday,-0.125
+751,1713,Joe Biden,"[0, 1, 0, 0, 0, -1, 1, 0, 1, 0, 0, -1, 0, 0, 1, 0, 1, 1, 1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 2 2020 Monday,0.25
+752,1713,Georgia,"[0, 0, 1, 1, 0, 1, 1, 1, -1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 2 2020 Monday,0.4
+753,1713,Pennsylvania,"[0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 2 2020 Monday,-0.08333333333333333
+754,1714,Michigan,"[0, -1, -1, 0, 0, 0, 0, 1, 0, 1, -1, -1, 1, 1, 1, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 20 2020 Friday,0.058823529411764705
+755,1714,Joe Biden,"[0, 0, -1, 0, -1, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 20 2020 Friday,-0.26666666666666666
+756,1714,Emily Murphy,"[-1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 20 2020 Friday,-0.7777777777777778
+757,1714,Georgia,"[0, 1, 0, -1, 0, 0, 0, 0, -1, -1, 0, -1, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 20 2020 Friday,-0.21428571428571427
+758,1714,Lawrence,"[1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, -1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 20 2020 Friday,0.23076923076923078
+759,1715,Joe Biden,"[1, 0, 0, 0, 0, 0, 1, 0, -1, -1, -1, -1, 0, 0, -1, 0, 1, 1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 23 2020 Monday,-0.10526315789473684
+760,1715,Trump,"[-1, -1, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 23 2020 Monday,-0.8421052631578947
+761,1715,Donald Trump,"[-1, -1, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 23 2020 Monday,-0.6666666666666666
+762,1715,Emily Murphy,"[-1, 0, -1, -1, -1, -1, 0, -1, 0, 0, -1, 0, 0, -1, -1, 0, -1, -1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 23 2020 Monday,-0.5789473684210527
+763,1715,Biden,"[0, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 23 2020 Monday,0.0625
+764,1716,Trump,"[-1, 0, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, 1, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 24 2020 Tuesday,-0.5789473684210527
+765,1716,Republican,"[-1, -1, -1, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 24 2020 Tuesday,-0.42857142857142855
+766,1716,Joe Biden,"[1, 0, 1, 0, -1, 0, 0, 0, 1, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 24 2020 Tuesday,0.18181818181818182
+767,1716,America,"[0, 1, 1, 1, 1, 1, 1, 1, 1, -1, 1, 1, 1, 1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 24 2020 Tuesday,0.7857142857142857
+768,1716,Lucy McBath,"[0, 1, 0, 1, 1, 1, 0, 0, -1, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 24 2020 Tuesday,0.2727272727272727
+769,1717,Donald Trump,"[0, -1, 0, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, -1, -1, 0, -1, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 25 2020 Wednesday,-0.47368421052631576
+770,1717,Joe Biden,"[1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, -1, 0, 1, -1, 1, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 25 2020 Wednesday,0.25
+771,1717,Richard,"[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 25 2020 Wednesday,0.16666666666666666
+772,1717,Lawrence,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 25 2020 Wednesday,0.3076923076923077
+773,1717,Trump,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 25 2020 Wednesday,-0.7857142857142857
+774,1767,Donald Trump,"[0, 0, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 9 2020 Monday,-0.4117647058823529
+775,1767,Georgia,"[0, 1, 0, 0, 1, 0, 0, 1, 0, 0, -1, 0, 1, 0, 1, -1, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 9 2020 Monday,0.15789473684210525
+776,1767,Joe Biden,"[0, 1, 0, 1, 1, 1, 1, 0, 1, -1, 0, 0, 1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 9 2020 Monday,0.35714285714285715
+777,1767,Lawrence,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 9 2020 Monday,0.0
+778,1767,Trump,"[-1, 0, 0, -1, 0, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 9 2020 Monday,-0.47368421052631576
+779,1768,Trump,"[-1, -1, -1, -1, -1, 0, -1, 0, -1, -1, 0, 0, -1, 0, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 10 2020 Tuesday,-0.6875
+780,1768,Donald Trump,"[-1, -1, 0, -1, 0, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, 0, 0, -1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 10 2020 Tuesday,-0.5789473684210527
+781,1768,Joe Biden,"[0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 10 2020 Tuesday,0.3888888888888889
+782,1768,Georgia,"[1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, -1, 0, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 10 2020 Tuesday,-0.15789473684210525
+783,1768,Republican,"[0, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, -1, -1, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 10 2020 Tuesday,-0.625
+784,1769,Emily Murphy,"[-1, -1, 1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 18 2020 Wednesday,-0.8421052631578947
+785,1769,Donald Trump,"[0, 0, 0, 0, 0, 0, -1, -1, 0, 0, 0, -1, 0, 0, -1, 0, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 18 2020 Wednesday,-0.29411764705882354
+786,1769,Joe Biden,"[0, -1, 0, -1, 0, -1, 0, -1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 18 2020 Wednesday,0.05555555555555555
+787,1769,Trump,"[-1, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 18 2020 Wednesday,-0.6111111111111112
+788,1769,Wisconsin,"[0, 0, 0, 0, 0, 1, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 18 2020 Wednesday,0.1111111111111111
+789,1770,Trump,"[0, -1, -1, -1, 0, 0, -1, -1, -1, 0, -1, 0, -1, -1, 0, -1, -1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 30 2020 Monday,-0.6111111111111112
+790,1770,Georgia,"[0, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 30 2020 Monday,-0.4117647058823529
+791,1770,Senate,"[0, 0, 0, 0, -1, 0, 0, -1, 0, 0, -1, 0, 1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 30 2020 Monday,-0.14285714285714285
+792,1770,Biden,"[1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 30 2020 Monday,0.35294117647058826
+793,1770,Donald Trump,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 30 2020 Monday,-0.6923076923076923
+794,1782,Donald Trump,"[0, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, 0, 0, 0, 0, 0, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 13 2020 Friday,-0.5789473684210527
+795,1782,Trump,"[0, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 13 2020 Friday,-0.42105263157894735
+796,1782,U.S.,"[0, 0, 0, 0]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 13 2020 Friday,0.0
+797,1782,William Barr,"[-1, 0, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, -1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 13 2020 Friday,-0.7692307692307693
+798,1782,Joe Biden,"[1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, -1, -1, -1, 1]",MSNBC THE LAST WORD WITH LAWRENCE O`DONNELL,November 13 2020 Friday,0.29411764705882354
+799,1955,Trump,"[0, -1, 0, -1, 0, -1, -1, -1, 0, 0, 0, -1, 0, -1, 0, -1, 0, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 10 2020 Tuesday,-0.47368421052631576
+800,1955,Joe Biden,"[0, 0, 1, 0, 0, 0, 1, -1, 0, -1, -1, 1, 1, 1, 1, 1, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 10 2020 Tuesday,0.21052631578947367
+801,1955,Donald Trump,"[0, 0, -1, -1, 0, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 10 2020 Tuesday,-0.6111111111111112
+802,1955,Biden,"[1, -1, 1, -1, 1, 1, 1, 1, 0, 1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 10 2020 Tuesday,0.1
+803,1955,Republicans,"[-1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 10 2020 Tuesday,-0.8181818181818182
+804,1956,Trump,"[-1, -1, 0, -1, 0, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 12 2020 Thursday,-0.7368421052631579
+805,1956,Joe Biden,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, -1, -1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 12 2020 Thursday,-0.15
+806,1956,Biden,"[0, -1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, 1, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 12 2020 Thursday,0.0
+807,1956,Donald Trump,"[0, 0, -1, -1, 0, 0, 0, -1, -1, 0, 0, -1, -1, 0, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 12 2020 Thursday,-0.5
+808,1956,Georgia,"[0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 12 2020 Thursday,0.42857142857142855
+809,1957,Trump,"[-1, -1, -1, 0, -1, -1, 0, 0, -1, 1, 0, -1, -1, 0, 0, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 13 2020 Friday,-0.5555555555555556
+810,1957,the White House,"[0, -1, -1, 1, 0, -1, -1, 1, 0, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 13 2020 Friday,-0.4166666666666667
+811,1957,Joe Biden,"[1, 0, 0, 1, 1, 0, 0, 0, 0, -1, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 13 2020 Friday,0.16666666666666666
+812,1957,Biden,"[0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1]",MSNBC THE RACHEL MADDOW SHOW,November 13 2020 Friday,0.3
+813,1957,COVID,"[-1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]",MSNBC THE RACHEL MADDOW SHOW,November 13 2020 Friday,-0.8421052631578947
+814,1958,Michigan,"[-1, 0, -1, -1, -1, -1, -1, -1, 1, 0, -1, -1, -1, 0, -1, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 16 2020 Monday,-0.6470588235294118
+815,1958,Trump,"[-1, 0, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 16 2020 Monday,-0.7222222222222222
+816,1958,Donald Trump,"[0, 0, -1, -1, -1, 0, -1, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 16 2020 Monday,-0.4444444444444444
+817,1958,COVID,[],MSNBC THE RACHEL MADDOW SHOW,November 16 2020 Monday,
+818,1958,Republican,"[0, -1, -1, -1, -1, -1, -1, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 16 2020 Monday,-0.7777777777777778
+819,1959,Michigan,"[0, 0, 0, -1, -1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 17 2020 Tuesday,0.0
+820,1959,Wayne County,"[0, 0, 0, -1, 1, 0, 0, 0, -1, 0, -1, 0, 0, 0, -1, -1, 0, 0, 1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 17 2020 Tuesday,-0.15
+821,1959,Chris Krebs,"[-1, 1, -1, -1, -1, -1, 0, -1, 1, -1, 0, 1, -1, -1, 1, 1, 0, 1]",MSNBC THE RACHEL MADDOW SHOW,November 17 2020 Tuesday,-0.16666666666666666
+822,1959,Trump,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 17 2020 Tuesday,-0.8125
+823,1959,Detroit,"[0, 0, -1, -1, 0, 0, 0, 0, 0, -1, 0, 1, 1]",MSNBC THE RACHEL MADDOW SHOW,November 17 2020 Tuesday,-0.07692307692307693
+824,1960,Georgia,"[0, 0, 1, -1, 0, -1, 0, -1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 18 2020 Wednesday,-0.10526315789473684
+825,1960,Trump,"[-1, -1, -1, -1, -1, 0, 0, 0, -1, -1, 0, -1, 0, -1, 0, -1, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 18 2020 Wednesday,-0.6111111111111112
+826,1960,Joe Biden,"[0, 0, -1, -1, 0, 1, 1, 1, 1, 1, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 18 2020 Wednesday,0.23076923076923078
+827,1960,Republican,"[-1, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 18 2020 Wednesday,-0.4666666666666667
+828,1960,Senate,"[0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 18 2020 Wednesday,-0.1
+829,1961,Trump,"[-1, -1, -1, 1, 0, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 19 2020 Thursday,-0.7
+830,1961,Michigan,"[0, 0, 0, -1, 0, 0, 0, 0, 0, -1, 1, 0, -1, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 19 2020 Thursday,-0.35294117647058826
+831,1961,Republican,"[0, 0, 0, 0, 0, -1, 0, -1, -1, 0, -1, -1, 0, -1, -1, 0, 0, -1, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 19 2020 Thursday,-0.4
+832,1961,I`m,"[0, -1, 1, 0, -1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 19 2020 Thursday,0.05263157894736842
+833,1961,Pennsylvania,"[0, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 19 2020 Thursday,-0.15384615384615385
+834,1962,Pennsylvania,"[0, -1, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, -1, -1, 0, 0, 0, 0, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 2 2020 Monday,-0.25
+835,1962,Trump,"[0, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 2 2020 Monday,-0.7
+836,1962,That`s,"[1, 0, -1, -1, 0, 0, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 2 2020 Monday,-0.1111111111111111
+837,1962,Donald Trump,"[-1, -1, 0, -1, 0, 0, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 2 2020 Monday,-0.6666666666666666
+838,1962,Republicans,"[-1, -1, -1, -1, -1, -1, 0, -1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 2 2020 Monday,-0.7777777777777778
+839,1963,Michigan,"[0, -1, -1, 0, 1, 0, -1, 0, -1, 0, -1, -1, -1, -1, 0, 0, -1, 1, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 20 2020 Friday,-0.4
+840,1963,Republicans,"[-1, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, 0, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 20 2020 Friday,-0.55
+841,1963,Pennsylvania,"[0, -1, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 20 2020 Friday,-0.35
+842,1963,Republican,"[-1, 0, 0, -1, -1, 0, -1, -1, -1, 0, 0, -1, -1, 0, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 20 2020 Friday,-0.625
+843,1963,Trump,"[-1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 20 2020 Friday,-0.75
+844,1964,Trump,"[-1, 0, 0, -1, 0, 0, -1, -1, 0, -1, 0, -1, -1, 0, -1, 0, 0, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 23 2020 Monday,-0.47368421052631576
+845,1964,Biden,"[0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 23 2020 Monday,0.42105263157894735
+846,1964,Michigan,"[0, 0, -1, -1, 0, 0, 1, 1, 1, 1, 1, -1, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 23 2020 Monday,0.14285714285714285
+847,1964,U.S.,"[0, 0, 0, 0, -1, -1, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 23 2020 Monday,-0.6
+848,1964,Obama,"[-1, -1, -1, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 23 2020 Monday,-0.3
+849,1965,Trump,"[0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 24 2020 Tuesday,-0.55
+850,1965,Biden,"[0, -1, 1, 0, 0, 0, 0, 0, 1, -1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1]",MSNBC THE RACHEL MADDOW SHOW,November 24 2020 Tuesday,0.2
+851,1965,Minnesota,"[0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 24 2020 Tuesday,-0.15384615384615385
+852,1965,U.S.,"[0, -1, -1, 0, 0, 0, 0, -1, 1, -1, 0, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 24 2020 Tuesday,-0.38461538461538464
+853,1965,America,"[-1, -1, 1, 1, 1, 1, 1, 1, 1, 1, 0, -1, -1, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 24 2020 Tuesday,0.26666666666666666
+854,1966,Trump,"[0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1, -1, 0, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 25 2020 Wednesday,-0.3125
+855,1966,Flynn,"[0, -1, 0, -1, 0, -1, 0, -1, 0, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 25 2020 Wednesday,-0.6
+856,1966,Donald Trump,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 25 2020 Wednesday,-0.26666666666666666
+857,1966,FBI,"[0, 0, 0, 0, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 25 2020 Wednesday,0.0
+858,1966,COVID,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 25 2020 Wednesday,-0.9166666666666666
+859,1967,Trump,"[-1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 30 2020 Monday,-0.6666666666666666
+860,1967,Arizona,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 30 2020 Monday,0.0
+861,1967,Georgia,"[0, -1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1, 0, -1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 30 2020 Monday,-0.6666666666666666
+862,1967,Republicans,"[0, 0, 0, -1, -1, -1, -1, -1, -1, 0, 1, 1, 1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 30 2020 Monday,-0.2857142857142857
+863,1967,Republican,"[-1, -1, 0, -1, -1, -1, 0, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 30 2020 Monday,-0.7222222222222222
+864,1968,Trump,"[0, 0, -1, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, 0, -1, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 9 2020 Monday,-0.5
+865,1968,Biden,"[1, 1, 0, -1, 0, 0, 0, 0, 0, 1, -1, 0, 0, 1, 0, 0, 0, 1, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 9 2020 Monday,0.1
+866,1968,Joe Biden,"[1, -1, 0, 1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, 0, 0, 1]",MSNBC THE RACHEL MADDOW SHOW,November 9 2020 Monday,0.17647058823529413
+867,1968,GSA,"[0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 9 2020 Monday,-0.09090909090909091
+868,1968,Pennsylvania,"[0, 0, -1, 0, 1, 0, 0, 0, 0, 1, 0, 0]",MSNBC THE RACHEL MADDOW SHOW,November 9 2020 Monday,0.08333333333333333
+869,2030,Trump,"[-1, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, 0, 0, -1, 0, 0, 0, -1, 0, -1]",MSNBC THE REIDOUT,November 10 2020 Tuesday,-0.55
+870,2030,Georgia,"[-1, -1, 0, -1, -1, -1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE REIDOUT,November 10 2020 Tuesday,-0.25
+871,2030,Biden,"[1, -1, 1, 0, -1, 1, 1, -1, 0, 1, 1, -1, 1, 1, 0, -1, 1, 1, -1]",MSNBC THE REIDOUT,November 10 2020 Tuesday,0.21052631578947367
+872,2030,Republicans,"[-1, 0, 0, 0, 0, -1, 0, -1, -1, -1, -1, 0, -1]",MSNBC THE REIDOUT,November 10 2020 Tuesday,-0.5384615384615384
+873,2030,Donald Trump,"[0, -1, 0, 0, 0, -1, 0, -1, 0, 0]",MSNBC THE REIDOUT,November 10 2020 Tuesday,-0.3
+874,2031,Republicans,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1]",MSNBC THE REIDOUT,November 17 2020 Tuesday,-0.9375
+875,2031,Georgia,"[0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, 0, 1]",MSNBC THE REIDOUT,November 17 2020 Tuesday,-0.2777777777777778
+876,2031,Republican,"[-1, -1, -1, 1, 0, -1, -1, 0, -1, -1, -1, -1, 0, -1, 0, -1, 0, -1, 0, -1]",MSNBC THE REIDOUT,November 17 2020 Tuesday,-0.6
+877,2031,Trump,"[-1, -1, -1, -1, -1, -1, 0, 0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]",MSNBC THE REIDOUT,November 17 2020 Tuesday,-0.8421052631578947
+878,2031,Michigan,"[0, -1, 1, 1, -1, -1, -1, 0, -1, -1, -1]",MSNBC THE REIDOUT,November 17 2020 Tuesday,-0.45454545454545453
+879,2032,Trump,"[-1, -1, -1, 0, -1, 0, -1, -1, -1, 0, -1, -1, -1, 0, 0, 0, 0]",MSNBC THE REIDOUT,November 23 2020 Monday,-0.5882352941176471
+880,2032,Joy,"[1, 0, 1, 0, 0, 0, -1, 1, 0, 1, 0, 0, 0, 0, -1, 0, 0]",MSNBC THE REIDOUT,November 23 2020 Monday,0.11764705882352941
+881,2032,Republicans,"[-1, -1, 0, -1, -1, -1, -1, -1, -1, -1]",MSNBC THE REIDOUT,November 23 2020 Monday,-0.9
+882,2032,Joe Biden,"[0, 1, 0, 0, 0, 1, 0, 0, 1, 1, -1, 0, 0]",MSNBC THE REIDOUT,November 23 2020 Monday,0.23076923076923078
+883,2032,Donald Trump,"[-1, -1, -1, 0, 0, -1, -1, -1, -1]",MSNBC THE REIDOUT,November 23 2020 Monday,-0.7777777777777778
+884,2033,Trump,"[-1, 0, -1, -1, -1, 0, 0, -1, -1, 0, 0, 0, -1, -1, 0, -1, 0]",MSNBC THE REIDOUT,November 24 2020 Tuesday,-0.5294117647058824
+885,2033,Joe Biden,"[1, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, -1]",MSNBC THE REIDOUT,November 24 2020 Tuesday,0.0
+886,2033,Dinkins,"[0, -1, -1, 0, -1, -1, 0, 1, 1, 1, 1, 0, -1]",MSNBC THE REIDOUT,November 24 2020 Tuesday,-0.07692307692307693
+887,2033,America,"[1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 0]",MSNBC THE REIDOUT,November 24 2020 Tuesday,0.25
+888,2033,Biden,"[1, -1, 0, -1, 0, -1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE REIDOUT,November 24 2020 Tuesday,0.0
+889,2034,Trump,"[-1, -1, 0, 0, -1, -1, -1, 0, -1, 0, 0, 0, -1, -1, -1, -1, 0]",MSNBC THE REIDOUT,November 25 2020 Wednesday,-0.5882352941176471
+890,2034,Donald Trump,"[-1, -1, 0, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, -1, -1, -1]",MSNBC THE REIDOUT,November 25 2020 Wednesday,-0.7368421052631579
+891,2034,Michael Flynn,"[-1, 0, -1, -1, -1, -1, 0, 0, 0, 0]",MSNBC THE REIDOUT,November 25 2020 Wednesday,-0.5
+892,2034,Flynn,"[0, -1, 0, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, 0, 0, 0, 0]",MSNBC THE REIDOUT,November 25 2020 Wednesday,-0.4444444444444444
+893,2034,Republicans,"[-1, -1, -1, 0, 0, 0, -1, -1]",MSNBC THE REIDOUT,November 25 2020 Wednesday,-0.625
+894,2035,Trump,"[-1, -1, 0, -1, -1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, -1, -1, 0]",MSNBC THE REIDOUT,November 30 2020 Monday,-0.65
+895,2035,Republicans,"[-1, -1, 0, -1, -1, 0, 0, 0, -1, 0, 0, -1, -1, 0, -1, 0, -1, -1, 0, 0]",MSNBC THE REIDOUT,November 30 2020 Monday,-0.5
+896,2035,Biden,"[0, 1, 0, -1, -1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, -1]",MSNBC THE REIDOUT,November 30 2020 Monday,0.2631578947368421
+897,2035,Donald Trump,"[0, -1, 0, -1, 0, -1, 0, 0, -1, -1, -1, -1]",MSNBC THE REIDOUT,November 30 2020 Monday,-0.5833333333333334
+898,2035,Georgia,"[0, -1, 0, -1, 0, -1, -1, 0, -1, 0, 0, 0]",MSNBC THE REIDOUT,November 30 2020 Monday,-0.4166666666666667
+899,2076,Trump,"[-1, 1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, 0]",MSNBC THE REIDOUT,November 9 2020 Monday,-0.6111111111111112
+900,2076,Joe Biden,"[1, -1, 0, -1, -1, 1, -1, 0, 1, 1, 0, 0, -1, 0, -1, 1, 1, -1]",MSNBC THE REIDOUT,November 9 2020 Monday,-0.05555555555555555
+901,2076,Biden,"[-1, 0, 1, 1, -1, 0, -1, 0, -1, 0, 1, 1, 0, 1, 1, 0]",MSNBC THE REIDOUT,November 9 2020 Monday,0.125
+902,2076,Georgia,"[0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 1]",MSNBC THE REIDOUT,November 9 2020 Monday,0.08333333333333333
+903,2076,Donald Trump,"[0, -1, 0, 0, 0, -1, 0, -1, -1, -1, 0, -1]",MSNBC THE REIDOUT,November 9 2020 Monday,-0.5
+904,2077,Trump,"[0, -1, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 0, -1, -1]",MSNBC THE REIDOUT,November 11 2020 Wednesday,-0.3157894736842105
+905,2077,Donald Trump,"[0, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1]",MSNBC THE REIDOUT,November 11 2020 Wednesday,-0.8421052631578947
+906,2077,Georgia,"[0, -1, 0, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0]",MSNBC THE REIDOUT,November 11 2020 Wednesday,-0.15789473684210525
+907,2077,Republicans,"[-1, 0, -1, 0, -1, -1, 0, -1, -1, -1, 0, 0]",MSNBC THE REIDOUT,November 11 2020 Wednesday,-0.5833333333333334
+908,2077,Joe Biden,"[1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]",MSNBC THE REIDOUT,November 11 2020 Wednesday,0.42857142857142855
+909,2078,Trump,"[-1, 0, -1, 0, 0, -1, -1, -1, 0, -1, -1, 0, 0, 0, 0, 0, -1, -1, 0]",MSNBC THE REIDOUT,November 12 2020 Thursday,-0.47368421052631576
+910,2078,Georgia,"[0, 0, -1, 0, 1, 1, 0, 0, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, -1]",MSNBC THE REIDOUT,November 12 2020 Thursday,-0.3
+911,2078,Republicans,"[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, -1, -1, -1, -1]",MSNBC THE REIDOUT,November 12 2020 Thursday,-0.8823529411764706
+912,2078,Democrats,"[-1, 0, 1, 0, 1, 0, 0, 1, 1, 0, -1, 1]",MSNBC THE REIDOUT,November 12 2020 Thursday,0.25
+913,2078,Biden,"[1, -1, -1, -1, 0, 0, 1, 1, 0, -1, 1, -1, 1, -1, 1, 0, -1, 0, -1]",MSNBC THE REIDOUT,November 12 2020 Thursday,-0.10526315789473684
+914,2079,Trump,"[-1, -1, 0, 0, -1, -1, 0, 0, 0, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0]",MSNBC THE REIDOUT,November 13 2020 Friday,-0.42105263157894735
+915,2079,Joe Biden,"[1, -1, 0, 1, 1, 0, 0, 1, 0, 1, 0, -1, -1, 0, 0, 1, -1]",MSNBC THE REIDOUT,November 13 2020 Friday,0.11764705882352941
+916,2079,Joy,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",MSNBC THE REIDOUT,November 13 2020 Friday,0.13333333333333333
+917,2079,Georgia,"[0, 0, 0, 0, -1, 0, 0, 1, 1, 1, 1, 0]",MSNBC THE REIDOUT,November 13 2020 Friday,0.25
+918,2079,D.C.,"[0, 0, -1, 1, 0, -1]",MSNBC THE REIDOUT,November 13 2020 Friday,-0.16666666666666666
+919,2080,Trump,"[-1, -1, -1, 0, -1, -1, -1, 0, -1, -1, 0, 0, 0, -1, -1, -1, -1, -1, -1]",MSNBC THE REIDOUT,November 16 2020 Monday,-0.7368421052631579
+920,2080,Donald Trump,"[-1, -1, -1, -1, 0, 0, -1, 0, -1, 0, -1, -1, 0]",MSNBC THE REIDOUT,November 16 2020 Monday,-0.6153846153846154
+921,2080,Biden,"[0, 1, 0, 0, 0, 0, 1, -1, 0, 0, 0, -1, 0, 0, 0, -1, -1, 1, 0]",MSNBC THE REIDOUT,November 16 2020 Monday,-0.05263157894736842
+922,2080,American,"[-1, -1, 0, -1, -1, -1, -1, 1, -1, -1]",MSNBC THE REIDOUT,November 16 2020 Monday,-0.7
+923,2080,Joe Biden,"[-1, -1, 0, -1, 0, 1, 0, 1, -1, -1, 0]",MSNBC THE REIDOUT,November 16 2020 Monday,-0.2727272727272727
+924,2081,Trump,"[-1, -1, -1, 0, -1, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 1]",MSNBC THE REIDOUT,November 18 2020 Wednesday,-0.29411764705882354
+925,2081,Joe Biden,"[0, 0, 0, 0, 0, 0, 0, 1, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]",MSNBC THE REIDOUT,November 18 2020 Wednesday,0.0
+926,2081,American,"[-1, -1, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, 0, -1, 1, 0]",MSNBC THE REIDOUT,November 18 2020 Wednesday,-0.4117647058823529
+927,2081,Donald Trump,"[-1, -1, -1, -1, -1, -1, 0, 0, 0, -1, -1, -1, -1, 0, -1]",MSNBC THE REIDOUT,November 18 2020 Wednesday,-0.7333333333333333
+928,2081,Joy,"[0, 0, 0, 0, 0]",MSNBC THE REIDOUT,November 18 2020 Wednesday,0.0
+929,2082,Trump,"[-1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, 0, -1, -1]",MSNBC THE REIDOUT,November 19 2020 Thursday,-0.7894736842105263
+930,2082,Republican,"[-1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 0, -1, 0, 0, -1, -1]",MSNBC THE REIDOUT,November 19 2020 Thursday,-0.75
+931,2082,Michigan,"[-1, -1, 0, -1, 0, -1, -1, 0, 0, 1, -1, 1, -1, -1]",MSNBC THE REIDOUT,November 19 2020 Thursday,-0.42857142857142855
+932,2082,Donald Trump,"[-1, 0, 0, -1, -1, 0, -1, -1, -1, -1, -1, -1]",MSNBC THE REIDOUT,November 19 2020 Thursday,-0.75
+933,2082,Republicans,"[-1, -1, 0, 0, -1, -1, -1, -1, 0, -1, -1]",MSNBC THE REIDOUT,November 19 2020 Thursday,-0.7272727272727273
+934,2083,Trump,"[-1, 0, -1, -1, 0, 0, -1, 0, 0, 0, 0, 0, -1, -1, 0, -1, -1, 0]",MSNBC THE REIDOUT,November 2 2020 Monday,-0.4444444444444444
+935,2083,Donald Trump,"[0, -1, -1, 0, -1, 0, 0, -1, 0, -1, 0, 0, -1, -1, 0, -1, -1, 0]",MSNBC THE REIDOUT,November 2 2020 Monday,-0.5
+936,2083,Texas,"[0, -1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, -1, -1]",MSNBC THE REIDOUT,November 2 2020 Monday,0.06666666666666667
+937,2083,Florida,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",MSNBC THE REIDOUT,November 2 2020 Monday,0.0
+938,2083,Biden,"[0, 1, 0, 0, 1, 0, 0, 0, -1, -1, -1, 0, 0, 1, 0, 0, 1, 0]",MSNBC THE REIDOUT,November 2 2020 Monday,0.05555555555555555
+939,2084,Trump,"[-1, -1, 0, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, 0, -1, -1, -1]",MSNBC THE REIDOUT,November 20 2020 Friday,-0.7777777777777778
+940,2084,Donald Trump,"[-1, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0, 1, 0, 1, -1, -1, -1]",MSNBC THE REIDOUT,November 20 2020 Friday,-0.23529411764705882
+941,2084,Biden,"[0, -1, 1, 1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1]",MSNBC THE REIDOUT,November 20 2020 Friday,0.07142857142857142
+942,2084,Americans,"[-1, 1, -1, -1, -1, 0, 0, -1, -1, -1]",MSNBC THE REIDOUT,November 20 2020 Friday,-0.6
+943,2084,I`m,"[0, 0, 0, 1, 0, 1, -1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0]",MSNBC THE REIDOUT,November 20 2020 Friday,-0.05
+944,2131,Trump,"[0, 0, -1, -1, -1, 0, -1, -1, -1, -1, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 11 2020 Wednesday,-0.7142857142857143
+945,2131,Biden,"[0, -1, 1, -1, 1, 1, 1, 1, 1, 0, -1, 1, 0, 0, 0, -1, 0, 0, -1, 0]",MSNBC THE RACHEL MADDOW SHOW,November 11 2020 Wednesday,0.1
+946,2131,Pentagon,"[-1, -1, 0, -1, -1, -1, 0, -1, 1, 1]",MSNBC THE RACHEL MADDOW SHOW,November 11 2020 Wednesday,-0.4
+947,2131,Republican,"[0, 0, 0, 0, 0, 0, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1]",MSNBC THE RACHEL MADDOW SHOW,November 11 2020 Wednesday,-0.5625
+948,2131,COVID,"[0, -1, -1, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1, 0, 0, 0, 0, -1]",MSNBC THE RACHEL MADDOW SHOW,November 11 2020 Wednesday,-0.5555555555555556
